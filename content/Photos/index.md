@@ -1,10 +1,10 @@
 ---
-tags: []
-aliases: []
+tags: 
+aliases: 
 date created: Wednesday, March 19th 2025, 9:25:42 pm
-date modified: Thursday, March 20th 2025, 11:54:52 am
+date modified: Thursday, March 27th 2025, 10:29:13 pm
 draft: false
-title: Photos
+title: Index
 ---
 
 # Index
@@ -22,6 +22,8 @@ Photos that have mostly been taken on my trusty little [GRii](https://www.dprevi
 [[Gilded Cage at Moor Beer]]
 
 [[Stillbust 10th Anniversary Show]]
+
+[[Curbside Jam March 2023]]
 
 [[Koffin Kats at Lady Luck]]
 
