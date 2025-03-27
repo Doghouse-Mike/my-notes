@@ -7,13 +7,6 @@ draft: false
 publish: true
 title: Mostly How I Built This Site
 ---
-
-	- [ ] AND on that note, check that making the repo private doesn't wreck the actual publishing. Ideally want the repo private, with everything in, but only publishing the things I've explicitly told it to.
-	- [ ] Also on that, there's the [Quartz syncer](https://github.com/saberzero1/quartz-syncer) plugin (more palaver, installed via BRAT for now), which needs everything to have a true "Publish" flag in properties. Not sure if that's about to break everything tho. 
-	- [ ] See also [Quartz Themes](https://github.com/saberzero1/quartz-themes) for modifying appearance 
-
-Ooh, *interesting*. Might wanna rethink having things added to the gitignore file itself, and once the repo is private, relying on actual Quartz to *not* publish anything private. Or not. As it stands, anything *ignored* isn't even being added to the online repo. TBH that might be the better way to go. Obsidian (and sync) can handle all the local files, and it probably saves a bit of time not giving the build/deploy phase having to go through the extra files that it's not going to publish anyway. 
-
 # Mostly How I Built This Site
 
 ## Inspiration / Reasoning
@@ -22,13 +15,13 @@ Ooh, *interesting*. Might wanna rethink having things added to the gitignore fil
 - ["Official" Quartz documentation]([https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/)) Leaves a wee bit to be desired for the dummies like me
 - https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/ Hmm, uses Hugo too, might look into this some more for "easy" theming and *maybe* more selective publishing
 
-I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in photography (tktk link) and design (tktk link). If that wasn't a concern, the Digital Garden (tktk link) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the imgur (tktk link) or what turned out to be a far superior option in the Image Upload Toolkit (tktk link) plugin was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
+I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit)  was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
 
 Micro.blog also seems pretty amazing (and has a lot of social features), but alas, their photo support didn't match up with what I was looking for.
 
 ### So, Quartz
 
-Quartz had come up a bunch in my exploration around this. Hugo too (and I'd heard of it from Brett Terpstra too, not sure if he's still using it to handle his excellent site (tktk link), but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet
+Quartz had come up a bunch in my exploration around this. Hugo too (and I'd heard of it from Brett Terpstra too, not sure if he's still using it to handle his [excellent site](https://brettterpstra.com), but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet
 
 *Mostly* followed [Nicole van der Hoeven's guide](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages), and their [accompanying video](https://www.youtube.com/watch?v=6s6DT1yN4dw) was handy too. I shall attempt to rip out only the bits of Nicole's guide that got me stuck for a moment, or I otherwise diverged from the path laid out there. I'd suggest having this open alongside Nicole's guide for easy cross-referencing, I'm not going to duplicate all of her work in this doc. 
 
