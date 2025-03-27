@@ -14,7 +14,7 @@ import fs from "node:fs/promises"
 import chalk from "chalk"
 
 const defaultOptions: SocialImageOptions = {
-  colorScheme: "lightMode",
+  colorScheme: "darkMode",
   width: 1200,
   height: 630,
   imageStructure: defaultImage,
