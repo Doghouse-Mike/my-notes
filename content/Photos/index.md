@@ -9,7 +9,11 @@ title: Photos
 
 # Index
 
-Photos that have mostly been taken on my trusty little [GRii](https://www.dpreview.com/products/ricoh/compacts/ricoh_grii). Gigs and bikes for the mostpart
+Photos that have mostly been taken on my trusty little [GRii](https://www.dpreview.com/products/ricoh/compacts/ricoh_grii). Mostly gigs and bikes
+
+[[Curbside Jam 2021]]
+
+[[DLH Funday 2022]]
 
 [[Curbside Jam September 2024]]
 
