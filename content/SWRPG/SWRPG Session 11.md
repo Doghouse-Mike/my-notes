@@ -7,6 +7,8 @@ dg-publish: false
 draft: false
 publish: true
 title: SWRPG Session 11
+share_link: https://share.note.sx/fx705ha8#raeGZu3j8/GiQ8zr6mrwcdGPErhIPAQSnuojIAOeX2Y
+share_updated: 2025-03-31T20:52:12+01:00
 ---
 
 # SWRPG Session 11
