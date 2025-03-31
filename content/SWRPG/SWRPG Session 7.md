@@ -2,9 +2,10 @@
 tags: 
 aliases: 
 date created: Thursday, February 1st 2024, 8:02:07 pm
-date modified: Thursday, March 20th 2025, 11:17:22 am
+date modified: Monday, March 31st 2025, 8:37:05 pm
 dg-publish: false
-draft: TRUE
+draft: false
+publish: true
 title: SWRPG Session 7
 ---
 

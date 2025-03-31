@@ -2,9 +2,10 @@
 tags: 
 aliases: 
 date created: Saturday, July 3rd 2021, 3:28:36 pm
-date modified: Thursday, March 20th 2025, 11:17:24 am
+date modified: Monday, March 31st 2025, 8:34:07 pm
 dg-publish: false
-draft: TRUE
+draft: false
+publish: true
 title: Jedi Droid Ideas
 ---
 

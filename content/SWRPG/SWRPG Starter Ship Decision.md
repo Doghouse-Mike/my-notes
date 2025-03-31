@@ -2,9 +2,10 @@
 tags: 
 aliases: 
 date created: Tuesday, November 14th 2023, 6:21:33 am
-date modified: Thursday, March 20th 2025, 11:17:22 am
+date modified: Monday, March 31st 2025, 8:38:21 pm
 dg-publish: false
-draft: TRUE
+draft: false
+publish: true
 title: SWRPG Starter Ship Decision
 ---
 

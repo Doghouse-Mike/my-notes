@@ -2,9 +2,10 @@
 tags: 
 aliases: 
 date created: Monday, May 27th 2024, 11:23:01 pm
-date modified: Thursday, March 20th 2025, 11:17:25 am
+date modified: Monday, March 31st 2025, 8:38:10 pm
 dg-publish: false
-draft: TRUE
+draft: false
+publish: true
 title: SWRPG Session 11
 ---
 
@@ -42,7 +43,7 @@ Into Jax' speeder! There's some cargo to run too, food/rations to bring in. Squi
 
 Into the tunnels, not a lot of light
 
-Boring. Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
+ Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
 
 Once we're out either dodge patrols and/or speak to droids to get in the tradesmen's entrance. 
 
