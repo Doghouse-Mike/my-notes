@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Monday, May 27th 2024, 11:23:01 pm
-date modified: Monday, March 31st 2025, 8:38:10 pm
+date modified: Monday, March 31st 2025, 8:48:08 pm
 dg-publish: false
 draft: false
 publish: true
@@ -59,10 +59,10 @@ PPE will probably break if despair is rolled, eek. Although that could be our "s
 
 Jobs:
 
-Fake QA
+- [ ] Fake QA
 
-Deliver Jax's stuff - Profit
+- [ ] Deliver Jax's stuff - Profit
 
-Deliver Deebo
+- [ ] Deliver Deebo
 
-Escape with a live sample of the virus
+- [ ] Escape with a live sample of the virus
