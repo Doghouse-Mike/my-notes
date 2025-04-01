@@ -2,9 +2,9 @@
 tags: 
 aliases: 
 date created: Tuesday, February 21st 2023, 6:30:00 am
-date modified: Thursday, March 20th 2025, 11:17:25 am
+date modified: Tuesday, April 1st 2025, 10:41:48 pm
 dg-publish: false
-draft: TRUE
+draft: false
 share_link: https://share.note.sx/68xttomp#2HIaFYTtQbH8yMk1WSk+78vxl5Tz0Qk8a7FkvZKexnM
 share_updated: 2025-03-17T17:46:18+00:00
 title: "Mike's SWRPG Character Feb '23"

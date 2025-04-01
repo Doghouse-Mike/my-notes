@@ -4,7 +4,7 @@ aliases:
 date created: Sunday, January 14th 2024, 5:58:36 pm
 date modified: Thursday, March 20th 2025, 11:17:22 am
 dg-publish: false
-draft: TRUE
+draft: false
 share_link: false
 title: Quotes to Use in Swrpg
 ---
