@@ -7,7 +7,8 @@ title: SWRPG
 
 # SWRPG
 
-Notes n stuff on the campaign we're playing using FFG's [SWRPG system](https://www.fantasyflightgames.com/en/starwarsrpg/)tps://www.fantasyflightgames.com/en/starwarsrpg/) system
+Notes n stuff on the campaign we're playing using FFG's [SWRPG system](https://www.fantasyflightgames.com/en/starwarsrpg/)
+
 
 ```folder-index-content
 ```
