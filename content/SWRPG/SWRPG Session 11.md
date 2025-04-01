@@ -2,9 +2,12 @@
 tags: 
 aliases: 
 date created: Monday, May 27th 2024, 11:23:01 pm
-date modified: Thursday, March 20th 2025, 11:17:25 am
+date modified: Tuesday, April 1st 2025, 7:21:04 pm
 dg-publish: false
-draft: TRUE
+draft: false
+publish: true
+share_link: https://share.note.sx/fx705ha8#raeGZu3j8/GiQ8zr6mrwcdGPErhIPAQSnuojIAOeX2Y
+share_updated: 2025-03-31T21:00:37+01:00
 title: SWRPG Session 11
 ---
 
@@ -42,11 +45,11 @@ Into Jax' speeder! There's some cargo to run too, food/rations to bring in. Squi
 
 Into the tunnels, not a lot of light
 
-Boring. Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
+ Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
 
 Once we're out either dodge patrols and/or speak to droids to get in the tradesmen's entrance. 
 
-At the *inner* cordon now
+	At the *inner* cordon now
 
 Snowy convinced the droids watching the cordon that we were here to perform a QA on the medical containment. 
 
@@ -58,10 +61,36 @@ PPE will probably break if despair is rolled, eek. Although that could be our "s
 
 Jobs:
 
-Fake QA
+- [ ] Fake QA
 
-Deliver Jax's stuff - Profit
+- [ ] Deliver Jax's stuff - Profit
 
-Deliver Deebo
+- [ ] Deliver Deebo
 
-Escape with a live sample of the virus
+- [ ] Escape with a live sample of the virus
+
+![[Pasted image 20250401192102.png]]
+
+## Official Writeup:
+
+Boaty McBoatface and her crew reached the Outer Rim planet of Columex and were directed to land in Sector 1. Sector 4 is off limits for some reason.
+
+Columex is a major trade world, currently in Imperial control. Whilst customs were not an issue getting in, the spotlight might be brighter on your way out.
+
+Deebo was able to indicate where he needed to reach, and this is right in Sector 4. Mouth decides to leave the ship and provide assistance, but is keen to remain incognito.
+
+You travelled to a bar to find some information and you rescued a Mirialan from Imperial capture by the name of Jax Korr. Jax takes you back to his place, is open about his sympathy for the Rebellion, and offers to get you into Sector 4 if you will deliver some supplies to the hospital there. He even offers you part of his cut, 4,000 credits, if you can get in and out.
+
+Korr informs you that there is an Imperial patrolling the cordon by the name of Voss that is open to negotiation. Some droids are also manning the town gate and you will have to get through them to get in.
+
+Jax has another job for you while you are there, and asks if you can retrieve a live sample of the virus for him. The reward he offers is 5,000 credits per stable sample.
+
+Jax takes you into Sector 4 and travel through the sewer system to reach the Inner cordon of the QZ. PPE has also been provided to protect you against the viral threat. Snowy was able to convince the maintenance droids that your presence is required to perform a QA on the medical containment despite having a foot in faeces.
+
+The droids were also able to provide you with a map to the main hospital.
+
+Jobs:
+
+-    Fake QA
+-    Deliver Jax's stuff - Profit
+-    Deliver Deebo
