@@ -2,13 +2,10 @@
 tags: 
 aliases: 
 date created: Monday, May 27th 2024, 11:23:01 pm
-date modified: Monday, March 31st 2025, 8:48:08 pm
+date modified: Thursday, March 20th 2025, 11:17:25 am
 dg-publish: false
-draft: false
-publish: true
+draft: TRUE
 title: SWRPG Session 11
-share_link: https://share.note.sx/fx705ha8#raeGZu3j8/GiQ8zr6mrwcdGPErhIPAQSnuojIAOeX2Y
-share_updated: 2025-03-31T20:52:12+01:00
 ---
 
 # SWRPG Session 11
@@ -45,7 +42,7 @@ Into Jax' speeder! There's some cargo to run too, food/rations to bring in. Squi
 
 Into the tunnels, not a lot of light
 
- Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
+Boring. Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon. 
 
 Once we're out either dodge patrols and/or speak to droids to get in the tradesmen's entrance. 
 
@@ -61,10 +58,10 @@ PPE will probably break if despair is rolled, eek. Although that could be our "s
 
 Jobs:
 
-- [ ] Fake QA
+Fake QA
 
-- [ ] Deliver Jax's stuff - Profit
+Deliver Jax's stuff - Profit
 
-- [ ] Deliver Deebo
+Deliver Deebo
 
-- [ ] Escape with a live sample of the virus
+Escape with a live sample of the virus
