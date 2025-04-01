@@ -2,12 +2,12 @@
 tags: 
 aliases: 
 date created: Wednesday, March 19th 2025, 9:25:42 pm
-date modified: Thursday, March 27th 2025, 10:29:13 pm
+date modified: Tuesday, April 1st 2025, 7:04:20 pm
 draft: false
-title: Index
+title: Photos
 ---
 
-# Index
+# Photos
 
 Photos that have mostly been taken on my trusty little [GRii](https://www.dpreview.com/products/ricoh/compacts/ricoh_grii). Mostly gigs and bikes
 
