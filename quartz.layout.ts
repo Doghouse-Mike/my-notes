@@ -6,27 +6,23 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    {
-      Component: () => (
-        <script
-          src="https://giscus.app/client.js"
-          data-repo="Doghouse-Mike/my-notes"
-          data-repo-id="R_kgDOOPVAfw"
-          data-category="Announcements"
-          data-category-id="DIC_kwDOOPVAf84CouAn"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="top"
-          data-theme="catppuccin_mocha"
-          data-lang="en"
-          data-loading="lazy"
-          crossOrigin="anonymous"
-          async
-        ></script>
-      ),
-    },
+    Component.RawHTML(`
+      <script async crossorigin="anonymous"
+        src="https://giscus.app/client.js"
+        data-repo="Doghouse-Mike/my-notes"
+        data-repo-id="R_kgDOOPVAfw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOPVAf84CouAn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        data-loading="lazy">
+      </script>
+    `),
   ],
   footer: Component.Footer({
     links: {
