@@ -5,28 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
     },
   }),
 }
-afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'Mike-Doghouse/my-notes',
-      // from data-repo-id
-      repoId: 'R_kgDOOPVAfw',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDOOPVAf84CouAn',
-    }
-  }),
-],
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -56,9 +40,48 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
     Component.RecentNotes()
   ],
+  pageBottom: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'Doghouse-Mike/my-notes',
+        repoId: 'R_kgDOOPVAfw',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOOPVAf84CouAn',
+        mapping: 'pathname',
+        strict: '0',
+        reactionsEnabled: '1',
+        emitMetadata: '0',
+        inputPosition: 'top',
+        theme: 'catppuccin_mocha',
+        lang: 'en',
+        loading: 'lazy',
+      }
+    }),
+  ],
+  customHtml: `
+    <div class="giscus-container" style="margin-top: 2rem;">
+      <script src="https://giscus.app/client.js"
+        data-repo="Doghouse-Mike/my-notes"
+        data-repo-id="R_kgDOOPVAfw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOPVAf84CouAn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_mocha"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </div>
+  `,
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
