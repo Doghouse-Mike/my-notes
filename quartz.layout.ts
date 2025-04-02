@@ -5,6 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -40,28 +41,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
     Component.RecentNotes()
   ],
-  pageBottom: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        repo: 'Doghouse-Mike/my-notes',
-        repoId: 'R_kgDOOPVAfw',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOOPVAf84CouAn',
-        mapping: 'pathname',
-        strict: '0',
-        reactionsEnabled: '1',
-        emitMetadata: '0',
-        inputPosition: 'top',
-        theme: 'catppuccin_mocha',
-        lang: 'en',
-        loading: 'lazy',
-      }
-    }),
-  ],
 }
 
-// components for pages that display lists of pages (e.g. tags or folders)
+// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
