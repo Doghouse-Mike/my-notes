@@ -12,6 +12,21 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
 }
+afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'Mike-Doghouse/my-notes',
+      // from data-repo-id
+      repoId: 'R_kgDOOPVAfw',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOOPVAf84CouAn',
+    }
+  }),
+],
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
