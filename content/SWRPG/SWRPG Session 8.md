@@ -2,9 +2,10 @@
 tags: 
 aliases: 
 date created: Thursday, March 7th 2024, 7:44:21 pm
-date modified: Tuesday, April 1st 2025, 10:41:01 pm
+date modified: Wednesday, April 2nd 2025, 7:44:34 am
 dg-publish: false
 draft: false
+publish: true
 title: SWRPG Session 8
 ---
 
