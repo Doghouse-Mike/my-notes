@@ -59,26 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
       }
     }),
   ],
-  customHtml: `
-    <div class="giscus-container" style="margin-top: 2rem;">
-      <script src="https://giscus.app/client.js"
-        data-repo="Doghouse-Mike/my-notes"
-        data-repo-id="R_kgDOOPVAfw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOOPVAf84CouAn"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="catppuccin_mocha"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-      </script>
-    </div>
-  `,
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
