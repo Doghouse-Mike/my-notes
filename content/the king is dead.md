@@ -1,9 +1,11 @@
 ---
-tags: [rip, music]
+tags:
+  - rip
+  - music
 date: 2013-06-09
-aliases: []
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Thursday, March 20th 2025, 10:59:36 pm
+aliases: 
+date created: Sunday, June 9th 2013, 12:57:20 pm
+date modified: Friday, April 4th 2025, 12:39:45 pm
 dg-publish: false
 draft: false
 publish: true
@@ -13,10 +15,6 @@ title: The King is Dead
 # The King is Dead
 
 It’s strange how spending *years* listening to someone’s songs seems like you’re getting to know them. Without ever having talked to Torr, I can still kinda tell that he was one of the good guys. I guess he talked to me, without ever knowing it. Sadly, it’d [appear he never will](http://www.verbicidemagazine.com/2013/06/09/torr-skoog-kings-of-nuthin-dead/). Torr Skoog has left the building.
-
-[
-
-\>
 
 <img src="https://images.squarespace-cdn.com/content/v1/503174c6e4b00d577d162012/1379709900628-BDBJM5FYI7KYI3LFDMES/16464834-23001740-thumbnail.jpg" alt="16464834-23001740-thumbnail.jpg" />
 
