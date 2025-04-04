@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Thursday, March 27th 2025, 11:51:37 am
+date modified: Friday, April 4th 2025, 11:50:22 am
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -146,6 +146,10 @@ You might need to exercise a little patience on the "Behold Your New Site!" step
 
 And that's kinda a wrap! From here it'll be a rabbit hole of tweaking the appearance, and potentially adding a custom domain name. (Turns out the custom domain name part was pretty easy!out the domain part was dead easy, porkbun has a "set up for github" button)
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). Just had to change the name of the actual quartz installation folder in the "justfile" within the quartz-themes folder.
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). Just had to change the name of the actual quartz installation folder in the "justfile" within the quartz-themes folder. (and even easier now actually, TKTK update on this)
 
 ![[Pasted image 20250324115355.png]]
+
+### Setting up Comments via Giscus
+
+TKTK
