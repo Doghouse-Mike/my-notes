@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Wednesday, April 2nd 2025, 7:43:08 am
+date modified: Friday, April 4th 2025, 3:37:42 pm
 dg-publish: false
 draft: false
 publish: true
@@ -67,3 +67,4 @@ Look up some rocket raccoon/jack sparrow quotes
 - Is your idiot brain getting fucked by stupid?
 - Have you tried removing the head or destroying the brain?
 - You remind me of school on a Sunday. (no class)
+- Something's afoot (and it's not the thing on my leg)

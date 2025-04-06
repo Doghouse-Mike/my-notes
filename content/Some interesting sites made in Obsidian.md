@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, April 25th 2023, 4:51:21 pm
-date modified: Thursday, March 20th 2025, 11:58:08 am
+date modified: Sunday, April 6th 2025, 10:08:50 pm
 dg-publish: false
 draft: false
 title: Some Interesting Sites Made in Obsidian
@@ -10,7 +10,7 @@ title: Some Interesting Sites Made in Obsidian
 
 # Some Interesting Sites Made in Obsidian
 
-Mostly gleaned from [the roundup](https://www.eleanorkonik.com/2022-04-22/), a few [publish](publish.md) sites to steal things from. 
+Mostly gleaned from [the roundup](https://www.eleanorkonik.com/2022-04-22/), a few [publish](publish.md) sites to steal things from. [See also](https://obsidian-gallery.craftengineer.com/?category=quartz)
 
 I like the way [this one](https://lab.marconoris.com/About/Amanda+Cuesta) uses the sliding panes thing, need to check if mine is doing that. Especially as more stuff goes up and there are more links between notes/pages. Not sure what it does for handling URL’s though, like if you wanted to link to a specific page. Tested, is all good, gives you the direct URL to the current page. 
 
@@ -25,4 +25,7 @@ Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+
 - [Ehsan's Notes](https://notes.thisisehsan.com/Networked+Note+Making/A+designer's+guide+to+networked+notemaking+with+Obsidian) - Ehsan Noursalehi
 - [Moby Diction](https://publish.obsidian.md/mobydiction/_About) - David Drysdale
 - [TFT Hacker](https://tfthacker.com/Welcome)
-- 
+- [https://notes.yxy.ninja](https://notes.yxy.ninja/)
+- [https://be-far.com](https://be-far.com/)
+- https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/
+- https://blog.networkchuck.com/posts/my-insane-blog-pipeline/

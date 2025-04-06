@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Friday, April 4th 2025, 11:50:22 am
+date modified: Sunday, April 6th 2025, 9:09:00 pm
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -142,14 +142,16 @@ You might need to exercise a little patience on the "Behold Your New Site!" step
 
 ![[Pasted image 20250321182410.jpg]]
 
-## Fin (for now)
+## Optional Extras
 
-And that's kinda a wrap! From here it'll be a rabbit hole of tweaking the appearance, and potentially adding a custom domain name. (Turns out the custom domain name part was pretty easy!out the domain part was dead easy, porkbun has a "set up for github" button)
+### Custom Domain
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). Just had to change the name of the actual quartz installation folder in the "justfile" within the quartz-themes folder. (and even easier now actually, TKTK update on this)
+Porkbun has a "set up for github" button, so was a matter of clicking of that, then adding the domain in to the "Pages" section of the settings for the GitHub repo.
 
-![[Pasted image 20250324115355.png]]
+![[Pasted image 20250405174338.png]]
+
+### Theming
+
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [handy gallery](https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anything. 
 
 ### Setting up Comments via Giscus
-
-TKTK
