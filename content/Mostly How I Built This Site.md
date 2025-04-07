@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Sunday, April 6th 2025, 9:09:00 pm
+date modified: Sunday, April 6th 2025, 11:12:54 pm
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -124,6 +124,12 @@ I've got a few hefty PDFs in my attachments folder. GitHub *does not* like a sin
 
 I was pleasantly surprised it accepted ALL the smaller attachments in one commit though. ~2.5GB / 500 files. Yoikes. 
 
+### "Drafts" Folder
+
+After all of the above, I realised that although they weren't being *published* to the site, anything in my vault that wasn't being specifically targeted by the `.gitignore` file *was* still available for anyone willing to do a little digging around on the [GitHub repo](https://github.com/Doghouse-Mike/my-notes). That was a bit of an ["oh shit"](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/) moment. It might be a bit back-asswards, but they way I've got around that is defaulting to all new notes (and 99% of my pre-existing notes) living inside the "Drafts" folder, and that being in the `.gitignore` file. That way any sync/push/etc commands won't even look at that folder. All that data is there and kept in sync across *my* devices, but doesn't leave them or end up on the public internet for blackmail/corporate espionage/national security breaches. Perfect.
+
+Anything I want to publish gets the `Publish: TRUE` property, and moved to the root Obsidian folder (or one of the published subfolders if appropriate). 
+
 ### Building Locally Might Generate a Pile of Warnings
 
 Along the lines of "file blah blah isn't tracked by git" in a nice and friendly yellow colour. This'll be for anything that hasn't been synced to GitHub yet, as well as anything covered by the .gitignore file, so (hopefully) nothing to be concerned about.
@@ -152,6 +158,14 @@ Porkbun has a "set up for github" button, so was a matter of clicking of that, t
 
 ### Theming
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [handy gallery](https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anything. 
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [handy gallery](https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
 
 ### Setting up Comments via Giscus
+
+Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments). I did get myself confused about the "Add the following ‹script> tag to your website's template where you want the comments to appear" part. Can ignore that bit and skip to the "Finally, in `quartz.layout.ts`" section, and copying/amending the required bits, so it ends up looking something like [this](https://github.com/Doghouse-Mike/my-notes/blob/v4/quartz.layout.ts): 
+
+![[Pasted image 20250406222659.jpg]]
+
+[The Discord]([https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t)) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out the solution was almost right away. As you do. 
+
+![[Pasted image 20250406223221.jpg]]
