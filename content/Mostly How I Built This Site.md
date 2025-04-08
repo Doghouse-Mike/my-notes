@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Sunday, April 6th 2025, 11:12:54 pm
+date modified: Monday, April 7th 2025, 9:41:52 pm
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -22,7 +22,7 @@ Micro.blog also seems pretty amazing (and has a lot of social features), but ala
 
 ### So, Quartz
 
-Quartz had come up a bunch in my exploration around this. Hugo too (and I'd heard of it from Brett Terpstra too, not sure if he's still using it to handle his [excellent site](https://brettterpstra.com), but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet
+Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also heard of it from Brett Terpstra, not sure if he's still using it to handle his [excellent site](https://brettterpstra.com)) but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet.
 
 *Mostly* followed [Nicole van der Hoeven's guide](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages), and their [accompanying video](https://www.youtube.com/watch?v=6s6DT1yN4dw) was handy too. I shall attempt to rip out only the bits of Nicole's guide that got me stuck for a moment, or I otherwise diverged from the path laid out there. I'd suggest having this open alongside Nicole's guide for easy cross-referencing, I'm not going to duplicate all of her work in this doc. 
 
@@ -30,7 +30,7 @@ Quartz had come up a bunch in my exploration around this. Hugo too (and I'd hear
 
 ## Step 0. Prerequisites
 
-There will be much command line stuff. It's not complicated assuming you're comfortable blindly copying and pasting commands into Terminal. There's only a couple that need personalising, related to your specific setup. 
+There will be much command line stuff. It's not complicated assuming you're comfortable blindly copying and pasting commands into Terminal. There's only a couple that need personalising to your specific setup. 
 
 ## Step 1. Download and Install Quartz
 
@@ -42,7 +42,7 @@ Fortunately my Obsidian setup was already using the "Treat links as shortest pat
 
 Just don't close/click anything in the GitHub window once the repo has been created. It is possible to wrangle what that link is you need for changing the origin Remote, but extra palaver if you're not paying attention. 
 
-If you've ran through it more than once, can skip the initial '''git remote -v''' command too, and skip to changing it to match your personal repo. 
+If you've ran through it more than once, can skip the initial `git remote -v` command too, and skip to changing it to match your personal repo. 
 
 ## Step 3. Create an Obsidian Vault
 
@@ -60,7 +60,7 @@ Otherwise stick to what Nicole suggests. Though I've also just gone in and added
 
 ### Use the ".gitignore" File
 
-From my understanding, any commands ran on your local machine will, just like it says on the tin, ignore any files (or *folders*) listed within the .gitignore file at the root of your repo. There are a few entries in there by default anyway, mine looks something like this now:
+From my understanding, any commands ran on your local machine will, just like it says on the tin, ignore any files (or *folders*) listed within the `.gitignore` file at the root of your repo. There are a few entries in there by default anyway, mine looks something like this now:
 
 ```
 
@@ -114,7 +114,7 @@ Large Attachments/
 
 ```
 
-- The ignores (technical term) will only take effect *after* you've made the changes. If you've already got stuff showing on the site (the Templates folder was my bugbear) then adding it to the ignore list *won't* change anything, the content you don't want visible *will* still show. BUT, if you've added it to the ignore list, and then remove it from the repo (I binned it from the local copy, then synced), and *then* readd it, the ignore thing will do its job properly and know not to publish it now. Sorted!
+- The ignores (technical term) will only take effect *after* you've made the changes. If you've already got stuff showing on the site (the Templates folder was my bugbear) then adding it to the ignore list *won't* change anything, the content you don't want visible *will* still show. BUT, if you've added it to the ignore list, and then remove it from the repo (I binned it from the local copy, then synced), and *then* add it again, the ignore thing will do its job properly and know to not publish it now. Sorted!
 
 ### Watch out for Any Big Attachments
 
@@ -126,7 +126,7 @@ I was pleasantly surprised it accepted ALL the smaller attachments in one commit
 
 ### "Drafts" Folder
 
-After all of the above, I realised that although they weren't being *published* to the site, anything in my vault that wasn't being specifically targeted by the `.gitignore` file *was* still available for anyone willing to do a little digging around on the [GitHub repo](https://github.com/Doghouse-Mike/my-notes). That was a bit of an ["oh shit"](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/) moment. It might be a bit back-asswards, but they way I've got around that is defaulting to all new notes (and 99% of my pre-existing notes) living inside the "Drafts" folder, and that being in the `.gitignore` file. That way any sync/push/etc commands won't even look at that folder. All that data is there and kept in sync across *my* devices, but doesn't leave them or end up on the public internet for blackmail/corporate espionage/national security breaches. Perfect.
+After all of the above, I realised that although they weren't being *published* to the site, anything in my vault that wasn't being specifically targeted by the `.gitignore` file *was* still available for anyone willing to do a little digging around on the [GitHub repo](https://github.com/Doghouse-Mike/my-notes). That was a bit of an ["oh shit"](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/) moment. It might be a bit back-asswards, but they way I've got around that is defaulting to all new notes (and 99% of my pre-existing notes) being created inside the "Drafts" folder, and that also being listed in the `.gitignore` file. That way any sync/push/etc commands won't even look at that folder. All that data is there and kept in sync across *my* devices, but doesn't leave them or end up on the public internet for blackmail/corporate espionage/national security breaches. Perfect.
 
 Anything I want to publish gets the `Publish: TRUE` property, and moved to the root Obsidian folder (or one of the published subfolders if appropriate). 
 
