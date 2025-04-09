@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Monday, April 7th 2025, 9:41:52 pm
+date modified: Wednesday, April 9th 2025, 4:30:42 pm
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -169,3 +169,21 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 [The Discord]([https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t)) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
 ![[Pasted image 20250406223221.jpg]]
+
+### Semi-automated Posting from iPad
+
+TKTK, only works on same network for now 
+
+- [ ] look into tailscale or something to get this working remotely
+
+Mac shortcut:
+
+![[Screenshot 2025-04-09 at 08.00.34.png]]
+
+The "Wait" action is to give sync time to catch up. Will usually be overprovisioning, but better safe than sorry. 
+
+ipad/phone shortcut:
+
+![[9FCE51E8-FC20-4F94-92BE-8AD310AB2D5D_4_5005_c.jpeg]]
+
+First run will need authenticating on the mac
