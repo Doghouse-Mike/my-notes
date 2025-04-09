@@ -2,13 +2,16 @@
 tags: 
 aliases: 
 date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Tuesday, April 8th 2025, 4:16:40 pm
+date modified: Wednesday, April 9th 2025, 11:14:21 am
 draft: false
 publish: true
 title: "Unionising Our Workplace: Key Points"
 ---
 
 # Unionising Our Workplace: Key Points
+
+## The Union Can Still provide Individual Support to Members *even before* Formal Recognition is Achieved.
+- This bit is *important*
 
 ## Why Consider a Union?
 - Collective bargaining power for better pay and conditions
@@ -38,7 +41,7 @@ title: "Unionising Our Workplace: Key Points"
    - Help identify key workplace issues to address
    - Support with strategy and materials
 
-4. **Formal recognition request**
+1. **Formal recognition request** (much later)
    - Once we have significant membership, the union sends a formal request
    - The company has 10 days to respond
    - If rejected, we can apply to the Central Arbitration Committee
