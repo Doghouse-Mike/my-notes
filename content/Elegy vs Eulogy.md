@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Tuesday, April 1st 2025, 7:05:39 pm
+date modified: Friday, April 11th 2025, 2:29:53 pm
 draft: false
 publish: true
 title: Elegy Vs Eulogy

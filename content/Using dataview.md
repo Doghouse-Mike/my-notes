@@ -4,7 +4,7 @@ date: today
 Status: something
 aliases: []
 date created: Saturday, April 23rd 2022, 1:11:55 pm
-date modified: Thursday, March 20th 2025, 12:02:04 pm
+date modified: Friday, April 11th 2025, 2:29:53 pm
 draft: false
 title: Using Dataview
 Type: something

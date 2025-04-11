@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, January 7th 2025, 9:54:56 pm
-date modified: Thursday, March 20th 2025, 11:56:56 am
+date modified: Friday, April 11th 2025, 2:29:35 pm
 dg-publish: false
 draft: false
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
