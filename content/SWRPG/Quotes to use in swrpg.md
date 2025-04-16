@@ -68,3 +68,4 @@ Look up some rocket raccoon/jack sparrow quotes
 - Have you tried removing the head or destroying the brain?
 - You remind me of school on a Sunday. (no class)
 - Something's afoot (and it's not the thing on my leg)
+- I shall prosecute my duty with due, and lethal diligence 
