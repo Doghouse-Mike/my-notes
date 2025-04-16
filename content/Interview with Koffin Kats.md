@@ -1,8 +1,8 @@
 ---
 tags: 
 aliases: 
-date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Wednesday, April 16th 2025, 10:12:09 pm
+date created: Tuesday, March 18th 2025, 9:58:53 am
+date modified: Wednesday, April 16th 2025, 11:12:17 pm
 draft: false
 title: Interview with Koffin Kats
 ---
@@ -21,7 +21,7 @@ Strap in.
 
 ***That seems to be the way most people go. It's like, punk rock and then kind of work your way backwards in time and then merge it all together later.***
 
-*Vic*: Yeah! I mean, it was at that age where I heard something that I really liked and I got really deep into those bands. Then once you get into bands you start reading about the bands that they listen to or you know, what inspires them so you go back. By the age of like fourteen I had like the whole Clash collection because everyone talked about The [Clash](https://en.wikipedia.org/wiki/the_clash). I was always more of a Clash fan than I was a [Ramones](https://en.wikipedia.org/wiki/ramones) fan or [Misfits](https://en.wikipedia.org/wiki/misfits_(band)) fan. Because everyone picks their big, you know, their forefathers of punk rock, they talk about The Ramones, Misfits, The Clash and whatnot. I was always into The Clash. And a band like them, when I started making bands, a band like them was one of those bands where it was "yeah they're a punk band but they have *so* many other things to them" so that really opened up my mind into thinking like "Just because you have a band doesn't mean it needs to be this **one** pigeon hole of music."
+*Vic*: Yeah! I mean, it was at that age where I heard something that I really liked and I got deep into those bands. Then once you get into bands you start reading about the bands that they listen to or you know, what inspires them so you go back. By the age of like fourteen I had like the whole Clash collection because everyone talked about The [Clash](https://en.wikipedia.org/wiki/the_clash). I was always more of a Clash fan than I was a [Ramones](https://en.wikipedia.org/wiki/ramones) fan or [Misfits](https://en.wikipedia.org/wiki/misfits_(band)) fan. Because everyone picks their big, you know, their forefathers of punk rock, they talk about The Ramones, Misfits, The Clash and whatnot. I was always into The Clash. And a band like them, when I started making bands, a band like them was one of those bands where it was "yeah they're a punk band but they have *so* many other things to them" so that really opened up my mind into thinking like "Just because you have a band doesn't mean it needs to be this *one* pigeon hole of music."
 
 ***The Clash, some of their later albums are pretty weird, but then they did a mean [Brand New Cadillac](https://www.youtube.com/watch?v=hvnhxbtl7oc) as well…***
 
@@ -31,7 +31,7 @@ Strap in.
 
 *Vic*: yeah, for me it was [The Living End](http://www.thelivingend.com). They had a radio hit in the states. That opened up my mind to more like the punk rock. Like, "Oh you can totally have a punk band and have an upright bass and everything."
 
-*John*: What year was that around?
+*John*: What year was that?
 
 *Vic*: That was '98, I think.
 
