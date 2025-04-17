@@ -1,7 +1,7 @@
 ---
 tags: 
 aliases: 
-date created: Tuesday, March 18th 2025, 9:58:53 am
+date created: Wednesday, April 16th 2025, 9:58:53 am
 date modified: Wednesday, April 16th 2025, 11:12:17 pm
 draft: false
 title: Interview with Koffin Kats
