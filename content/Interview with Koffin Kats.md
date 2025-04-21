@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Wednesday, April 16th 2025, 9:58:53 am
-date modified: Thursday, April 17th 2025, 7:13:33 pm
+date modified: Monday, April 21st 2025, 4:57:35 pm
 draft: false
 title: Interview with Koffin Kats
 ---
@@ -15,7 +15,7 @@ Photos from the show after this interview was conducted can be seen in [[Koffin 
 
 Strap in. 
 
-***Let's kick of with the musical history stuff. What kind of shit did you listen to growing up?***
+***Let's kick off with the musical history stuff. What kind of shit did you listen to growing up?***
 
 *Vic*: I initially got into punk rock music around the age of eleven. Ten or eleven, and that was with getting into Bad Religion, Green Day, Offspring, those bands were all really popular around that time. It was like the second, in the states (I'm sure it was worldwide) but it was like [the second boom of punk rock in the early nineties](https://en.wikipedia.org/wiki/punk_rock#revival), it killed off grunge. Beforehand I'd always just listened to whatever was on the radio or whatever my parents were playing in the car and whatnot. It was right around that age where I started developing my own taste and what I wanted to listen to. I picked up very early on psychobilly, via [Beavis and Butthead](https://www.youtube.com/watch?v=qlvkr10daae), [Reverend Horton Heat](http://www.reverendhortonheat.com) and they had other psychobilly videos on there. I always thought that was such a cool band and that started my wanting to get into learning about other bands with upright. So, it's just a slow progression.
 
