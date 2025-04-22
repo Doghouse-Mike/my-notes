@@ -2,14 +2,14 @@
 tags: 
 aliases: 
 date created: Wednesday, April 16th 2025, 9:58:53 am
-date modified: Tuesday, April 22nd 2025, 3:34:23 pm
+date modified: Tuesday, April 22nd 2025, 3:39:08 pm
 draft: false
 title: Interview with Koffin Kats
 ---
 
 # Interview with Koffin Kats
 
-Photos from the show after this interview was conducted can be seen in [[Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Koffin Kats at Lady Luck]]!
+Some photos from the show after this interview was conducted can be seen in [[Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Koffin Kats at Lady Luck]]!
 
 Strap in. 
 
