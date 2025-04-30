@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Thursday, May 4th 2023, 6:14:34 am
-date modified: Friday, April 11th 2025, 2:29:35 pm
+date modified: Tuesday, April 22nd 2025, 4:27:18 pm
 draft: TRUE
 title: "iPad for Work Thoughts May '23"
 ---

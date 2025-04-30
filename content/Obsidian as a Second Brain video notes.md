@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Thursday, November 24th 2022, 8:08:15 pm
-date modified: Friday, April 11th 2025, 2:29:35 pm
+date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 dg-publish: false
 draft: false
 title: Obsidian as a Second Brain Video Notes

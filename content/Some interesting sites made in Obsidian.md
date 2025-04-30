@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, April 25th 2023, 4:51:21 pm
-date modified: Friday, April 11th 2025, 2:29:35 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 dg-publish: false
 draft: false
 title: Some Interesting Sites Made in Obsidian
