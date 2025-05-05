@@ -13,7 +13,7 @@ title: SWRPG Session 1
 
 2023-07-13
 
-[Mike's SWRPG character Feb '23](Mike's%20SWRPG%20character%20Feb%20'23.md)
+[[Mike's SWRPG character Feb '23]]
 
 [[SWRPG]]
 

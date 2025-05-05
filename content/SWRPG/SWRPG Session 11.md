@@ -61,13 +61,13 @@ PPE will probably break if despair is rolled, eek. Although that could be our "s
 
 Jobs:
 
-- [ ] Fake QA
+- [ ] Fake QA #project/SecretSales
 
-- [ ] Deliver Jax's stuff - Profit
+- [ ] Deliver Jax's stuff - Profit #project/SWRPG
 
-- [ ] Deliver Deebo
+- [ ] Deliver Deebo #project/SWRPG
 
-- [ ] Escape with a live sample of the virus
+- [ ] Escape with a live sample of the virus #project/SWRPG
 
 ![[Pasted image 20250401192102.png]]
 

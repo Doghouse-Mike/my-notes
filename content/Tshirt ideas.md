@@ -13,7 +13,7 @@ Elephant/element series?
 
  - The elephant of surprise
  - The elephant of suspense
- - the elephant(s) of [[style]] (trunk and white?) [[[The Elements of Style - Wikipedia](https://en.wikipedia.org/wiki/The_Elements_of_Style)]]
+ - the elephant(s) of [[trunk and white?) [[[The Elements of Style - Wikipedia](https://en.wikipedia.org/wiki/The_Elements_of_Style|[style]]]]
  - The elephant(s) of design
  - elephant of truth (judge dredd?)
  - elephantary my dear (deer?) Watson 

@@ -236,7 +236,7 @@ This is in the original admonition.
 
 ## Rendering Code Blocks inside Admonitions
 
-Code blocks may be nested inside admonitions using a method similar to [Nesting Admonitions](#Nesting-Admonitions) above.
+Code blocks may be nested inside admonitions using a method similar to [[#Nesting-Admonitions|Nesting Admonitions]] above.
 
 Additionally, for a single layer, the `~~~` markdown codeblock syntax may be used:
 
@@ -316,7 +316,7 @@ This will open a modal where the admonition type, title and collapse behavior ca
 
 ### Admonition-specific Commands
 
-Commands may be registered for each [custom admonition](#custom-admonition-types) type to insert them into an open note by clicking the `Register Commands` button in [Settings](#custom-admonition-types).
+Commands may be registered for each [[#custom-admonition-types|custom admonition]] type to insert them into an open note by clicking the `Register Commands` button in [[#custom-admonition-types|Settings]].
 
 3 commands will be registered: `Insert <type> Callout`, `Insert <type>`, and `Insert <type> with Title`.
 
@@ -502,15 +502,15 @@ Additional icon packs can be downloaded in settings.
 
 Want to add an existing icon pack? Make a pull request with the following:
 
-1. Add a new folder in the [icons](./icons) folder with the name of your icon set.
-2. Create an `icons.json` file that has the icons defined as an Object. Please see the [Octicons json](./icons/octicons/icons.json) for reference.
-3. Put your icon pack's information in the two variables in the [Icon Packs](./src/icons/packs.ts) file.
+1. Add a new folder in the [[./icons|icons]] folder with the name of your icon set.
+2. Create an `icons.json` file that has the icons defined as an Object. Please see the [[./icons/octicons/icons.json|Octicons json]] for reference.
+3. Put your icon pack's information in the two variables in the [[./src/icons/packs.ts|Icon Packs]] file.
 
 # Settings
 
 ## Custom Admonition Types
 
-[Custom admonition](#custom-admonitions--callouts) types can be created and managed in this section of the settings.
+[[#custom-admonitions--callouts|Custom admonition]] types can be created and managed in this section of the settings.
 
 ### Export Custom Types as CSS
 
@@ -559,7 +559,7 @@ If you want to specify an icon pack, you can do so like this:
 ]
 ```
 
-All of the possible fields are defined [here](https://github.com/valentine195/obsidian-admonition/blob/2fb38ccc0b39ada8d3d0a4476e9ff3333c52c3ae/src/%40types/index.d.ts#L5).
+All of the possible fields are defined [[https://github.com/valentine195/obsidian-admonition/blob/2fb38ccc0b39ada8d3d0a4476e9ff3333c52c3ae/src/%40types/index.d.ts#L5]].
 
 ## Admonition Settings
 
@@ -641,7 +641,7 @@ Enabled use of `!!! ad-<type>` style admonitions. No longer supported, will be r
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [Microsoft Document Syntax](#microsoft-document-syntax) for blockquote admonitions.
+Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for blockquote admonitions.
 
 ### Use Microsoft Document Syntax for Indented Code Blocks
 
@@ -649,7 +649,7 @@ Enables use of the [Microsoft Document Syntax](#microsoft-document-syntax) for b
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [Microsoft Document Syntax](#microsoft-document-syntax) for indented code blocks.
+Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for indented code blocks.
 
 ### Render Microsoft Document Syntax in Live Preview
 
@@ -657,7 +657,7 @@ Enables use of the [Microsoft Document Syntax](#microsoft-document-syntax) for i
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [Microsoft Document Syntax](#microsoft-document-syntax) in live preview.
+Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] in live preview.
 
 This feature is still under development and you may experience rendering bugs.
 
@@ -679,13 +679,13 @@ This setting is experimental. Links will only be synced when rendered in an admo
 
 Please see [this issue](https://github.com/valentine195/obsidian-admonition/issues/144) for more information.
 
-If you require links to be fully synced, it is recommended to use the [Microsoft Document Syntax](#microsoft-document-syntax).
+If you require links to be fully synced, it is recommended to use the [[#microsoft-document-syntax|Microsoft Document Syntax]].
 
 ### Generate JS for Publish
 
 Use this setting to enable Admonitions on custom-domain Obsidian Publish websites.
 
-See [Publish](#publish) for more information.
+See [[#publish|Publish]] for more information.
 
 # Todo
 

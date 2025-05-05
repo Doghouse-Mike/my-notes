@@ -16,7 +16,7 @@ Bit of a look into using [[obisidan]] as a [[second brain]] for [[PKM]]
 
 Suggests creating links to cover topics, concepts, ideas. Links will create a new note if it doesn’t exist already, but I’m pretty sure there’s a way with [[dataview]] to populate those empty notes with highlights from the ones that links to it, or something similar. 
 
-- [ ] #todo Research populating “empty” linked to notes created via links
+- [x] #todo Research populating “empty” linked to notes created via links #todo ✅ 2025-05-04
 
 Don’t have to define every single concept as a link
 
@@ -55,7 +55,7 @@ More structure
 ## When Should I Use Hashtags?
 - Categories *with intent*
 fundamentally about searchability
-When you search for something related to a topic, but might not know the structure of how that topic/note/actual [writing](Writing.md) will be put together. For more loosely related ideas
+When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md|writing]] will be put together. For more loosely related ideas
 Keep the categories meaningful. Reasonably specific/*intentional*
 Ok to use the same tag multiple times within the same document, because *where* it is will be relevant to the context of when you wrote it. Think of future you trying to track this bit of information down. 
 NOT for archiving. 

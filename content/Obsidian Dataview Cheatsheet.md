@@ -12,29 +12,29 @@ Shamelessly stolen from [here](https://github.com/seburbandev/obsidian-dataview-
 
 # Table of Contents
 
-- [LIST](#list)
-  - [Simple List](#simple-list)
-  - [Table](#table)
-- [Data Commands](#data-commands)
-  - [FROM](#from)
-    - [Tags](#tags)
-    - [Excluding notes with a specific tag](#excluding-notes-with-a-specific-tag)
-    - [Excluding notes from a specific folder](#excluding-notes-from-a-specific-folder)
-    - [Folders](#folders)
-    - [Single Files](#single-files)
-  - [WHERE](#where)
-    - [WHERE property is NOT empty](#where-property-is-not-empty)
-    - [WHERE property is equal to something](#where-property-is-equal-to-something)
-  - [GROUP BY](#group-by)
-    - [GROUP BY category](#group-by-category)
-  - [FLATTEN](#flatten)
-    - [Multiple properties displayed in its own row](#multiple-properties-displayed-in-its-own-row)
-  - [Bool property to custom display value](#bool-property-to-custom-display-value)
-    - [Display Yes/No instead of True/False on bool properties](#display-yesno-instead-of-truefalse-on-bool-properties)
-  - [Limit results in query](#limit-results-in-query)
-- [Meta Data Examples](#meta-data-examples)
-  - [JSON](#json)
-  - [YAML](#yaml)
+- [[#list|LIST]]
+  - [[#simple-list|Simple List]]
+  - [[#table|Table]]
+- [[#data-commands|Data Commands]]
+  - [[#from|FROM]]
+    - [[#tags|Tags]]
+    - [[#excluding-notes-with-a-specific-tag|Excluding notes with a specific tag]]
+    - [[#excluding-notes-from-a-specific-folder|Excluding notes from a specific folder]]
+    - [[#folders|Folders]]
+    - [[#single-files|Single Files]]
+  - [[#where|WHERE]]
+    - [[#where-property-is-not-empty|WHERE property is NOT empty]]
+    - [[#where-property-is-equal-to-something|WHERE property is equal to something]]
+  - [[#group-by|GROUP BY]]
+    - [[#group-by-category|GROUP BY category]]
+  - [[#flatten|FLATTEN]]
+    - [[#multiple-properties-displayed-in-its-own-row|Multiple properties displayed in its own row]]
+  - [[#bool-property-to-custom-display-value|Bool property to custom display value]]
+    - [[#display-yesno-instead-of-truefalse-on-bool-properties|Display Yes/No instead of True/False on bool properties]]
+  - [[#limit-results-in-query|Limit results in query]]
+- [[#meta-data-examples|Meta Data Examples]]
+  - [[#json|JSON]]
+  - [[#yaml|YAML]]
 
 # Query Cheatsheet
 

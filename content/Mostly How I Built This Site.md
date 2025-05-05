@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
+date modified: Sunday, May 4th 2025, 9:20:19 am
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -13,7 +13,7 @@ title: Mostly How I Built This Site
 ## Inspiration / Reasoning
 - https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/
 - https://zanca.dev/blog/quartz (and probably some of the sites they link to)
-- ["Official" Quartz documentation]([https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/)) Leaves a wee bit to be desired for the dummies like me
+- [[[https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/|"Official" Quartz documentation]]) Leaves a wee bit to be desired for the dummies like me
 - https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/ Hmm, uses Hugo too, might look into this some more for "easy" theming and *maybe* more selective publishing
 
 I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit) was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
@@ -52,7 +52,7 @@ I didn't 100% do things in this order, but think this is how I'd handle it if I 
 
 ### Mark *everything* in Your Vault as "draft"
 
-Quartz won't publish anything to your site that has the property of "draft: true". So, using the [Linter](obsidian://show-plugin?id=obsidian-linter) Plugin, I added that to the "Text to insert" box in the "YAML" tab of Linter's settings. Hit the "Lint all files in the vault" option from the command palette, and give it a few seconds (or more) to trawl through and update all the files. Then, as I didn't have a massive amount of pre-existing notes that I wanted published, I had a quick dig through my vault and unticked the property (thus making it "draft: false") of anything I *did* want published, et voila. 
+Quartz won't publish anything to your site that has the property of "draft: true". So, using the [[obsidian://show-plugin?id=obsidian-linter|Linter]] Plugin, I added that to the "Text to insert" box in the "YAML" tab of Linter's settings. Hit the "Lint all files in the vault" option from the command palette, and give it a few seconds (or more) to trawl through and update all the files. Then, as I didn't have a massive amount of pre-existing notes that I wanted published, I had a quick dig through my vault and unticked the property (thus making it "draft: false") of anything I *did* want published, et voila. 
 
 ![[Pasted image 20250321182529.png]]
 
@@ -158,7 +158,7 @@ Porkbun has a "set up for github" button, so was a matter of clicking of that, t
 
 ### Theming
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [handy gallery](https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]. When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
 
 ### Setting up Comments via Giscus
 
@@ -166,7 +166,7 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 
 ![[Pasted image 20250406222659.jpg]]
 
-[The Discord]([https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t)) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
+[[[https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t|The Discord]]) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
 ![[Pasted image 20250406223221.jpg]]
 
@@ -174,7 +174,7 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 
 TKTK, only works on same network for now 
 
-- [ ] look into tailscale or something to get this working remotely
+- [x] look into tailscale or something to get this working remotely blah ✅ 2025-05-04
 
 Mac shortcut:
 

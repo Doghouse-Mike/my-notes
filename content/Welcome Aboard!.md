@@ -21,7 +21,7 @@ I am, as with so much in life, still figuring this out.
 
 I've designed flyers, logos, tshirts, websites, and helped artists turn an idea in their head into something that's visible to the world, via glowing screens, prints, and other physical objects.
 
-I've played upright bass in front of audiences up, down, and across our lumpy little island (and guitar in Australia, but I digress). My current gig is with [The Road Zombies](https://www.facebook.com/theroadzombies), but I'm always up for new projects (live or in the studio) and have experience playing a range of different styles. The dreaded Rona has mostly put the kibosh on that for the last couple of years though. I've started giving [lessons](lessons.md), so if you want to learn to play the most impractical of instruments, or get your head around some basic music theory we could come to some arrangement too.
+I've played upright bass in front of audiences up, down, and across our lumpy little island (and guitar in Australia, but I digress). My current gig is with [The Road Zombies](https://www.facebook.com/theroadzombies), but I'm always up for new projects (live or in the studio) and have experience playing a range of different styles. The dreaded Rona has mostly put the kibosh on that for the last couple of years though. I've started giving [[lessons]], so if you want to learn to play the most impractical of instruments, or get your head around some basic music theory we could come to some arrangement too.
 
 I've manned a mixing desk at gigs, and know my way around micing up a variety of instruments in live and studio settings. I've used Logic to record and mix, but dabbled in other software.
 
@@ -37,7 +37,7 @@ A rarely posted to feed on the garbage-fire that is [Twitter](http://twitter.com
 
 An even more rarely updated profile on [LinkedIn](https://www.linkedin.com/in/doghousemike)
 
-Drop me an [email](mailto:mike@advancedamateur.net)
+Drop me an [[mailto:mike@advancedamateur.net|email]]
 
 [Tshirts and things for sale](https://doghouse-designs.creator-spring.com)
 

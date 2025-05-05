@@ -11,11 +11,11 @@ title: SWRPG Session 3
 
 # SWRPG Session 3
 
-[Mike's SWRPG character Feb '23](Mike's%20SWRPG%20character%20Feb%20'23.md)
+[[Mike's SWRPG character Feb '23]]
 
-[SWRPG session 1](SWRPG%20session%201.md)
+[[SWRPG session 1]]
 
-[SWRPG Session 2](SWRPG%20Session%202.md)
+[[SWRPG Session 2]]
 
 Spent XP, onto the ship!
 

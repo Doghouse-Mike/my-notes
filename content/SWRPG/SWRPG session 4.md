@@ -11,7 +11,7 @@ title: SWRPG Session 4
 
 # SWRPG Session 4
 
-[SWRPG Session 3](SWRPG%20Session%203.md)
+[[SWRPG Session 3]]
 
 Upload deebo's recordings to the comms relay at the front. 
 

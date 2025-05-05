@@ -200,7 +200,7 @@ Enduring (+1 Soak)
 
 ?25 XP -Espionage Programming: +1 Cunning +1 Deception +1 Cool 
 
-![](IMG_0623%201.jpeg)
+![[IMG_0623 1.jpeg]]
 
 Look into Bounty Hunter - Gadgeteer spec. Gets mechanics+coercion as class skills, bonuses to mechanical things and some combat stuff, offensive and defensive. 
 
