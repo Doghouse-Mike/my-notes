@@ -8,4 +8,4 @@ title: Quick Capture
 # Quick Capture
 
 - [ ] Tot up everything I owe #project/WorkOnImprovingCreditScore @iPad @Mac
-- [ ] Look into what smugmug is, might be good for selling stuff
+- [ ] Look into what smugmug is, might be good for selling stuff #project/CreativeIncome
