@@ -1,9 +1,10 @@
 ---
-dg-publish: true
+date created: Thursday, May 8th 2025, 10:11:01 am
+date modified: Thursday, May 8th 2025, 10:11:47 am
+draft: false
+publish: true
+title: "Merlin's Wisdom Project"
 ---
-
-<!-- hello, world 2022-10-11 -->
-<!-- hi again 2024-06-13 -->
 
 # Merlin's Wisdom Project
 
@@ -206,14 +207,6 @@ Brief introductory remarks regarding the Project:
 
 ----
 
-
-
-
-
-
-
-
-
 - If you have trouble keeping up with washing dishes, cutlery, or cooking stuff, you may have too much of them.
 - Be mindful about giving gifts. A gift you give with *any* expectation is a burden, and people rarely enjoy being given a burden.
 - In thinking about optimizing how you work, try to distinguish between the parts of your job that are *necessarily difficult* versus the parts that are harder than they actually need to be. The former is the reason that you get the big bucks, and the latter is the reason why you may often feel like the bucks should be bigger.
@@ -302,7 +295,7 @@ Brief introductory remarks regarding the Project:
 ----
 
 - Thoughts and feelings are real, but they do not have to define you. Remember that you are the sky—*not the weather*. (Thanks, Pema C.)
-- If you're going to a party, always bring a bag of ice. The host will  appreciate it, because nobody has ever been annoyed about receiving something useful that just turns into water once it's no longer useful.
+- If you're going to a party, always bring a bag of ice. The host will appreciate it, because nobody has ever been annoyed about receiving something useful that just turns into water once it's no longer useful.
 - Related: remember whose event this is. If it's not your party, you don't get to pick the music, the guest list, or the vibe. If you can't find a way to get along, just leave.
 - Relatedly related: a party is only as good as the people who attend it. Especially you. Be helpful, be fun, and delight at least one new stranger.
 - Rather than curating a collection of well-rounded students, strive instead to attract the constituents of a well-rounded *class*. (Thanks, Rab T.)
@@ -375,7 +368,7 @@ Brief introductory remarks regarding the Project:
 - Related: charities, homeless shelters, and schools do not need your filthy or broken shit; they need your money. So, just give them some cash, and stop treating "worthy causes" like a guilt-free DMZ for your junk.
 - Relatedly related: quit buying products because "a portion of the proceeds goes to charity." If you actually care about a cause, give that cause some actual money. Then, you'll know *all* of the proceeds have gone to charity.
 - If there's a book that means a lot to you, buy five print copies. It helps the author, plus now you can give a free copy to a friend whom you think would love it.
-- When you get coins as change, throw them in a jar and forget about it.  That's now your baby steps toward savings, a vacation, or what have you.
+- When you get coins as change, throw them in a jar and forget about it. That's now your baby steps toward savings, a vacation, or what have you.
 - Alternatively: leave your spare coins in a tidy little stack right outside the store you just exited. I'll bet you a chicken dinner the person who finds them could use them a lot more than you.
 - When you die, your family will be charged $100 for every time you've ever honked your car horn. I cannot tell you how I know this, but please just understand with all sober certainty how very important it is that you never again honk your car horn.
 
@@ -452,8 +445,6 @@ Brief introductory remarks regarding the Project:
 - Kids are unintentionally curious. What happens when I flush this rug? Would my cat enjoy wearing a fancy dress? Could this LEGO head also be a cool hat? Without regard to topic, try not to lose what’s left of your unintentional curiosity.
 - Some people like to tell you what to pay attention to. Many want to determine how you should feel about it. Others specialize in advising exactly what you should do as a result. Just be aware that these are each different things, and it's probably wise to avoid people who are adamant about demanding to control all three.
 
-
-
 - Related: being good at one of these things rarely means someone's also great at the others.
 - Unrelated: this also goes for the notional expertise portfolio of billionaires. Sometimes, perversely so.
 - In the world of independently making stuff, success with an audience can be thought of as a slice of cake that is impossibly slim but improbably deep. Stay focused on delighting the right tiny wedge of the best baked good you can make and there's potentially no limit to how tall it can get.
@@ -494,7 +485,7 @@ Brief introductory remarks regarding the Project:
 - Occasionally silently remind yourself, "Remember you said you wanted this."
 - Avoid telling people they're being scared wrong. Demanding that someone become more or less terrified about something is a dick move, and it usually says more about your hangups than their judgement.
 - Related: start noticing the people in your world who try to motivate you with fear. It's often because they don't have anything more appealing to offer. And, they know it.
-- Relatedly related: whenever you can  manage it, don't internalize fear until you've exhausted curiosity.
+- Relatedly related: whenever you can manage it, don't internalize fear until you've exhausted curiosity.
 - Anxiety has a way of encouraging you to obsess about a horrible thing your brain just made up. Next time this happens, try to relax and instead just gently acknowledge that sometimes your brain makes up horrible things. Believing these things and obsessing about them is ultimately optional.
 - You'll almost always eventually regret having named something you made with a pun.
 - Lessons come where you find them. Not necessarily where you looked for them.
@@ -507,6 +498,7 @@ Sometimes, your brain decides it’s time to play tennis. So, it starts serving 
 Whenever you notice something, consider saying "*thank you*" in your head. Even or especially if it's something small or random. You're saying thank you to the world for still being there—and thank you to yourself for noticing it.
 
 Related: if this strikes you as corny or emotionally disordered, then you, my friend, are not noticing enough things. Which also means you're definitely not saying "thank you" enough. So, honestly, who's the real weirdo here?
+
 - Relatedly related: *Thank you*.
 - Never tell someone they look like someone else. If you're in doubt, recall five times you've done this, it was welcomed, and it all turned out great for everyone. You either sound like a sociopath, a person who puts women in wells, or, likely, both.
 - All photos are pictures, but not all pictures are photos. If you're talking about a photograph, and you call it a "picture," you sound a little like someone who drinks from a jug.
