@@ -1,6 +1,7 @@
 ---
 date created: Sunday, May 4th 2025, 9:25:32 am
-date modified: Sunday, May 4th 2025, 9:30:31 am
+date modified: Thursday, May 8th 2025, 8:08:53 am
+draft: true
 title: Quick Capture
 ---
 
