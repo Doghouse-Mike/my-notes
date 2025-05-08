@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+date modified: Thursday, May 8th 2025, 8:02:39 am
 dg-publish: false
 draft: false
 publish: true
@@ -69,3 +69,4 @@ Look up some rocket raccoon/jack sparrow quotes
 - You remind me of school on a Sunday. (no class)
 - Something's afoot (and it's not the thing on my leg)
 - I shall prosecute my duty with due, and lethal diligence 
+-  I am going to need verbal confirmation that you’re grasping the details of this agreement
