@@ -261,7 +261,7 @@ Brief introductory remarks regarding the Project:
 ----
 
 - Summon a memory you dislike, and then consider how you might feel different about it tomorrow if you weren't ashamed about it. Then, consider not feeling ashamed about it.
-- [ ] Learn about Chesterton's Fence. Then, actively resist altering a given situation before you understand the reasons why it's remained unchanged for so long. (Thanks, G. K. C.)
+- [x] Learn about Chesterton's Fence. Then, actively resist altering a given situation before you understand the reasons why it's remained unchanged for so long. (Thanks, G. K. C.) ✅ 2025-05-09
 - Related: always read the room. When entering any new situation, be practically invisible and absolutely non-assertive until you can gauge what happened before you arrived—and how it likely felt.
 - Relatedly related: try to avoid beginning a sentence with "Why don’t you just…?" It often indicates that you have approximately zero relevant experience with what has made a given problem such a problem.
 - Generally avoid clothing that's more interesting than you are.

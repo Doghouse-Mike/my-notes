@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Tuesday, April 22nd 2025, 4:27:42 pm
+date modified: Friday, May 9th 2025, 7:57:51 am
 draft: false
 publish: true
 title: Elegy Vs Eulogy
@@ -20,6 +20,6 @@ I always kinda wondered, turns out one's typically at funerals, the other is a b
 
 [Via](https://www.merriam-webster.com/grammar/elegy-vs-eulogy-difference-usage)
 
-```
-An elegy is a poem that expresses sorrow or melancholy, often about someone who has died. A eulogy is usually a speech that praises the achievements and character of a person who has died, often as part of a funeral service.
-```
+> [!NOTE]
+> 
+> An elegy is a poem that expresses sorrow or melancholy, often about someone who has died. A eulogy is usually a speech that praises the achievements and character of a person who has died, often as part of a funeral service.
