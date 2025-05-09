@@ -2,9 +2,9 @@
 tags: 
 aliases: 
 date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Wednesday, April 30th 2025, 8:37:54 pm
-draft: true
-publish: false
+date modified: Friday, May 9th 2025, 8:03:09 am
+draft: false
+publish: true
 title: "The Idiot's Guide to Unionising Your UK Workplace"
 ---
 
