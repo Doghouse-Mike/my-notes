@@ -1,26 +1,14 @@
 ---
 date created: Thursday, May 8th 2025, 10:11:01 am
-date modified: Thursday, May 8th 2025, 10:52:58 am
+date modified: Saturday, May 10th 2025, 11:05:29 pm
 draft: false
 publish: true
 title: "Merlin's Wisdom Project"
 ---
+
 ---
 
-
-
-
-
-
-
-
-
 # Merlin's Wisdom Project
-
-
-
-
-
 
 Or: “*Everybody likes being given a glass of water*.”
 
@@ -309,7 +297,7 @@ Brief introductory remarks regarding the Project:
 ----
 
 - Thoughts and feelings are real, but they do not have to define you. Remember that you are the sky—*not the weather*. (Thanks, Pema C.)
-- If you're going to a party, always bring a bag of ice. The host will  appreciate it, because nobody has ever been annoyed about receiving something useful that just turns into water once it's no longer useful.
+- If you're going to a party, always bring a bag of ice. The host will appreciate it, because nobody has ever been annoyed about receiving something useful that just turns into water once it's no longer useful.
 - Related: remember whose event this is. If it's not your party, you don't get to pick the music, the guest list, or the vibe. If you can't find a way to get along, just leave.
 - Relatedly related: a party is only as good as the people who attend it. Especially you. Be helpful, be fun, and delight at least one new stranger.
 - Rather than curating a collection of well-rounded students, strive instead to attract the constituents of a well-rounded *class*. (Thanks, Rab T.)
@@ -382,7 +370,7 @@ Brief introductory remarks regarding the Project:
 - Related: charities, homeless shelters, and schools do not need your filthy or broken shit; they need your money. So, just give them some cash, and stop treating "worthy causes" like a guilt-free DMZ for your junk.
 - Relatedly related: quit buying products because "a portion of the proceeds goes to charity." If you actually care about a cause, give that cause some actual money. Then, you'll know *all* of the proceeds have gone to charity.
 - If there's a book that means a lot to you, buy five print copies. It helps the author, plus now you can give a free copy to a friend whom you think would love it.
-- When you get coins as change, throw them in a jar and forget about it.  That's now your baby steps toward savings, a vacation, or what have you.
+- When you get coins as change, throw them in a jar and forget about it. That's now your baby steps toward savings, a vacation, or what have you.
 - Alternatively: leave your spare coins in a tidy little stack right outside the store you just exited. I'll bet you a chicken dinner the person who finds them could use them a lot more than you.
 - When you die, your family will be charged $100 for every time you've ever honked your car horn. I cannot tell you how I know this, but please just understand with all sober certainty how very important it is that you never again honk your car horn.
 
@@ -498,7 +486,7 @@ Brief introductory remarks regarding the Project:
 - Occasionally silently remind yourself, "Remember you said you wanted this."
 - Avoid telling people they're being scared wrong. Demanding that someone become more or less terrified about something is a dick move, and it usually says more about your hangups than their judgement.
 - Related: start noticing the people in your world who try to motivate you with fear. It's often because they don't have anything more appealing to offer. And, they know it.
-- Relatedly related: whenever you can  manage it, don't internalize fear until you've exhausted curiosity.
+- Relatedly related: whenever you can manage it, don't internalize fear until you've exhausted curiosity.
 - Anxiety has a way of encouraging you to obsess about a horrible thing your brain just made up. Next time this happens, try to relax and instead just gently acknowledge that sometimes your brain makes up horrible things. Believing these things and obsessing about them is ultimately optional.
 - You'll almost always eventually regret having named something you made with a pun.
 - Lessons come where you find them. Not necessarily where you looked for them.
@@ -530,7 +518,7 @@ Brief introductory remarks regarding the Project:
 ----
 
 - Avoid saying things you don’t want to be judged about. You’re already being judged for a shit-ton of things you don’t control, so be cautious about deliberately generating new material.
-- Most of the easy problems have been solved. If a problem still exists, it's probably because it's either a _really_ hard problem, or it's not actually a problem.
+- Most of the easy problems have been solved. If a problem still exists, it's probably because it's either a *really* hard problem, or it's not actually a problem.
 - Never brag about your weather. You had no agency in creating it and deserve no credit for living in it.
 - Lean away from self-pity. Self-pity is also self-basting. Which is gross.
 - When you get hit with a sock full of coins, it doesn’t really matter that much whether they're pennies or quarters.
@@ -562,7 +550,7 @@ Brief introductory remarks regarding the Project:
 
 Never trust the advice of a man in difficulties.  
 
-— Aesop, _The Fox and the Goat_ (~500 B.C.).
+— Aesop, *The Fox and the Goat* (~500 B.C.).
 
 We may give advice, but we cannot give conduct.
 
@@ -596,22 +584,22 @@ We are what we pretend to be, so we must be careful about what we pretend to be.
 
 I'm just as God made me, sir.
 
-— Hotel Desk Clerk (_This is Spinal Tap_, 1984)
+— Hotel Desk Clerk (*This is Spinal Tap*, 1984)
 
 ----
 
 I've been involved in a number of cults — both as a leader and a follower. You have more fun as a follower. But you make more money as a leader.
 
-— Creed Bratton (_The Office_)
+— Creed Bratton (*The Office*)
 
 ----
 
 "You are excrement. You can change yourself into gold."
 
-— _The Holy Mountain_ (1973)
+— *The Holy Mountain* (1973)
 
 ----
 
 > At all times keep your crap detector on. If I say something that helps, good. If what I say is of no help, let it go. Don’t start arguments. They are futile and take us away from our purpose.
 
-— Richard Hugo, _The Triggering Town_ (1979)
+— Richard Hugo, *The Triggering Town* (1979)
