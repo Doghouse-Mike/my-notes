@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, October 23rd 2011, 10:20:58 pm
-date modified: Tuesday, May 13th 2025, 8:45:22 pm
+date modified: Wednesday, May 14th 2025, 1:16:00 pm
 dg-publish: false
 draft: false
 publish: true
@@ -30,3 +30,5 @@ Remembering that I'll be dead soon is the most important tool I've ever encounte
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.
 
 Ira Glass
+
+"It is difficult to get a man to understand something when his salary depends upon his not understanding it." - Upton Sinclair
