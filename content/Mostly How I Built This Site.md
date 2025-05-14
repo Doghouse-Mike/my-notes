@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Sunday, May 4th 2025, 9:20:19 am
+date modified: Wednesday, May 14th 2025, 11:35:29 am
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -13,7 +13,7 @@ title: Mostly How I Built This Site
 ## Inspiration / Reasoning
 - https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/
 - https://zanca.dev/blog/quartz (and probably some of the sites they link to)
-- [[[https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/|"Official" Quartz documentation]]) Leaves a wee bit to be desired for the dummies like me
+- ["Official" Quartz documentation](https://quartz.jzhao.xyz) leaves a wee bit to be desired for the dummies like me
 - https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/ Hmm, uses Hugo too, might look into this some more for "easy" theming and *maybe* more selective publishing
 
 I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit) was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
@@ -172,18 +172,18 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 
 ### Semi-automated Posting from iPad
 
-TKTK, only works on same network for now 
+In theory it should be possible to set a Mac to run a shortcut/script/etc based on the Focus Mode one is in, but I've not been able to get that to work consistently. This is a bit better, and simpler than using [rVNC](https://apps.apple.com/gb/app/realvnc-viewer-remote-desktop/id352019548) (other apps are available) to remote into the Mac to run a terminal command. 
 
-- [x] look into tailscale or something to get this working remotely blah ✅ 2025-05-04
+- [x] look into tailscale or something to get this working remotely ✅ 2025-05-04
 
-Mac shortcut:
+#### Mac Shortcut:
 
 ![[Screenshot 2025-04-09 at 08.00.34.png]]
 
-The "Wait" action is to give sync time to catch up. Will usually be overprovisioning, but better safe than sorry. 
+The "Wait" action is to give sync time to catch up. The ```npx quartz build``` command will *very* temporarily remove everything from the **Content** folder, and if Obsidian (with Sync) is running at the time, it will freak out big time. The "Wait" gets around that, two full minutes is a bit a long, but I'd rather be safe than sorry. 
 
-ipad/phone shortcut:
+#### iOS Shortcut:
 
 ![[9FCE51E8-FC20-4F94-92BE-8AD310AB2D5D_4_5005_c.jpeg]]
 
-First run will need authenticating on the mac
+The first run will need authenticating on the Mac which means either remoting into it or sitting in front of the computer for a mo, but after that it *should* run silently. 
