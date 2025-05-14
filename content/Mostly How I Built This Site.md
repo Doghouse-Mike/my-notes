@@ -2,7 +2,7 @@
 tags: []
 aliases: []
 date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Wednesday, May 14th 2025, 11:35:29 am
+date modified: Wednesday, May 14th 2025, 11:38:15 am
 draft: false
 publish: true
 title: Mostly How I Built This Site
@@ -180,7 +180,7 @@ In theory it should be possible to set a Mac to run a shortcut/script/etc based 
 
 ![[Screenshot 2025-04-09 at 08.00.34.png]]
 
-The "Wait" action is to give sync time to catch up. The ```npx quartz build``` command will *very* temporarily remove everything from the **Content** folder, and if Obsidian (with Sync) is running at the time, it will freak out big time. The "Wait" gets around that, two full minutes is a bit a long, but I'd rather be safe than sorry. 
+The "Wait" action is to give sync time to catch up. The ```npx quartz build``` command will *very* temporarily remove everything from the **Content** folder as part of the push to Github, and if Obsidian (with Sync) is running at the time, it will freak out big time. The "Wait" gets around that, two full minutes is a bit a long, but I'd rather be safe than sorry. 
 
 #### iOS Shortcut:
 
