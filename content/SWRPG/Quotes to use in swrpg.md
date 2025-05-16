@@ -70,4 +70,5 @@ Look up some rocket raccoon/jack sparrow quotes
 - Something's afoot (and it's not the thing on my leg)
 - I shall prosecute my duty with due, and lethal diligence 
 -  I am going to need verbal confirmation that you’re grasping the details of this agreement 
+- You seem a decent fella, I’d hate to kill you
 - 
