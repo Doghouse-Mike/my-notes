@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, October 23rd 2011, 10:20:58 pm
-date modified: Wednesday, May 14th 2025, 1:16:00 pm
+date modified: Monday, May 19th 2025, 11:37:17 pm
 dg-publish: false
 draft: false
 publish: true
@@ -32,3 +32,5 @@ Remembering that I'll be dead soon is the most important tool I've ever encounte
 Ira Glass
 
 "It is difficult to get a man to understand something when his salary depends upon his not understanding it." - Upton Sinclair
+
+Your mind is for having ideas, not holding them. —David Allen, author of Getting Things Done
