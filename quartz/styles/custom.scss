@@ -1,3 +1,6 @@
 @use "./base.scss";
 @use "./themes";
 // put your custom CSS here!
+.center article.popover-hint h1:first-of-type {
+	display: none;
+}
