@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, October 23rd 2011, 10:20:58 pm
-date modified: Monday, May 19th 2025, 11:37:17 pm
+date modified: Tuesday, May 20th 2025, 10:09:45 pm
 dg-publish: false
 draft: false
 publish: true
@@ -34,3 +34,5 @@ Ira Glass
 "It is difficult to get a man to understand something when his salary depends upon his not understanding it." - Upton Sinclair
 
 Your mind is for having ideas, not holding them. —David Allen, author of Getting Things Done
+
+Everything not saved will be lost. —Nintendo “Quit Screen” message
