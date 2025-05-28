@@ -71,4 +71,10 @@ Look up some rocket raccoon/jack sparrow quotes
 - I shall prosecute my duty with due, and lethal diligence 
 -  I am going to need verbal confirmation that you’re grasping the details of this agreement 
 - You seem a decent fella, I’d hate to kill you
+- you people and your pheromones 
+- I don’t have a stomach, so I can’t throw up, but if I did, I would 
+- what is it with you beings and sitting?
+- of course, I, myself am an expensive piece of equipment 
+- I don’t necessarily *want* to kill you. I mean, unless I have to. Unless absolutely necessary
+- all your feelings and exchanges of words and fluids
 - 
