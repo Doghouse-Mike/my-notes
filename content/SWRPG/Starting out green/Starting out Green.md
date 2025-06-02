@@ -1,6 +1,7 @@
 ---
 date created: Monday, June 2nd 2025, 8:25:32 pm
-date modified: Monday, June 2nd 2025, 9:58:35 pm
+date modified: Monday, June 2nd 2025, 10:22:12 pm
+draft: true
 title: Starting out Green
 ---
 
