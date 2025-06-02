@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+date modified: Saturday, May 31st 2025, 6:00:06 pm
 draft: false
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
 ---

@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Sunday, May 18th 2025, 10:02:29 pm
+date modified: Saturday, May 31st 2025, 9:57:12 am
 dg-publish: false
 draft: false
 publish: true
@@ -77,4 +77,7 @@ Look up some rocket raccoon/jack sparrow quotes
 - of course, I, myself am an expensive piece of equipment 
 - I don’t necessarily *want* to kill you. I mean, unless I have to. Unless absolutely necessary
 - all your feelings and exchanges of words and fluids
-- 
+- what do you mean “we”, mammal?
+
+## Related Notes
+- [[Quotes]]

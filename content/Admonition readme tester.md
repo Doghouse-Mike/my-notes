@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, April 23rd 2023, 9:21:43 pm
-date modified: Thursday, May 8th 2025, 10:53:00 am
+date modified: Friday, May 30th 2025, 11:42:24 am
 dg-publish: false
 draft: TRUE
 title: Admonition Readme Tester
@@ -739,3 +739,9 @@ If you're using Obsidian to run/plan a TTRPG, you may find my other plugin usefu
 -   [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - 5e-style statblocks inside notes!
 
 <a href="https://www.buymeacoffee.com/valentine195"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"></a>
+
+## Related Notes
+- [[Obsidian Resources]]
+- [[Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
+- [[Obsidian Resources (1)]]
+- [[The iPad’s “Sweet” Solution]]
