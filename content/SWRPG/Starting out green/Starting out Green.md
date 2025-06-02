@@ -1,10 +1,10 @@
 ---
 date created: Monday, June 2nd 2025, 8:25:32 pm
-date modified: Monday, June 2nd 2025, 8:55:41 pm
-title: Index
+date modified: Monday, June 2nd 2025, 9:58:35 pm
+title: Starting out Green
 ---
 
-# Index
+# Starting out Green
 
 ## Beings
 
