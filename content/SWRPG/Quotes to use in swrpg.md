@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Saturday, May 31st 2025, 9:57:12 am
+date modified: Tuesday, June 3rd 2025, 10:14:59 am
 dg-publish: false
 draft: false
 publish: true
@@ -12,7 +12,8 @@ title: Quotes to Use in Swrpg
 
 # Quotes to Use in Swrpg
 
-Look up some rocket raccoon/jack sparrow quotes
+- [ ] Look up some rocket raccoon/jack sparrow quotes
+- [ ] steal some [Failsafe](https://commons.ishtar-collective.net/search?q=failsafe) lines
 
 - your mouth is talking, you might wanna look to that
 - do we have an understanding 
