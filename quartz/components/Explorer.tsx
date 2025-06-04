@@ -30,20 +30,30 @@ mapFn: (node) => {
 return node
 },
 sortFn: (a, b) => {
-// Folders come before files
-if (a.isFolder && !b.isFolder) {
-return -1
+// Sort order: folders first, then files. Sort folders alphabetically
+if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+// If both are folders, sort alphabetically
+if (a.isFolder && b.isFolder) {
+return a.displayName.localeCompare(b.displayName, undefined, {
+numeric: true,
+sensitivity: “base”,
+})
 }
-if (!a.isFolder && b.isFolder) {
-return 1
+// If both are files, try to sort by date, fall back to alphabetical
+if (!a.isFolder && !b.isFolder) {
+return b.displayName.localeCompare(a.displayName, undefined, {
+numeric: true,
+sensitivity: “base”,
+})
+}
 }
 
 ```
-// Both folders or both files - sort alphabetically
-return a.displayName.localeCompare(b.displayName, undefined, {
-  numeric: true,
-  sensitivity: "base",
-})
+if (!a.isFolder && b.isFolder) {
+  return 1
+} else {
+  return -1
+}
 ```
 
 },
