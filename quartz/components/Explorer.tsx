@@ -30,22 +30,14 @@ mapFn: (node) => {
 return node
 },
 sortFn: (a, b) => {
-// Sort order: folders first, then files. Sort folders alphabetically
+// Sort order: folders first, then files. Sort folders and files alphabeticall
 if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-// If both are folders, sort alphabetically
-if (a.isFolder && b.isFolder) {
+// numeric: true: Whether numeric collation should be used, such that “1” < “2” < “10”
+// sensitivity: “base”: Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
 return a.displayName.localeCompare(b.displayName, undefined, {
 numeric: true,
 sensitivity: “base”,
 })
-}
-// If both are files, try to sort by date, fall back to alphabetical
-if (!a.isFolder && !b.isFolder) {
-return b.displayName.localeCompare(a.displayName, undefined, {
-numeric: true,
-sensitivity: “base”,
-})
-}
 }
 
 ```
