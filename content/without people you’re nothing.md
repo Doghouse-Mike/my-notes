@@ -2,9 +2,11 @@
 tags: [rip, music]
 date: 2013-12-24
 aliases: []
+created: Monday, March 24th 2025, 12:57:20 pm
 date created: Monday, February 21st 2022, 2:30:16 pm
 date modified: Tuesday, April 22nd 2025, 4:27:18 pm
 draft: false
+modified: Wednesday, June 4th 2025, 10:46:43 pm
 title: Without People you’re Nothing
 ---
 

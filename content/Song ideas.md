@@ -1,9 +1,11 @@
 ---
-tags: 
-aliases: 
+tags: []
+aliases: []
+created: Wednesday, April 23rd 2014, 3:51:25 pm
 date created: Wednesday, April 23rd 2014, 3:51:25 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 draft: false
+modified: Wednesday, June 4th 2025, 10:46:53 pm
 title: Song Ideas
 ---
 

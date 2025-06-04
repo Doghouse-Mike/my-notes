@@ -1,10 +1,12 @@
 ---
 tags: []
 aliases: []
+created: Thursday, March 20th 2025, 11:55:25 am
 date created: Tuesday, April 12th 2022, 1:41:37 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 dg-publish: false
 draft: false
+modified: Wednesday, June 4th 2025, 10:47:03 pm
 title: Koffin Kats, Cowboy and the Corpse at The Louisiana
 url: https://doghouse-mike.micro.blog/koffin-kats-cowboy-and-the/
 ---

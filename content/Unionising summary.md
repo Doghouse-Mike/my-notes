@@ -1,9 +1,11 @@
 ---
-tags: 
-aliases: 
+tags: []
+aliases: []
+created: Tuesday, April 8th 2025, 3:08:29 pm
 date created: Tuesday, March 18th 2025, 9:46:55 am
 date modified: Friday, May 9th 2025, 8:02:45 am
 draft: false
+modified: Wednesday, June 4th 2025, 10:46:53 pm
 publish: true
 title: "Unionising Our Workplace: Key Points"
 ---
@@ -11,9 +13,11 @@ title: "Unionising Our Workplace: Key Points"
 # Unionising Our Workplace: Key Points
 
 ## The Union Can Still provide Individual Support to Members *even before* Formal Recognition is Achieved.
+
 - This bit is *important*
 
 ## Why Consider a Union?
+
 - Collective bargaining power for better pay and conditions
 - Professional representation in disciplinary meetings
 - Legal advice and support for workplace issues
@@ -54,17 +58,20 @@ title: "Unionising Our Workplace: Key Points"
 	   - Dunno if we'd super need that tbh
 
 ## Legal Protections
+
 - It's your legal right to join a union
 - Protection from dismissal for union activities
 - Right to discuss working conditions with colleagues
 
 ## Important to Remember
+
 - This is a gradual process
 - Confidentiality is crucial in the early stages
 - Documentation of workplace issues strengthens our case
 - The union provides support even before formal recognition
 
 ## Next Steps
+
 - Research union options ([Unite](https://www.unitetheunion.org), [GMB](https://www.gmb.org.uk), [Usdaw](https://www.usdaw.org.uk) all cover our sector)
 	- Usdaw were decent when I worked at Tesco, Unite might be winning in my brainbox though)
 - Join individually using personal contact details

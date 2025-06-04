@@ -1,7 +1,9 @@
 ---
+created: Saturday, May 31st 2025, 11:43:07 pm
 date created: Saturday, May 31st 2025, 11:43:07 pm
 date modified: Monday, June 2nd 2025, 2:36:45 pm
 draft: true
+modified: Wednesday, June 4th 2025, 10:47:03 pm
 title: Memory Cores and Motivators
 ---
 

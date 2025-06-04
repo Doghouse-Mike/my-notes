@@ -1,10 +1,12 @@
 ---
-tags: 
-aliases: 
+tags: []
+aliases: []
+created: Tuesday, February 21st 2023, 6:30:00 am
 date created: Tuesday, February 21st 2023, 6:30:00 am
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 dg-publish: false
 draft: false
+modified: Wednesday, June 4th 2025, 10:47:03 pm
 publish: true
 share_link: https://share.note.sx/68xttomp#2HIaFYTtQbH8yMk1WSk+78vxl5Tz0Qk8a7FkvZKexnM
 share_updated: 2025-03-17T17:46:18+00:00
@@ -178,6 +180,7 @@ Enduring (+1 Soak)
 ### Smuggler:
 
 #### Scoundrel:
+
 - Convincing Demeanor
 	Remove 1 setback die per rank from deception or skullduggery checks
 
@@ -326,6 +329,7 @@ DMG 5 Crit 3 breach 1, burn 3, sunder, vicious 3
 45cr left over+pocket money
 
 ### Backstory Characters:
+
 #### Contact:
 
 Marvin. Big gross Hutt slug. Lots of money. Discrete. Knows people in high places. But also friendly and generous. Funeral director. Uses business as cover for smuggling. (You can fit a lot of stuff in a casket big enough for a Hutt)

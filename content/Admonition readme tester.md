@@ -1,10 +1,12 @@
 ---
-tags: 
-aliases: 
+tags: []
+aliases: []
+created: Sunday, April 23rd 2023, 9:21:43 pm
 date created: Sunday, April 23rd 2023, 9:21:43 pm
 date modified: Friday, May 30th 2025, 11:42:24 am
 dg-publish: false
 draft: TRUE
+modified: Wednesday, June 4th 2025, 10:47:10 pm
 title: Admonition Readme Tester
 ---
 
@@ -691,10 +693,10 @@ See [[#publish|Publish]] for more information.
 
 No additional features are planned at this time. If there is a feature missing that you would like to see, please open an issue.
 
--   [x] Add the ability to collapse the admonition
--   [x] Custom admonitions
--   [x] Settings tab to customize icon and color of all admonitions
--   [x] Ability to render markdown inside an admonition
+- [x] Add the ability to collapse the admonition
+- [x] Custom admonitions
+- [x] Settings tab to customize icon and color of all admonitions
+- [x] Ability to render markdown inside an admonition
 
 # Installation
 
@@ -702,20 +704,20 @@ No additional features are planned at this time. If there is a feature missing t
 
 From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
 
--   Open Settings > Third-party plugin
--   Make sure Safe mode is **off**
--   Click Browse community plugins
--   Search for this plugin
--   Click Install
--   Once installed, close the community plugins window and activate the newly installed plugin
+- Open Settings > Third-party plugin
+- Make sure Safe mode is **off**
+- Click Browse community plugins
+- Search for this plugin
+- Click Install
+- Once installed, close the community plugins window and activate the newly installed plugin
 
 ## From GitHub
 
--   Download the Latest Release from the Releases section of the GitHub Repository
--   Extract the plugin folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
+- Download the Latest Release from the Releases section of the GitHub Repository
+- Extract the plugin folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
     Note: On some machines the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
--   Reload Obsidian
--   If prompted about Safe Mode, you can disable safe mode and enable the plugin.
+- Reload Obsidian
+- If prompted about Safe Mode, you can disable safe mode and enable the plugin.
     Otherwise head to Settings, third-party plugins, make sure safe mode is off and
     enable the plugin from there.
 
@@ -733,14 +735,15 @@ Please ensure you have automated backups.
 
 If you're using Obsidian to run/plan a TTRPG, you may find my other plugin useful:
 
--   [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Add interactive maps to Obsidian.md notes
--   [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - Add some randomness to your notes
--   [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - Track TTRPG Initiative in Obsidian
--   [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - 5e-style statblocks inside notes!
+- [Obsidian Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin) - Add interactive maps to Obsidian.md notes
+- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) - Add some randomness to your notes
+- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker) - Track TTRPG Initiative in Obsidian
+- [5e Statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - 5e-style statblocks inside notes!
 
 <a href="https://www.buymeacoffee.com/valentine195"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"></a>
 
 ## Related Notes
+
 - [[Obsidian Resources]]
 - [[Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
 - [[Obsidian Resources (1)]]

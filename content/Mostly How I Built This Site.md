@@ -1,9 +1,11 @@
 ---
 tags: []
 aliases: []
+created: Tuesday, March 18th 2025, 10:08:46 pm
 date created: Tuesday, March 18th 2025, 10:08:46 pm
 date modified: Thursday, May 15th 2025, 8:29:41 pm
 draft: false
+modified: Wednesday, June 4th 2025, 10:47:03 pm
 publish: true
 title: Mostly How I Built This Site
 ---
@@ -11,6 +13,7 @@ title: Mostly How I Built This Site
 # Mostly How I Built This Site
 
 ## Inspiration / Reasoning
+
 - https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/
 - https://zanca.dev/blog/quartz (and probably some of the sites they link to)
 - ["Official" Quartz documentation](https://quartz.jzhao.xyz) leaves a wee bit to be desired for the dummies like me

@@ -1,10 +1,12 @@
 ---
 tags: []
 aliases: []
+created: Thursday, November 24th 2022, 8:08:15 pm
 date created: Thursday, November 24th 2022, 8:08:15 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 dg-publish: false
 draft: false
+modified: Wednesday, June 4th 2025, 10:47:03 pm
 title: Obsidian as a Second Brain Video Notes
 ---
 
@@ -47,12 +49,14 @@ Hashtags next!
 Useful for catching stuff that might not warrant it’s own note, example given is something you’ve been thinking of on and off for a while. Can tag it up, and easily search for all the references to it that you’ve made in any notes, referencing daily notes again. I guess if that gets to be enough unrelated bits n bobs scattered around the place can be easily pulled into/referenced/collated into a more formal/structured note. 
 
 ## When Should I Use Links?
+
 - topics/concepts/research articles
 Concepts, pages, reusable stuff, people
 Separate nodes
 More structure
 
 ## When Should I Use Hashtags?
+
 - Categories *with intent*
 fundamentally about searchability
 When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md|writing]] will be put together. For more loosely related ideas
