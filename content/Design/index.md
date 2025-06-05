@@ -1,11 +1,11 @@
 ---
 tags: [MOCs]
 created: Thursday, June 5th 2025, 11:22:10 am
-modified: Thursday, June 5th 2025, 11:22:13 am
-title: Index
+modified: Thursday, June 5th 2025, 12:28:53 pm
+title: Design
 ---
 
-# Index
+# Design
 
 ```folder-index-content
 ```
