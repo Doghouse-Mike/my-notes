@@ -6,7 +6,7 @@ date created: Tuesday, January 7th 2025, 9:54:56 pm
 date modified: Thursday, May 8th 2025, 10:08:25 am
 dg-publish: false
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
 ---
 

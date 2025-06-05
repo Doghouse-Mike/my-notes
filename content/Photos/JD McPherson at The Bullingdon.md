@@ -6,7 +6,7 @@ date created: Tuesday, April 12th 2022, 1:31:16 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 dg-publish: false
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 title: JD McPherson at The Bullingdon
 url: https://doghouse-mike.micro.blog/jd-mcpherson-at-the-bullingdon/
 ---

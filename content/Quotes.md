@@ -6,7 +6,7 @@ date created: Sunday, October 23rd 2011, 10:20:58 pm
 date modified: Tuesday, May 20th 2025, 10:09:45 pm
 dg-publish: false
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 publish: true
 title: Quotes
 ---

@@ -3,7 +3,7 @@ created: Tuesday, April 1st 2025, 5:12:14 pm
 date created: Thursday, March 27th 2025, 8:17:14 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 publish: true
 title: DLH Funday 2022
 ---

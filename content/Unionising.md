@@ -5,7 +5,7 @@ created: Monday, April 7th 2025, 11:18:43 pm
 date created: Tuesday, March 18th 2025, 9:46:55 am
 date modified: Friday, May 9th 2025, 8:03:09 am
 draft: false
-modified: Wednesday, June 4th 2025, 10:46:53 pm
+modified: Thursday, June 5th 2025, 11:24:52 am
 publish: true
 title: "The Idiot's Guide to Unionising Your UK Workplace"
 ---

@@ -6,7 +6,7 @@ date created: Saturday, March 26th 2022, 9:44:42 am
 date modified: Tuesday, April 22nd 2025, 4:28:02 pm
 dg-publish: true
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:05 pm
+modified: Thursday, June 5th 2025, 11:25:10 am
 title: Misc
 url: https://doghouse-mike.micro.blog/misc/
 ---

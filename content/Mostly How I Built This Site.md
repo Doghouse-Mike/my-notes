@@ -5,7 +5,7 @@ created: Tuesday, March 18th 2025, 10:08:46 pm
 date created: Tuesday, March 18th 2025, 10:08:46 pm
 date modified: Thursday, May 15th 2025, 8:29:41 pm
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 publish: true
 title: Mostly How I Built This Site
 ---

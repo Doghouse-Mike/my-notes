@@ -3,7 +3,7 @@ created: Thursday, October 3rd 2024, 10:26:28 pm
 date created: Thursday, October 3rd 2024, 10:26:28 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: Wednesday, June 4th 2025, 10:47:03 pm
+modified: Thursday, June 5th 2025, 11:24:55 am
 publish: true
 title: Obsidian Dataview Cheatsheet
 ---
