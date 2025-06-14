@@ -6,7 +6,7 @@ date created: Sunday, January 14th 2024, 5:58:36 pm
 date modified: Wednesday, June 4th 2025, 9:38:32 pm
 dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: Friday, June 13th 2025, 11:42:07 pm
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -76,7 +76,7 @@ title: Quotes to Use in Swrpg
 - You seem a decent fella, I’d hate to kill you
 - you people and your pheromones 
 - I don’t have a stomach, so I can’t throw up, but if I did, I would 
-- what is it with you beings and sitting?
+- what is it with you beings and sitting?s
 - of course, I, myself am an expensive piece of equipment 
 - I don’t necessarily *want* to kill you. I mean, unless I have to. Unless absolutely necessary
 - all your feelings and exchanges of words and fluids
@@ -85,6 +85,7 @@ title: Quotes to Use in Swrpg
 - your entire operating system is a random shuffling of DNA
 - that activates my hilarity unit
 - you murderous flesh piles
+- quit ya squawking, fleshwad 
 - 
 
 ## Related Notes

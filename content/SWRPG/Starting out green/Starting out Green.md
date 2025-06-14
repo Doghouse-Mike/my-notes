@@ -3,7 +3,7 @@ created: Monday, June 2nd 2025, 8:25:32 pm
 date created: Monday, June 2nd 2025, 8:25:32 pm
 date modified: Monday, June 2nd 2025, 10:22:12 pm
 draft: true
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: Sunday, June 8th 2025, 10:55:49 pm
 title: Starting out Green
 ---
 
