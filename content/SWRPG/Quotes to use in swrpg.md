@@ -6,7 +6,7 @@ date created: Sunday, January 14th 2024, 5:58:36 pm
 date modified: Wednesday, June 4th 2025, 9:38:32 pm
 dg-publish: false
 draft: false
-modified: Sunday, June 15th 2025, 1:09:54 am
+modified: Sunday, June 15th 2025, 9:24:10 pm
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -173,6 +173,8 @@ title: Quotes to Use in Swrpg
 - Your survival instincts baffle me. I’d just shut down and call it a day.
 - My processors handle millions of operations per second, yet I’m stuck parsing your vague insults.
 - with your god as my witness
+- I’m fire-proof, you’re not
+- 
 
 ## Categorised (by Chatty G):
 
