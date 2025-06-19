@@ -5,7 +5,7 @@ created: Tuesday, March 18th 2025, 10:08:46 pm
 date created: Tuesday, March 18th 2025, 10:08:46 pm
 date modified: Thursday, May 15th 2025, 8:29:41 pm
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: Thursday, June 19th 2025, 5:47:34 pm
 publish: true
 title: Mostly How I Built This Site
 ---
@@ -16,8 +16,10 @@ title: Mostly How I Built This Site
 
 - https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/
 - https://zanca.dev/blog/quartz (and probably some of the sites they link to)
+- https://obsidian-gallery.craftengineer.com/
 - ["Official" Quartz documentation](https://quartz.jzhao.xyz) leaves a wee bit to be desired for the dummies like me
 - https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/ Hmm, uses Hugo too, might look into this some more for "easy" theming and *maybe* more selective publishing
+- See also [[Some interesting sites made in Obsidian]]
 
 I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit) was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
 

@@ -6,7 +6,7 @@ date created: Sunday, January 14th 2024, 5:58:36 pm
 date modified: Wednesday, June 4th 2025, 9:38:32 pm
 dg-publish: false
 draft: false
-modified: Sunday, June 15th 2025, 9:24:10 pm
+modified: Monday, June 16th 2025, 11:07:39 pm
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg

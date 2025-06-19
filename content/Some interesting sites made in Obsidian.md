@@ -6,7 +6,7 @@ date created: Tuesday, April 25th 2023, 4:51:21 pm
 date modified: Tuesday, May 13th 2025, 10:04:56 pm
 dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: Thursday, June 19th 2025, 5:46:58 pm
 title: Some Interesting Sites Made in Obsidian
 ---
 
@@ -32,3 +32,4 @@ Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+
 - https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/
 - https://blog.networkchuck.com/posts/my-insane-blog-pipeline/
 - https://www.alienduckpig.com/
+- https://obsidian-gallery.craftengineer.com/
