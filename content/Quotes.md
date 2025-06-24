@@ -6,7 +6,7 @@ date created: Sunday, October 23rd 2011, 10:20:58 pm
 date modified: Tuesday, May 20th 2025, 10:09:45 pm
 dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: Monday, June 23rd 2025, 10:21:18 pm
 publish: true
 title: Quotes
 ---
@@ -38,3 +38,13 @@ Ira Glass
 Your mind is for having ideas, not holding them. —David Allen, author of Getting Things Done
 
 Everything not saved will be lost. —Nintendo “Quit Screen” message
+
+Be regular and orderly in your life so that you may be violent and
+
+original in your work.
+
+—Gustave Flaubert, French novelist
+
+Verum ipsum factum (“We only know what we make”)
+
+—Giambattista Vico, Italian philosopher

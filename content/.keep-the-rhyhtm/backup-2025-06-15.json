@@ -13169,7 +13169,7 @@
       },
       {
         "date": "2025-06-13",
-        "filePath": "Drafts/Starting out Green session one.md",
+        "filePath": "SWRPG/Starting out green/Starting out Green session one.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13271,18 +13271,399 @@
         "id": 940
       },
       {
-        "date": "2025-06-16",
-        "filePath": "SWRPG/Quotes to use in swrpg.md",
-        "wordCountStart": 3429,
-        "charCountStart": 18519,
+        "date": "2025-06-17",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3391,
+        "charCountStart": 20152,
         "changes": [
           {
-            "timeKey": "23:10",
+            "timeKey": "09:05",
+            "w": 1,
+            "c": -2
+          },
+          {
+            "timeKey": "12:50",
             "w": 0,
-            "c": 1
+            "c": -1
+          },
+          {
+            "timeKey": "14:25",
+            "w": 27,
+            "c": 140
           }
         ],
         "id": 941
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "SWRPG/Quotes to use in swrpg.md",
+        "wordCountStart": 3429,
+        "charCountStart": 18520,
+        "changes": [],
+        "id": 942
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "SWRPG/Starting out green/Starting out Green.md",
+        "wordCountStart": 224,
+        "charCountStart": 1726,
+        "changes": [],
+        "id": 943
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "SWRPG/Starting out green/Starting out Green session one.md",
+        "wordCountStart": 240,
+        "charCountStart": 1385,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 48,
+            "c": 279
+          },
+          {
+            "timeKey": "12:55",
+            "w": 20,
+            "c": 116
+          }
+        ],
+        "id": 944
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Drafts/Top Banana Votes for May 2025.md",
+        "wordCountStart": 306,
+        "charCountStart": 1711,
+        "changes": [],
+        "id": 945
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Drafts/Clearpay brokeness June 2025.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 65,
+            "c": 395
+          },
+          {
+            "timeKey": "13:10",
+            "w": 42,
+            "c": 334
+          },
+          {
+            "timeKey": "13:15",
+            "w": 37,
+            "c": 268
+          }
+        ],
+        "id": 946
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 947
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3419,
+        "charCountStart": 20289,
+        "changes": [],
+        "id": 948
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Drafts/Clearpay brokeness June 2025.md",
+        "wordCountStart": 144,
+        "charCountStart": 997,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 26,
+            "c": 156
+          },
+          {
+            "timeKey": "12:55",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "13:00",
+            "w": 2,
+            "c": 5
+          },
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 949
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 950
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3419,
+        "charCountStart": 20289,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:00",
+            "w": 28,
+            "c": 172
+          },
+          {
+            "timeKey": "16:10",
+            "w": 139,
+            "c": 827
+          }
+        ],
+        "id": 951
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 952
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Drafts/Clearpay brokeness June 2025.md",
+        "wordCountStart": 174,
+        "charCountStart": 1167,
+        "changes": [],
+        "id": 953
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Slurped Pages/iPad Pro for Everything - How I Rethought My Entire Workflow Around the New 11” iPad Pro.md",
+        "wordCountStart": 9943,
+        "charCountStart": 56370,
+        "changes": [],
+        "id": 954
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Mostly How I Built This Site.md",
+        "wordCountStart": 2373,
+        "charCountStart": 13905,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 12,
+            "c": 103
+          }
+        ],
+        "id": 955
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Some interesting sites made in Obsidian.md",
+        "wordCountStart": 398,
+        "charCountStart": 2506,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 4,
+            "c": 46
+          }
+        ],
+        "id": 956
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "Mostly How I Built This Site.md",
+        "wordCountStart": 2385,
+        "charCountStart": 14006,
+        "changes": [],
+        "id": 957
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "Daily notes/2025-06-20.md",
+        "wordCountStart": 85,
+        "charCountStart": 481,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 24,
+            "c": 114
+          },
+          {
+            "timeKey": "22:35",
+            "w": 30,
+            "c": 165
+          },
+          {
+            "timeKey": "22:40",
+            "w": 17,
+            "c": 89
+          }
+        ],
+        "id": 958
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "SWRPG/Quotes to use in swrpg.md",
+        "wordCountStart": 3429,
+        "charCountStart": 18520,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 8,
+            "c": 36
+          }
+        ],
+        "id": 959
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "Clippings/How I Organize Obsidian with Maps of Content (MOCs) - Aidan Helfant's Digital Garden - Obsidian Publish.md",
+        "wordCountStart": 1795,
+        "charCountStart": 10548,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": -6
+          }
+        ],
+        "id": 960
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "Drafts/Second Brain Beginner's Guid.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 3624,
+            "c": 22219
+          }
+        ],
+        "id": 961
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "Drafts/Notes on Building a second brain.md",
+        "wordCountStart": 220,
+        "charCountStart": 1221,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 6,
+            "c": 37
+          },
+          {
+            "timeKey": "21:20",
+            "w": -13,
+            "c": -81
+          },
+          {
+            "timeKey": "22:00",
+            "w": 0,
+            "c": -5
+          },
+          {
+            "timeKey": "22:35",
+            "w": 77,
+            "c": 451
+          },
+          {
+            "timeKey": "23:05",
+            "w": 192,
+            "c": 1028
+          },
+          {
+            "timeKey": "23:10",
+            "w": 44,
+            "c": 290
+          },
+          {
+            "timeKey": "23:15",
+            "w": 48,
+            "c": 288
+          }
+        ],
+        "id": 962
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "Quotes.md",
+        "wordCountStart": 586,
+        "charCountStart": 3121,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 22,
+            "c": 126
+          }
+        ],
+        "id": 963
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3585,
+        "charCountStart": 21289,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 8,
+            "c": 35
+          },
+          {
+            "timeKey": "11:20",
+            "w": 1,
+            "c": -1
+          },
+          {
+            "timeKey": "13:25",
+            "w": -1,
+            "c": 2
+          }
+        ],
+        "id": 964
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "Daily notes/2025-06-23.md",
+        "wordCountStart": 85,
+        "charCountStart": 481,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 22,
+            "c": 152
+          }
+        ],
+        "id": 965
       }
     ],
     "daysWithCompletedGoal": [
