@@ -13664,6 +13664,137 @@
           }
         ],
         "id": 965
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3593,
+        "charCountStart": 21323,
+        "changes": [],
+        "id": 966
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 227,
+        "charCountStart": 1298,
+        "changes": [
+          {
+            "timeKey": "09:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:15",
+            "w": 22,
+            "c": 157
+          }
+        ],
+        "id": 967
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 54,
+            "c": 296
+          },
+          {
+            "timeKey": "21:00",
+            "w": 25,
+            "c": 127
+          },
+          {
+            "timeKey": "22:20",
+            "w": 13,
+            "c": 84
+          }
+        ],
+        "id": 968
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "Drafts/Notes on Building a second brain.md",
+        "wordCountStart": 620,
+        "charCountStart": 3468,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 316,
+            "c": 1694
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": -4
+          }
+        ],
+        "id": 969
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "Quotes.md",
+        "wordCountStart": 608,
+        "charCountStart": 3248,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 13,
+            "c": 91
+          }
+        ],
+        "id": 970
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 92,
+        "charCountStart": 507,
+        "changes": [
+          {
+            "timeKey": "07:00",
+            "w": 4,
+            "c": 22
+          },
+          {
+            "timeKey": "08:15",
+            "w": 21,
+            "c": 117
+          },
+          {
+            "timeKey": "08:25",
+            "w": 49,
+            "c": 291
+          },
+          {
+            "timeKey": "08:30",
+            "w": 61,
+            "c": 361
+          },
+          {
+            "timeKey": "09:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:15",
+            "w": 22,
+            "c": 157
+          }
+        ],
+        "id": 971
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 571,
+        "charCountStart": 6046,
+        "changes": [],
+        "id": 972
       }
     ],
     "daysWithCompletedGoal": [

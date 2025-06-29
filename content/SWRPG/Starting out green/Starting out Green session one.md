@@ -1,6 +1,6 @@
 ---
 created: Friday, June 13th 2025, 9:05:37 pm
-modified: Tuesday, June 17th 2025, 1:07:28 pm
+modified: Friday, June 27th 2025, 10:07:15 pm
 title: Starting out Green Session One
 ---
 
@@ -10,13 +10,13 @@ Character intros
 
 Splat is the little guy with the brains
 
-Got a big ol mando fighter type
+Got a big ol mando fighter type - Syberius Tornripper (this is Dom, the human)
 
 and a mando (for now, changing) smuggler/mechanic maybe
 
 nother human smuggler type
 
-Narvik Trench (Brian) Brian the Human is a wee bit aggy
+Narvik Trench (Brian) Brian the Human is a wee bit aggy Briandawiz?. They deed now
 
 Syberius Tornripper
 
@@ -26,7 +26,7 @@ Zarlo Grey (Will)
 
 Me (KD)
 
-Briandawiz?
+Dom?
 
 ## Recap of Last Session
 
