@@ -178,6 +178,7 @@ title: Quotes to Use in Swrpg
 - I was born for this kind of espionage
 - Fool me once, shame on me. Fool me twice, I need to end your life
 - Sometimes at the most basic level, to be alive, you must stop other people being alive. This is what we do, we are extremely good at it 
+- it takes a vast amount of self control to be this deadly
 - 
 
 ## Categorised (by Chatty G):
