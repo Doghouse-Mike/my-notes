@@ -6,7 +6,7 @@ date created: Sunday, January 14th 2024, 5:58:36 pm
 date modified: Wednesday, June 4th 2025, 9:38:32 pm
 dg-publish: false
 draft: false
-modified: Sunday, June 29th 2025, 5:54:21 pm
+modified: Tuesday, July 1st 2025, 10:03:59 am
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -176,6 +176,9 @@ title: Quotes to Use in Swrpg
 - I’m fire-proof, you’re not
 - not a wrinkle on that brain of yours
 - I was born for this kind of espionage
+- Fool me once, shame on me. Fool me twice, I need to end your life
+- Sometimes at the most basic level, to be alive, you must stop other people being alive. This is what we do, we are extremely good at it 
+- 
 
 ## Categorised (by Chatty G):
 

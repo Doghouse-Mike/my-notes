@@ -13670,7 +13670,28 @@
         "filePath": "Drafts/Secret sales runx.md",
         "wordCountStart": 3593,
         "charCountStart": 21323,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 1
+          }
+        ],
         "id": 966
       },
       {
@@ -13688,6 +13709,76 @@
             "timeKey": "09:15",
             "w": 22,
             "c": 157
+          },
+          {
+            "timeKey": "09:40",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "10:05",
+            "w": 9,
+            "c": 88
+          },
+          {
+            "timeKey": "10:10",
+            "w": 32,
+            "c": 209
+          },
+          {
+            "timeKey": "10:15",
+            "w": 11,
+            "c": 57
+          },
+          {
+            "timeKey": "10:20",
+            "w": 18,
+            "c": 154
+          },
+          {
+            "timeKey": "10:25",
+            "w": 16,
+            "c": 108
+          },
+          {
+            "timeKey": "10:30",
+            "w": 202,
+            "c": 1232
+          },
+          {
+            "timeKey": "11:00",
+            "w": 20,
+            "c": 129
+          },
+          {
+            "timeKey": "11:05",
+            "w": 21,
+            "c": 108
+          },
+          {
+            "timeKey": "11:15",
+            "w": 9,
+            "c": 57
+          },
+          {
+            "timeKey": "11:20",
+            "w": 12,
+            "c": 57
+          },
+          {
+            "timeKey": "11:25",
+            "w": 21,
+            "c": 144
+          },
+          {
+            "timeKey": "11:35",
+            "w": 10,
+            "c": 67
+          },
+          {
+            "timeKey": "11:40",
+            "w": 31,
+            "c": 191
           }
         ],
         "id": 967
@@ -13784,6 +13875,76 @@
             "timeKey": "09:15",
             "w": 22,
             "c": 157
+          },
+          {
+            "timeKey": "09:40",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "10:05",
+            "w": 9,
+            "c": 88
+          },
+          {
+            "timeKey": "10:10",
+            "w": 32,
+            "c": 209
+          },
+          {
+            "timeKey": "10:15",
+            "w": 11,
+            "c": 57
+          },
+          {
+            "timeKey": "10:20",
+            "w": 18,
+            "c": 154
+          },
+          {
+            "timeKey": "10:25",
+            "w": 16,
+            "c": 108
+          },
+          {
+            "timeKey": "10:30",
+            "w": 202,
+            "c": 1232
+          },
+          {
+            "timeKey": "11:00",
+            "w": 20,
+            "c": 129
+          },
+          {
+            "timeKey": "11:05",
+            "w": 21,
+            "c": 108
+          },
+          {
+            "timeKey": "11:15",
+            "w": 9,
+            "c": 57
+          },
+          {
+            "timeKey": "11:20",
+            "w": 12,
+            "c": 57
+          },
+          {
+            "timeKey": "11:25",
+            "w": 21,
+            "c": 144
+          },
+          {
+            "timeKey": "11:35",
+            "w": 10,
+            "c": 67
+          },
+          {
+            "timeKey": "11:40",
+            "w": 31,
+            "c": 191
           }
         ],
         "id": 971
@@ -13795,6 +13956,376 @@
         "charCountStart": 6046,
         "changes": [],
         "id": 972
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 168,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 973
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 974
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Large Attachments/Forte T. Building a Second Brain. A Proven Method...2022.pdf",
+        "wordCountStart": 1744042,
+        "charCountStart": 8512880,
+        "changes": [],
+        "id": 976
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 977
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 661,
+        "charCountStart": 4054,
+        "changes": [],
+        "id": 978
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 168,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 979
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 980
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3593,
+        "charCountStart": 21324,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": 44,
+            "c": 212
+          },
+          {
+            "timeKey": "09:40",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "10:45",
+            "w": 1,
+            "c": -2
+          },
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "16:05",
+            "w": 20,
+            "c": 114
+          }
+        ],
+        "id": 981
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3665,
+        "charCountStart": 21699,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 17,
+            "c": 99
+          },
+          {
+            "timeKey": "10:20",
+            "w": 2,
+            "c": 11
+          },
+          {
+            "timeKey": "10:25",
+            "w": 13,
+            "c": 83
+          },
+          {
+            "timeKey": "10:40",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:20",
+            "w": -3,
+            "c": -11
+          },
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "16:35",
+            "w": 80,
+            "c": 503
+          }
+        ],
+        "id": 982
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Large Attachments/Forte T. Building a Second Brain. A Proven Method...2022.pdf",
+        "wordCountStart": 1744042,
+        "charCountStart": 8512880,
+        "changes": [],
+        "id": 983
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/SS terms and conditions 20250626.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 5863,
+            "c": 34454
+          },
+          {
+            "timeKey": "11:25",
+            "w": 121,
+            "c": 710
+          },
+          {
+            "timeKey": "12:05",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 984
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/Proposed returns policy changes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 395,
+            "c": 2513
+          },
+          {
+            "timeKey": "12:15",
+            "w": 639,
+            "c": 4192
+          },
+          {
+            "timeKey": "12:20",
+            "w": -12,
+            "c": -174
+          },
+          {
+            "timeKey": "12:50",
+            "w": 525,
+            "c": 3294
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 985
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 986
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 661,
+        "charCountStart": 4054,
+        "changes": [],
+        "id": 987
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 168,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 988
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 989
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 3776,
+        "charCountStart": 22398,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 16,
+            "c": 92
+          },
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:50",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "13:55",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 990
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Proposed returns policy changes.md",
+        "wordCountStart": 1547,
+        "charCountStart": 9824,
+        "changes": [],
+        "id": 991
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Debs wrongly returned items to raise.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 12,
+            "c": 124
+          },
+          {
+            "timeKey": "10:30",
+            "w": 20,
+            "c": 129
+          },
+          {
+            "timeKey": "10:40",
+            "w": 33,
+            "c": 188
+          },
+          {
+            "timeKey": "10:50",
+            "w": 26,
+            "c": 142
+          }
+        ],
+        "id": 992
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 993
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 661,
+        "charCountStart": 4054,
+        "changes": [],
+        "id": 994
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 168,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 995
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10434,
+        "charCountStart": 60633,
+        "changes": [],
+        "id": 996
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "Drafts/SS terms and conditions 20250626.md",
+        "wordCountStart": 5984,
+        "charCountStart": 35163,
+        "changes": [],
+        "id": 997
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 999
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "SWRPG/Quotes to use in swrpg.md",
+        "wordCountStart": 3437,
+        "charCountStart": 18558,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 8,
+            "c": 37
+          }
+        ],
+        "id": 1000
       }
     ],
     "daysWithCompletedGoal": [
