@@ -1,9 +1,11 @@
 ---
-{"publish":true,"permalink":"/Admonition readme tester.md","aliases":"","title":"Admonition Readme Tester","draft":true,"created":"Sunday, April 23rd 2023, 9:21:43 pm","modified":"Friday, May 30th 2025, 11:42:24 am","cssclasses":""}
+{"publish":true,"permalink":"/Admonition readme tester.md","title":"Admonition Readme Tester","draft":true,"created":"2023-07-01T09:21:43","cssclasses":""}
 ---
 
 
 # Admonition Readme Tester
+
+Original creation date, just in case I break it. Sunday, April 23rd 2023, 9:21:43 pm
 
 ```ad-note
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
