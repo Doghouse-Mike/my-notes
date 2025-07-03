@@ -1,10 +1,7 @@
 ---
-created: Saturday, May 31st 2025, 6:00:05 pm
-date created: Saturday, May 31st 2025, 6:00:05 pm
-date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Notes on New Swrpg Character Ideas
+{"publish":true,"permalink":"/SWRPG/Notes on new swrpg character ideas.md","title":"Notes on New Swrpg Character Ideas","created":"Saturday, May 31st 2025, 6:00:05 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Notes on New Swrpg Character Ideas
 

@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 8th 2025, 3:08:29 pm
-date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Friday, May 9th 2025, 8:02:45 am
-draft: false
-modified: Friday, June 27th 2025, 1:55:08 pm
-publish: true
-title: "Unionising Our Workplace: Key Points"
+{"publish":true,"permalink":"/Unionising summary.md","aliases":"","title":"Unionising Our Workplace: Key Points","created":"Tuesday, April 8th 2025, 3:08:29 pm","modified":"Friday, June 27th 2025, 1:55:08 pm","cssclasses":""}
 ---
+
 
 # Unionising Our Workplace: Key Points
 
@@ -27,7 +20,7 @@ title: "Unionising Our Workplace: Key Points"
 
 1. **Join individually and quietly**
    - Each person joins their preferred union independently
-	   - see [[#Next Steps]] below, step zero will be to pick a union. 
+	   - see [[Unionising summary#Next Steps]] below, step zero will be to pick a union. 
    - Keep membership private initially
    - We can all join even if working remotely from outside the UK
 	   - Checked this because we get a bit spread out, and I know other departments have people actually based in other countries, but if they're being paid by a company based in the UK, they're still eligible to join. 

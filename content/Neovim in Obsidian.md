@@ -1,10 +1,7 @@
 ---
-created: Monday, June 30th 2025, 9:52:24 pm
-draft: false
-modified: Monday, June 30th 2025, 9:55:19 pm
-publish: true
-title: Neovim in Obsidian
+{"publish":true,"permalink":"/Neovim in Obsidian.md","title":"Neovim in Obsidian","created":"Monday, June 30th 2025, 9:52:24 pm","modified":"Wednesday, July 2nd 2025, 10:31:37 pm","cssclasses":""}
 ---
+
 
 # Neovim in Obsidian
 

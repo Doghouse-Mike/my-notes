@@ -1,15 +1,7 @@
 ---
-tags: []
-date: 2015-06-24
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
-title: Eagleness
+{"publish":true,"permalink":"/eagleness.md","aliases":"","title":"Eagleness","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","cssclasses":""}
 ---
+
 
 # Eagleness
 

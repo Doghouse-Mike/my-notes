@@ -1,23 +1,15 @@
 ---
-tags: []
-aliases: []
-created: Thursday, August 3rd 2023, 8:37:45 pm
-date created: Thursday, August 3rd 2023, 8:37:45 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-publish: true
-title: SWRPG Session 3
+{"publish":true,"permalink":"/SWRPG/SWRPG Session 3.md","aliases":"","title":"SWRPG Session 3","created":"Thursday, August 3rd 2023, 8:37:45 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # SWRPG Session 3
 
-[[Mike's SWRPG character Feb '23]]
+[[SWRPG/Mike's SWRPG character Feb '23]]
 
-[[SWRPG session 1]]
+[[SWRPG/SWRPG session 1]]
 
-[[SWRPG Session 2]]
+[[SWRPG/SWRPG Session 2]]
 
 Spent XP, onto the ship!
 

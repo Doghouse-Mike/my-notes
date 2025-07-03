@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Tuesday, April 12th 2022, 1:31:16 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: JD McPherson at The Bullingdon
-url: https://doghouse-mike.micro.blog/jd-mcpherson-at-the-bullingdon/
+{"publish":true,"permalink":"/Photos/JD McPherson at The Bullingdon.md","aliases":"","title":"JD McPherson at The Bullingdon","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # JD McPherson at The Bullingdon
 

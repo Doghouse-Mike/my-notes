@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, May 27th 2024, 11:58:27 pm
-date created: Monday, May 27th 2024, 11:58:27 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:54 am
-publish: true
-title: Stuff to Get
+{"publish":true,"permalink":"/SWRPG/Stuff to get.md","aliases":"","title":"Stuff to Get","created":"Monday, May 27th 2024, 11:58:27 pm","modified":"Thursday, June 5th 2025, 11:24:54 am","cssclasses":""}
 ---
+
 
 # Stuff to Get
 

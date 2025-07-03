@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Sunday, April 23rd 2023, 9:21:43 pm
-date created: Sunday, April 23rd 2023, 9:21:43 pm
-date modified: Friday, May 30th 2025, 11:42:24 am
-dg-publish: false
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:25:14 am
-title: Admonition Readme Tester
+{"publish":true,"permalink":"/Admonition readme tester.md","aliases":"","title":"Admonition Readme Tester","draft":true,"created":"Sunday, April 23rd 2023, 9:21:43 pm","modified":"Thursday, June 5th 2025, 11:25:14 am","cssclasses":""}
 ---
+
 
 # Admonition Readme Tester
 
@@ -238,7 +231,7 @@ This is in the original admonition.
 
 ## Rendering Code Blocks inside Admonitions
 
-Code blocks may be nested inside admonitions using a method similar to [[#Nesting-Admonitions|Nesting Admonitions]] above.
+Code blocks may be nested inside admonitions using a method similar to [[Admonition readme tester#Nesting-Admonitions\|Nesting Admonitions]] above.
 
 Additionally, for a single layer, the `~~~` markdown codeblock syntax may be used:
 
@@ -318,7 +311,7 @@ This will open a modal where the admonition type, title and collapse behavior ca
 
 ### Admonition-specific Commands
 
-Commands may be registered for each [[#custom-admonition-types|custom admonition]] type to insert them into an open note by clicking the `Register Commands` button in [[#custom-admonition-types|Settings]].
+Commands may be registered for each [[Admonition readme tester#custom-admonition-types\|custom admonition]] type to insert them into an open note by clicking the `Register Commands` button in [[Admonition readme tester#custom-admonition-types\|Settings]].
 
 3 commands will be registered: `Insert <type> Callout`, `Insert <type>`, and `Insert <type> with Title`.
 
@@ -504,15 +497,15 @@ Additional icon packs can be downloaded in settings.
 
 Want to add an existing icon pack? Make a pull request with the following:
 
-1. Add a new folder in the [[./icons|icons]] folder with the name of your icon set.
-2. Create an `icons.json` file that has the icons defined as an Object. Please see the [[./icons/octicons/icons.json|Octicons json]] for reference.
-3. Put your icon pack's information in the two variables in the [[./src/icons/packs.ts|Icon Packs]] file.
+1. Add a new folder in the [[./icons\|icons]] folder with the name of your icon set.
+2. Create an `icons.json` file that has the icons defined as an Object. Please see the [[./icons/octicons/icons.json\|Octicons json]] for reference.
+3. Put your icon pack's information in the two variables in the [[./src/icons/packs.ts\|Icon Packs]] file.
 
 # Settings
 
 ## Custom Admonition Types
 
-[[#custom-admonitions--callouts|Custom admonition]] types can be created and managed in this section of the settings.
+[[Admonition readme tester#custom-admonitions--callouts\|Custom admonition]] types can be created and managed in this section of the settings.
 
 ### Export Custom Types as CSS
 
@@ -643,7 +636,7 @@ Enabled use of `!!! ad-<type>` style admonitions. No longer supported, will be r
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for blockquote admonitions.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] for blockquote admonitions.
 
 ### Use Microsoft Document Syntax for Indented Code Blocks
 
@@ -651,7 +644,7 @@ Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for 
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for indented code blocks.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] for indented code blocks.
 
 ### Render Microsoft Document Syntax in Live Preview
 
@@ -659,7 +652,7 @@ Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] for 
 > 
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[#microsoft-document-syntax|Microsoft Document Syntax]] in live preview.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] in live preview.
 
 This feature is still under development and you may experience rendering bugs.
 
@@ -681,13 +674,13 @@ This setting is experimental. Links will only be synced when rendered in an admo
 
 Please see [this issue](https://github.com/valentine195/obsidian-admonition/issues/144) for more information.
 
-If you require links to be fully synced, it is recommended to use the [[#microsoft-document-syntax|Microsoft Document Syntax]].
+If you require links to be fully synced, it is recommended to use the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]].
 
 ### Generate JS for Publish
 
 Use this setting to enable Admonitions on custom-domain Obsidian Publish websites.
 
-See [[#publish|Publish]] for more information.
+See [[Admonition readme tester#publish\|Publish]] for more information.
 
 # Todo
 
@@ -744,7 +737,7 @@ If you're using Obsidian to run/plan a TTRPG, you may find my other plugin usefu
 
 ## Related Notes
 
-- [[Obsidian Resources]]
-- [[Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
-- [[Obsidian Resources (1)]]
-- [[The iPad’s “Sweet” Solution]]
+- [[Clippings/Obsidian Resources]]
+- [[Clippings/Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
+- [[Clippings/Obsidian Resources (1)]]
+- [[Slurped Pages/The iPad’s “Sweet” Solution]]

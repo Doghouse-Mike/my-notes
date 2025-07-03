@@ -1,8 +1,7 @@
 ---
-created: Friday, June 13th 2025, 9:05:37 pm
-modified: Friday, June 27th 2025, 10:07:15 pm
-title: Starting out Green Session One
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green session one.md","title":"Starting out Green Session One","created":"Friday, June 13th 2025, 9:05:37 pm","modified":"Thursday, July 3rd 2025, 8:04:44 am","cssclasses":""}
 ---
+
 
 # Starting out Green Session One
 
@@ -16,7 +15,7 @@ and a mando (for now, changing) smuggler/mechanic maybe
 
 nother human smuggler type
 
-Narvik Trench (Brian) Brian the Human is a wee bit aggy Briandawiz?. They deed now
+Narvik Trench (Brian) Briandawiz?. They deed now
 
 Syberius Tornripper
 

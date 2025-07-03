@@ -1,13 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Wednesday, August 18th 2021, 11:01:35 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
-title: Swift Notes
+{"publish":true,"permalink":"/Swift notes.md","aliases":"","title":"Swift Notes","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:52 am","cssclasses":""}
 ---
+
 
 # Swift Notes
 
@@ -38,7 +32,7 @@ If don't ever want to change the *value*, can use a *constant* instead
 let character = "Daphne"
 ```
 
-![[Pasted image 20240625220424.png]]
+![[Attachments/Pasted image 20240625220424.png]]
 
 It won't let you change the *value* of the *character* because that's set as a *constant*.
 
@@ -93,7 +87,7 @@ print(name)
 
 Will, when ran, spit out:
 
-![[Pasted image 20240625221235.png]]
+![[Attachments/Pasted image 20240625221235.png]]
 
 Using constants instead of variables lets swift optimise code a bit better but also make it harder for me to accidentally change/mistype a variable by accident. 
 

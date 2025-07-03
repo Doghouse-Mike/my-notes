@@ -1,19 +1,13 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Friday, January 6th 2023, 5:55:30 am
-date modified: Thursday, May 8th 2025, 10:48:51 am
-draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
-title: Theme
+{"publish":true,"permalink":"/Theme.md","aliases":"","title":"Theme","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:52 am","cssclasses":""}
 ---
+
 
 Plans afoot for the [https://www.themesystem.com](https://www.themesystem.com/|Theme System Journal)
 
 I've created a version of the Journal itself as a Template for my Daily Notes within Obsidian, which looks a little something like this:
 
-![[Pasted image 20250411072056.png]]
+![[Attachments/Pasted image 20250411072056.png]]
 
 # Theme
 
@@ -39,7 +33,7 @@ Broadness of a theme allows it to change if needed. I am where I am *now*. The t
 
 Thinking about my thinking changes who I am 
 
-![[Pasted image 20240901180350.png]]
+![[Attachments/Pasted image 20240901180350.png]]
 
 ## Daily Task Guidance
 

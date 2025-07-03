@@ -1,18 +1,11 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Tuesday, January 7th 2025, 9:54:56 pm
-date modified: Thursday, May 8th 2025, 10:08:25 am
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Obsidian October O_O 2024 Vault Self-critique Checklist
+{"publish":true,"permalink":"/Obsidian October 2024 vault self-critique checklist.md","aliases":"","title":"Obsidian October O_O 2024 Vault Self-critique Checklist","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Obsidian October O_O 2024 Vault Self-critique Checklist
 
-100% yoinked from [[Obsidian October 2024 vault self-critique checklist|here]]
+100% yoinked from [[Obsidian October 2024 vault self-critique checklist\|here]]
 
 > [!INFO] Reminder
 > Although we proposed some ways below to maintain and improvement your vault, likely the user of your vault is you and only you. This is different from plugins and themes where we can make relatively more objective suggestions.

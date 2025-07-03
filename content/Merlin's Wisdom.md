@@ -1,12 +1,7 @@
 ---
-created: Thursday, May 8th 2025, 10:13:28 am
-date created: Thursday, May 8th 2025, 10:11:01 am
-date modified: Saturday, May 10th 2025, 11:05:29 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-publish: true
-title: "Merlin's Wisdom Project"
+{"publish":true,"permalink":"/Merlin's Wisdom.md","title":"Merlin's Wisdom Project","created":"Thursday, May 8th 2025, 10:13:28 am","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 ---
 

@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Wednesday, August 31st 2016, 10:30:59 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Presentation Tips
+{"publish":true,"permalink":"/Presentation tips.md","aliases":"","title":"Presentation Tips","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Presentation Tips
 

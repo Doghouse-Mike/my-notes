@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Sunday, March 9th 2025, 9:00:22 am
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Gilded Cage at Moor Beer
-url: https://doghouse-mike.micro.blog/gilded-cage-at-moor-beer/
+{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","aliases":"","title":"Gilded Cage at Moor Beer","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Gilded Cage at Moor Beer
 

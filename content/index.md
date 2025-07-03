@@ -1,13 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Wednesday, March 19th 2025, 3:49:20 pm
-date created: Sunday, March 2nd 2025, 4:09:45 pm
-date modified: Thursday, May 8th 2025, 10:53:59 am
-draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
-title: Site home
+{"publish":true,"permalink":"/index.md","aliases":"","title":"Site home","created":"Wednesday, March 19th 2025, 3:49:20 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","cssclasses":""}
 ---
+
 
 # Site home
 
@@ -15,4 +9,4 @@ Welcome aboard! This is the home page thing so there's a "default". It will like
 
 Here is [[Mostly How I Built This Site]]
 
-![[B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]

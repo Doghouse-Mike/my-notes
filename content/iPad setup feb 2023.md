@@ -1,13 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, February 6th 2023, 8:57:55 am
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
-title: iPad Setup Feb 2023
+{"publish":true,"permalink":"/iPad setup feb 2023.md","aliases":"","title":"iPad Setup Feb 2023","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","cssclasses":""}
 ---
+
 
 # iPad Setup Feb 2023
 

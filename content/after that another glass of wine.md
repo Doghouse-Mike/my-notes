@@ -1,15 +1,7 @@
 ---
-tags: [kids, music]
-date: 2015-06-06
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Saturday, May 31st 2025, 11:43:07 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
-title: After that Another Glass of Wine
+{"publish":true,"permalink":"/after that another glass of wine.md","aliases":"","title":"After that Another Glass of Wine","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","tags":["kids","music"],"cssclasses":""}
 ---
+
 
 # After that Another Glass of Wine
 

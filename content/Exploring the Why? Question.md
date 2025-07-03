@@ -1,13 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Sunday, November 29th 2020, 10:00:51 pm
-date modified: Tuesday, April 22nd 2025, 4:27:42 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:57 am
-title: Exploring the Why? Question
+{"publish":true,"permalink":"/Exploring the Why? Question.md","aliases":"","title":"Exploring the Why? Question","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:57 am","cssclasses":""}
 ---
+
 
 # Exploring the Why? Question
 

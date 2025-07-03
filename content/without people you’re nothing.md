@@ -1,14 +1,7 @@
 ---
-tags: [rip, music]
-date: 2013-12-24
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
-title: Without People you’re Nothing
+{"publish":true,"permalink":"/without people you’re nothing.md","aliases":"","title":"Without People you’re Nothing","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","tags":["rip","music"],"cssclasses":""}
 ---
+
 
 # Without People you’re Nothing
 

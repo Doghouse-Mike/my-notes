@@ -1,23 +1,15 @@
 ---
-tags: []
-aliases: []
-created: Thursday, July 13th 2023, 7:47:51 pm
-date created: Thursday, July 13th 2023, 7:47:51 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-publish: true
-title: SWRPG Session 1
+{"publish":true,"permalink":"/SWRPG/SWRPG session 1.md","aliases":"","title":"SWRPG Session 1","created":"Thursday, July 13th 2023, 7:47:51 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # SWRPG Session 1
 
 2023-07-13
 
-[[Mike's SWRPG character Feb '23]]
+[[SWRPG/Mike's SWRPG character Feb '23]]
 
-[[SWRPG]]
+[[SWRPG/SWRPG]]
 
 ## How Do We Know Each Other?
 

@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Friday, April 20th 2012, 11:42:22 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:24:52 am
-title: 'On instead of "I Have to", "I Choose to"'
+{"publish":true,"permalink":"/So instead of \"I have to\", \"I choose to\", but only for 15.md","aliases":"","title":"On instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:52 am","cssclasses":""}
 ---
+
 
 # On instead of "I Have to", "I Choose to"
 

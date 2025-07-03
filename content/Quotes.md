@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Sunday, October 23rd 2011, 10:20:58 pm
-date modified: Tuesday, May 20th 2025, 10:09:45 pm
-dg-publish: false
-draft: false
-modified: Monday, June 23rd 2025, 10:21:18 pm
-publish: true
-title: Quotes
+{"publish":true,"permalink":"/Quotes.md","aliases":"","title":"Quotes","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Monday, June 23rd 2025, 10:21:18 pm","cssclasses":""}
 ---
+
 
 # Quotes
 

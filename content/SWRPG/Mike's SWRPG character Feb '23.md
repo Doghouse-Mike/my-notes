@@ -1,23 +1,13 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, February 21st 2023, 6:30:00 am
-date created: Tuesday, February 21st 2023, 6:30:00 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:54 am
-publish: true
-share_link: https://share.note.sx/68xttomp#2HIaFYTtQbH8yMk1WSk+78vxl5Tz0Qk8a7FkvZKexnM
-share_updated: 2025-03-17T17:46:18+00:00
-title: "Mike's SWRPG Character Feb '23"
+{"publish":true,"permalink":"/SWRPG/Mike's SWRPG character Feb '23.md","aliases":"","title":"Mike's SWRPG Character Feb '23","created":"Tuesday, February 21st 2023, 6:30:00 am","modified":"Thursday, June 5th 2025, 11:24:54 am","cssclasses":""}
 ---
+
 
 # Mike's SWRPG Character Feb '23
 
 ![[Attachments/ED.jpg]]
 
-Character info for [[SWRPG]]
+Character info for [[SWRPG/SWRPG]]
 
 Comedy robot guy. A cunning blend of Cayde-6, Joe Pineapples, and Bender. Maybe a smidge of K2SO
 
@@ -203,7 +193,7 @@ Enduring (+1 Soak)
 
 ?25 XP -Espionage Programming: +1 Cunning +1 Deception +1 Cool 
 
-![[IMG_0623 1.jpeg]]
+![[Attachments/IMG_0623 1.jpeg]]
 
 Look into Bounty Hunter - Gadgeteer spec. Gets mechanics+coercion as class skills, bonuses to mechanical things and some combat stuff, offensive and defensive. 
 

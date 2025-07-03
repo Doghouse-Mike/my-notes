@@ -1,12 +1,7 @@
 ---
-created: Thursday, October 3rd 2024, 10:26:28 pm
-date created: Thursday, October 3rd 2024, 10:26:28 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-publish: true
-title: Obsidian Dataview Cheatsheet
+{"publish":true,"permalink":"/Obsidian Dataview Cheatsheet.md","title":"Obsidian Dataview Cheatsheet","created":"Thursday, October 3rd 2024, 10:26:28 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Obsidian Dataview Cheatsheet
 
@@ -14,29 +9,29 @@ Shamelessly stolen from [here](https://github.com/seburbandev/obsidian-dataview-
 
 # Table of Contents
 
-- [[#list|LIST]]
-  - [[#simple-list|Simple List]]
-  - [[#table|Table]]
-- [[#data-commands|Data Commands]]
-  - [[#from|FROM]]
-    - [[#tags|Tags]]
-    - [[#excluding-notes-with-a-specific-tag|Excluding notes with a specific tag]]
-    - [[#excluding-notes-from-a-specific-folder|Excluding notes from a specific folder]]
-    - [[#folders|Folders]]
-    - [[#single-files|Single Files]]
-  - [[#where|WHERE]]
-    - [[#where-property-is-not-empty|WHERE property is NOT empty]]
-    - [[#where-property-is-equal-to-something|WHERE property is equal to something]]
-  - [[#group-by|GROUP BY]]
-    - [[#group-by-category|GROUP BY category]]
-  - [[#flatten|FLATTEN]]
-    - [[#multiple-properties-displayed-in-its-own-row|Multiple properties displayed in its own row]]
-  - [[#bool-property-to-custom-display-value|Bool property to custom display value]]
-    - [[#display-yesno-instead-of-truefalse-on-bool-properties|Display Yes/No instead of True/False on bool properties]]
-  - [[#limit-results-in-query|Limit results in query]]
-- [[#meta-data-examples|Meta Data Examples]]
-  - [[#json|JSON]]
-  - [[#yaml|YAML]]
+- [[Obsidian Dataview Cheatsheet#list\|LIST]]
+  - [[Obsidian Dataview Cheatsheet#simple-list\|Simple List]]
+  - [[Obsidian Dataview Cheatsheet#table\|Table]]
+- [[Obsidian Dataview Cheatsheet#data-commands\|Data Commands]]
+  - [[Obsidian Dataview Cheatsheet#from\|FROM]]
+    - [[Obsidian Dataview Cheatsheet#tags\|Tags]]
+    - [[Obsidian Dataview Cheatsheet#excluding-notes-with-a-specific-tag\|Excluding notes with a specific tag]]
+    - [[Obsidian Dataview Cheatsheet#excluding-notes-from-a-specific-folder\|Excluding notes from a specific folder]]
+    - [[Obsidian Dataview Cheatsheet#folders\|Folders]]
+    - [[Obsidian Dataview Cheatsheet#single-files\|Single Files]]
+  - [[Obsidian Dataview Cheatsheet#where\|WHERE]]
+    - [[Obsidian Dataview Cheatsheet#where-property-is-not-empty\|WHERE property is NOT empty]]
+    - [[Obsidian Dataview Cheatsheet#where-property-is-equal-to-something\|WHERE property is equal to something]]
+  - [[Obsidian Dataview Cheatsheet#group-by\|GROUP BY]]
+    - [[Obsidian Dataview Cheatsheet#group-by-category\|GROUP BY category]]
+  - [[Obsidian Dataview Cheatsheet#flatten\|FLATTEN]]
+    - [[Obsidian Dataview Cheatsheet#multiple-properties-displayed-in-its-own-row\|Multiple properties displayed in its own row]]
+  - [[Obsidian Dataview Cheatsheet#bool-property-to-custom-display-value\|Bool property to custom display value]]
+    - [[Obsidian Dataview Cheatsheet#display-yesno-instead-of-truefalse-on-bool-properties\|Display Yes/No instead of True/False on bool properties]]
+  - [[Obsidian Dataview Cheatsheet#limit-results-in-query\|Limit results in query]]
+- [[Obsidian Dataview Cheatsheet#meta-data-examples\|Meta Data Examples]]
+  - [[Obsidian Dataview Cheatsheet#json\|JSON]]
+  - [[Obsidian Dataview Cheatsheet#yaml\|YAML]]
 
 # Query Cheatsheet
 

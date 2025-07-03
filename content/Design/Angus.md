@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Saturday, March 26th 2022, 9:47:29 am
-date modified: Tuesday, April 22nd 2025, 4:28:02 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:25:10 am
-title: Angus
-url: https://doghouse-mike.micro.blog/angus/
+{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:25:10 am","cssclasses":""}
 ---
+
 
 # Angus
 

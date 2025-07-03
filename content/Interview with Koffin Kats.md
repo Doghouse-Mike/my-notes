@@ -1,17 +1,11 @@
 ---
-tags: []
-aliases: []
-created: Friday, April 11th 2025, 7:52:09 am
-date created: Monday, April 21st 2025, 5:19:11 am
-date modified: Friday, May 2nd 2025, 10:21:06 pm
-draft: false
-modified: Thursday, June 5th 2025, 11:24:56 am
-title: Interview with Koffin Kats
+{"publish":true,"permalink":"/Interview with Koffin Kats.md","aliases":"","title":"Interview with Koffin Kats","created":"Friday, April 11th 2025, 7:52:09 am","modified":"Thursday, June 5th 2025, 11:24:56 am","cssclasses":""}
 ---
+
 
 # Interview with Koffin Kats
 
-Some photos from the show after this interview was conducted can be seen in [[Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Koffin Kats at Lady Luck]]!
+Some photos from the show after this interview was conducted can be seen in [[Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Photos/Koffin Kats at Lady Luck]]!
 
 Strap in. 
 

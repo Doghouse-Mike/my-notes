@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Tuesday, April 12th 2022, 12:54:41 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Graveyard Johnnys, Cardiff
-url: https://doghouse-mike.micro.blog/graveyard-johnnys-cardiff/
+{"publish":true,"permalink":"/Photos/Graveyard Johnnys, Cardiff.md","aliases":"","title":"Graveyard Johnnys, Cardiff","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Graveyard Johnnys, Cardiff
 

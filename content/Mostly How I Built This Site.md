@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, March 18th 2025, 10:08:46 pm
-date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Thursday, May 15th 2025, 8:29:41 pm
-draft: false
-modified: Thursday, June 19th 2025, 5:47:34 pm
-publish: true
-title: Mostly How I Built This Site
+{"publish":true,"permalink":"/Mostly How I Built This Site.md","aliases":"","title":"Mostly How I Built This Site","created":"Tuesday, March 18th 2025, 10:08:46 pm","modified":"Thursday, June 19th 2025, 5:47:34 pm","cssclasses":""}
 ---
+
 
 # Mostly How I Built This Site
 
@@ -31,7 +24,7 @@ Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also
 
 *Mostly* followed [Nicole van der Hoeven's guide](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages), and their [accompanying video](https://www.youtube.com/watch?v=6s6DT1yN4dw) was handy too. I shall attempt to rip out only the bits of Nicole's guide that got me stuck for a moment, or I otherwise diverged from the path laid out there. I'd suggest having this open alongside Nicole's guide for easy cross-referencing, I'm not going to duplicate all of her work in this doc. 
 
-![[Pasted image 20250321182646.png]]
+![[Attachments/Pasted image 20250321182646.png]]
 
 ## Step 0. Prerequisites
 
@@ -57,9 +50,9 @@ I didn't 100% do things in this order, but think this is how I'd handle it if I 
 
 ### Mark *everything* in Your Vault as "draft"
 
-Quartz won't publish anything to your site that has the property of "draft: true". So, using the [[obsidian://show-plugin?id=obsidian-linter|Linter]] Plugin, I added that to the "Text to insert" box in the "YAML" tab of Linter's settings. Hit the "Lint all files in the vault" option from the command palette, and give it a few seconds (or more) to trawl through and update all the files. Then, as I didn't have a massive amount of pre-existing notes that I wanted published, I had a quick dig through my vault and unticked the property (thus making it "draft: false") of anything I *did* want published, et voila. 
+Quartz won't publish anything to your site that has the property of "draft: true". So, using the [[obsidian://show-plugin?id=obsidian-linter\|Linter]] Plugin, I added that to the "Text to insert" box in the "YAML" tab of Linter's settings. Hit the "Lint all files in the vault" option from the command palette, and give it a few seconds (or more) to trawl through and update all the files. Then, as I didn't have a massive amount of pre-existing notes that I wanted published, I had a quick dig through my vault and unticked the property (thus making it "draft: false") of anything I *did* want published, et voila. 
 
-![[Pasted image 20250321182529.png]]
+![[Attachments/Pasted image 20250321182529.png]]
 
 Otherwise stick to what Nicole suggests. Though I've also just gone in and added a "Publish:" flag. Possibly more on that later when I've explored the [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) plugin further. In theory that'll let me tick things off and manage all the actual publishing of new content from within Obsidian itself, which is ideal, as I'd prefer to handle everything from my iPad, rather than faffing with the command line each time. I *was* planning to set something up to automatically run the ```npx quartz sync``` command on some sort of schedule, but it'd appear that won't be necessary. Bonus!
 
@@ -151,7 +144,7 @@ It *feels* like there should be another step in the "Create a GitHub Action" par
 
 You might need to exercise a little patience on the "Behold Your New Site!" step. Presumably because I've got the pile of attachments to crunch through, GitHub's servers can take a few minutes to process everything and deploy the actual site ready to be viewed in any old browser. You can keep an eye on its progress via https://github.com/YOURGITHUBACCOUNT/YOURREPONAME/actions (or by clicking that handy "Actions" button along the top of the repo page when you're signed into the GitHub site).
 
-![[Pasted image 20250321182410.jpg]]
+![[Attachments/Pasted image 20250321182410.jpg]]
 
 ## Optional Extras
 
@@ -159,7 +152,7 @@ You might need to exercise a little patience on the "Behold Your New Site!" step
 
 Porkbun has a "set up for github" button, so was a matter of clicking of that, then adding the domain in to the "Pages" section of the settings for the GitHub repo.
 
-![[Pasted image 20250405174338.png]]
+![[Attachments/Pasted image 20250405174338.png]]
 
 ### Theming
 
@@ -169,11 +162,11 @@ Themes were easy enough to setup using [quartz-themes](https://github.com/saberz
 
 Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments). I did get myself confused about the "Add the following ‹script> tag to your website's template where you want the comments to appear" part. Can ignore that bit and skip to the "Finally, in `quartz.layout.ts`" section, and copying/amending the required bits, so it ends up looking something like [this](https://github.com/Doghouse-Mike/my-notes/blob/v4/quartz.layout.ts): 
 
-![[Pasted image 20250406222659.jpg]]
+![[Attachments/Pasted image 20250406222659.jpg]]
 
 [[[https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t|The Discord]]) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
-![[Pasted image 20250406223221.jpg]]
+![[Attachments/Pasted image 20250406223221.jpg]]
 
 ### Semi-automated Posting from iPad
 
@@ -183,12 +176,12 @@ In theory it should be possible to set a Mac to run a shortcut/script/etc based 
 
 #### Mac Shortcut:
 
-![[Screenshot 2025-04-09 at 08.00.34.png]]
+![[Attachments/Screenshot 2025-04-09 at 08.00.34.png]]
 
 The "Wait" action is to give sync time to catch up. The ```npx quartz build``` command will *very* temporarily remove everything from the **Content** folder as part of the push to Github, and if Obsidian (with Sync) is running at the time, it will freak out big time. The "Wait" gets around that, two full minutes is a bit a long, but I'd rather be safe than sorry. 
 
 #### iOS Shortcut:
 
-![[9FCE51E8-FC20-4F94-92BE-8AD310AB2D5D_4_5005_c.jpeg]]
+![[Attachments/9FCE51E8-FC20-4F94-92BE-8AD310AB2D5D_4_5005_c.jpeg]]
 
 The first run will need authenticating on the Mac which means either remoting into it or sitting in front of the computer for a mo, but after that it *should* run silently. 

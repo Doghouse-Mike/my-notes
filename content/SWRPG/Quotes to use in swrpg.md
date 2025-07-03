@@ -1,16 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Sunday, January 14th 2024, 5:58:36 pm
-date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Wednesday, June 4th 2025, 9:38:32 pm
-dg-publish: false
-draft: false
-modified: Tuesday, July 1st 2025, 10:03:59 am
-publish: true
-share_link: false
-title: Quotes to Use in Swrpg
+{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"Sunday, January 14th 2024, 5:58:36 pm","modified":"Wednesday, July 2nd 2025, 11:01:14 pm","cssclasses":""}
 ---
+
 
 # Quotes to Use in Swrpg
 
@@ -179,7 +170,8 @@ title: Quotes to Use in Swrpg
 - Fool me once, shame on me. Fool me twice, I need to end your life
 - Sometimes at the most basic level, to be alive, you must stop other people being alive. This is what we do, we are extremely good at it 
 - it takes a vast amount of self control to be this deadly
-- 
+- I’m not optimistic about our odds
+- I recognise my failing, and will be sure to correct it
 
 ## Categorised (by Chatty G):
 

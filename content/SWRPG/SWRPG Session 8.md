@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Thursday, March 7th 2024, 7:44:21 pm
-date created: Thursday, March 7th 2024, 7:44:21 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-publish: true
-title: SWRPG Session 8
+{"publish":true,"permalink":"/SWRPG/SWRPG Session 8.md","aliases":"","title":"SWRPG Session 8","created":"Thursday, March 7th 2024, 7:44:21 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # SWRPG Session 8
 

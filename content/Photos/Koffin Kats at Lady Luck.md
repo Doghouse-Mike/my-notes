@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Thursday, December 23rd 2021, 7:48:23 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
-draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
-title: Koffin Kats at Lady Luck
-url: https://doghouse-mike.micro.blog/koffin-kats-at-lady-luck/
+{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","aliases":"","title":"Koffin Kats at Lady Luck","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
 ---
+
 
 # Koffin Kats at Lady Luck
 
