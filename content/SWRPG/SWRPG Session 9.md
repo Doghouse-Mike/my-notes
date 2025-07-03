@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/SWRPG Session 9.md","aliases":"","title":"SWRPG Session 9","created":"Thursday, April 25th 2024, 7:17:10 pm","modified":"Tuesday, April 22nd 2025, 4:27:35 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/SWRPG Session 9.md","aliases":"","title":"SWRPG Session 9","created":"2024-04-25 19:17:10","cssclasses":""}
 ---
 
 

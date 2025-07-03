@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Die, diddily die, my darling.md","aliases":"","title":"Die, Diddily Die, My Darling","created":"Tuesday, December 5th 2017, 8:33:02 pm","modified":"Tuesday, April 22nd 2025, 3:40:24 pm","cssclasses":""}
+{"publish":true,"permalink":"/Die, diddily die, my darling.md","aliases":"","title":"Die, Diddily Die, My Darling","created":"2017-12-05 20:33:02","cssclasses":""}
 ---
 
 

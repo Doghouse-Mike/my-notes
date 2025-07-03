@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/after that another glass of wine.md","aliases":"","title":"After that Another Glass of Wine","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Saturday, May 31st 2025, 11:43:07 pm","tags":["kids","music"],"cssclasses":""}
+{"publish":true,"permalink":"/after that another glass of wine.md","aliases":"","title":"After that Another Glass of Wine","created":"2025-04-01 17:12:14","tags":["kids","music"],"cssclasses":""}
 ---
 
 

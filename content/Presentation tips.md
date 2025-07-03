@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Presentation tips.md","aliases":"","title":"Presentation Tips","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:27:40 pm","cssclasses":""}
+{"publish":true,"permalink":"/Presentation tips.md","aliases":"","title":"Presentation Tips","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 

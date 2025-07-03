@@ -7,4 +7,4 @@
 
 https://convertio.co
 
-Handy tool to convert pixel art to vector images. Bit of a sketchy job, but good for basics. 
+Handy tool to convert pixel-based art to vector images. Bit of a sketchy job, but good for basics. 

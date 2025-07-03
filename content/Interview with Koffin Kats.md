@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Interview with Koffin Kats.md","aliases":"","title":"Interview with Koffin Kats","created":"Friday, April 11th 2025, 7:52:09 am","modified":"Friday, May 2nd 2025, 10:21:06 pm","cssclasses":""}
+{"publish":true,"permalink":"/Interview with Koffin Kats.md","aliases":"","title":"Interview with Koffin Kats","created":"2025-04-11 07:52:09","cssclasses":""}
 ---
 
 

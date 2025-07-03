@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Mike's SWRPG character Feb '23.md","aliases":"","title":"Mike's SWRPG Character Feb '23","created":"Tuesday, February 21st 2023, 6:30:00 am","modified":"Tuesday, April 22nd 2025, 4:27:35 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Mike's SWRPG character Feb '23.md","aliases":"","title":"Mike's SWRPG Character Feb '23","created":"2023-02-21 06:30:00","cssclasses":""}
 ---
 
 

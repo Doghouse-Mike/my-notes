@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tshirt ideas.md","aliases":"","title":"Tshirt Ideas","created":"Monday, September 20th 2021, 1:22:25 pm","modified":"Tuesday, April 22nd 2025, 4:27:34 pm","cssclasses":""}
+{"publish":true,"permalink":"/Tshirt ideas.md","aliases":"","title":"Tshirt Ideas","created":"2021-09-20 13:22:25","cssclasses":""}
 ---
 
 

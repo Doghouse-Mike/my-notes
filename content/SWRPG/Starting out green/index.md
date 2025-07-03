@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/index.md","title":"Index","created":"Thursday, June 5th 2025, 11:21:16 am","modified":"Sunday, June 8th 2025, 6:56:00 pm","tags":["MOCs"],"cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/index.md","title":"Index","created":"2025-06-05 11:21:16","tags":["MOCs"],"cssclasses":""}
 ---
 
 

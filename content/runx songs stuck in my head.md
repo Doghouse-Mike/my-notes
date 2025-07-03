@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/runx songs stuck in my head.md","aliases":"","title":"Runx Songs Stuck in My Head","draft":true,"created":"Tuesday, April 1st 2025, 3:01:08 pm","modified":"Tuesday, April 22nd 2025, 4:27:18 pm","cssclasses":""}
+{"publish":true,"permalink":"/runx songs stuck in my head.md","aliases":"","title":"Runx Songs Stuck in My Head","draft":true,"created":"2025-04-01 15:01:08","cssclasses":""}
 ---
 
 

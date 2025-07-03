@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green session one.md","title":"Starting out Green Session One","created":"Friday, June 13th 2025, 9:05:37 pm","modified":"2025-07-03T08:04:46.486+01:00","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green session one.md","title":"Starting out Green Session One","created":"2025-06-13 21:05:37","cssclasses":""}
 ---
 
 

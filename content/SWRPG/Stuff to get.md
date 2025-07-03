@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Stuff to get.md","aliases":"","title":"Stuff to Get","created":"Monday, May 27th 2024, 11:58:27 pm","modified":"Tuesday, April 22nd 2025, 4:27:35 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Stuff to get.md","aliases":"","title":"Stuff to Get","created":"2024-05-27 23:58:27","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Empire Of Dust at The Crown.md","aliases":"","title":"Empire Of Dust at The Crown","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Tuesday, April 22nd 2025, 4:27:40 pm","cssclasses":""}
+{"publish":true,"permalink":"/Photos/Empire Of Dust at The Crown.md","aliases":"","title":"Empire Of Dust at The Crown","created":"2025-04-01 17:12:14","cssclasses":""}
 ---
 
 

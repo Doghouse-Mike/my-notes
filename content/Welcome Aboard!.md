@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Welcome Aboard!.md","aliases":"","title":"Welcome Aboard!","created":"Tuesday, March 29th 2022, 12:20:31 pm","modified":"Tuesday, April 22nd 2025, 4:27:34 pm","cssclasses":""}
+{"publish":true,"permalink":"/Welcome Aboard!.md","aliases":"","title":"Welcome Aboard!","created":"2022-03-29 12:20:31","cssclasses":""}
 ---
 
 

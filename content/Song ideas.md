@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Song ideas.md","aliases":"","title":"Song Ideas","created":"Wednesday, April 23rd 2014, 3:51:25 pm","modified":"Tuesday, April 22nd 2025, 4:27:35 pm","cssclasses":""}
+{"publish":true,"permalink":"/Song ideas.md","aliases":"","title":"Song Ideas","created":"2014-04-23 15:51:25","cssclasses":""}
 ---
 
 

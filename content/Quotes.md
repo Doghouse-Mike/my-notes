@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Quotes.md","aliases":"","title":"Quotes","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, May 20th 2025, 10:09:45 pm","cssclasses":""}
+{"publish":true,"permalink":"/Quotes.md","aliases":"","title":"Quotes","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 

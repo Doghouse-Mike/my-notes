@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Using dataview.md","aliases":"","title":"Using Dataview","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:27:34 pm","cssclasses":""}
+{"publish":true,"permalink":"/Using dataview.md","aliases":"","title":"Using Dataview","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 

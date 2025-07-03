@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Neovim in Obsidian.md","title":"Neovim in Obsidian","created":"Monday, June 30th 2025, 9:52:24 pm","modified":"2025-07-02T22:31:37.348+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Neovim in Obsidian.md","title":"Neovim in Obsidian","created":"2025-06-30 21:52:24","cssclasses":""}
 ---
 
 

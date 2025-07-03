@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:28:02 pm","cssclasses":""}
+{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 

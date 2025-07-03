@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"Sunday, January 14th 2024, 5:58:36 pm","modified":"Wednesday, June 4th 2025, 9:38:32 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","cssclasses":""}
 ---
 
 

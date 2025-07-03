@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Stillbust 10th Anniversary Show.md","aliases":"","title":"Stillbust 10th Anniversary Show","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Tuesday, April 22nd 2025, 4:27:40 pm","cssclasses":""}
+{"publish":true,"permalink":"/Photos/Stillbust 10th Anniversary Show.md","aliases":"","title":"Stillbust 10th Anniversary Show","created":"2025-04-01 17:12:14","cssclasses":""}
 ---
 
 
