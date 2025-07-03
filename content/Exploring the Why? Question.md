@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Exploring the Why? Question.md","aliases":"","title":"Exploring the Why? Question","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:57 am","cssclasses":""}
+{"publish":true,"permalink":"/Exploring the Why? Question.md","aliases":"","title":"Exploring the Why? Question","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:27:42 pm","cssclasses":""}
 ---
 
 

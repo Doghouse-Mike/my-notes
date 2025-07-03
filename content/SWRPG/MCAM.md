@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/MCAM.md","title":"Memory Cores and Motivators","draft":true,"created":"Saturday, May 31st 2025, 11:43:07 pm","modified":"Sunday, June 8th 2025, 9:42:15 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/MCAM.md","title":"Memory Cores and Motivators","draft":true,"created":"Saturday, May 31st 2025, 11:43:07 pm","modified":"Monday, June 2nd 2025, 2:36:45 pm","cssclasses":""}
 ---
 
 

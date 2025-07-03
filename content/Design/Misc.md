@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Design/Misc.md","aliases":"","title":"Misc","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Thursday, June 5th 2025, 11:25:10 am","cssclasses":""}
+{"publish":true,"permalink":"/Design/Misc.md","aliases":"","title":"Misc","created":"Tuesday, April 1st 2025, 5:12:14 pm","modified":"Tuesday, April 22nd 2025, 4:28:02 pm","cssclasses":""}
 ---
 
 

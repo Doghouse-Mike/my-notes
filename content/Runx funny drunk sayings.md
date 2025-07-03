@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Runx funny drunk sayings.md","aliases":"","title":"Runx Funny Drunk Sayings","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:52 am","cssclasses":""}
+{"publish":true,"permalink":"/Runx funny drunk sayings.md","aliases":"","title":"Runx Funny Drunk Sayings","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:27:40 pm","cssclasses":""}
 ---
 
 

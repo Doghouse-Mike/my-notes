@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green.md","title":"Starting out Green","created":"Monday, June 2nd 2025, 8:25:32 pm","modified":"Wednesday, July 2nd 2025, 10:33:50 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green.md","title":"Starting out Green","created":"Monday, June 2nd 2025, 8:25:32 pm","modified":"Monday, June 2nd 2025, 10:22:12 pm","cssclasses":""}
 ---
 
 

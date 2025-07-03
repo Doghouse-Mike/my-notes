@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/KD-40N.md","title":"KD-40N","created":"Monday, June 2nd 2025, 8:48:24 pm","modified":"Wednesday, July 2nd 2025, 10:33:57 pm","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/KD-40N.md","title":"KD-40N","created":"Monday, June 2nd 2025, 8:48:24 pm","modified":"Monday, June 2nd 2025, 9:43:10 pm","cssclasses":""}
 ---
 
 

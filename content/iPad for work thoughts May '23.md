@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/iPad for work thoughts May '23.md","aliases":"","title":"iPad for Work Thoughts May '23","draft":true,"created":"Tuesday, April 1st 2025, 3:01:08 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","cssclasses":""}
+{"publish":true,"permalink":"/iPad for work thoughts May '23.md","aliases":"","title":"iPad for Work Thoughts May '23","draft":true,"created":"Tuesday, April 1st 2025, 3:01:08 pm","modified":"Tuesday, April 22nd 2025, 4:27:18 pm","cssclasses":""}
 ---
 
 

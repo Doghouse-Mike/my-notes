@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/SWRPG Starter Ship Decision.md","aliases":"","title":"SWRPG Starter Ship Decision","created":"Tuesday, November 14th 2023, 6:21:33 am","modified":"Thursday, June 5th 2025, 11:24:55 am","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/SWRPG Starter Ship Decision.md","aliases":"","title":"SWRPG Starter Ship Decision","created":"Tuesday, November 14th 2023, 6:21:33 am","modified":"Tuesday, April 22nd 2025, 4:27:35 pm","cssclasses":""}
 ---
 
 

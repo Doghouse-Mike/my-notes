@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Unionising summary.md","aliases":"","title":"Unionising Our Workplace: Key Points","created":"Tuesday, April 8th 2025, 3:08:29 pm","modified":"Friday, June 27th 2025, 1:55:08 pm","cssclasses":""}
+{"publish":true,"permalink":"/Unionising summary.md","aliases":"","title":"Unionising Our Workplace: Key Points","created":"Tuesday, April 8th 2025, 3:08:29 pm","modified":"Friday, May 9th 2025, 8:02:45 am","cssclasses":""}
 ---
 
 

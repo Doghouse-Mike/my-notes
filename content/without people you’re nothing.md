@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/without people you’re nothing.md","aliases":"","title":"Without People you’re Nothing","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Thursday, June 5th 2025, 11:24:39 am","tags":["rip","music"],"cssclasses":""}
+{"publish":true,"permalink":"/without people you’re nothing.md","aliases":"","title":"Without People you’re Nothing","created":"Monday, March 24th 2025, 12:57:20 pm","modified":"Tuesday, April 22nd 2025, 4:27:18 pm","tags":["rip","music"],"cssclasses":""}
 ---
 
 
