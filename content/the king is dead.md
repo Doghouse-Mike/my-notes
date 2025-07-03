@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/the king is dead.md","aliases":"","title":"The King is Dead","created":"2025-57-Mot12:57:20","modified":"Tuesday, April 22nd 2025, 4:27:18 pm","tags":["rip","music"],"cssclasses":""}
+{"publish":true,"permalink":"/the king is dead.md","aliases":"","title":"The King is Dead","created":"2025-57-Mot12:57:20","tags":["rip","music"],"cssclasses":""}
 ---
 
 
