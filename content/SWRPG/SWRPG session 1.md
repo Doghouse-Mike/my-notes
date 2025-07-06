@@ -7,7 +7,7 @@
 
 2023-07-13
 
-[[SWRPG/Mike's SWRPG character Feb '23]]
+[[SWRPG/Z-X3ED]]
 
 [[SWRPG/SWRPG]]
 

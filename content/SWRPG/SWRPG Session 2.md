@@ -5,7 +5,7 @@
 
 # SWRPG Session 2
 
-[[SWRPG/Mike's SWRPG character Feb '23]]
+[[SWRPG/Z-X3ED]]
 
 [[SWRPG/SWRPG session 1]]
 
