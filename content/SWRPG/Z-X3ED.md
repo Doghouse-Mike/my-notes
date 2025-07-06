@@ -31,13 +31,14 @@ Oh shit what if he has a “son” that’s just the worst, dumbest, utility dro
 
 Other options for a sidekick:
 
-- https://starwars.fandom.com/wiki/ASN-121/Legends
-- https://starwars.fandom.com/wiki/Pistoeka_sabotage_droid/Legends
-- 
+- [ASN](https://starwars.fandom.com/wiki/ASN-121/Legends) assassin/courier boi
+- [Buzz/sabotage boi](https://starwars.fandom.com/wiki/Pistoeka_sabotage_droid/Legends)
 
-Possibly based on- https://starwars.fandom.com/wiki/Z-X3_experimental_droid_trooper - likely winner!
+Possibly based [ZX3 experimental droid trooper](https://starwars.fandom.com/wiki/Z-X3_experimental_droid_trooper) likely winner!
 
-https://starwars.fandom.com/wiki/LE_manifest_droid Could make more sense. Reprogrammed to be more sneaky, combat stuff. 
+[LE Manifest droid](https://starwars.fandom.com/wiki/LE_manifest_droid) could make more sense. Reprogrammed to be more sneaky, combat stuff. 
+
+Could potentially be [a BX-series commando droid](https://starwars.fandom.com/wiki/BX-series_droid_commando/Legends) instead. There's more lore/info about them, but that could actually be a hinderance.
 
 1500 starting credits (500 normal, 1000 from extra obligation)
 
@@ -270,25 +271,46 @@ Frenchie would be a twilek. Jim's a Gank. Olu's a Wookiee, Buttons a Toydarian (
 - What to do they want?
 	- Glory (personal) and rights for droids
 
-Could potentially be [a BX-series commando droid](https://starwars.fandom.com/wiki/BX-series_droid_commando/Legends) instead. There's more lore/info about them, but that could actually be a hinderance. 
+Cooked up some decent enhancement/shopping ideas in ![[ Shopping List#Potentially Better for Ed:]]
 
-Cooked up some decent enhancement/shopping ideas in ## Potentially Better for Ed:
+For ease of compare/contrast ## Equipment:
 
-[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) look decent, a bit too "combative" For KD though mayhap. [[SWRPG/Z-X3ED\|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
+Model 53 “Quicktrigger” 6 DMG 3 Crit 4HP 450cr
 
-[OK-98 blaster carbine](https://starwars.fandom.com/wiki/OK-98_blaster_carbine) Or similar, but fitted with the [pistol grip ](https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip)mod (turns it into ranged (light))
+Catch vest - 2 soak/1 vs non-energy weapons 300cr
 
-Other options for pistol grip mod:
+Datapad (integrated) - 75cr
 
-- [Galaar 15](https://star-wars-rpg-ffg.fandom.com/wiki/GALAAR-15_Blaster_Carbine)
-- [A280-CFE Convertible Heavy Blaster Pistol](https://star-wars-rpg-ffg.fandom.com/wiki/A280-CFE_Convertible_Heavy_Blaster_Pistol) could *always* be in rifle mode
-- [FWG flechette carbine](https://star-wars-rpg-ffg.fandom.com/wiki/FWG-7_Flechette_Smart_Carbine)
-- [MODEL 38 SHARPSHOOTER'S RIFLE](https://star-wars-rpg-ffg.fandom.com/wiki/Model_38_Sharpshooter%27s_Rifle) for slugthrower fun
-- [Boomstick1](https://star-wars-rpg-ffg.fandom.com/wiki/AA8_8-Gauge_Scatter_Gun)
-- [Boomstick2](https://star-wars-rpg-ffg.fandom.com/wiki/Model_4_%22Thunderhead%22_Scatter_Gun)
+Comlink (integrated) - 25cr
+
+Lockpicking tools (integrated) - 50cr
+
+Emergency Repair Patch x3 - 25cr each (heals 3 wounds)
+
+Blade Breaker -Melee DMG +0 crit 4 250cr Defensive 2, Pierce 1, Sunder
+
+Extra reloads x2 - 25cr each
+
+150 cr left. Kinda makes sense, saving for a ship? 
 
 
-Want a [Lucky Blaster](https://star-wars-rpg-ffg.fandom.com/wiki/Lucky_Blaster) on a [Wrist Mount](https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount), ideally in Ed's arm using the [Hidden Storage](https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Storage_talent) Talent
+Want a [Lucky Blaster](https://star-wars-rpg-ffg.fandom.com/wiki/Lucky_Blaster) (400 Cr) on a [Wrist Mount](https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount) (275 Cr), ideally in Ed's arm using the [Hidden Storage](https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Storage_talent) Talent
+
+Current version has 150 Cr spare. Swap the Quicktrigger for a Lucky Blaster, leaves 200 Cr over. 
+
+Lose 1x ERP and the extra reloads et voilà! Could retcon that in. 
+
+At some point I already bought a [Smuggler's Trenchcoat](https://star-wars-rpg-ffg.fandom.com/wiki/Smuggler's_Trenchcoat), because of course I did
+
+## Later/spendy Cybernetics
+
+Get a [Repulsor Fist](https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Fist) grafted on as a third arm. Techpriest stylee. Start saving then, that's got a list price of 4750 Cr. Would need to confer with GM whether we'd first need to get a [Cybernetic arm](https://star-wars-rpg-ffg.fandom.com/wiki/Cybernetic_Arms_(Mod_V_and_Mod_VI)) to graft it onto (feels like it) for 10,000 Cr (but a bonus point into *either* Brawn or Agility). Could potentially wrangle a deal to combine the two for less than the separate purchase prices. Cheaper option is a "[Replacement" Limb](https://star-wars-rpg-ffg.fandom.com/wiki/Prosthetic_Replacement) for 2000 Cr, but no bonus from that. 
+
+[Neuromachine Interface](https://star-wars-rpg-ffg.fandom.com/wiki/Neuromachine_Interface) For "I AM the ship" vibes. Allows using Coordination instead of Piloting. Alternatively, [CAAF-2 System Cybernetic Avionics Interface](https://star-wars-rpg-ffg.fandom.com/wiki/CAAF-2_System_Cybernetic_Avionics_Interface) seeing as I have piloting already. Machine interface would be preferable if rerolling at some point. 
+
+[Implanted cyberjack](https://star-wars-rpg-ffg.fandom.com/wiki/Implanted_Cyberjack) take strain for easier computers checks
+
+### Related Notes
 
 [[SWRPG/Nira Keth]] (Shiv's character)
 
