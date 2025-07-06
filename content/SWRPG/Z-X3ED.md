@@ -274,7 +274,7 @@ Could potentially be [a BX-series commando droid](https://starwars.fandom.com/wi
 
 Cooked up some decent enhancement/shopping ideas in ## Potentially Better for Ed:
 
-[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) look decent, a bit too "combative" For KD though mayhap. [[Mike's SWRPG character Feb '23]] Ed would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
+[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) look decent, a bit too "combative" For KD though mayhap. [[SWRPG/Z-X3ED\|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
 
 [OK-98 blaster carbine](https://starwars.fandom.com/wiki/OK-98_blaster_carbine) Or similar, but fitted with the [pistol grip ](https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip)mod (turns it into ranged (light))
 
@@ -287,6 +287,8 @@ Other options for pistol grip mod:
 - [Boomstick1](https://star-wars-rpg-ffg.fandom.com/wiki/AA8_8-Gauge_Scatter_Gun)
 - [Boomstick2](https://star-wars-rpg-ffg.fandom.com/wiki/Model_4_%22Thunderhead%22_Scatter_Gun)
 
+
+Want a [Lucky Blaster](https://star-wars-rpg-ffg.fandom.com/wiki/Lucky_Blaster) on a [Wrist Mount](https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount), ideally in Ed's arm using the [Hidden Storage](https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Storage_talent) Talent
 
 [[SWRPG/Nira Keth]] (Shiv's character)
 

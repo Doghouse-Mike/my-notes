@@ -53,7 +53,7 @@ Is there enough stuff laying around the base to jury rig a [power fence](https:/
 
 ## Potentially Better for Ed:
 
-[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) look decent, a bit too "combative" For KD though mayhap. [[Mike's SWRPG character Feb '23]] Ed would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
+[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) look decent, a bit too "combative" For KD though mayhap. [[SWRPG/Z-X3ED\|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
 
 [OK-98 blaster carbine](https://starwars.fandom.com/wiki/OK-98_blaster_carbine) Or similar, but fitted with the [pistol grip ](https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip)mod (turns it into ranged (light))
 
