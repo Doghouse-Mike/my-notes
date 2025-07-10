@@ -172,6 +172,11 @@
 - it takes a vast amount of self control to be this deadly
 - I’m not optimistic about our odds
 - I recognise my failing, and will be sure to correct it
+- Our personal spaces are touching
+- Sometimes you have to break a few eggs to create a protein-rich breakfast 
+- I sure hope some robot doesn’t kill everybody
+- I’m so excited I wish I could wet my pants
+- Their desire to keep living shows me no respect
 
 ## Categorised (by Chatty G):
 
@@ -204,6 +209,8 @@
 - You seem a decent fella, I’d hate to kill you  
 - I don’t necessarily *want* to kill you. I mean, unless I have to. Unless absolutely necessary  
 - If I had a credit for every brain you don’t have, I’d have one credit.  
+- (After something goes terribly wrong) “and that’s we learned our lesson 
+- 
 
 ---
 

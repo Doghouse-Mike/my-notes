@@ -27,4 +27,4 @@ Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+
 - https://www.alienduckpig.com/
 - https://obsidian-gallery.craftengineer.com/
 - https://github.com/quartz-community/awesome-quartz
-- 
+- [https://blog.shuvangkardas.com](https://blog.shuvangkardas.com/)
