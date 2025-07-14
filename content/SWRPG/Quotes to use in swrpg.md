@@ -5,6 +5,7 @@
 
 # Quotes to Use in Swrpg
 
+- Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - your mouth is talking, you might wanna look to that
 - do we have an understanding 
 - find a crew, find a job, keep flying
@@ -177,6 +178,8 @@
 - I sure hope some robot doesn’t kill everybody
 - I’m so excited I wish I could wet my pants
 - Their desire to keep living shows me no respect
+- So I said “super collider? I hardly knew her”
+- 
 
 ## Categorised (by Chatty G):
 

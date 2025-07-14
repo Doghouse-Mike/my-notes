@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/index.md","aliases":"","title":"Site home","created":"2025-03-19 15:49:20","cssclasses":""}
+{"publish":true,"permalink":"/index.md","title":"Index","created":"2025-03-19 15:49:20","cssclasses":""}
 ---
 
 
