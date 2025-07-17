@@ -3,7 +3,7 @@
 ---
 
 
-Plans afoot for the [https://www.themesystem.com](https://www.themesystem.com/|Theme System Journal)
+Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
 
 I've created a version of the Journal itself as a Template for my Daily Notes within Obsidian, which looks a little something like this:
 
