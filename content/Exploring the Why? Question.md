@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Sunday, November 29th 2020, 10:00:51 pm
-date modified: Tuesday, April 22nd 2025, 4:27:42 pm
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:57 am
+modified: 2025-07-17 12:41:14
+publish: true
 title: Exploring the Why? Question
 ---
 

@@ -1,7 +1,8 @@
 ---
 tags: [MOCs]
-created: Thursday, June 5th 2025, 11:22:10 am
-modified: Thursday, June 5th 2025, 12:28:53 pm
+created: 2025-06-05 11:22:10
+modified: 2025-07-03 23:22:42
+publish: true
 title: Design
 ---
 

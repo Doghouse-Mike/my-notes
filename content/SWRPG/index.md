@@ -1,12 +1,12 @@
 ---
 tags: [MOCs]
-created: Tuesday, April 22nd 2025, 4:56:14 pm
+created: 2025-04-22 09:49:32
 date created: Tuesday, April 1st 2025, 7:17:14 pm
 date modified: Sunday, June 8th 2025, 7:03:47 pm
 draft: false
-modified: Thursday, June 5th 2025, 11:21:17 am
+modified: 2025-07-17 14:27:50
 publish: true
-title: SWRPG
+title: index
 ---
 
 # SWRPG

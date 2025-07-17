@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Friday, April 11th 2025, 7:52:09 am
-date created: Monday, April 21st 2025, 5:19:11 am
-date modified: Friday, May 2nd 2025, 10:21:06 pm
+created: 2025-04-11 07:52:09
 draft: false
-modified: Thursday, June 5th 2025, 11:24:56 am
+modified: 2025-07-17 12:41:16
+publish: true
 title: Interview with Koffin Kats
 ---
 

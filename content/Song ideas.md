@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Wednesday, April 23rd 2014, 3:51:25 pm
-date created: Wednesday, April 23rd 2014, 3:51:25 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+created: 2014-04-23 15:51:25
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-17 12:41:09
+publish: true
 title: Song Ideas
 ---
 

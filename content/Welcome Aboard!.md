@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, March 29th 2022, 12:20:31 pm
-date created: Tuesday, March 29th 2022, 12:20:31 pm
-date modified: Tuesday, April 22nd 2025, 4:27:34 pm
+created: 2022-03-29 12:20:31
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-17 12:41:09
+publish: true
 title: Welcome Aboard!
 ---
 

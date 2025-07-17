@@ -1,12 +1,12 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
+created: 2025-04-01 17:12:14
 date created: Wednesday, February 26th 2025, 8:14:58 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:13
+publish: true
 title: Stillbust 10th Anniversary Show
 url: https://doghouse-mike.micro.blog/stillbust-th-anniversary-show/
 ---

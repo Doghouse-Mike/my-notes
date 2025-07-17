@@ -1,8 +1,9 @@
 ---
-created: Saturday, May 31st 2025, 6:00:05 pm
+created: 2025-05-31 18:00:05
 date created: Saturday, May 31st 2025, 6:00:05 pm
 date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:13
+publish: true
 title: Notes on New Swrpg Character Ideas
 ---
 

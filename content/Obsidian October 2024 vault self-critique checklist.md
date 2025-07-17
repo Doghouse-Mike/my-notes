@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Tuesday, January 7th 2025, 9:54:56 pm
-date modified: Thursday, May 8th 2025, 10:08:25 am
-dg-publish: false
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:13
+publish: true
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
 ---
 
@@ -57,6 +55,6 @@ title: Obsidian October O_O 2024 Vault Self-critique Checklist
 
 - [ ] Open both Backlinks and Outgoing Links to see if there are any unlinked mentions that make sense #project/Obsidian
 - [x] Sort the files in Files Explorer by "Modified time (old to new)", take a look at the top files and see how they can be made better. ✅ 2025-05-04
-- [-] Enable the Random Note core plugin and randomly visit some notes for surprises.
+- [-] Enable the Random Note core plugin and randomly visit some notes for surprises.#ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick #ticktick
 
 [^1]: Remember that "joy" is a valid measure! 

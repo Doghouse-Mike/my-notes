@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Tuesday, May 5th 2020, 11:01:59 pm
-date modified: Tuesday, April 22nd 2025, 4:28:05 pm
-dg-publish: false
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:57 am
+modified: 2025-07-03 23:20:07
+publish: true
 title: Convert.io
 ---
 
@@ -14,4 +12,4 @@ title: Convert.io
 
 https://convertio.co
 
-Handy tool to convert pixel art to vector images. Bit of a sketchy job, but good for basics. 
+Handy tool to convert pixel-based art to vector images. Bit of a sketchy job, but good for basics. 

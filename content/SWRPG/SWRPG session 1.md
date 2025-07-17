@@ -1,12 +1,11 @@
 ---
 tags: []
 aliases: []
-created: Thursday, July 13th 2023, 7:47:51 pm
+created: 2023-07-13 19:47:51
 date created: Thursday, July 13th 2023, 7:47:51 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-06 19:04:16
 publish: true
 title: SWRPG Session 1
 ---
@@ -15,7 +14,7 @@ title: SWRPG Session 1
 
 2023-07-13
 
-[[Mike's SWRPG character Feb '23]]
+[[Z-X3ED]]
 
 [[SWRPG]]
 

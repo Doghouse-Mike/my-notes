@@ -1,11 +1,9 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 8th 2025, 3:08:29 pm
-date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Friday, May 9th 2025, 8:02:45 am
+created: 2025-04-08 15:08:29
 draft: false
-modified: Friday, June 27th 2025, 1:55:08 pm
+modified: 2025-07-17 12:41:09
 publish: true
 title: "Unionising Our Workplace: Key Points"
 ---

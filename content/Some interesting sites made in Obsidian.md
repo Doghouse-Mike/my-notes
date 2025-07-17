@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 25th 2023, 4:51:21 pm
-date created: Tuesday, April 25th 2023, 4:51:21 pm
-date modified: Tuesday, May 13th 2025, 10:04:56 pm
-dg-publish: false
+created: 2023-04-25 16:51:21
 draft: false
-modified: Sunday, June 29th 2025, 8:37:20 pm
+modified: 2025-07-10 17:15:09
+publish: true
 title: Some Interesting Sites Made in Obsidian
 ---
 
@@ -34,4 +32,4 @@ Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+
 - https://www.alienduckpig.com/
 - https://obsidian-gallery.craftengineer.com/
 - https://github.com/quartz-community/awesome-quartz
-- 
+- [https://blog.shuvangkardas.com](https://blog.shuvangkardas.com/)

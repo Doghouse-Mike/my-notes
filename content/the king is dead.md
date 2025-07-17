@@ -1,13 +1,9 @@
 ---
 tags: [rip, music]
-date: 2013-06-09
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Sunday, June 9th 2013, 12:57:20 pm
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
-dg-publish: false
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
+modified: 2025-07-03 23:22:30
 publish: true
 title: The King is Dead
 ---

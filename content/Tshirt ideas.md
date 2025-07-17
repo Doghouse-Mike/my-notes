@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, September 20th 2021, 1:22:25 pm
-date created: Monday, September 20th 2021, 1:22:25 pm
-date modified: Tuesday, April 22nd 2025, 4:27:34 pm
+created: 2021-09-20 13:22:25
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-17 12:40:53
+publish: true
 title: Tshirt Ideas
 ---
 

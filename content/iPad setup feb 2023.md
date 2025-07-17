@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, February 6th 2023, 8:57:55 am
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
+modified: 2025-07-17 12:40:53
+publish: true
 title: iPad Setup Feb 2023
 ---
 

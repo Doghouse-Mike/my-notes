@@ -1,13 +1,11 @@
 ---
 tags: []
-date: today
 Status: something
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Saturday, April 23rd 2022, 1:11:55 pm
-date modified: Tuesday, April 22nd 2025, 4:27:34 pm
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-17 12:40:53
+publish: true
 title: Using Dataview
 Type: something
 ---

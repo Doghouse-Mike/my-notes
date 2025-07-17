@@ -1,12 +1,11 @@
 ---
 tags: []
 aliases: []
-created: Thursday, April 25th 2024, 7:17:10 pm
+created: 2024-04-25 19:17:10
 date created: Thursday, April 25th 2024, 7:17:10 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:13
 publish: true
 title: SWRPG Session 9
 ---

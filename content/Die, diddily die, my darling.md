@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, December 5th 2017, 8:33:02 pm
-date created: Tuesday, December 5th 2017, 8:33:02 pm
-date modified: Tuesday, April 22nd 2025, 3:40:24 pm
+created: 2017-12-05 20:33:02
 draft: false
-modified: Thursday, June 5th 2025, 11:25:10 am
+modified: 2025-07-17 12:41:16
+publish: true
 title: Die, Diddily Die, My Darling
 ---
 

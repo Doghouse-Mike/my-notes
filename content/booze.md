@@ -1,13 +1,10 @@
 ---
 tags: [booze]
-date: 2015-03-15
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Thursday, May 8th 2025, 10:53:11 am
-dg-publish: false
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
+modified: 2025-07-03 23:22:25
+publish: true
 title: Booze
 ---
 

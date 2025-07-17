@@ -1,12 +1,11 @@
 ---
 tags: []
 aliases: []
-created: Monday, May 27th 2024, 11:58:27 pm
+created: 2024-05-27 23:58:27
 date created: Monday, May 27th 2024, 11:58:27 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:24:54 am
+modified: 2025-07-06 19:04:32
 publish: true
 title: Stuff to Get
 ---

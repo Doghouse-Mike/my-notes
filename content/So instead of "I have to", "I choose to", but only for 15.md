@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Friday, April 20th 2012, 11:42:22 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-dg-publish: false
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:24:52 am
+created: 2025-04-01 17:12:14
+draft: true
+modified: 2025-07-17 12:41:09
+publish: true
 title: 'On instead of "I Have to", "I Choose to"'
 ---
 

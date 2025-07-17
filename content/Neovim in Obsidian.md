@@ -1,7 +1,7 @@
 ---
-created: Monday, June 30th 2025, 9:52:24 pm
+created: 2025-06-30 21:52:24
 draft: false
-modified: Monday, June 30th 2025, 9:55:19 pm
+modified: 2025-07-03 23:21:45
 publish: true
 title: Neovim in Obsidian
 ---

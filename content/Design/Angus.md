@@ -1,12 +1,12 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
+created: 2025-03-24 12:57:20
 date created: Saturday, March 26th 2022, 9:47:29 am
 date modified: Tuesday, April 22nd 2025, 4:28:02 pm
-dg-publish: false
 draft: false
-modified: Thursday, June 5th 2025, 11:25:10 am
+modified: 2025-07-03 23:23:04
+publish: true
 title: Angus
 url: https://doghouse-mike.micro.blog/angus/
 ---

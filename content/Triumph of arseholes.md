@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, January 23rd 2012, 10:28:01 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:24:39 am
+created: 2025-03-24 12:57:20
+draft: true
+modified: 2025-07-03 23:22:03
+publish: true
 title: Triumph of Arseholes
 ---
 

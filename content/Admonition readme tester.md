@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Sunday, April 23rd 2023, 9:21:43 pm
-date created: Sunday, April 23rd 2023, 9:21:43 pm
-date modified: Friday, May 30th 2025, 11:42:24 am
-dg-publish: false
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:25:14 am
+created: 2023-04-23 21:21:43
+draft: true
+modified: 2025-07-17 12:41:44
+publish: true
 title: Admonition Readme Tester
 ---
 

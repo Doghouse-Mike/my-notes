@@ -1,12 +1,11 @@
 ---
 tags: []
 aliases: []
-created: Sunday, January 14th 2024, 5:58:36 pm
-date created: Sunday, January 14th 2024, 5:58:36 pm
-date modified: Wednesday, June 4th 2025, 9:38:32 pm
-dg-publish: false
+created: 2024-01-14 17:58:36
+date created: 2024-01-14 17:58:36
+date modified: 2025-07-10 19:37:12
 draft: false
-modified: Tuesday, July 1st 2025, 10:03:59 am
+modified: 2025-07-14 21:40:23
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -14,6 +13,7 @@ title: Quotes to Use in Swrpg
 
 # Quotes to Use in Swrpg
 
+- Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - your mouth is talking, you might wanna look to that
 - do we have an understanding 
 - find a crew, find a job, keep flying
@@ -179,6 +179,14 @@ title: Quotes to Use in Swrpg
 - Fool me once, shame on me. Fool me twice, I need to end your life
 - Sometimes at the most basic level, to be alive, you must stop other people being alive. This is what we do, we are extremely good at it 
 - it takes a vast amount of self control to be this deadly
+- I’m not optimistic about our odds
+- I recognise my failing, and will be sure to correct it
+- Our personal spaces are touching
+- Sometimes you have to break a few eggs to create a protein-rich breakfast 
+- I sure hope some robot doesn’t kill everybody
+- I’m so excited I wish I could wet my pants
+- Their desire to keep living shows me no respect
+- So I said “super collider? I hardly knew her”
 - 
 
 ## Categorised (by Chatty G):
@@ -212,6 +220,8 @@ title: Quotes to Use in Swrpg
 - You seem a decent fella, I’d hate to kill you  
 - I don’t necessarily *want* to kill you. I mean, unless I have to. Unless absolutely necessary  
 - If I had a credit for every brain you don’t have, I’d have one credit.  
+- (After something goes terribly wrong) “and that’s we learned our lesson 
+- 
 
 ---
 

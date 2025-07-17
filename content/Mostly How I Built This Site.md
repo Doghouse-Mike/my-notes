@@ -1,11 +1,9 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, March 18th 2025, 10:08:46 pm
-date created: Tuesday, March 18th 2025, 10:08:46 pm
-date modified: Thursday, May 15th 2025, 8:29:41 pm
+created: 2025-03-18 22:08:46
 draft: false
-modified: Thursday, June 19th 2025, 5:47:34 pm
+modified: 2025-07-10 17:15:01
 publish: true
 title: Mostly How I Built This Site
 ---

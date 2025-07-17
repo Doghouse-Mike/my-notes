@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 1st 2025, 3:01:08 pm
-date created: Friday, March 12th 2021, 11:08:35 pm
-date modified: Tuesday, April 22nd 2025, 4:27:18 pm
-draft: TRUE
-modified: Thursday, June 5th 2025, 11:24:39 am
+created: 2025-04-01 15:01:08
+draft: true
+modified: 2025-07-17 12:40:53
+publish: true
 title: Runx Songs Stuck in My Head
 ---
 

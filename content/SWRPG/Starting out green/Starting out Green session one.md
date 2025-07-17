@@ -1,6 +1,7 @@
 ---
-created: Friday, June 13th 2025, 9:05:37 pm
-modified: Friday, June 27th 2025, 10:07:15 pm
+created: 2025-06-13 21:05:37
+modified: 2025-07-06 19:04:38
+publish: true
 title: Starting out Green Session One
 ---
 
@@ -16,7 +17,7 @@ and a mando (for now, changing) smuggler/mechanic maybe
 
 nother human smuggler type
 
-Narvik Trench (Brian) Brian the Human is a wee bit aggy Briandawiz?. They deed now
+Narvik Trench (Brian) Briandawiz?. They deed now
 
 Syberius Tornripper
 

@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Friday, February 21st 2020, 10:52:37 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-03 23:22:40
+publish: true
 title: Runx Funny Drunk Sayings
 ---
 

@@ -1,12 +1,12 @@
 ---
 tags: []
 aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
+created: 2025-04-01 17:12:14
 date created: Saturday, March 26th 2022, 9:44:42 am
 date modified: Tuesday, April 22nd 2025, 4:28:02 pm
-dg-publish: true
 draft: false
-modified: Thursday, June 5th 2025, 11:25:10 am
+modified: 2025-07-17 12:41:36
+publish: true
 title: Misc
 url: https://doghouse-mike.micro.blog/misc/
 ---

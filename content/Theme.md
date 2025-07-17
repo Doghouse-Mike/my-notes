@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Friday, January 6th 2023, 5:55:30 am
-date modified: Thursday, May 8th 2025, 10:48:51 am
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:52 am
+modified: 2025-07-17 12:41:09
+publish: true
 title: Theme
 ---
 

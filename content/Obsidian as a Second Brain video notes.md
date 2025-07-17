@@ -1,12 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Thursday, November 24th 2022, 8:08:15 pm
-date created: Thursday, November 24th 2022, 8:08:15 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-dg-publish: false
+created: 2022-11-24 20:08:15
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:09
+publish: true
 title: Obsidian as a Second Brain Video Notes
 ---
 

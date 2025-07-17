@@ -1,9 +1,7 @@
 ---
-created: Thursday, May 8th 2025, 10:13:28 am
-date created: Thursday, May 8th 2025, 10:11:01 am
-date modified: Saturday, May 10th 2025, 11:05:29 pm
+created: 2025-05-08 10:13:28
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-13 14:11:50
 publish: true
 title: "Merlin's Wisdom Project"
 ---
@@ -213,7 +211,7 @@ Brief introductory remarks regarding the Project:
 
 - If you have trouble keeping up with washing dishes, cutlery, or cooking stuff, you may have too much of them.
 - Be mindful about giving gifts. A gift you give with *any* expectation is a burden, and people rarely enjoy being given a burden.
-- In thinking about optimizing how you work, try to distinguish between the parts of your job that are *necessarily difficult* versus the parts that are harder than they actually need to be. The former is the reason that you get the big bucks, and the latter is the reason why you may often feel like the bucks should be bigger.
+- *In thinking about optimizing how you work, try to distinguish between the parts of your job that are necessarily difficult versus the parts that are harder than they actually need to be. The former is the reason that you get the big bucks, and the latter is the reason why you may often feel like the bucks should be bigger.*
 - Be gracious when someone points out a dumb error that you made. Especially when it comes from someone whom you respect. They're doing it because *they like you*, and because they pay attention to stuff that you do.
 - Related: to bad faith actors, you may wish to say something like, "You might just be right" or, "Yeah, life sure is pretty complicated." Answers to bad faith can and should be extremely personal.
 - Use shoe trees. It'll make you feel like a fancy duchess, plus it'll make your shoes last a lot longer.
@@ -321,16 +319,16 @@ Brief introductory remarks regarding the Project:
 
 - When you first try to meditate, it'll feel like you're doing it wrong and are terrible at it. Eventually, you'll figure out that being terrible at meditation and feeling like you're doing it wrong is kind of the whole point of meditation. In truth, as long as you keep getting back to your practice, you are actually great at meditation, and you are doing very well at it.
 - Related: you'll rarely earn points in life for repeatedly thinking about something you're not doing. Unless worrying and fretting about something you're not doing makes you happy, you may wish to worry and fret less.
-- If a given thing you've decided to do goes flawlessly, what's the best possible outcome you can imagine? Keep this question in mind before you, say, jump onto a moving car or scream at a baby.
+- *If a given thing you've decided to do goes flawlessly, what's the best possible outcome you can imagine? Keep this question in mind before you, say, jump onto a moving car or scream at a baby.*
 - Don't buy food to get a free toy, and don't buy toys to get free food.
 - The best optimism is *earned*. Everything else is just magical thinking.
-- Everybody feels bad sometimes, but try not to feel too bad about it. Choosing to feel bad about feeling bad is ultimately optional.
+- *Everybody feels bad sometimes, but try not to feel too bad about it. Choosing to feel bad about feeling bad is ultimately optional.*
 - We don't get to pick what we love or what makes us cry. Seek relationships with people who support the things that make you weepy or horny.
-- Try to save some parts of your life to be just for you. Including some special things that you're happy about or are even a little proud of. If your only private things are shameful things, you will become very sad and will eventually despise your own company.
+- *Try to save some parts of your life to be just for you. Including some special things that you're happy about or are even a little proud of. If your only private things are shameful things, you will become very sad and will eventually despise your own company.*
 - Learn to love at least one snack that can be stored in a glove box without going bad.
 - To delight a busy person, learn to ask questions that can easily be answered with a single word: "Yes."
 - Whenever your first solution to a problem feels like it should involve buying something plastic at The Container Store, consider a second solution.
-- Most anecdotes that begin with the word "Apparently…" do not end well.
+- *Most anecdotes that begin with the word "Apparently…" do not end well.*
 - Open your mail over the recycling bin.
 - Related: put a trash can anyplace your dominant hand repeatedly wants to let go of trash.
 - If you think you're immune to making unintentional cognitive errors, you should read this sentence over and over for a few minutes.
@@ -345,11 +343,11 @@ Brief introductory remarks regarding the Project:
 - Before deciding that you have solved a problem, it's useful to ask yourself whether you understand what *caused* the problem—as well as knowing precisely how your specific choice of solution has "fixed" it. If you mostly just kept trying various random things until something seemed to improve, you just got lucky. Which is different.
 - Whenever you acquire anything that has a manual, Google for a PDF of it, then drop it in a folder on your cloud service of choice.
 - It's mostly to young people's credit and benefit that they rarely realize that youth and its advantages are anomalous. Youth is all you have ever known in life until you reach an age when you are no longer young. At which point, you are likely to develop a strong hunch that your own youth was absolutely an anomaly.
-- Unless you are cannily identifying a specific logical fallacy, the question has likely been *raised*. Not begged.
+- *Unless you are cannily identifying a specific logical fallacy, the question has likely been raised. Not begged.*
 - Consider using less corn starch than the recipe demands.
 - Being good at arguing is not the same thing as being right; being bad at arguing is not the same thing as being wrong.
 - It is normal and human to fear things that you don't understand. But, seeking to understand something does *not* mean you have to like it or agree with it. It may, however, suddenly make some of your fears feel refreshingly optional.
-- Carry more Imodium than you think you will ever need. They are compact in size, light in weight, and miraculously effective at keeping you from suddenly needing to shit egregiously at times and locations when you'd prefer not to be shitting egregiously.
+- *Carry more Imodium than you think you will ever need. They are compact in size, light in weight, and miraculously effective at keeping you from suddenly needing to shit egregiously at times and locations when you'd prefer not to be shitting egregiously.*
 - Related: Imodium works by sucking liquid out of your bowels, so compensate by drinking more water than you normally would. The Imodium will still work fine.
 - Relatedly related: several Imodiums will fit conveniently in the right-side "watch pocket" of a pair Levi's. Ditto guitar picks, a small USB drive, or some quarters with which to play the excellent 1981 arcade game, "Galaga."
 
@@ -500,7 +498,7 @@ Brief introductory remarks regarding the Project:
 - Whenever you notice something, consider saying "*thank you*" in your head. Even or especially if it's something small or random. You're saying thank you to the world for still being there—and thank you to yourself for noticing it.
 - Related: if this strikes you as corny or emotionally disordered, then you, my friend, are not noticing enough things. Which also means you're definitely not saying "thank you" enough. So, honestly, who's the real weirdo here?
 - Relatedly related: *Thank you*.
-- Never tell someone they look like someone else. If you're in doubt, recall five times you've done this, it was welcomed, and it all turned out great for everyone. You either sound like a sociopath, a person who puts in women in wells, or, likely, both.
+- Never tell someone they look like someone else. If you're in doubt, recall five times you've done this, it was welcomed, and it all turned out great for everyone. You either sound like a sociopath, a person who puts women in wells, or, likely, both.
 - All photos are pictures, but not all pictures are photos. If you're talking about a photograph, and you call it a "picture," you sound a little like someone who drinks from a jug.
 - Sometimes, the problem is not that someone lacked the technology to make what they wanted. Often, they had more than enough technology to make what they wanted, but—yikes—just look at…*what they wanted*. (Thanks, Phantom Editor)
 - At least consider the option of not having an opinion.

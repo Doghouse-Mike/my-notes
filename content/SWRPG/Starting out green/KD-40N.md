@@ -1,8 +1,9 @@
 ---
-created: Monday, June 2nd 2025, 8:48:24 pm
+created: 2025-06-02 20:48:24
 date created: Monday, June 2nd 2025, 8:48:24 pm
 date modified: Monday, June 2nd 2025, 9:43:10 pm
-modified: Friday, June 13th 2025, 4:54:32 pm
+modified: 2025-07-06 18:02:23
+publish: true
 title: KD-40N
 ---
 

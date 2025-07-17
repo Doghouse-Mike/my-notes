@@ -1,13 +1,10 @@
 ---
 tags: [kids, music]
-date: 2015-06-06
 aliases: []
-created: Tuesday, April 1st 2025, 5:12:14 pm
-date created: Monday, February 21st 2022, 2:30:16 pm
-date modified: Saturday, May 31st 2025, 11:43:07 pm
-dg-publish: false
+created: 2025-04-01 17:12:14
 draft: false
-modified: Thursday, June 5th 2025, 11:24:39 am
+modified: 2025-07-17 12:41:09
+publish: true
 title: After that Another Glass of Wine
 ---
 

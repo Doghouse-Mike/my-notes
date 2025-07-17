@@ -1,12 +1,9 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Sunday, October 23rd 2011, 10:20:58 pm
-date modified: Tuesday, May 20th 2025, 10:09:45 pm
-dg-publish: false
+created: 2025-03-24 12:57:20
 draft: false
-modified: Monday, June 23rd 2025, 10:21:18 pm
+modified: 2025-07-13 13:37:23
 publish: true
 title: Quotes
 ---
@@ -25,7 +22,7 @@ Unselfishly.
 
 No. I don't think so. After all, everything has some sense. Sense and reason. 
 
-Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." -jobs
+Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." - Steve Jobs
 
 "In theory there is no difference between theory and practice. In practice there is." ~ Yogi Berra
 

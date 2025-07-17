@@ -1,11 +1,10 @@
 ---
 tags: []
 aliases: []
-created: Monday, March 24th 2025, 12:57:20 pm
-date created: Monday, March 17th 2025, 10:59:44 pm
-date modified: Tuesday, April 22nd 2025, 4:28:05 pm
+created: 2025-03-24 12:57:20
 draft: false
-modified: Thursday, June 5th 2025, 11:24:55 am
+modified: 2025-07-17 12:41:38
+publish: true
 title: Command for Updating All Homebrew Mac Things
 ---
 

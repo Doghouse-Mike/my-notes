@@ -1,11 +1,12 @@
 ---
 tags: []
 aliases: []
-created: Thursday, April 17th 2025, 7:13:33 pm
+created: 2025-04-17 19:13:33
 date created: Tuesday, March 18th 2025, 9:46:55 am
 date modified: Saturday, May 31st 2025, 6:00:06 pm
 draft: false
-modified: Friday, June 27th 2025, 1:55:00 pm
+modified: 2025-07-06 19:04:27
+publish: true
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
 ---
 
