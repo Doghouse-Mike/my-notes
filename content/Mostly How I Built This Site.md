@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"Mostly How I Built This Site","created":"2025-03-18 22:08:46","modified":"2025-07-10 17:15:01","cssclasses":""}
+{"publish":true,"permalink":"/Mostly How I Built This Site.md","aliases":"","title":"Mostly How I Built This Site","created":"2025-03-18 22:08:46","cssclasses":""}
 ---
 
 

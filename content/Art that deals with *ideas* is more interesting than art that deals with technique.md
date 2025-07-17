@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"Art that Deals with *ideas* is More Interesting than Art that Deals with Technique","created":"2025-03-24 12:57:20","modified":"2025-07-17 12:41:43","cssclasses":""}
+{"publish":true,"aliases":"","title":"Art that Deals with *ideas* is More Interesting than Art that Deals with Technique","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 

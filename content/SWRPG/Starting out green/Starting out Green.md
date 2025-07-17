@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Starting out Green","created":"2025-06-02 20:25:32","modified":"2025-07-06 19:04:40","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green.md","title":"Starting out Green","created":"2025-06-02 20:25:32","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Obsidian Dataview Cheatsheet","created":"2024-10-03 22:26:28","modified":"2025-07-17 12:41:12","cssclasses":""}
+{"publish":true,"title":"Obsidian Dataview Cheatsheet","created":"2024-10-03 22:26:28","cssclasses":""}
 ---
 
 

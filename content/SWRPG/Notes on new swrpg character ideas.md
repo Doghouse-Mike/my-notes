@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","modified":"2025-07-17 12:41:13","cssclasses":""}
+{"publish":true,"title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","cssclasses":""}
 ---
 
 
