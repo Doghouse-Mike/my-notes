@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/booze.md","aliases":"","title":"Booze","created":"2025-03-24 12:57:20","tags":["booze"],"cssclasses":""}
+{"publish":true,"aliases":"","title":"Booze","created":"2025-03-24 12:57:20","tags":["booze"],"cssclasses":""}
 ---
 
 

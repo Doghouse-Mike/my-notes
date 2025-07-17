@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"SWRPG Session 1","created":"2023-07-13 19:47:51","modified":"2025-07-06 19:04:16","cssclasses":""}
+{"publish":true,"aliases":"","title":"SWRPG Session 1","created":"2023-07-13 19:47:51","cssclasses":""}
 ---
 
 

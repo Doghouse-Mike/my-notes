@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/the king is dead.md","aliases":"","title":"The King is Dead","created":"2025-03-24 12:57:20","tags":["rip","music"],"cssclasses":""}
+{"publish":true,"aliases":"","title":"The King is Dead","created":"2025-03-24 12:57:20","tags":["rip","music"],"cssclasses":""}
 ---
 
 

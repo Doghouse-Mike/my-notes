@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"Other Types of Characters I Think it Could Be Fun to Play:","created":"2025-04-17 19:13:33","modified":"2025-07-06 19:04:27","cssclasses":""}
+{"publish":true,"aliases":"","title":"Other Types of Characters I Think it Could Be Fun to Play:","created":"2025-04-17 19:13:33","cssclasses":""}
 ---
 
 

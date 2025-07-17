@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Convert dot io.md","aliases":"","title":"Convert.io","created":"2025-03-24 12:57:20","cssclasses":""}
+{"publish":true,"aliases":"","title":"Convert.io","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
 
 
