@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Larry And His Flask at The Borderline.md","aliases":"","title":"Larry And His Flask at The Borderline","created":"2025-04-01 17:12:14","cssclasses":""}
+{"publish":true,"aliases":"","title":"Larry And His Flask at The Borderline","created":"2025-04-01 17:12:14","modified":"2025-07-17 12:41:13","cssclasses":""}
 ---
 
 

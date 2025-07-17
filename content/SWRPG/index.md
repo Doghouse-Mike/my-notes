@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/index.md","title":"SWRPG","created":"2025-04-22 09:49:32","tags":["MOCs"],"cssclasses":""}
+{"publish":true,"title":"SWRPG","created":"2025-04-22 09:49:32","modified":"2025-07-17 12:41:12","tags":["MOCs"],"cssclasses":""}
 ---
 
 

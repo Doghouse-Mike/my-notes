@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Nira Keth.md","title":"Nira Keth","created":"2025-07-06 18:58:29","cssclasses":""}
+{"publish":true,"title":"Nira Keth","created":"2025-07-06 18:58:29","modified":"2025-07-17 12:41:13","cssclasses":""}
 ---
 
 

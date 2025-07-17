@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Shopping List.md","title":"Shoppings List","created":"2025-07-04 21:00:49","cssclasses":""}
+{"publish":true,"title":"Shoppings List","created":"2025-07-04 21:00:49","modified":"2025-07-17 12:41:13","cssclasses":""}
 ---
 
 

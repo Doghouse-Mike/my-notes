@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/See if gets published.md","title":"See if Gets Published","created":"2025-07-02 23:01:14","cssclasses":""}
+{"publish":true,"title":"See if Gets Published","created":"2025-07-02 23:01:14","modified":"2025-07-17 12:41:12","cssclasses":""}
 ---
 
 

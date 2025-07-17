@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Merlin's Wisdom.md","title":"Merlin's Wisdom Project","created":"2025-05-08 10:13:28","cssclasses":""}
+{"publish":true,"title":"Merlin's Wisdom Project","created":"2025-05-08 10:13:28","modified":"2025-07-13 14:11:50","cssclasses":""}
 ---
 
 

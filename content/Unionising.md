@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Unionising.md","aliases":"","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","cssclasses":""}
+{"publish":true,"aliases":"","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","modified":"2025-07-17 12:41:09","cssclasses":""}
 ---
 
 

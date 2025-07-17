@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Movie Ideas.md","aliases":"","title":"Movie Ideas","draft":true,"created":"2025-04-01 15:01:08","cssclasses":""}
+{"publish":true,"aliases":"","title":"Movie Ideas","draft":true,"created":"2025-04-01 15:01:08","modified":"2025-07-17 12:41:13","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/SWRPG Session 8.md","aliases":"","title":"SWRPG Session 8","created":"2024-03-07 19:44:21","cssclasses":""}
+{"publish":true,"aliases":"","title":"SWRPG Session 8","created":"2024-03-07 19:44:21","modified":"2025-07-17 12:41:13","cssclasses":""}
 ---
 
 

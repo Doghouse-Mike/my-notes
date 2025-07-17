@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/eagleness.md","aliases":"","title":"Eagleness","created":"2025-03-24 12:57:20","cssclasses":""}
+{"publish":true,"aliases":"","title":"Eagleness","created":"2025-03-24 12:57:20","modified":"2025-07-03 23:21:52","cssclasses":""}
 ---
 
 

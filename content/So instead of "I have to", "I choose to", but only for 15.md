@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/So instead of \"I have to\", \"I choose to\", but only for 15.md","aliases":"","title":"On instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","cssclasses":""}
+{"publish":true,"aliases":"","title":"On instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","modified":"2025-07-17 12:41:09","cssclasses":""}
 ---
 
 
