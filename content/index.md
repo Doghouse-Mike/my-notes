@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"Site home","created":"2025-03-19 15:49:20","cssclasses":""}
+{"publish":true,"aliases":"","title":"Site home","created":"2025-03-19 15:49:20","modified":"2025-07-17 15:18:35","cssclasses":""}
 ---
 
 
@@ -9,4 +9,4 @@ Welcome aboard! This is the home page thing so there's a "default". It will like
 
 Here is 
 
-![[B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
