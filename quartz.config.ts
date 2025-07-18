@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-GB",
     baseUrl: "28mm.coffee",
     ignorePatterns: ["private", "templates", ".obsidian" ],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
