@@ -5,7 +5,7 @@ created: 2024-03-07 19:44:21
 date created: Thursday, March 7th 2024, 7:44:21 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 draft: false
-modified: 2025-07-17 12:41:13
+modified: 2025-07-17 21:43:03
 publish: true
 title: SWRPG Session 8
 ---

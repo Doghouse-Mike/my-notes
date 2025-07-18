@@ -1,6 +1,6 @@
 ---
 created: 2025-07-04 21:00:49
-modified: 2025-07-17 12:41:13
+modified: 2025-07-17 21:43:02
 publish: true
 title: Shoppings List
 ---

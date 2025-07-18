@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2025-04-11 07:52:09
 draft: false
-modified: 2025-07-17 12:41:16
+modified: 2025-07-17 21:43:02
 publish: true
 title: Interview with Koffin Kats
 ---

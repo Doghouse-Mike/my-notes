@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2023-04-25 16:51:21
 draft: false
-modified: 2025-07-10 17:15:09
+modified: 2025-07-18 09:26:25
 publish: true
 title: Some Interesting Sites Made in Obsidian
 ---

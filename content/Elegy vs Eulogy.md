@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2025-04-01 15:01:08
 draft: false
-modified: 2025-07-17 12:41:14
+modified: 2025-07-17 21:43:02
 publish: true
 title: Elegy Vs Eulogy
 ---

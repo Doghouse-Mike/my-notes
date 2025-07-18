@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-17 12:41:38
+modified: 2025-07-17 21:42:59
 publish: true
 title: Command for Updating All Homebrew Mac Things
 ---

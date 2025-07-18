@@ -1,6 +1,6 @@
 ---
 created: 2025-07-06 18:57:05
-modified: 2025-07-17 12:41:13
+modified: 2025-07-17 21:43:03
 publish: true
 title: Character Creation Ideas (for Future reference)
 ---
