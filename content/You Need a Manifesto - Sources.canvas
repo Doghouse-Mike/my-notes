@@ -1,0 +1,139 @@
+{
+	"nodes":[
+		{
+			"id":"0b8b1f54d09d22f6",
+			"type":"text",
+			"text":"what's the best possible outcome you can imagine?",
+			"styleAttributes":{},
+			"x":-520,
+			"y":480,
+			"width":280,
+			"height":120
+		},
+		{
+			"id":"514f454e265a3398",
+			"type":"text",
+			"text":"We only know what we make",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c156e8c8934a2a64",
+			"type":"text",
+			"text":"guided by a great feeling of love",
+			"styleAttributes":{},
+			"x":300,
+			"y":20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7f91009fb2068e31",
+			"type":"text",
+			"text":"What am I *actually* trying to accomplish here? Just do the *thing*",
+			"styleAttributes":{},
+			"x":-540,
+			"y":300,
+			"width":300,
+			"height":140
+		},
+		{
+			"id":"1e9e2c32daa9957a",
+			"type":"text",
+			"text":"Without people, you're nothing",
+			"styleAttributes":{},
+			"x":300,
+			"y":100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4005156da450b899",
+			"type":"text",
+			"text":"Hold on tight to your fears \nCause that's your hatred \nAnd that's your love as well\nLearn to use all your fears\nAs a fuel, as an engine \nTo get you where you need",
+			"styleAttributes":{},
+			"x":-100,
+			"y":80,
+			"width":340,
+			"height":200
+		},
+		{
+			"id":"29079460178a02f3",
+			"type":"text",
+			"text":"Confidence doesn’t come from knowing you’re right—it comes from being okay with failing.",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-120,
+			"width":400,
+			"height":100
+		},
+		{
+			"id":"eee173c74181bcd5",
+			"type":"text",
+			"text":"\"Pretend to be making something until you actually make something.",
+			"styleAttributes":{},
+			"x":-580,
+			"y":-40,
+			"width":320,
+			"height":140
+		},
+		{
+			"id":"c8f57062344341d7",
+			"type":"text",
+			"text":"It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions",
+			"styleAttributes":{},
+			"x":-570,
+			"y":75,
+			"width":300,
+			"height":170
+		},
+		{
+			"id":"d4fb43718c1d4e11",
+			"type":"text",
+			"text":"Art as a real threat",
+			"styleAttributes":{},
+			"x":540,
+			"y":-150,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0b70ea6be35f2874",
+			"type":"text",
+			"text":"**Starting?**",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b477c1521887614a",
+			"type":"text",
+			"text":"**In progress?**",
+			"styleAttributes":{},
+			"x":-160,
+			"y":-350,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"eddb988116da4aec",
+			"type":"text",
+			"text":"Part of the exercise on sources from [[Notes on \"You Need a Manifesto\"|You Need a Manifesto]]",
+			"styleAttributes":{},
+			"x":-680,
+			"y":760,
+			"width":300,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
