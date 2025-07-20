@@ -16433,7 +16433,7 @@
       },
       {
         "date": "2025-07-17",
-        "filePath": "Old borked index.md",
+        "filePath": "OLDindex.md",
         "wordCountStart": 74,
         "charCountStart": 429,
         "changes": [
@@ -16462,7 +16462,7 @@
       },
       {
         "date": "2025-07-18",
-        "filePath": "index.md",
+        "filePath": "OLDindex.md",
         "wordCountStart": 74,
         "charCountStart": 429,
         "changes": [
@@ -16472,9 +16472,14 @@
             "c": 26
           },
           {
-            "timeKey": "16:30",
+            "timeKey": "21:45",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "23:05",
+            "w": -81,
+            "c": -455
           }
         ],
         "id": 1141
@@ -16503,28 +16508,12 @@
         "filePath": "Drafts/Secret sales runx.md",
         "wordCountStart": 4486,
         "charCountStart": 27360,
-        "changes": [
-          {
-            "timeKey": "14:50",
-            "w": 0,
-            "c": 0
-          },
-          {
-            "timeKey": "15:05",
-            "w": 7,
-            "c": 38
-          },
-          {
-            "timeKey": "15:10",
-            "w": 0,
-            "c": 1
-          }
-        ],
+        "changes": [],
         "id": 1143
       },
       {
         "date": "2025-07-18",
-        "filePath": "index.md",
+        "filePath": "OLDindex.md",
         "wordCountStart": 81,
         "charCountStart": 455,
         "changes": [
@@ -16544,9 +16533,14 @@
             "c": 26
           },
           {
-            "timeKey": "16:30",
+            "timeKey": "21:45",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "23:05",
+            "w": -88,
+            "c": -481
           }
         ],
         "id": 1144
@@ -16575,25 +16569,171 @@
       },
       {
         "date": "2025-07-18",
-        "filePath": "Notion/index.md",
-        "wordCountStart": 4,
-        "charCountStart": 46,
-        "changes": [],
+        "filePath": "OLDindex.md",
+        "wordCountStart": 83,
+        "charCountStart": 465,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": 1
+          }
+        ],
         "id": 1147
       },
       {
         "date": "2025-07-18",
-        "filePath": "Notion/V&D-TBD info/V&D-TBD info.md",
-        "wordCountStart": 6539,
-        "charCountStart": 40930,
+        "filePath": "Mostly How I Built This Site.md",
+        "wordCountStart": 2357,
+        "charCountStart": 13868,
+        "changes": [],
+        "id": 1148
+      },
+      {
+        "date": "2025-07-18",
+        "filePath": "without people you’re nothing.md",
+        "wordCountStart": 104,
+        "charCountStart": 602,
         "changes": [
           {
-            "timeKey": "16:15",
-            "w": 11,
-            "c": -943
+            "timeKey": "23:45",
+            "w": 0,
+            "c": 6
           }
         ],
-        "id": 1148
+        "id": 1149
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "without people you’re nothing.md",
+        "wordCountStart": 104,
+        "charCountStart": 608,
+        "changes": [],
+        "id": 1150
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Admonition readme tester.md",
+        "wordCountStart": 3399,
+        "charCountStart": 23598,
+        "changes": [],
+        "id": 1151
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "after that another glass of wine.md",
+        "wordCountStart": 119,
+        "charCountStart": 778,
+        "changes": [],
+        "id": 1152
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Art.md",
+        "wordCountStart": 25,
+        "charCountStart": 132,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 1153
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Art that deals with *ideas* is more interesting than art that deals with technique.md",
+        "wordCountStart": 65,
+        "charCountStart": 384,
+        "changes": [],
+        "id": 1154
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "booze.md",
+        "wordCountStart": 93,
+        "charCountStart": 557,
+        "changes": [],
+        "id": 1155
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Command for updating all homebrew mac things.md",
+        "wordCountStart": 48,
+        "charCountStart": 291,
+        "changes": [],
+        "id": 1156
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Convert dot io.md",
+        "wordCountStart": 48,
+        "charCountStart": 270,
+        "changes": [],
+        "id": 1157
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Die, diddily die, my darling.md",
+        "wordCountStart": 35,
+        "charCountStart": 198,
+        "changes": [],
+        "id": 1158
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "eagleness.md",
+        "wordCountStart": 85,
+        "charCountStart": 510,
+        "changes": [],
+        "id": 1159
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "OLDindex.md",
+        "wordCountStart": 83,
+        "charCountStart": 464,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1160
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "index.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 23,
+            "c": 121
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1161
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Drafts/index.md",
+        "wordCountStart": 43,
+        "charCountStart": 235,
+        "changes": [],
+        "id": 1162
       }
     ],
     "daysWithCompletedGoal": [
