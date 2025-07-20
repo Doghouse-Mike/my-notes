@@ -6,6 +6,7 @@ on:
       - v4
 env:
   THEME_NAME: fastppuccin
+  
 permissions:
   contents: read
   pages: write
@@ -16,6 +17,9 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
+
+ - name: Fetch Quartz Theme
+  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
   build:
     runs-on: ubuntu-22.04
     steps:
@@ -33,8 +37,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
- - name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
   deploy:
     needs: build
     environment:
