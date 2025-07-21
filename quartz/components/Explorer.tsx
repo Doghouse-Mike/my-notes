@@ -30,21 +30,15 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
-    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
-    }
+    // Folders always come first
+    if (a.isFolder && !b.isFolder) return -1
+    if (!a.isFolder && b.isFolder) return 1
 
-    if (!a.isFolder && b.isFolder) {
-      return 1
-    } else {
-      return -1
-    }
+    // Both are folders or both are files: sort by created date (newest first)
+    const aCreated = new Date(a.meta?.created ?? 0)
+    const bCreated = new Date(b.meta?.created ?? 0)
+
+    return bCreated.getTime() - aCreated.getTime()
   },
   filterFn: (node) => node.slugSegment !== "tags",
   order: ["filter", "map", "sort"],
