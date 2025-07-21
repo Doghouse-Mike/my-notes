@@ -1,15 +1,13 @@
 ---
-created: 2025-07-04 21:00:49
-modified: 2025-07-17 21:43:02
-publish: true
-title: Shoppings List
+{"publish":true,"title":"Shoppings List","created":"2025-07-04 21:00:49","cssclasses":""}
 ---
+
 
 # Shoppings List
 
 ## Pre-Defense of Whisper Base
 
-### KD Would like
+### KD Would Like
 
 Emergency Repair Patch (5? 10? Some for now, some for later)
 
@@ -23,7 +21,7 @@ OR
 
 The bolted/welded on equivalent of an [armoured half-vest](https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Half-vest)
 
-### Thing it Could also Be Useful to Have
+### Thing it Could Also Be Useful to Have
 
 A pile of grenades. For big jobs
 
@@ -51,13 +49,13 @@ Is there enough stuff laying around the base to jury rig a [power fence](https:/
 
 [Shield Gauntlet](https://star-wars-rpg-ffg.fandom.com/wiki/Shield_Gauntlet) - basically a buckler. But in space
 
-[[KD-40N]] would definitely want an [electromag pulse disruptor](https://star-wars-rpg-ffg.fandom.com/wiki/Electromag-Pulse_Disruptor) in his toolkit
+[[SWRPG/Starting out green/KD-40N]] would definitely want an [electromag pulse disruptor](https://star-wars-rpg-ffg.fandom.com/wiki/Electromag-Pulse_Disruptor) in his toolkit
 
 [Repulsor Fist](https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Fist)
 
 ## Potentially Better for Ed:
 
-[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) (500 Cr each) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) (discounted now) look decent, a bit too "combative" For KD though mayhap. [[Z-X3ED|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
+[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) (500 Cr each) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) (discounted now) look decent, a bit too "combative" For KD though mayhap. [[SWRPG/Z-X3ED\|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
 
 [OK-98 blaster carbine](https://starwars.fandom.com/wiki/OK-98_blaster_carbine) Or similar, but fitted with the [pistol grip](https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip)mod (turns it into ranged (light) for 400 Cr)
 

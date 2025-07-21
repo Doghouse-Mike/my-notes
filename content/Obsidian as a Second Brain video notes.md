@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2022-11-24 20:08:15
-draft: false
-modified: 2025-07-17 21:42:49
-publish: true
-title: Obsidian as a Second Brain Video Notes
+{"publish":true,"aliases":"","title":"Obsidian as a Second Brain Video Notes","created":"2022-11-24 20:08:15","cssclasses":""}
 ---
+
 
 # Obsidian as a Second Brain Video Notes
 
@@ -14,21 +9,21 @@ title: Obsidian as a Second Brain Video Notes
 
 Bit of a look into using [[obisidan]] as a [[second brain]] for [[PKM]]
 
-Suggests creating links to cover topics, concepts, ideas. Links will create a new note if it doesn’t exist already, but I’m pretty sure there’s a way with [[dataview]] to populate those empty notes with highlights from the ones that links to it, or something similar. 
+Suggests creating links to cover topics, concepts, ideas. Links will create a new note if it doesn't exist already, but I'm pretty sure there's a way with [[dataview]] to populate those empty notes with highlights from the ones that links to it, or something similar. 
 
-- [x] #todo Research populating “empty” linked to notes created via links #todo ✅ 2025-05-04
+- [x] #todo Research populating "empty" linked to notes created via links #todo ✅ 2025-05-04
 
-Don’t have to define every single concept as a link
+Don't have to define every single concept as a link
 
 Occasionally turn a quote into a link. Will probably end up showing up in/being applicable to different situations/notes. 
 
-Headings can be referenced from other docs! Select the stuff, right click it, “extract current selection” et voila! Now that’s gonna be real fucking handy. 
+Headings can be referenced from other docs! Select the stuff, right click it, "extract current selection" et voila! Now that's gonna be real fucking handy. 
 
-(This is covered at pretty much bang on 20 minutes into the video). Might need some practice t work out what I’m doing/how it works. 
+(This is covered at pretty much bang on 20 minutes into the video). Might need some practice t work out what I'm doing/how it works. 
 
 Not gonna lie actually pretty excited about this again. Might have to do an up early again tomorrow just to get crackalackin on it some more. 
 
-Didn’t make it “Tomorrow” but back once again!
+Didn't make it "Tomorrow" but back once again!
 
 Can link references directly to paragraphs rather than to the entire note by linking straight to the heading. Not entirely clear how to actually *do it*, but can always look that up real quick if/when I want to. 
 
@@ -40,11 +35,11 @@ Can link references directly to paragraphs rather than to the entire note by lin
 
 Stuff goes in here or something
 
-So that seems to work pretty well! Doesn’t even need to be a heading by the look of it, once you’ve got the ^ inside the linking brackets, it’ll give you a list of paragraphs (live searchable with text) and then just create a reference in the target for you. 
+So that seems to work pretty well! Doesn't even need to be a heading by the look of it, once you've got the ^ inside the linking brackets, it'll give you a list of paragraphs (live searchable with text) and then just create a reference in the target for you. 
 
 Hashtags next!
 
-Useful for catching stuff that might not warrant it’s own note, example given is something you’ve been thinking of on and off for a while. Can tag it up, and easily search for all the references to it that you’ve made in any notes, referencing daily notes again. I guess if that gets to be enough unrelated bits n bobs scattered around the place can be easily pulled into/referenced/collated into a more formal/structured note. 
+Useful for catching stuff that might not warrant it's own note, example given is something you've been thinking of on and off for a while. Can tag it up, and easily search for all the references to it that you've made in any notes, referencing daily notes again. I guess if that gets to be enough unrelated bits n bobs scattered around the place can be easily pulled into/referenced/collated into a more formal/structured note. 
 
 ## When Should I Use Links?
 
@@ -57,7 +52,7 @@ More structure
 
 - Categories *with intent*
 fundamentally about searchability
-When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md|writing]] will be put together. For more loosely related ideas
+When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md\|writing]] will be put together. For more loosely related ideas
 Keep the categories meaningful. Reasonably specific/*intentional*
 Ok to use the same tag multiple times within the same document, because *where* it is will be relevant to the context of when you wrote it. Think of future you trying to track this bit of information down. 
 NOT for archiving. 
@@ -66,7 +61,7 @@ NOT for archiving.
 
 ^79e8ce
 
-Could be a bit of a big deal, it’s the buzzword I guess, that oughta kinda reinforce/give a name to some of the stuff I’ve been doing over the years anyway? Maybe? It this is a tale for a different day. For now, it is bed time.  
+Could be a bit of a big deal, it's the buzzword I guess, that oughta kinda reinforce/give a name to some of the stuff I've been doing over the years anyway? Maybe? It this is a tale for a different day. For now, it is bed time.  
 #zettelkasten
 
 #test
@@ -80,7 +75,7 @@ Could be a bit of a big deal, it’s the buzzword I guess, that oughta kinda rei
 2. Literature note
 	for articles, books, research, videos maybe. Should be written in own words ideally.
 		Processing the information into my own words helps create a mental model, synthesise the info.
-	Doesn’t have to be though, go nuts with the cut n paste
+	Doesn't have to be though, go nuts with the cut n paste
 	Can cover concepts, people, books, articles, videos, etc. Data in. 
 3. Permanent note
 	Most distilled version of a note
@@ -93,7 +88,7 @@ Could be a bit of a big deal, it’s the buzzword I guess, that oughta kinda rei
 
 Literature note to capture almost *everything* about a topic so you can research more when you need it, distilled note covers mostly what you need to know, concisely. Distilled note for the most important parts/concepts, literature note for where that came from almost. 
 
-Distilled note doesn’t have to be tiny, just the actionable stuff. “Significant summary”
+Distilled note doesn't have to be tiny, just the actionable stuff. "Significant summary"
 
 Literature note for in depth understanding, distilled note = practical toolkit. 
 
@@ -101,7 +96,7 @@ Literature note for in depth understanding, distilled note = practical toolkit.
 
 Cmd-shift-F
 
-Can add - to eliminate search terms. Eg “thing -otherthing”
+Can add - to eliminate search terms. Eg "thing -otherthing"
 
 Come click to open in new pane
 
@@ -111,15 +106,15 @@ Path works too, probably more useful for *excluding* stuff though
 
 TAGS! Tag pane can be handy for searching for tags. Can come click to select multiple ones. 
 
-Can narrow search to section, or even a line “section:(Thing otherthing)” or “line:(thing otherthing)” and it’ll only show instances where the search terms appear in the same section/Line. 
+Can narrow search to section, or even a line "section:(Thing otherthing)" or "line:(thing otherthing)" and it'll only show instances where the search terms appear in the same section/Line. 
 
 Regex. Complicated but powerful. Whole entire rabbit hole to fall into there. Not gonna bother for now!
 
-Footnotes! This’ll be handy for uni work. 
+Footnotes! This'll be handy for uni work. 
 
 So this would be a test[^1]
 
-And you can even have the actual footnote text next to each other, and in “reader” mode (and on export?) it’ll keep the reference at the bottom, *after* any further actual writing. This will be fire. 
+And you can even have the actual footnote text next to each other, and in "reader" mode (and on export?) it'll keep the reference at the bottom, *after* any further actual writing. This will be fire. 
 
 More info on formatting in the official Obsidian help guide. 
 

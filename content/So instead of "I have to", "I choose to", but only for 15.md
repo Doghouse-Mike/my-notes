@@ -1,14 +1,9 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-01 17:12:14
-draft: true
-modified: 2025-07-17 21:42:49
-publish: true
-title: 'On instead of "I Have to", "I Choose to"'
+{"publish":true,"aliases":"","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","cssclasses":""}
 ---
 
-# On instead of "I Have to", "I Choose to"
+
+# On Instead of "I Have to", "I Choose to"
 
 So instead of "I have to", "I choose to", but only for 15 minutes, and reasons/bigger picture
 

@@ -1,24 +1,19 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-17 22:35:11
-publish: true
-title: Theme
+{"publish":true,"aliases":"","title":"Theme","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
+
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
 
 I've created a version of the Journal itself as a Template for my Daily Notes within Obsidian, which looks a little something like this:
 
-![[Pasted image 20250411072056.png]]
+![[Attachments/Pasted image 20250411072056.png]]
 
 # Theme
 
 Overarching tool used to guide thinking over course of the year/season
 
-Not a “goal”
+Not a "goal"
 
 Broad
 
@@ -30,7 +25,7 @@ Better version of yourself
 
 Trend line heading in the right direction is the important bit
 
-Check out cortex instagram for "12 days of themes” so probs around Christmas ‘23 for more examples
+Check out cortex instagram for "12 days of themes" so probs around Christmas '23 for more examples
 
 Friendly robot to point at the right path to get more of whatever I decided I wanted more of/less of that I wanted less of
 
@@ -38,7 +33,7 @@ Broadness of a theme allows it to change if needed. I am where I am *now*. The t
 
 Thinking about my thinking changes who I am 
 
-![[Pasted image 20240901180350.png]]
+![[Attachments/Pasted image 20240901180350.png]]
 
 ## Daily Task Guidance
 
@@ -58,7 +53,7 @@ Bottom box for *one* thing that went well today
 
 Big box in the middle for general thoughts/what's on my mind. Less actionable, but good to review for recurring *themes* that might want more investigation, turning into daily tracking questions
 
-## Theme part (first Pages in the book)
+## Theme Part (first Pages in the book)
 
 High level theme for the year/season
 
@@ -95,7 +90,7 @@ Save for intensive driving course, plan a week or two of leave in to complete it
 
 ## INTEGRITY/FOLLOW UP/FOLLOW THROUGH
 
-DO the things I say I want to do. Likewise I guess say “no” to things I know I’m not gonna WHEN THEY COME UP
+DO the things I say I want to do. Likewise I guess say "no" to things I know I'm not gonna WHEN THEY COME UP
 
 ## COMMUNICATION
 
@@ -131,7 +126,7 @@ Home Clarity Tools:
 - Take before/after photos to motivate and track progress
 - Create a shared digital "maybe donate/sell" folder for items you both agree might not be essential
 
-2. Decluttering Approach
+1. Decluttering Approach
 - Try the "one in, one out" rule
 - Use the "30-day challenge" method: if you haven't used an item in 30 days, consider removing it
 - Create a "decision-making framework" together that respects both of your needs
@@ -143,7 +138,7 @@ Work Clarity Tools:
 - Create a weekly 15-minute ritual of updating your "value log"
 - Track metrics: time saved, projects completed, process improvements
 
-2. Professional Development
+1. Professional Development
 - Set up LinkedIn Learning or Coursera to develop analytical and tech skills
 - This supports both your current role and potential future opportunities
 

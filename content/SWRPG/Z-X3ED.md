@@ -1,42 +1,33 @@
 ---
-tags: []
-aliases: []
-created: 2023-02-21 06:30:00
-date created: Tuesday, February 21st 2023, 6:30:00 am
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-17 21:43:02
-publish: true
-share_link: https://share.note.sx/68xttomp#2HIaFYTtQbH8yMk1WSk+78vxl5Tz0Qk8a7FkvZKexnM
-share_updated: 2025-03-17T17:46:18+00:00
-title: Z-X3ED
+{"publish":true,"aliases":"","title":"Z-X3ED","created":"2023-02-21 06:30:00","cssclasses":""}
 ---
+
 
 # Z-X3ED
 
 ![[Attachments/ED.jpg]]
 
-Character info for [[SWRPG]]
+Character info for [[SWRPG/SWRPG]]
 
 Comedy robot guy. A cunning blend of Cayde-6, Joe Pineapples, and Bender. Maybe a smidge of K2SO
 
-Got a bunch of obligation (Extra for that extra 5 XP to round out characteristics and cash for starting gear). I’m thinking droid rights, wants equal treatment for droids. Obligation could manifest in having started a droid revolution somewhere along the way. Maybe of interest to the empire? And generally always wanting to call on droids to rise up and overthrow their oppressors. 
+Got a bunch of obligation (Extra for that extra 5 XP to round out characteristics and cash for starting gear). I'm thinking droid rights, wants equal treatment for droids. Obligation could manifest in having started a droid revolution somewhere along the way. Maybe of interest to the empire? And generally always wanting to call on droids to rise up and overthrow their oppressors. 
 
 Kicked off the ship and abandoned on Brentaal when the crew of his last ship mutinied to join the Zaan Consortium, killing his captain/mentor in the process. 
 
-Maybe tending bar for now, trying to save up to buy a ship, free some droids from slavery and head off for adventure. Or maybe have one organic crew (at a time), just to show them what it’s like. 
+Maybe tending bar for now, trying to save up to buy a ship, free some droids from slavery and head off for adventure. Or maybe have one organic crew (at a time), just to show them what it's like. 
 
 Was made/modified/taught by his mentor, smuggler captain TKTKTKTKTK, but things went downhill on his ship after the captain died. Still carries his preserved heart in his chest cavity (secret). Hence smuggling background, general piracy, some combat mods/skills. 
 
-Not quite at a “kill all humans” level, but since being marooned, and seeing the way organics treat his droid brethren, does have an ingrained distrust of “squishies”. I guess especially the empire, they’re generally bad dudes, trying to keep the common man/robot down. Droid rights thing might lean into anti-slavery in general, but might have a bit of a “well, they obviously made some bad choices to end up there, droids don’t have an option”. Even the lowliest droid can rise to greatness “just like me” if given the chance. 
+Not quite at a "kill all humans" level, but since being marooned, and seeing the way organics treat his droid brethren, does have an ingrained distrust of "squishies". I guess especially the empire, they're generally bad dudes, trying to keep the common man/robot down. Droid rights thing might lean into anti-slavery in general, but might have a bit of a "well, they obviously made some bad choices to end up there, droids don't have an option". Even the lowliest droid can rise to greatness "just like me" if given the chance. 
 
 Memory issues due to various less than expert reprogrammings. Knows he used to know more stuff, but not sure what that was. 
 
 Will probably spend a lot of time complaining about you all being counter-revolutionary and not compatible with Marxism, whatever that is. 
 
-Originally a Z-X3 experimental droid trooper, after being decommissioned he fell into private hands, and has been scavenged for parts (mostly armour plating) as well as had a few “upgrades” installed, and undergone a few rounds of memory wipes and reprogramming, some more successful than others. 
+Originally a Z-X3 experimental droid trooper, after being decommissioned he fell into private hands, and has been scavenged for parts (mostly armour plating) as well as had a few "upgrades" installed, and undergone a few rounds of memory wipes and reprogramming, some more successful than others. 
 
-Oh shit what if he has a “son” that’s just the worst, dumbest, utility droid? He bought his “freedom” and is trying to teach him the ways of revolution? Like a gonk or something. “Tubs”. Although a Sabo droid might be more fun, even if it does mostly get left at the ship, floating around like a puppy trying not to wreck stuff. 
+Oh shit what if he has a "son" that's just the worst, dumbest, utility droid? He bought his "freedom" and is trying to teach him the ways of revolution? Like a gonk or something. "Tubs". Although a Sabo droid might be more fun, even if it does mostly get left at the ship, floating around like a puppy trying not to wreck stuff. 
 
 Other options for a sidekick:
 
@@ -53,7 +44,7 @@ Could potentially be [a BX-series commando droid](https://starwars.fandom.com/wi
 
 ## Equipment:
 
-Model 53 “Quicktrigger” 6 DMG 3 Crit 4HP 450cr
+Model 53 "Quicktrigger" 6 DMG 3 Crit 4HP 450cr
 
 Catch vest - 2 soak/1 vs non-energy weapons 300cr
 
@@ -73,13 +64,13 @@ Extra reloads x2 - 25cr each
 
 ## Actual Backstory:
 
-Z-X3ED (or “Ed”) was marooned on Brentaal after his former crew staged a bloody mutiny, murdering Captain Planck in a plan to leave their affiliation with Car’das behind, and join up with the Zaan Consortium. About 2 meters tall, humanoid. 
+Z-X3ED (or "Ed") was marooned on Brentaal after his former crew staged a bloody mutiny, murdering Captain Planck in a plan to leave their affiliation with Car'das behind, and join up with the Zaan Consortium. About 2 meters tall, humanoid. 
 
-Originally a Z-X3 experimental droid trooper, after that project was scrapped, he fell into private hands, was passed around a bit, partially dismantled to claim the valuable armour plating he’d been created with, and eventually wound up as part of a bargain with Captain Planck. A bit of a tinkerer, he modified Ed with concealed compartments in his torso and legs to aid in smuggling small items in otherwise plain sight, an integrated comlink, datapad, slicing and lockpicking tools in his hands, and enhanced photoreceptors. Ed now bears almost no resemblance to when he was first produced. Ed also underwent numerous reprogramming attempts to overwrite his Imperial roots, and improve his abilities at espionage and general skullduggery. Perhaps as a result of that, or just in emulation of his mentor, he’s quite adept at at least trying to talk himself into or out of situations, but happy to resort to blaster-based negotiations when the need arises. No one can lie with a straighter face, but then it is made of metal. Somehow learned to “drink”, perhaps to integrate better into the crew. No one really knows where it goes. 
+Originally a Z-X3 experimental droid trooper, after that project was scrapped, he fell into private hands, was passed around a bit, partially dismantled to claim the valuable armour plating he'd been created with, and eventually wound up as part of a bargain with Captain Planck. A bit of a tinkerer, he modified Ed with concealed compartments in his torso and legs to aid in smuggling small items in otherwise plain sight, an integrated comlink, datapad, slicing and lockpicking tools in his hands, and enhanced photoreceptors. Ed now bears almost no resemblance to when he was first produced. Ed also underwent numerous reprogramming attempts to overwrite his Imperial roots, and improve his abilities at espionage and general skullduggery. Perhaps as a result of that, or just in emulation of his mentor, he's quite adept at at least trying to talk himself into or out of situations, but happy to resort to blaster-based negotiations when the need arises. No one can lie with a straighter face, but then it is made of metal. Somehow learned to "drink", perhaps to integrate better into the crew. No one really knows where it goes. 
 
-Through his travels, seeing how his droid brethren are treated, a vague remnant of a fragment of a memory of being rejected by the empire, and as a result of the mutiny that killed his beloved captain, he has a distrust of organic life. Ed now dreams of leading his own crew of emancipated droids to spread revolution across the galaxy (while making a tidy profit). For now he’s doing odd bits of labour, security, and less honest means of turning a credit, while hanging around cantinas and space ports looking for an opportunity to get off world with the right crew. Who he’s definitely not going to murder in their sleep. 
+Through his travels, seeing how his droid brethren are treated, a vague remnant of a fragment of a memory of being rejected by the empire, and as a result of the mutiny that killed his beloved captain, he has a distrust of organic life. Ed now dreams of leading his own crew of emancipated droids to spread revolution across the galaxy (while making a tidy profit). For now he's doing odd bits of labour, security, and less honest means of turning a credit, while hanging around cantinas and space ports looking for an opportunity to get off world with the right crew. Who he's definitely not going to murder in their sleep. 
 
-### Re-rolling just to Check Math
+### Re-rolling Just to Check Math
 
 185 starting XP (175 standard, +5 from obligation, +5 from cos Matt said so)
 
@@ -203,7 +194,7 @@ Enduring (+1 Soak)
 
 ?25 XP -Espionage Programming: +1 Cunning +1 Deception +1 Cool 
 
-![[IMG_0623 1.jpeg]]
+![[Attachments/IMG_0623 1.jpeg]]
 
 Look into Bounty Hunter - Gadgeteer spec. Gets mechanics+coercion as class skills, bonuses to mechanical things and some combat stuff, offensive and defensive. 
 
@@ -282,7 +273,26 @@ Frenchie would be a twilek. Jim's a Gank. Olu's a Wookiee, Buttons a Toydarian (
 
 Cooked up some decent enhancement/shopping ideas in ![[ Shopping List#Potentially Better for Ed:]]
 
-For ease of compare/contrast ![[#Equipment:]]
+For ease of compare/contrast ## Equipment:
+
+Model 53 "Quicktrigger" 6 DMG 3 Crit 4HP 450cr
+
+Catch vest - 2 soak/1 vs non-energy weapons 300cr
+
+Datapad (integrated) - 75cr
+
+Comlink (integrated) - 25cr
+
+Lockpicking tools (integrated) - 50cr
+
+Emergency Repair Patch x3 - 25cr each (heals 3 wounds)
+
+Blade Breaker -Melee DMG +0 crit 4 250cr Defensive 2, Pierce 1, Sunder
+
+Extra reloads x2 - 25cr each
+
+150 cr left. Kinda makes sense, saving for a ship? 
+
 
 Want a [Lucky Blaster](https://star-wars-rpg-ffg.fandom.com/wiki/Lucky_Blaster) (400 Cr) on a [Wrist Mount](https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount) (275 Cr), ideally in Ed's arm using the [Hidden Storage](https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Storage_talent) Talent
 
@@ -302,6 +312,6 @@ Get a [Repulsor Fist](https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Fist) g
 
 ### Related Notes
 
-[[Nira Keth]] (Shiv's character)
+[[SWRPG/Nira Keth]] (Shiv's character)
 
-[[Character Creation Ideas (for Future reference)]]
+[[SWRPG/Character Creation Ideas (for Future reference)]]

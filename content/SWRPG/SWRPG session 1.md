@@ -1,32 +1,25 @@
 ---
-tags: []
-aliases: []
-created: 2023-07-13 19:47:51
-date created: Thursday, July 13th 2023, 7:47:51 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-06 19:04:16
-publish: true
-title: SWRPG Session 1
+{"publish":true,"aliases":"","title":"SWRPG Session 1","created":"2023-07-13 19:47:51","cssclasses":""}
 ---
+
 
 # SWRPG Session 1
 
 2023-07-13
 
-[[Z-X3ED]]
+[[SWRPG/Z-X3ED]]
 
-[[SWRPG]]
+[[SWRPG/SWRPG]]
 
 ## How Do We Know Each Other?
 
 Snowy patched Nira up after a blowy up thing gone wrong?
 
-I’ve been Cantina security
+I've been Cantina security
 
 Ruth-reporter lady. 
 
-DEBO- cam droid
+DEBOcam droid
 
 snikora+pulo Hutts running the blackmarket in town
 

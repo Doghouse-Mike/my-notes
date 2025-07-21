@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-17 21:42:49
-publish: true
-title: Exploring the Why? Question
+{"publish":true,"aliases":"","title":"Exploring the Why? Question","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
+
 
 # Exploring the Why? Question
 
@@ -50,4 +45,4 @@ What does it remind me of?
 
 And once again back to the facts:
 
-Is there some idea or ‘rule’ that makes me like or dislike one?
+Is there some idea or 'rule' that makes me like or dislike one?
