@@ -18,7 +18,7 @@ I'd been bashing my head against various walls on and off for a couple of weeks 
 
 [Micro.blog](https://micro.blog) also seems pretty amazing (and has a lot of social features), but alas, their photo support didn't match up with what I was looking for.
 
-### So, Quartz
+## So, Quartz
 
 Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also heard of it from Brett Terpstra, not sure if he's still using it to handle his [excellent site](https://brettterpstra.com)) but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet.
 
