@@ -6,6 +6,7 @@
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- a pox upon your house, upon your family, everyone you ever knew, and everyone you'll ever meet
 - your mouth is talking, you might wanna look to that
 - do we have an understanding 
 - find a crew, find a job, keep flying
