@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2024-05-23 21:01:52
-date created: Thursday, May 23rd 2024, 9:01:52 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-17 21:43:03
-publish: true
-title: SWRPG Session 10
+{"publish":true,"aliases":"","title":"SWRPG Session 10","created":"2024-05-23 21:01:52","modified":"2025-07-17 21:43:03","cssclasses":""}
 ---
+
 
 # SWRPG Session 10
 

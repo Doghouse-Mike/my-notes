@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2022-11-24 20:08:15
-draft: false
-modified: 2025-07-21 21:50:13
-publish: true
-title: Obsidian as a Second Brain Video Notes
+{"publish":true,"aliases":"","title":"Obsidian as a Second Brain Video Notes","created":"2022-11-24 20:08:15","cssclasses":""}
 ---
+
 
 # Obsidian as a Second Brain Video Notes
 
@@ -57,7 +52,7 @@ More structure
 
 - Categories *with intent*
 fundamentally about searchability
-When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md|writing]] will be put together. For more loosely related ideas
+When you search for something related to a topic, but might not know the structure of how that topic/note/actual [[Writing.md\|writing]] will be put together. For more loosely related ideas
 Keep the categories meaningful. Reasonably specific/*intentional*
 Ok to use the same tag multiple times within the same document, because *where* it is will be relevant to the context of when you wrote it. Think of future you trying to track this bit of information down. 
 NOT for archiving. 

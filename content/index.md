@@ -1,10 +1,7 @@
 ---
-tags: []
-created: 2025-03-19 15:49:20
-modified: 2025-07-22 14:24:36
-publish: true
-title: Site Home
+{"publish":true,"title":"Site Home","created":"2025-03-19 15:49:20","cssclasses":""}
 ---
+
 
 # Site Home
 
@@ -12,4 +9,4 @@ Welcome aboard! This is the home page thing so there's a "default". It will like
 
 How I got here is kinda laid out in [[Mostly How I Built This Site]]
 
-![[B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]

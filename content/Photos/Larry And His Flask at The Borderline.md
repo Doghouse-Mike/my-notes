@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-01 17:12:14
-date created: Tuesday, April 12th 2022, 11:11:00 am
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-draft: false
-modified: 2025-07-17 21:43:02
-publish: true
-title: Larry And His Flask at The Borderline
-url: https://doghouse-mike.micro.blog/larry-and-his-flask-at/
+{"publish":true,"aliases":"","title":"Larry And His Flask at The Borderline","created":"2025-04-01 17:12:14","modified":"2025-07-17 21:43:02","cssclasses":""}
 ---
+
 
 # Larry And His Flask at The Borderline
 

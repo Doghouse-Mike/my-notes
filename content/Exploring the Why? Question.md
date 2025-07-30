@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-21 21:50:13
-publish: true
-title: Exploring the Why? Question
+{"publish":true,"aliases":"","title":"Exploring the Why? Question","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
+
 
 # Exploring the Why? Question
 

@@ -1,15 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-20 11:55:25
-date created: Tuesday, April 12th 2022, 1:41:37 pm
-date modified: Tuesday, April 22nd 2025, 4:27:40 pm
-draft: false
-modified: 2025-07-21 21:50:38
-publish: true
-title: Koffin Kats, Cowboy And the Corpse at The Louisiana
-url: https://doghouse-mike.micro.blog/koffin-kats-cowboy-and-the/
+{"publish":true,"aliases":"","title":"Koffin Kats, Cowboy and the Corpse at The Louisiana","created":"2025-03-20 11:55:25","cssclasses":""}
 ---
+
 
 # Koffin Kats, Cowboy And the Corpse at The Louisiana
 
