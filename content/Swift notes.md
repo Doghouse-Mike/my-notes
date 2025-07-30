@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-17 21:42:49
+modified: 2025-07-21 21:50:12
 publish: true
 title: Swift Notes
 ---
@@ -153,7 +153,7 @@ print(filename.hasSuffix(".jpg"))
 
 Remember that those are case sensitive though. So prefix "a day" or suffix "JPG" would return FALSE
 
-## Below here is Stuff from Donking around in Swift Playgrounds without Really Knowing what I'm Doing.
+## Below Here is Stuff from Donking Around in Swift Playgrounds without Really Knowing What I'm Doing.
 
 [[Boolean]] is either true OR false. Meaning we can write *conditional code*. If 
 
@@ -166,7 +166,7 @@ true, the "If" bit will run, if false, the "else" bit will run.
 Eg:
 
 > [!CODE]
-> for i in 1...4{
+> for i in 1…4{
 > 
 >     moveForward()
 > 
@@ -187,7 +187,7 @@ Eg:
 EG (with a loop):
 
 > [!Code]
-> for i in 1 ... 4{
+> for i in 1 … 4{
 > 
 > moveForward()
 > 
@@ -202,7 +202,7 @@ EG (with a loop):
 ### Else If
 
 > [!Code]
-> for i in 1 ... 2{
+> for i in 1 … 2{
 > 
 >     moveForward()
 > 
@@ -219,7 +219,7 @@ EG (with a loop):
 > }
 
 > [!Code]
-> for i in 1 ... 10 {
+> for i in 1 … 10 {
 > Commands go here
 > }
 > 
@@ -244,7 +244,7 @@ NOT - ! - Does the opposite. Eg if onGem is true, !onGem is false
 EG
 
 > [!code]
-> for i in 1 ... 4 {
+> for i in 1 … 4 {
 > 
 >     moveForward()
 > 
@@ -289,7 +289,7 @@ Once something has an int value it can't then have a string value later, and vic
 Eg:
 
 > [!code]
-> for i in 1 ... 21 {
+> for i in 1 … 21 {
 > 
 > if isOnGem{
 > 
@@ -403,7 +403,7 @@ Let blahblah = blahblah() "turns it on"
 > 
 > expert.turnLeft()
 > 
-> for i in 1 ... 3{
+> for i in 1 … 3{
 > 
 >     expert.moveForward()
 > 
@@ -453,7 +453,7 @@ Pull()
 >     toggleSwitch()
 > }
 > 
-> for i in 1 ... 4{
+> for i in 1 … 4{
 > 
 >     gemnSwitch()
 > 

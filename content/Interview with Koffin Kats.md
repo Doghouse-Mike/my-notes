@@ -3,12 +3,12 @@ tags: []
 aliases: []
 created: 2025-04-11 07:52:09
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:38
 publish: true
-title: Interview with Koffin Kats
+title: Interview With Koffin Kats
 ---
 
-# Interview with Koffin Kats
+# Interview With Koffin Kats
 
 Some photos from the show after this interview was conducted can be seen in [[Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Koffin Kats at Lady Luck]]!
 
@@ -46,7 +46,7 @@ Strap in.
 
 *much laughter ensues*
 
-***What about John? It's hard finding stuff out about you because you've got the same name as the guy from Steppenwolf...***
+***What about John? It's hard finding stuff out about you because you've got the same name as the guy from Steppenwolf…***
 
 *John*: Yeah, yeah
 
@@ -85,7 +85,7 @@ To get together with two other guys that could actually go hit the road. I was s
 
 *Vic*: I don't have like a plethora of basses! At one time I had like five upright basses!
 
-***I've got two, I don't think there's room for any more...***
+***I've got two, I don't think there's room for any more…***
 
 *Vic*: They fell apart or I sold them all but yeah, in the states, I use the same bass all around. I'm getting a new one at the end of the year. That's going to be neat!
 
@@ -129,7 +129,7 @@ To get together with two other guys that could actually go hit the road. I was s
 
 *Vic*: My bass back home, my soundpost is a drumstick!
 
-***I saw that! Nekroman was posting his [weird adjustable one](https://www.facebook.com/groups/urbpu/permalink/873528619329325/)..... They should definitely have character, they need to take a bit of a pounding or you might as well be in an orchestra or some shit. Screws and tape. Spray paint.***
+***I saw that! Nekroman was posting his [weird adjustable one](https://www.facebook.com/groups/urbpu/permalink/873528619329325/)….. They should definitely have character, they need to take a bit of a pounding or you might as well be in an orchestra or some shit. Screws and tape. Spray paint.***
 
 ***You've got a pretty individual vocal style going on. Did you practice that? It reminds me a little bit of [Faith No More](https://www.youtube.com/watch?v=u8b88us-6ts), the contrast between the "singy", almost operatic parts, and the shoutier stuff.***
 
@@ -151,7 +151,7 @@ Other than gear it's just been pretty smooth, but really the crowds are just as 
 
 ***We've got more old buildings than you guys.***
 
-*John*: The thing is, we play small places, we play big places, we play big stages, we play small stages, and we're going to put on the same show every night, regardless. So, you know, people ask me, "What do you think of Europe?" I'm like, "You know what? I'm sitting in the backseat of the van and we get to the place and I load in and I play the show just like I do over in the states." so it ends up kinda evening out. The biggest difference coming from Europe to over here is I grew up watching a lot of British TV, I got my little killer rabbit......... I watched a lot of British stuff and I'm really into British humour and comedy and what not, so it's refreshing to hear some of the jokes, everything translates like "Yeah, just like that, in the movies I've seen!" so that's pretty cool. And then, driving on the left side of the road isn't as much of a trip as I thought it would be. It's nothing.
+*John*: The thing is, we play small places, we play big places, we play big stages, we play small stages, and we're going to put on the same show every night, regardless. So, you know, people ask me, "What do you think of Europe?" I'm like, "You know what? I'm sitting in the backseat of the van and we get to the place and I load in and I play the show just like I do over in the states." so it ends up kinda evening out. The biggest difference coming from Europe to over here is I grew up watching a lot of British TV, I got my little killer rabbit……… I watched a lot of British stuff and I'm really into British humour and comedy and what not, so it's refreshing to hear some of the jokes, everything translates like "Yeah, just like that, in the movies I've seen!" so that's pretty cool. And then, driving on the left side of the road isn't as much of a trip as I thought it would be. It's nothing.
 
 ***I've heard other bands complain about how even when they're touring Europe or Japan or wherever, it's still like being in America because there's McDonald's and KFC and etc everywhere?***
 
@@ -229,11 +229,11 @@ Other than gear it's just been pretty smooth, but really the crowds are just as 
 
 ***You're committing to the process of listening to music rather than just having some background noise going on.***
 
-*John*: Oh, radio changed the way we listen to music too. My dad was a DJ for 25 years and right in the mid 90's, radio flipped. A company called Clear Channel started buying all the radio stations or the broadcast companies out, and they switched from having DJs that would find music in record stores themselves and play stuff, and that being what they like or had picked, maybe they wouldn't play the hit single from the album, maybe they'd play one of the deep cuts or whatever. After the song they talk about the song or talk about like the concept of it. It wasn't just "Hey, so and so's coming out with this tune" or whatever. You know, like it is now, it is very formatted. They have a playlist. You can only play these songs, you have to play this one every two hours...
+*John*: Oh, radio changed the way we listen to music too. My dad was a DJ for 25 years and right in the mid 90's, radio flipped. A company called Clear Channel started buying all the radio stations or the broadcast companies out, and they switched from having DJs that would find music in record stores themselves and play stuff, and that being what they like or had picked, maybe they wouldn't play the hit single from the album, maybe they'd play one of the deep cuts or whatever. After the song they talk about the song or talk about like the concept of it. It wasn't just "Hey, so and so's coming out with this tune" or whatever. You know, like it is now, it is very formatted. They have a playlist. You can only play these songs, you have to play this one every two hours…
 
 ***Yea, you can listen to twenty different radio stations and hear the same forty songs.***
 
-*John*: Exactly that. In the seventies and eighties and early nineties, it wasn't like that, man. You could play whatever you wanted, and if you were good... DJs were rockstars, you know. Now, they are just personalities that are on the radio.
+*John*: Exactly that. In the seventies and eighties and early nineties, it wasn't like that, man. You could play whatever you wanted, and if you were good… DJs were rockstars, you know. Now, they are just personalities that are on the radio.
 
 ***Pressing play and doing some talking.***
 
@@ -254,13 +254,13 @@ Other than gear it's just been pretty smooth, but really the crowds are just as 
 ***I get the general idea, yeah. Now there are very few shows that run on the actual radio that are worth listening to. Internet radio is a big thing now though. I think it tends to be very specialised, like if you know what you're looking for, you can just go and be like "I want to listen to psychobilly" or whatever. And that's all you'll hear and you won't get that random song I guess. You lose some of that chance discoverability. 
 Anyway, John, how are you fitting into the band?***
 
-*John*: I think, I feel good and, really, my feedback on that is I know how *I* feel, but my feedback on that comes from him and Eric, and then the fans and our friends. Really, the people that I'm concerned with what they think of me and how I'm settling in are the people that have been seeing Koffin Kats for years and years and have been through the change from Tommy to Ian and now from Ian to me. My biggest thing is, I just want to honour their legacies, bring all their good stuff to the table. We get along great. We've been working together for years already, so we knew we could work together. At first it was just a question of "Can I handle being on the road? Can we get along on the road? Am I going to annoy them?". Which I do. All the time, all the time...
+*John*: I think, I feel good and, really, my feedback on that is I know how *I* feel, but my feedback on that comes from him and Eric, and then the fans and our friends. Really, the people that I'm concerned with what they think of me and how I'm settling in are the people that have been seeing Koffin Kats for years and years and have been through the change from Tommy to Ian and now from Ian to me. My biggest thing is, I just want to honour their legacies, bring all their good stuff to the table. We get along great. We've been working together for years already, so we knew we could work together. At first it was just a question of "Can I handle being on the road? Can we get along on the road? Am I going to annoy them?". Which I do. All the time, all the time…
 
-***That's what people do! There's a difference between getting along with someone to talk to for like half an hour...***
+***That's what people do! There's a difference between getting along with someone to talk to for like half an hour…***
 
 *John*: You know, you're married. It's close quarters all the time. Can you stand being around each other for extended periods of time? Yeah, we're good. I think we're doing just fine. At this point, you know, Europe has been different for me in a sense that, we did the states tour, where you got the flow of the show, you know, you're settled in. Now, let's work on your guitar more. Let's get you more versed on the guitar, like what we just talked about with Tommy, showing show them the Brian Setzer stuff. He's downloaded a few videos for me to watch on the rockabilly style and stuff like that, and I'm working on different fingerings.
 
-*Vic*: Yeah actually staying true to the Koffin Kat model of getting a guitar player who really isn't versed in anything that has to do with the 'billy world....
+*Vic*: Yeah actually staying true to the Koffin Kat model of getting a guitar player who really isn't versed in anything that has to do with the 'billy world….
 
 *laughter*
 
@@ -272,7 +272,7 @@ Anyway, John, how are you fitting into the band?***
 
 *Vic*: That's exactly how it is. I'm done with this, your turn!
 
-*John*: That was the way it was with me. I would write all the songs for my bands and it started on guitar. Then when I got to those sick lead solos, I'd defer to the lead guitarist. "Here, take the guitar, I'm getting behind my kit". So now, it's a three piece band, I'm the only guitarist, I don't have a second guitarist to lean on, and you're not just playing rhythm, you're playing leads so..... I busted my ass getting these songs down before the first tour. I holed up in the basement and just over and over just practicing and getting my fingers working on it, getting the calluses and all that stuff. I'm not a novice by any means, but at the same time I know my limits, so I'm pushing my limits every single day. When we ride in the van, that guy is a companion, and I'm warming up and stretching and you know, working out fingering techniques, and all that stuff, tremolo picking.
+*John*: That was the way it was with me. I would write all the songs for my bands and it started on guitar. Then when I got to those sick lead solos, I'd defer to the lead guitarist. "Here, take the guitar, I'm getting behind my kit". So now, it's a three piece band, I'm the only guitarist, I don't have a second guitarist to lean on, and you're not just playing rhythm, you're playing leads so….. I busted my ass getting these songs down before the first tour. I holed up in the basement and just over and over just practicing and getting my fingers working on it, getting the calluses and all that stuff. I'm not a novice by any means, but at the same time I know my limits, so I'm pushing my limits every single day. When we ride in the van, that guy is a companion, and I'm warming up and stretching and you know, working out fingering techniques, and all that stuff, tremolo picking.
 
 ***Are you still practicing everyday or have you got it down to the point where you're over that?***
 
@@ -340,7 +340,7 @@ Anyway, John, how are you fitting into the band?***
 
 *John*: "No, that's supposed to be there!"
 
-***It's like "no that's fine....."***
+***It's like "no that's fine….."***
 ***Cheesy interview question alert! If you were stuck on a desert island-***
 
 *laughter*
@@ -363,7 +363,7 @@ Anyway, John, how are you fitting into the band?***
 
 ***What would you have to read and listen to?***
 
-*Vic*: Oh, read....
+*Vic*: Oh, read….
 
 *John*: Getting off this island for dummies!
 
@@ -407,7 +407,7 @@ Anyway, John, how are you fitting into the band?***
 
 *Vic*: I've got that on my computer. I nerd out with that sometimes, but mostly we're buried in our phones when we're just killing time, phone games or what not. The thing about being on tour, there's a lot of downtime. A lot of time to do nothing.
 
-***Kinda almost like being on a desert island....***
+***Kinda almost like being on a desert island….***
 
 *Vic*: Yeah!
 

@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2023-04-23 21:21:43
 draft: true
-modified: 2025-07-19 00:07:13
+modified: 2025-07-21 21:50:37
 publish: true
 title: Admonition Readme Tester
 ---
@@ -234,7 +234,7 @@ But if it wasn’t you could read this
 This is in the original admonition.
 `````
 
-## Rendering Code Blocks inside Admonitions
+## Rendering Code Blocks Inside Admonitions
 
 Code blocks may be nested inside admonitions using a method similar to [[#Nesting-Admonitions|Nesting Admonitions]] above.
 
@@ -306,7 +306,7 @@ To remove an image icon, simply choose an icon in the icon chooser text box.
 
 Several commands are available for the plugin by default.
 
-### Collapse and Open All Admonitions In Note
+### Collapse And Open All Admonitions In Note
 
 If these two commands are triggered with an open note, all collapsible admonitions will be collapsed or open respectively.
 
@@ -328,7 +328,7 @@ The selected type will be inserted as an Obsidian callout, and any selected text
 
 The selected type will be inserted as a codeblock admonition, and any selected text will be included with it.
 
-#### Insert <type> with Title
+#### Insert <type> With Title
 
 The selected type will be inserted as a codeblock admonition, and any selected text will be included with it. The `title:` parameter will also be added and the cursor will be placed at that line.
 
@@ -698,7 +698,7 @@ No additional features are planned at this time. If there is a feature missing t
 
 # Installation
 
-## From within Obsidian
+## From Within Obsidian
 
 From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
 

@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2022-03-29 12:20:31
 draft: false
-modified: 2025-07-17 21:42:57
+modified: 2025-07-21 21:50:29
 publish: true
 title: Welcome Aboard!
 ---
@@ -14,11 +14,11 @@ title: Welcome Aboard!
 
 ![[E2ABA691-689E-4714-A734-8E4CA2FF38BF 1.jpeg]]
 
-Bonsoir, I’m not *entirely* sure what this is going to become. I *think* we’re going to end up with some sort of hybrid of blog, portfolio, and [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/).
+Bonsoir, I'm not *entirely* sure what this is going to become. I *think* we're going to end up with some sort of hybrid of blog, portfolio, and [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/).
 
 I am, as with so much in life, still figuring this out. 
 
-## What I’ve Done.
+## What I've Done.
 
 I've designed flyers, logos, tshirts, websites, and helped artists turn an idea in their head into something that's visible to the world, via glowing screens, prints, and other physical objects.
 
@@ -28,7 +28,7 @@ I've manned a mixing desk at gigs, and know my way around micing up a variety of
 
 I dabble in photography too. I know enough to know that I don't know much, but every now and then take some pretty good shots with my trusty little [GRii](https://www.dpreview.com/products/ricoh/compacts/ricoh_grii), mostly gig and riding shots nowadays, but it lives in my jacket pocket, and comes out for random shots now and then. 
 
-I’m a pretty massive nerd, and am 99% all in on using the [[iPad]] as my main computer, but regularly use Macs and windows too. 
+I'm a pretty massive nerd, and am 99% all in on using the [[iPad]] as my main computer, but regularly use Macs and windows too. 
 
 ## Other Places
 

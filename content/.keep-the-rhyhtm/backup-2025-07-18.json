@@ -16736,6 +16736,25 @@
         "id": 1162
       },
       {
+        "date": "2025-07-21",
+        "filePath": "index.md",
+        "wordCountStart": 23,
+        "charCountStart": 121,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 60,
+            "c": 343
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1163
+      },
+      {
         "date": "2025-07-20",
         "filePath": "index.md",
         "wordCountStart": 83,
@@ -16798,6 +16817,839 @@
           }
         ],
         "id": 1170
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Notion/index.md",
+        "wordCountStart": 4,
+        "charCountStart": 46,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": -4,
+            "c": -46
+          }
+        ],
+        "id": 1171
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Notion/V&D-TBD info/V&D-TBD info.md",
+        "wordCountStart": 6550,
+        "charCountStart": 39987,
+        "changes": [],
+        "id": 1172
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Notion/V&D-TBD info/index.md",
+        "wordCountStart": 4,
+        "charCountStart": 46,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": -4,
+            "c": -46
+          }
+        ],
+        "id": 1173
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 4493,
+        "charCountStart": 27399,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 5,
+            "c": 32
+          },
+          {
+            "timeKey": "10:45",
+            "w": 6,
+            "c": 27
+          },
+          {
+            "timeKey": "11:05",
+            "w": 50,
+            "c": 376
+          },
+          {
+            "timeKey": "11:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:40",
+            "w": -43,
+            "c": -336
+          },
+          {
+            "timeKey": "11:55",
+            "w": 13,
+            "c": 58
+          },
+          {
+            "timeKey": "15:05",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "16:25",
+            "w": 1,
+            "c": 3
+          }
+        ],
+        "id": 1174
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "index.md",
+        "wordCountStart": 83,
+        "charCountStart": 464,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 60,
+            "c": 343
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1175
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Notion/V&D-TBD info/V&D-TBD info.md",
+        "wordCountStart": 6550,
+        "charCountStart": 39987,
+        "changes": [],
+        "id": 1176
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Some interesting sites made in Obsidian.md",
+        "wordCountStart": 387,
+        "charCountStart": 2533,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 3,
+            "c": 34
+          },
+          {
+            "timeKey": "19:50",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 1177
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Mostly How I Built This Site.md",
+        "wordCountStart": 2357,
+        "charCountStart": 13868,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": -2357,
+            "c": -13868
+          },
+          {
+            "timeKey": "21:50",
+            "w": 2351,
+            "c": 13834
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 22
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1178
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Drafts/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 17,
+            "c": 95
+          }
+        ],
+        "id": 1179
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Mostly How I Built This Site.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 2349,
+            "c": 13820
+          },
+          {
+            "timeKey": "21:35",
+            "w": -2357,
+            "c": -13868
+          },
+          {
+            "timeKey": "21:50",
+            "w": 2351,
+            "c": 13834
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 22
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1180
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Daily notes/2025-07-22.md",
+        "wordCountStart": 84,
+        "charCountStart": 467,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 36,
+            "c": 170
+          }
+        ],
+        "id": 1181
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Notion/V&D-TBD info/V&D-TBD info.md",
+        "wordCountStart": 6550,
+        "charCountStart": 39987,
+        "changes": [],
+        "id": 1182
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/Proposed returns policy changes.md",
+        "wordCountStart": 1541,
+        "charCountStart": 9787,
+        "changes": [],
+        "id": 1183
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Some interesting sites made in Obsidian.md",
+        "wordCountStart": 392,
+        "charCountStart": 2590,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1184
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 1185
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 655,
+        "charCountStart": 4022,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1186
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 162,
+        "charCountStart": 1607,
+        "changes": [],
+        "id": 1187
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 4526,
+        "charCountStart": 27564,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:10",
+            "w": 22,
+            "c": 174
+          },
+          {
+            "timeKey": "14:20",
+            "w": 1,
+            "c": 11
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1188
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10427,
+        "charCountStart": 60588,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1189
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Daily notes/2025-07-22.md",
+        "wordCountStart": 120,
+        "charCountStart": 637,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 8,
+            "c": 51
+          }
+        ],
+        "id": 1190
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "SWRPG/Quotes to use in swrpg.md",
+        "wordCountStart": 3588,
+        "charCountStart": 19318,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 18,
+            "c": 97
+          },
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1191
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "index.md",
+        "wordCountStart": 83,
+        "charCountStart": 464,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1192
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/Secret sales runx.md",
+        "wordCountStart": 4549,
+        "charCountStart": 27749,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 1,
+            "c": 2
+          }
+        ],
+        "id": 1193
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/Secret Sales runx ARCHIVE.md",
+        "wordCountStart": 10427,
+        "charCountStart": 60588,
+        "changes": [],
+        "id": 1194
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Daily notes/2025-07-22.md",
+        "wordCountStart": 128,
+        "charCountStart": 688,
+        "changes": [],
+        "id": 1195
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/Delivery fee changes.md",
+        "wordCountStart": 162,
+        "charCountStart": 1607,
+        "changes": [],
+        "id": 1196
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/Types of Ghost Order.md",
+        "wordCountStart": 655,
+        "charCountStart": 4022,
+        "changes": [],
+        "id": 1197
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/SS Ghost Orders.canvas",
+        "wordCountStart": 582,
+        "charCountStart": 4915,
+        "changes": [],
+        "id": 1198
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Some interesting sites made in Obsidian.md",
+        "wordCountStart": 392,
+        "charCountStart": 2590,
+        "changes": [],
+        "id": 1199
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/Proposed returns policy changes.md",
+        "wordCountStart": 1541,
+        "charCountStart": 9787,
+        "changes": [],
+        "id": 1200
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "SWRPG/Quotes to use in swrpg.md",
+        "wordCountStart": 3606,
+        "charCountStart": 19415,
+        "changes": [],
+        "id": 1201
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Drafts/CX UX consultancy initial chatty g.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 918,
+            "c": 5929
+          }
+        ],
+        "id": 1202
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "index.md",
+        "wordCountStart": 83,
+        "charCountStart": 464,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1203
       }
     ],
     "daysWithCompletedGoal": [

@@ -1,6 +1,6 @@
 ---
 created: 2025-07-04 21:00:49
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:39
 publish: true
 title: Shoppings List
 ---
@@ -9,7 +9,7 @@ title: Shoppings List
 
 ## Pre-Defense of Whisper Base
 
-### KD Would like
+### KD Would Like
 
 Emergency Repair Patch (5? 10? Some for now, some for later)
 
@@ -23,7 +23,7 @@ OR
 
 The bolted/welded on equivalent of an [armoured half-vest](https://star-wars-rpg-ffg.fandom.com/wiki/Armored_Half-vest)
 
-### Thing it Could also Be Useful to Have
+### Thing it Could Also Be Useful to Have
 
 A pile of grenades. For big jobs
 

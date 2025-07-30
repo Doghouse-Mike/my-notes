@@ -1,7 +1,7 @@
 ---
 created: 2024-10-03 22:26:28
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:37
 publish: true
 title: Obsidian Dataview Cheatsheet
 ---
@@ -89,7 +89,7 @@ FROM
   #my-tag
 ```
 
-## Excluding Notes with a Specific Tag
+## Excluding Notes With a Specific Tag
 
 `!#tag-name`
 
@@ -256,7 +256,7 @@ Result example:
 
 # Bool Property to Custom Display Value
 
-## Display Yes/No instead of True/False on Bool Properties
+## Display Yes/No Instead of True/False on Bool Properties
 
 Snippet
 

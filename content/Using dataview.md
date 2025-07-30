@@ -4,7 +4,7 @@ Status: something
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:37
 publish: true
 title: Using Dataview
 Type: something
@@ -16,7 +16,7 @@ Metadata in notes
 
 Frontmatter in YAML, as above 
 
-Not sure that’s working. Needs 3 “-“ above/below, but I seem to get — when I get to two. Spaces and then deleting them seems to work. Probably a setting somewhere to not put the big bois in. 
+Not sure that's working. Needs 3 "-" above/below, but I seem to get — when I get to two. Spaces and then deleting them seems to work. Probably a setting somewhere to not put the big bois in. 
 
 Offers list, table, and task view
 
@@ -28,7 +28,7 @@ Example:
 
 > ***dataview
 > LIST
-> FROM “Name of folder”
+> FROM "Name of folder"
 > SORT file.size DESC
 > LIMIT 10
 
@@ -51,4 +51,4 @@ TASK from #todo
 
 ***
 
-Think I’ve donked that up somewhere along the way. Vid sped over it pretty quick, but I got some articles to read too. More research required, standard. 
+Think I've donked that up somewhere along the way. Vid sped over it pretty quick, but I got some articles to read too. More research required, standard. 

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-27 20:45:45
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:38
 publish: true
 title: Starting out Green Session Two
 ---
@@ -29,7 +29,7 @@ Prepare gear list/wants to repel the assault
 
 +15 Duty, +15 XP each
 
-## Session round up (From Splat)
+## Session Round Up (From Splat)
 
 The battle continued in the Sith temple, with the motley crew of alliance operatives and reactivated KX-series security droid dispatching wave after wave of enthralled Shorlocks.
 

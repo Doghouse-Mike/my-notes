@@ -1,9 +1,6 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-18 22:08:46
-draft: false
-modified: 2025-07-10 17:15:01
+created: 2025-07-21 21:34:35
+modified: 2025-07-21 22:09:42
 publish: true
 title: Mostly How I Built This Site
 ---
@@ -21,9 +18,9 @@ title: Mostly How I Built This Site
 
 I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the *many* images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit) was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film. 
 
-Micro.blog also seems pretty amazing (and has a lot of social features), but alas, their photo support didn't match up with what I was looking for.
+[Micro.blog](https://micro.blog) also seems pretty amazing (and has a lot of social features), but alas, their photo support didn't match up with what I was looking for.
 
-### So, Quartz
+## So, Quartz
 
 Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also heard of it from Brett Terpstra, not sure if he's still using it to handle his [excellent site](https://brettterpstra.com)) but Quartz seemed less hassle, and had also been made with Obsidian in mind, so Quartz won out, and is (or has?) allowed for these words to be beamed across the internet.
 
@@ -35,13 +32,13 @@ Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also
 
 There will be much command line stuff. It's not complicated assuming you're comfortable blindly copying and pasting commands into Terminal. There's only a couple that need personalising to your specific setup. 
 
-## Step 1. Download and Install Quartz
+## Step 1. Download And Install Quartz
 
 All pretty straightforward this part. I would point out that at some point I hit a roadblock *much* further along and returned to the start/this part. If you do that, check *where* you are in the Terminal file tree. I ended up with a Quartz installation inside my old Quartz installation and folders inside folders and ended up starting *again* again because of that tiny error. Don't you do it, bazooka goblin. 
 
 Fortunately my Obsidian setup was already using the "Treat links as shortest path" option, so I didn't have to make any changes around that. 
 
-## Step 2. Set up a GitHub Repository
+## Step 2. Set Up a GitHub Repository
 
 Just don't close/click anything in the GitHub window once the repo has been created. It is possible to wrangle what that link is you need for changing the origin Remote, but extra palaver if you're not paying attention. 
 
@@ -137,7 +134,7 @@ Anything I want to publish gets the `Publish: TRUE` property, and moved to the r
 
 Along the lines of "file blah blah isn't tracked by git" in a nice and friendly yellow colour. This'll be for anything that hasn't been synced to GitHub yet, as well as anything covered by the .gitignore file, so (hopefully) nothing to be concerned about.
 
-### On Speeding up Local Builds
+### On Speeding Up Local Builds
 
 The build process can take a minute (local and remote). I was noticing it seeming quicker to push changes to GitHub to see them than it was to build/test locally. Presumably because it had to crunch through so many images. What spread it up was rather than the standard build n serve command (which only runs on one thread/core of your machine) adding "--concurrency X" to the end (with X being the number of threads you want to want it to run on) sped things up massively, so that command became ```npx quartz build --serve --concurrency 8``` in my use.
 
@@ -163,9 +160,9 @@ Porkbun has a "set up for github" button, so was a matter of clicking of that, t
 
 Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]. When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
 
-### Setting up Comments via Giscus
+### Setting Up Comments via Giscus
 
-Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments). I did get myself confused about the "Add the following ‹script> tag to your website's template where you want the comments to appear" part. Can ignore that bit and skip to the "Finally, in `quartz.layout.ts`" section, and copying/amending the required bits, so it ends up looking something like [this](https://github.com/Doghouse-Mike/my-notes/blob/v4/quartz.layout.ts): 
+Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments). I did get myself confused about the "Add the following 'script> tag to your website's template where you want the comments to appear" part. Can ignore that bit and skip to the "Finally, in `quartz.layout.ts`" section, and copying/amending the required bits, so it ends up looking something like [this](https://github.com/Doghouse-Mike/my-notes/blob/v4/quartz.layout.ts): 
 
 ![[Pasted image 20250406222659.jpg]]
 

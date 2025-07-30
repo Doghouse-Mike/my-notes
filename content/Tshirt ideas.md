@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2021-09-20 13:22:25
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:37
 publish: true
 title: Tshirt Ideas
 ---
@@ -24,7 +24,7 @@ Curb side knuckles based off old uni shirt
 
 If you can't tax em, eat em
 
-Koos Motörhead stylee. “Kings of” on top, “outer space” underneath. Motörhead guy in a space/nasa helmet
+Koos Motörhead stylee. "Kings of" on top, "outer space" underneath. Motörhead guy in a space/nasa helmet
 
 Ribena/deaner rip off for the Gratitude boys
 

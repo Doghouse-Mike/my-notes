@@ -5,7 +5,7 @@ created: 2024-05-27 23:58:27
 date created: Monday, May 27th 2024, 11:58:27 pm
 date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 draft: false
-modified: 2025-07-06 19:04:32
+modified: 2025-07-21 21:50:39
 publish: true
 title: Stuff to Get
 ---
@@ -58,7 +58,7 @@ Weapon signature reduction (increase difficulty of scanners to detect weapon)
 
 [Paired weapons](https://star-wars-rpg-ffg.fandom.com/wiki/Paired_Weapons)
 
-# Armour and Attachments
+# Armour And Attachments
 
 [Catch Vest](https://star-wars-rpg-ffg.fandom.com/wiki/Catch_Vest?so=search) has no hardpoints. Maybe swap out for something else that will fit under my coat, has HP, provides similar bonus (2 soak)
 
@@ -78,7 +78,7 @@ CAAF-2 avionics interface - +1 piloting
 
 [[Gadgets and Gear.pdf#page=116&selection=668,7,670,1|Gadgets and Gear, page 116]]
 
-Escape circuit- fits with character, restraining bolts can be resisted with an easy discIpline check. 
+Escape circuitfits with character, restraining bolts can be resisted with an easy discIpline check. 
 
 Implant armour, +1 soak
 

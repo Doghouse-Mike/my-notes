@@ -1,12 +1,12 @@
 ---
 tags: []
 created: 2025-03-19 15:49:20
-modified: 2025-07-19 00:09:12
+modified: 2025-07-22 14:24:36
 publish: true
-title: Site home
+title: Site Home
 ---
 
-# Site home
+# Site Home
 
 Welcome aboard! This is the home page thing so there's a "default". It will likely change soon once I have made some more steps into figuring this whole shebang out. For now here is a photo so I can tell that works. 
 

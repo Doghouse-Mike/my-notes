@@ -3,12 +3,12 @@ created: 2025-05-31 23:43:07
 date created: Saturday, May 31st 2025, 11:43:07 pm
 date modified: Monday, June 2nd 2025, 2:36:45 pm
 draft: true
-modified: 2025-07-06 19:04:22
+modified: 2025-07-21 21:50:39
 publish: true
-title: Memory Cores and Motivators
+title: Memory Cores And Motivators
 ---
 
-# Memory Cores and Motivators
+# Memory Cores And Motivators
 
 [Via](https://forum.swrpgcommunity.com/t/memory-cores-and-motivators-a-book-for-droids/34)and ripped all the text out for easy adding to [oggdudes](https://www.swrpgcommunity.com/gm-resources/apps-dice-utilities/oggdudes-generator)
 

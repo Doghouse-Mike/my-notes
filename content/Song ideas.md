@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2014-04-23 15:51:25
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-07-21 21:50:37
 publish: true
 title: Song Ideas
 ---
@@ -126,7 +126,7 @@ I've got whiskey on my breath and women on my mind
 
 Oppression and harassment are a small price to pay to live in the land of the free
 
-Facebook likes don't pay the rent, claps and cheers....
+Facebook likes don't pay the rent, claps and cheers….
 
 Days fly by on pause, nothing's changing, nothing's happening
 

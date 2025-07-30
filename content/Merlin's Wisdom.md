@@ -1,7 +1,7 @@
 ---
 created: 2025-05-08 10:13:28
 draft: false
-modified: 2025-07-13 14:11:50
+modified: 2025-07-21 21:50:13
 publish: true
 title: "Merlin's Wisdom Project"
 ---
@@ -10,7 +10,7 @@ title: "Merlin's Wisdom Project"
 
 # Merlin's Wisdom Project
 
-Or: “*Everybody likes being given a glass of water*.”
+Or: "*Everybody likes being given a glass of water*."
 
 By [Merlin Mann](http://hotdogsladies.omg.lol "Merlin's Website").
 
@@ -48,7 +48,7 @@ TODO needs better citation
 
 ----
 
-> At all times keep your crap detector on. If I say something that helps, good. If what I say is of no help, let it go. Don’t start arguments. They are futile and take us away from our purpose.
+> At all times keep your crap detector on. If I say something that helps, good. If what I say is of no help, let it go. Don't start arguments. They are futile and take us away from our purpose.
 
 — Richard Hugo, *The Triggering Town* (1979)
 
@@ -73,7 +73,7 @@ Brief introductory remarks regarding the Project:
 - Related: for any idea that strikes you as irrelevant or dumb or wrong or antithetical to your own experiences and sensibilities, please consider that it may not be, as we say, *for* you. The reader is encouraged to ignore or reject any ideas that they find undesirable.
 - But, do bear in mind that often it's the idea that finds *you* undesirable. The better ideas usually have pretty high standards.
 - These are ideas that I have believed to be true for myself at the time of composition. They are not immutable truths about The Universe, and I am open to changing my mind about any of them at any time.
-- Ideas appended with a “thanks" are wisdoms that I gratefully learned from that credited person—often many years ago. They are not “submissions.” Because, alas, I am not *Reader’s Digest*.
+- Ideas appended with a "thanks" are wisdoms that I gratefully learned from that credited person—often many years ago. They are not "submissions." Because, alas, I am not *Reader's Digest*.
 - If you believe that it is possible to grow without change, you are probably neither growing nor changing.
 - Wisdom is not a headline.
 - Bulleted lists are a useful way to collect items that are either unrelated or may not benefit from being puffed into actual fancy prose. <!-- HELLO Also, embedded comments are good for saying hello to curious geeks. Hello. Welcome! -->
@@ -88,17 +88,17 @@ Brief introductory remarks regarding the Project:
 
 ## The Wisdom So Far
 
-- Sometimes, an email is just a way to say, “I love you.”
+- Sometimes, an email is just a way to say, "I love you."
 - People think about you much less than you either hope or fear.
-- It’s often easier not to be terrible.
-- Whenever you’re not sure what to say, either say nothing, or ask a question.
+- It's often easier not to be terrible.
+- Whenever you're not sure what to say, either say nothing, or ask a question.
 - Be sparing in how often you tell someone their negative feelings are wrong; it rarely helps a sad person to be told that they are also a liar.
 - Related: feelings are *real*. (Thanks, Mike S.)
 - Never organize anything you should discard.
 - Organizing your email is like alphabetizing your recycling.
 - As you cross the street, notice which car's driver feels most likely to do something stupid or dangerous. Walk a little slower, turn your head, and make direct eye contact. Brains cannot help but notice faces, plus eye contact startles anyone into suddenly remembering they live amongst other actual people.
 - Related corollary: navigate an urban sidewalk by *avoiding* eye contact. Not because you're anti-social, but because eyes tell you little about where your fellow pedestrians are headed. Monitor feet and footsteps for imminent direction; unfix your gaze ~two head-heights above the crowd to detect emerging patterns.
-- If the thing you’re cooking doesn’t smell or sound like food yet, it’s probably not food yet.
+- If the thing you're cooking doesn't smell or sound like food yet, it's probably not food yet.
 - Buy slightly larger shoes.
 - Say hello to every dog.
 - Always wave back at children and all persons on trains.
@@ -112,7 +112,7 @@ Brief introductory remarks regarding the Project:
 - Corollary: When someone shares something scary about their birth story, it's probably because they're (justifiably) proud of surviving something that they never had imagined that they could survive.
 - Related: this also goes for most other scary personal anecdotes.
 - Stop correcting people by immediately telling them what they "*should have said*." You are not helping.
-- When you’re feeling awful and aren't sure what to do, pretend you are the person you love the most, and give *them* your best advice.
+- When you're feeling awful and aren't sure what to do, pretend you are the person you love the most, and give *them* your best advice.
 - Without active care and curation, any area in your home will tend to become "storage."
 - Related: "storage" is the least muscular or affirmative use of space in your life. Live and active areas represent future possibility; "storage" is an emotionally costly way of warehousing the past.
 - If you see someone photographing a group, offer to take the photo for them so they can get in the picture. Please do not steal their camera.
@@ -124,7 +124,7 @@ Brief introductory remarks regarding the Project:
 - Do not ask someone if they want a glass of water. Just bring them a glass of water. Everybody likes being given a glass of water.
 - Buy the nicest screwdrivers you can afford.
 - Every few months, take at least one panorama photo of your kid's room. At least annually, secretly record your kid talking for at least ten minutes. I promise you'll treasure both, and then you will curse yourself for not having done each way more often.
-- Most well-written characters have something they want—or something they *think* they want. The more fascinating characters also have something they don’t want you to know. The best ones also have something they’re not pulling off nearly as well as they think.
+- Most well-written characters have something they want—or something they *think* they want. The more fascinating characters also have something they don't want you to know. The best ones also have something they're not pulling off nearly as well as they think.
 - Related: these are each also true for real people.
 - Try always to store something in the first place you just looked for it. Not "where it's pretty" or "where we used to keep it" or "where we have more room." It goes *where it goes*—not where you **think** it goes.
 - Almost every task in life benefits from the addition of a nearby trash bag.
@@ -139,39 +139,39 @@ Brief introductory remarks regarding the Project:
 - Less well known is that we each tend to blow it hardest in estimating the sides of the triangle we least understand or respect.
 - Kindly note that the grave existential truth of the Project Management Triangle is *non-negotiable*. People **hate** this. Which is normal.
 - If the person with whom you are negotiating finds it difficult to provide a decisive budget estimate for their project, ask them to try and situate it between two orders of magnitude. As in, "How many zeroes are we talking about here?" Quickly discovering that your ballpark figures are 2 to 6 zeroes apart can save you both a *lot* of time and frustration.
-- Related: if the client's estimate for any given aspect of the project feels poorly thought out, mentally double the estimated budget for money and time. At the end of all estimations, add *at least* another 20% to the time and budget. You’re gonna need it, and, boy, are you ever going to earn it.
+- Related: if the client's estimate for any given aspect of the project feels poorly thought out, mentally double the estimated budget for money and time. At the end of all estimations, add *at least* another 20% to the time and budget. You're gonna need it, and, boy, are you ever going to earn it.
 - Relatedly related: have you leavened your estimate of the project with your hunches about the credibility of the client? Have you accounted for human foibles and flakiness in your estimate?
 - When estimating the time it will take to do anything involving a child, add at least ten minutes per child. Make that 30 minutes for kids under five or over twelve.
 - Always have a twelve-pack of Diet Coke and a good quantity of unflavored fizzy water. A lot of people love one (or both), and most of the people who do drink a lot of it.
 - Whoever wants the meeting most usually holds the least power.
-- Archive any email that’s older than 30 days. If it kills you to archive a given email, *immediately* turn it into a task, and then archive it.
+- Archive any email that's older than 30 days. If it kills you to archive a given email, *immediately* turn it into a task, and then archive it.
 - Most team culture comes out of a combination of what is tolerated and what is rewarded. If you legit want your culture to improve, change what you reward and rethink what you will tolerate.
 - To better understand anyone's childhood, learn which things were *way* harder for them than they were for you.
 - Any Slack is only as good as the guy who always has the latest post. (And, it's nearly always a guy.)
-- Avoid any children’s movie whose theatrical trailer includes more than one fart or butt joke. That’s their idea of the best parts of the movie.
+- Avoid any children's movie whose theatrical trailer includes more than one fart or butt joke. That's their idea of the best parts of the movie.
 - If you don't remember what an app does, you can probably delete it.
 - If you don't remember what a cable does, you can almost definitely discard it.
 - The earlier a kid is around books often (and in *any* way), the earlier and easier their life of reading will go.
 - Any time you locate a piece of digital information you were hunting for, tag it something like, "`#OutboardBrain`." Chances are you'll want to find it again, and chances are you'll definitely forget it again.
-- Avoid vegetarian dishes that aspire to approximate a recipe that’s typically based on meat.
-- In any large retail store, choose the line that’s mostly young people who are by themselves.
+- Avoid vegetarian dishes that aspire to approximate a recipe that's typically based on meat.
+- In any large retail store, choose the line that's mostly young people who are by themselves.
 - Always make ***all*** the bacon.
-- Never try to bribe someone unless the amount you’re offering them feels *ludicrously* high.
+- Never try to bribe someone unless the amount you're offering them feels *ludicrously* high.
 - If you really want a glass of water at a restaurant, always order that first. As you do this, look the server in the eyes and nod.
-- You’ll probably need to listen to at least three episodes of a podcast before you will know if you could *really* love it.
+- You'll probably need to listen to at least three episodes of a podcast before you will know if you could *really* love it.
 - If you want an honest opinion, ask for the second superlative. For example, if you want a thoughtful answer about someone's job, ask them their *second-least-favorite* thing about it.
 - Avoid any food whose name has been altered for legal reasons. (Thanks, Chris C.)
 
 ----
 
-- Sometimes, people ask you how you're doing when they're especially concerned about how *they’re* doing.
-- Stay focused on the outcome, not your original strategy. Viz.: if you’re looking for *a* USB cable, don't fixate on finding a *specific* box that might contain a *specific* USB cable. Just find *a* goddamned cable.
-- Related: when you get stuck and frustrated about how to solve a problem, stop, take a breath, and ask yourself, “What am I *actually* trying to accomplish here?” Because, that’s the outcome on the other side of a new and less ambiguous strategy.
+- Sometimes, people ask you how you're doing when they're especially concerned about how *they're* doing.
+- Stay focused on the outcome, not your original strategy. Viz.: if you're looking for *a* USB cable, don't fixate on finding a *specific* box that might contain a *specific* USB cable. Just find *a* goddamned cable.
+- Related: when you get stuck and frustrated about how to solve a problem, stop, take a breath, and ask yourself, "What am I *actually* trying to accomplish here?" Because, that's the outcome on the other side of a new and less ambiguous strategy.
 - Relatedly related: whenever you catch yourself getting frustrated because you're hung up on some weird implementation detail, please say the following outloud in a firm but friendly tone: "*Just do the thing*."
 - Before you freak out about how you are feeling right now, ask yourself how much (or how little) you're having of sleep, food, sex, water, exercise, alcohol, drugs, sunshine, human touch, family time, and probably some other stuff I don't know of but you definitely will.
-- Whenever you need to carry two seemingly identical things (like, drinks or toothbrushes or what have you), always—*and only*—ever carry the one that’s yours in your right hand. When you pick up the two items, always mutter aloud to yourself, “*I’m always **right***.” Because, now, you are always right.
-- After you’ve had two alcoholic beverages, begin alternating with equal amounts of water. If you have more than five drinks, change that ratio to two-to one in favor of water. (Thanks, Dennis. G.)
-- Dinner parties and most large group meals are not really about eating. They’re mostly about easy socializing. So, if you get weird when you’re hungry, *eat before you arrive*. It’ll make everyone's evening more easy and more social.
+- Whenever you need to carry two seemingly identical things (like, drinks or toothbrushes or what have you), always—*and only*—ever carry the one that's yours in your right hand. When you pick up the two items, always mutter aloud to yourself, "*I'm always **right***." Because, now, you are always right.
+- After you've had two alcoholic beverages, begin alternating with equal amounts of water. If you have more than five drinks, change that ratio to two-to one in favor of water. (Thanks, Dennis. G.)
+- Dinner parties and most large group meals are not really about eating. They're mostly about easy socializing. So, if you get weird when you're hungry, *eat before you arrive*. It'll make everyone's evening more easy and more social.
 
 ----
 
@@ -265,7 +265,7 @@ Brief introductory remarks regarding the Project:
 - Summon a memory you dislike, and then consider how you might feel different about it tomorrow if you weren't ashamed about it. Then, consider not feeling ashamed about it.
 - Learn about Chesterton's Fence. Then, actively resist altering a given situation before you understand the reasons why it's remained unchanged for so long. (Thanks, G. K. C.)
 - Related: always read the room. When entering any new situation, be practically invisible and absolutely non-assertive until you can gauge what happened before you arrived—and how it likely felt.
-- Relatedly related: try to avoid beginning a sentence with "Why don’t you just…?" It often indicates that you have approximately zero relevant experience with what has made a given problem such a problem.
+- Relatedly related: try to avoid beginning a sentence with "Why don't you just…?" It often indicates that you have approximately zero relevant experience with what has made a given problem such a problem.
 - Generally avoid clothing that's more interesting than you are.
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - Try not to guess too much about other people's motivations. Yes: even when you can easily imagine what they are guessing about yours.
@@ -440,11 +440,11 @@ Brief introductory remarks regarding the Project:
 - Related: a lack of infrastructure is also why nearly all New Year's resolutions fail. Human will is a lot like a new locomotive; it's basically useless without the rails, controls, and signals that make the right thing the easy thing.
 - Always act as though you're going to survive. If you don't survive, it probably won't matter how you acted. And, if you do survive (which you probably will), I'll bet it's at least partly because you *acted* like you were going to survive. Try it.
 - "Creative work" and "independent work" are rarely the same thing. In practice, a great deal of creative work is contracted or controlled by other people, and a striking amount of independent work is just shockingly non-creative. This is not a bad thing, but knowing about it in advance can save you a ton of unnecessary disappointment.
-- Unless you *really* know what you’re doing, never give anyone underwear as a gift.
+- Unless you *really* know what you're doing, never give anyone underwear as a gift.
 
 ----
 
-- Kids are unintentionally curious. What happens when I flush this rug? Would my cat enjoy wearing a fancy dress? Could this LEGO head also be a cool hat? Without regard to topic, try not to lose what’s left of your unintentional curiosity.
+- Kids are unintentionally curious. What happens when I flush this rug? Would my cat enjoy wearing a fancy dress? Could this LEGO head also be a cool hat? Without regard to topic, try not to lose what's left of your unintentional curiosity.
 - Some people like to tell you what to pay attention to. Many want to determine how you should feel about it. Others specialize in advising exactly what you should do as a result. Just be aware that these are each different things, and it's probably wise to avoid people who are adamant about demanding to control all three.
 - Related: being good at one of these things rarely means someone's also great at the others.
 - Unrelated: this also goes for the notional expertise portfolio of billionaires. Sometimes, perversely so.
@@ -473,7 +473,7 @@ Brief introductory remarks regarding the Project:
 - Don't say you've lost something if you've merely *mislaid* it. "Lost" is a really special word, best reserved for describing a precious thing you've accepted you'll never see again.
 - Related: if you *have* mislaid something, it's probably either underneath or inside of something else.
 - Relatedly related: remember to hunt for mislaid items in places where they aren't supposed to be. If a thing was where it's *supposed* to be, then you wouldn't still be looking for it, would you?
-- If I were to pitch somebody on my favorite bit I’ve picked up from mindfulness, I’d suggest starting to frequently notice how you feel about how you feel.
+- If I were to pitch somebody on my favorite bit I've picked up from mindfulness, I'd suggest starting to frequently notice how you feel about how you feel.
 - Related: if you don't think you sometimes have *big* feelings about how you feel, please permit me to gently recommend your looking into mindfulness.
 - Get a thin, lightweight rain jacket. Roll it up into a tight and tiny little burrito, secure it with a couple silicone/rubber bands, and just leave it in your backpack. Because no matter how much it's not raining right now, chances are it will rain again someday.
 - Unrelated: responsible project management is the art of calmly preparing for things that aren't happening right now. A manic dash to survive something that's already happening (and which you probably should have anticipated) is not generally regarded as a skillful application of the art.
@@ -494,7 +494,7 @@ Brief introductory remarks regarding the Project:
 
 ----
 
-- Sometimes, your brain decides it’s time to play tennis. So, it starts serving ideas and images at you, each of which seems to require immediate, urgent, and committed volleys in return. Just remember: *it’s your damned head*, and it’s fine if you just want to go sit in the bleachers and watch your brain fire heaters at no one until it tires itself out.
+- Sometimes, your brain decides it's time to play tennis. So, it starts serving ideas and images at you, each of which seems to require immediate, urgent, and committed volleys in return. Just remember: *it's your damned head*, and it's fine if you just want to go sit in the bleachers and watch your brain fire heaters at no one until it tires itself out.
 - Whenever you notice something, consider saying "*thank you*" in your head. Even or especially if it's something small or random. You're saying thank you to the world for still being there—and thank you to yourself for noticing it.
 - Related: if this strikes you as corny or emotionally disordered, then you, my friend, are not noticing enough things. Which also means you're definitely not saying "thank you" enough. So, honestly, who's the real weirdo here?
 - Relatedly related: *Thank you*.
@@ -508,20 +508,17 @@ Brief introductory remarks regarding the Project:
 ----
 
 - If you want to know what someone really thinks, ask them what they think other people really think. Then, ask how they know what other people really think.
-
 - Every few minutes, try to do something skillful.
-
 - Once you learn something, you can always relearn it. Unless it's something you only *think* you learned. You can't really relearn something you only think you learned.
-
 - Related: Minimize relationships with the sort of person you've learned you really shouldn't have a relationship with.
 
 ----
 
-- Avoid saying things you don’t want to be judged about. You’re already being judged for a shit-ton of things you don’t control, so be cautious about deliberately generating new material.
+- Avoid saying things you don't want to be judged about. You're already being judged for a shit-ton of things you don't control, so be cautious about deliberately generating new material.
 - Most of the easy problems have been solved. If a problem still exists, it's probably because it's either a *really* hard problem, or it's not actually a problem.
 - Never brag about your weather. You had no agency in creating it and deserve no credit for living in it.
 - Lean away from self-pity. Self-pity is also self-basting. Which is gross.
-- When you get hit with a sock full of coins, it doesn’t really matter that much whether they're pennies or quarters.
+- When you get hit with a sock full of coins, it doesn't really matter that much whether they're pennies or quarters.
 
 ----
 
@@ -562,7 +559,7 @@ We may give advice, but we cannot give conduct.
 
 — Horace, *Ars Poetica* (18 BC), CCCXXXV. Reported in Hoyt's New Cyclopedia Of Practical Quotations (1922), p. 10-11.
 
-Advice is what we ask for when we already know the answer but wish we didn't...
+Advice is what we ask for when we already know the answer but wish we didn't…
 
 —Erica Jong, *How to Save Your Own Life* (1977).
 
@@ -600,6 +597,6 @@ I've been involved in a number of cults — both as a leader and a follower. You
 
 ----
 
-> At all times keep your crap detector on. If I say something that helps, good. If what I say is of no help, let it go. Don’t start arguments. They are futile and take us away from our purpose.
+> At all times keep your crap detector on. If I say something that helps, good. If what I say is of no help, let it go. Don't start arguments. They are futile and take us away from our purpose.
 
 — Richard Hugo, *The Triggering Town* (1979)

@@ -1,6 +1,6 @@
 ---
 created: 2025-07-06 18:57:05
-modified: 2025-07-17 21:43:03
+modified: 2025-07-21 21:50:39
 publish: true
 title: Character Creation Ideas (for Future reference)
 ---
@@ -18,7 +18,6 @@ Where do they come from, how did they get here type stuff
 	- Are they still alive?  
 	- Is there any more family?
 		- Who are they?
-
 - What were they doing BEFORE?
 Again leads them to *now*. Leads to them starting the actual adventure. 
 Can influence available resources

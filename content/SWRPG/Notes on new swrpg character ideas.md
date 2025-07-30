@@ -2,7 +2,7 @@
 created: 2025-05-31 18:00:05
 date created: Saturday, May 31st 2025, 6:00:05 pm
 date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: 2025-07-17 21:43:03
+modified: 2025-07-21 21:50:39
 publish: true
 title: Notes on New Swrpg Character Ideas
 ---
@@ -27,6 +27,6 @@ GANK! Think this is winning for now.
 
 > At character creation, gain up to 2 free cybernetic implants of up to 5,000 credits combined value. Additional credits at character creation may be used to increase the 5,000 credit cap. Have a cybernetic implant cap of 3+Brawn
 
-Gen’Dai. Got no bones or nervous system. Basically invulnerable. Munchkiny AF
+Gen'Dai. Got no bones or nervous system. Basically invulnerable. Munchkiny AF
 
 YAKA Are a bit like Ganks. Better stats maybe. Weaker from a RP POV
