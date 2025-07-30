@@ -164,7 +164,7 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 
 ![[Attachments/Pasted image 20250406222659.jpg]]
 
-[[[https://discord.gg/cRFFHYye7t](https://discord.gg/cRFFHYye7t|The Discord]]) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
+[The Discord](https://discord.gg/cRFFHYye7t) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
 ![[Attachments/Pasted image 20250406223221.jpg]]
 
