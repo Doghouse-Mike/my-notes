@@ -3,8 +3,8 @@ tags: [rip, music]
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-21 21:50:38
-publish: false
+modified: 2025-07-30 23:02:53
+publish: true
 title: "Without People You're Nothing"
 ---
 
