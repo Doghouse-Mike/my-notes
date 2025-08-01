@@ -38,7 +38,45 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({  
+  sortFn: (a, b) => {  
+    // Sort order: folders first, then files by creation date  
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {  
+      if (a.isFolder && b.isFolder) {  
+        // Sort folders alphabetically  
+        return a.displayName.localeCompare(b.displayName, undefined, {  
+          numeric: true,  
+          sensitivity: "base",  
+        })  
+      } else {  
+        // Both are files - sort by creation date (newest first)  
+        const aCreated = a.data?.dates?.created  
+        const bCreated = b.data?.dates?.created  
+          
+        if (aCreated && bCreated) {  
+          return bCreated.getTime() - aCreated.getTime()  
+        } else if (aCreated && !bCreated) {  
+          return -1 // Files with dates come first  
+        } else if (!aCreated && bCreated) {  
+          return 1  
+        } else {  
+          // Fallback to alphabetical if no dates  
+          return a.displayName.localeCompare(b.displayName, undefined, {  
+            numeric: true,  
+            sensitivity: "base",  
+          })  
+        }  
+      }  
+    }  
+  
+    // Folders always come before files  
+    if (!a.isFolder && b.isFolder) {  
+      return 1  
+    } else {  
+      return -1  
+    }  
+  },  
+})
   ],
   right: [
     Component.Graph(),
