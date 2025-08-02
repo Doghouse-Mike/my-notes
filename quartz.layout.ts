@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         sensitivity: "base",  
       })  
     }  
-      
+    
     // Access frontmatter data correctly  
     const aCreated = a.data?.frontmatter?.created  
     const bCreated = b.data?.frontmatter?.created  
@@ -66,7 +66,9 @@ export const defaultContentPageLayout: PageLayout = {
       numeric: true,  
       sensitivity: "base",  
     })  
-  },  
+  },
+})
+  ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
