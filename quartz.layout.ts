@@ -67,7 +67,6 @@ export const defaultContentPageLayout: PageLayout = {
       sensitivity: "base",  
     })  
   },  
-})
   ],
   right: [
     Component.Graph(),
