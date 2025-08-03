@@ -54,7 +54,36 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({  
+  sortFn: (a, b) => {  
+    // Ensure all logic is contained within this function  
+    if (a.isFolder && !b.isFolder) return -1  
+    if (!a.isFolder && b.isFolder) return 1  
+      
+    if (a.isFolder && b.isFolder) {  
+      return a.displayName.localeCompare(b.displayName, undefined, {  
+        numeric: true,  
+        sensitivity: "base",  
+      })  
+    }  
+      
+    // Access frontmatter data correctly  
+    const aCreated = a.data?.frontmatter?.created  
+    const bCreated = b.data?.frontmatter?.created  
+      
+    if (aCreated && bCreated) {  
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
+    }  
+      
+    if (aCreated && !bCreated) return -1  
+    if (!aCreated && bCreated) return 1  
+      
+    return a.displayName.localeCompare(b.displayName, undefined, {  
+      numeric: true,  
+      sensitivity: "base",  
+    })  
+  },  
+})
   ],
   right: [
     Component.Graph(),
@@ -78,7 +107,36 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({  
+  sortFn: (a, b) => {  
+    // Ensure all logic is contained within this function  
+    if (a.isFolder && !b.isFolder) return -1  
+    if (!a.isFolder && b.isFolder) return 1  
+      
+    if (a.isFolder && b.isFolder) {  
+      return a.displayName.localeCompare(b.displayName, undefined, {  
+        numeric: true,  
+        sensitivity: "base",  
+      })  
+    }  
+      
+    // Access frontmatter data correctly  
+    const aCreated = a.data?.frontmatter?.created  
+    const bCreated = b.data?.frontmatter?.created  
+      
+    if (aCreated && bCreated) {  
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
+    }  
+      
+    if (aCreated && !bCreated) return -1  
+    if (!aCreated && bCreated) return 1  
+      
+    return a.displayName.localeCompare(b.displayName, undefined, {  
+      numeric: true,  
+      sensitivity: "base",  
+    })  
+  },  
+})
   ],
   right: [],
 }
