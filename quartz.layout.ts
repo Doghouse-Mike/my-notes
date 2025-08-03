@@ -56,10 +56,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({  
   sortFn: (a, b) => {  
-    // Ensure all logic is contained within this function  
+    // First, sort folders before files  
     if (a.isFolder && !b.isFolder) return -1  
     if (!a.isFolder && b.isFolder) return 1  
       
+    // If both are folders, sort alphabetically  
     if (a.isFolder && b.isFolder) {  
       return a.displayName.localeCompare(b.displayName, undefined, {  
         numeric: true,  
@@ -67,7 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
       })  
     }  
       
-    // Access frontmatter data correctly  
+    // If both are files, sort by creation date (newest first)  
     const aCreated = a.data?.frontmatter?.created  
     const bCreated = b.data?.frontmatter?.created  
       
@@ -75,9 +76,11 @@ export const defaultContentPageLayout: PageLayout = {
       return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
     }  
       
+    // If only one has a creation date, prioritize it  
     if (aCreated && !bCreated) return -1  
     if (!aCreated && bCreated) return 1  
       
+    // Fallback to alphabetical sorting  
     return a.displayName.localeCompare(b.displayName, undefined, {  
       numeric: true,  
       sensitivity: "base",  
@@ -107,12 +110,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({  
+Component.Explorer({  
   sortFn: (a, b) => {  
-    // Ensure all logic is contained within this function  
+    // First, sort folders before files  
     if (a.isFolder && !b.isFolder) return -1  
     if (!a.isFolder && b.isFolder) return 1  
       
+    // If both are folders, sort alphabetically  
     if (a.isFolder && b.isFolder) {  
       return a.displayName.localeCompare(b.displayName, undefined, {  
         numeric: true,  
@@ -120,7 +124,7 @@ export const defaultListPageLayout: PageLayout = {
       })  
     }  
       
-    // Access frontmatter data correctly  
+    // If both are files, sort by creation date (newest first)  
     const aCreated = a.data?.frontmatter?.created  
     const bCreated = b.data?.frontmatter?.created  
       
@@ -128,9 +132,11 @@ export const defaultListPageLayout: PageLayout = {
       return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
     }  
       
+    // If only one has a creation date, prioritize it  
     if (aCreated && !bCreated) return -1  
     if (!aCreated && bCreated) return 1  
       
+    // Fallback to alphabetical sorting  
     return a.displayName.localeCompare(b.displayName, undefined, {  
       numeric: true,  
       sensitivity: "base",  
