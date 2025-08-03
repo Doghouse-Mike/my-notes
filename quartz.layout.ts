@@ -38,36 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({  
-  sortFn: (a, b) => {  
-    // Ensure all logic is contained within this function  
-    if (a.isFolder && !b.isFolder) return -1  
-    if (!a.isFolder && b.isFolder) return 1  
-      
-    if (a.isFolder && b.isFolder) {  
-      return a.displayName.localeCompare(b.displayName, undefined, {  
-        numeric: true,  
-        sensitivity: "base",  
-      })  
-    }  
-    
-    // Access frontmatter data correctly  
-    const aCreated = a.data?.frontmatter?.created  
-    const bCreated = b.data?.frontmatter?.created  
-      
-    if (aCreated && bCreated) {  
-      return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
-    }  
-      
-    if (aCreated && !bCreated) return -1  
-    if (!aCreated && bCreated) return 1  
-      
-    return a.displayName.localeCompare(b.displayName, undefined, {  
-      numeric: true,  
-      sensitivity: "base",  
-    })  
-  },
-})
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -75,31 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
-// components shared acrpss all pages
-export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
-  header: [],
-  afterBody: [Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'Doghouse-Mike/my-notes',
-      // from data-repo-id
-      repoId: 'R_kgDOOPVAfw',
-      // from data-category
-      category: 'Announcements', 
-      // from data-category-id
-      categoryId: 'DIC_kwDOOPVAf84CouAn',
-      reactionsEnabled: true,
-    }
-  }),
-  ],  
-  footer: Component. Footer ({
-  links: {
-    GitHub: "https://github.com/jackyzha0/quartz",
-  }
-}),
-]
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
