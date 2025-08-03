@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'Doghouse-Mike/My-Notes',
+      repo: 'Doghouse-Mike/my-notes',
       // from data-repo-id
       repoId: 'R_kgDOOPVAfw',
       // from data-category
@@ -17,10 +17,10 @@ export const sharedPageComponents: SharedLayout = {
       // from data-category-id
       categoryId: 'DIC_kwDOOPVAf84CouAn',
       // from data-lang
-      lang: 'en'
+      reactionsEnabled: true,
     }
   }),
-],
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
