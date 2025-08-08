@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2023-04-25 16:51:21
 draft: false
-modified: 2025-07-22 09:04:24
+modified: 2025-08-02 22:41:46
 publish: true
 title: Some Interesting Sites Made in Obsidian
 ---
@@ -11,6 +11,8 @@ title: Some Interesting Sites Made in Obsidian
 # Some Interesting Sites Made in Obsidian
 
 Mostly gleaned from [the roundup](https://www.eleanorkonik.com/2022-04-22/), a few [[publish]] sites to steal things from. [See also](https://obsidian-gallery.craftengineer.com/?category=quartz)
+
+Much customisation, *and* explanation of *how they did it* on [eileenz](https://quartz.eilleeenz.com) notes
 
 I like the way [this one](https://lab.marconoris.com/About/Amanda+Cuesta) uses the sliding panes thing, need to check if mine is doing that. Especially as more stuff goes up and there are more links between notes/pages. Not sure what it does for handling URL's though, like if you wanted to link to a specific page. Tested, is all good, gives you the direct URL to the current page. 
 
