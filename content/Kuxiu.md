@@ -9,7 +9,7 @@ Stumbled upon [this](https://kuxiu.co/products/kuxiu-m30-charger-for-ipad)
 
 ![](https://kuxiu.co/cdn/shop/files/KUXIUM30_1.png?v=1754296838&width=1200)
 
-It's basically just a little magnetic doohickey that'll attach to the iPad's Smart Connector "dots" and provide power. 
+It's basically just a little magnetic doohickey that'll attach to the iPad's Smart Connector "dots" and provide power. IA "bring your own cable" version would be even better.
 
 Figured it'd be handy for any use case that'd benefit from being able to keep the iPad charged while also having something connected to said iPad, without having to splurge on a fancy dock/hub, or Magic Keyboard, or one of the awesome looking [charging stands](https://kuxiu.co/products/kuxiu-x38-pro-max-ipad-stand?variant=46482622021684) Kuxiu also makes.
 
