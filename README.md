@@ -1,3 +1,7 @@
+
+
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
@@ -8,6 +12,10 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
+
+
+This repo (for my site) publishes to [28mm.coffee](https://28mm.coffee)
+
 
 ## Sponsors
 
