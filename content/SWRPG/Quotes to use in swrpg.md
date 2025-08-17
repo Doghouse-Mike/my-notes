@@ -5,7 +5,7 @@ created: 2024-01-14 17:58:36
 date created: 2024-01-14 17:58:36
 date modified: 2025-07-10 19:37:12
 draft: false
-modified: 2025-07-22 17:28:02
+modified: 2025-08-14 11:55:23
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -14,6 +14,7 @@ title: Quotes to Use in Swrpg
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- Luck’s never free
 - a pox upon your house, upon your family, everyone you ever knew, and everyone you'll ever meet
 - your mouth is talking, you might wanna look to that
 - do we have an understanding 

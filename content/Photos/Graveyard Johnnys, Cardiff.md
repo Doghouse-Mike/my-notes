@@ -1,11 +1,11 @@
 ---
-tags: []
+tags: [gigs]
 aliases: []
 created: 2025-04-01 17:12:14
 date created: Tuesday, April 12th 2022, 12:54:41 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-08-17 16:34:57
 publish: true
 title: Graveyard Johnnys, Cardiff
 url: https://doghouse-mike.micro.blog/graveyard-johnnys-cardiff/

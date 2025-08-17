@@ -1,9 +1,10 @@
 ---
+tags: [gigs, skating]
 created: 2025-04-01 17:12:14
 date created: Thursday, March 27th 2025, 8:17:14 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-07-17 21:43:02
+modified: 2025-08-17 16:36:06
 publish: true
 title: DLH Funday 2022
 ---
