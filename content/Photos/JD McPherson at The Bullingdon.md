@@ -1,12 +1,11 @@
 ---
-tags:
-  - gigs
+tags: [gigs, photos]
 aliases: []
 created: 2025-04-01 17:12:14
 date created: Tuesday, April 12th 2022, 1:31:16 pm
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-08-17 16:34:46
+modified: 2025-08-17 17:32:39
 publish: true
 title: JD McPherson at The Bullingdon
 url: https://doghouse-mike.micro.blog/jd-mcpherson-at-the-bullingdon/

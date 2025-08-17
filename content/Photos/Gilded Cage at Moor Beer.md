@@ -1,11 +1,11 @@
 ---
-tags: [gigs]
+tags: [gigs, photos]
 aliases: []
 created: 2025-04-01 17:12:14
 date created: Sunday, March 9th 2025, 9:00:22 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-08-17 16:35:07
+modified: 2025-08-17 17:32:28
 publish: true
 title: Gilded Cage at Moor Beer
 url: https://doghouse-mike.micro.blog/gilded-cage-at-moor-beer/

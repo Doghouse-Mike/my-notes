@@ -1,11 +1,11 @@
 ---
-tags: [gigs]
+tags: [gigs, photos]
 aliases: []
 created: 2025-04-01 17:12:14
 date created: Sunday, March 9th 2025, 10:07:38 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-08-17 16:34:36
+modified: 2025-08-17 17:32:45
 publish: true
 title: Empire Of Dust at The Crown
 url: https://doghouse-mike.micro.blog/empire-of-dust-at-the/
