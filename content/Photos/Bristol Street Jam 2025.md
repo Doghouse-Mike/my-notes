@@ -1,17 +1,12 @@
 ---
 tags: [BMX, gigs, photos]
 created: 2025-08-17 16:29:51
-modified: 2025-08-17 18:05:12
+modified: 2025-08-18 15:52:23
 publish: true
 title: Bristol Street Jam 2025
 ---
 
 # Bristol Street Jam 2025
-
-On a hot, sweaty day in August, it was decided that we should pedal around Bristol (involving several hills) and enjoy those that were keen throwing themselves at various obstacles. 
-
-Much fun was had, skin was lost, and then some bands (all of em with [Tom Sturmey](https://www.instagram.com/bamdeedo?igsh=aThycnVqZW0yNW1o) on bass, natch) played us some of their finest lullabies. 
-
 
 ![[R0037590 1 Edited 1.jpg]]
 
@@ -322,3 +317,7 @@ Much fun was had, skin was lost, and then some bands (all of em with [Tom Sturme
 ![[R0040001 154 Edited 1.jpg]]
 
 ![[R0040005 155 Edited 1.jpg]]
+
+On a hot, sweaty day in August, it was decided that we should pedal around Bristol (involving several hills) and enjoy those that were keen throwing themselves at various obstacles. 
+
+Much fun was had, skin was lost, and then some bands (all of em with [Tom Sturmey](https://www.instagram.com/bamdeedo) on bass, natch) played us some of their finest lullabies.
