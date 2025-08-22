@@ -29,15 +29,14 @@ const defaultOptions: Options = {
   mapFn: (node) => {
     return node
   },
-  sortFn: (a: FileNode, b: FileNode) => {
-    const dateA = a.file?.frontmatter?.["created"]
-      ? new Date(a.file.frontmatter["created"])
-      : new Date(0);
-    const dateB = b.file?.frontmatter?.["created"]
-      ? new Date(b.file.frontmatter["created"])
-      : new Date(0);
-    return dateB.getTime() - dateA.getTime(); 
-  },
+  sortFn: (a, b) => {
+    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
       })
     }
 
@@ -56,11 +55,14 @@ export type FolderState = {
   collapsed: boolean
 }
 
+let numExplorers = 0
 export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { ...defaultOptions, ...userOpts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
   const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
+    const id = `explorer-${numExplorers++}`
+
     return (
       <div
         class={classNames(displayClass, "explorer")}
@@ -78,7 +80,7 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
-          aria-controls="explorer-content"
+          aria-controls={id}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -117,7 +119,7 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
-        <div class="explorer-content" aria-expanded={false}>
+        <div id={id} class="explorer-content" aria-expanded={false} role="group">
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">
