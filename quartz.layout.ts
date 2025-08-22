@@ -69,11 +69,11 @@ export const defaultContentPageLayout: PageLayout = {
     }  
       
     // If both are files, sort by creation date (newest first)  
-    const aCreated = a.data?.frontmatter?.created  
-    const bCreated = b.data?.frontmatter?.created  
+    const aCreated = a.data?.date  // Changed from frontmatter.created  
+    const bCreated = b.data?.date  // Changed from frontmatter.created   
       
     if (aCreated && bCreated) {  
-      return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
     }  
       
     // If only one has a creation date, prioritize it  
@@ -125,11 +125,11 @@ Component.Explorer({
     }  
       
     // If both are files, sort by creation date (newest first)  
-    const aCreated = a.data?.frontmatter?.created  
-    const bCreated = b.data?.frontmatter?.created  
-      
+		const aCreated = a.data?.date  // Changed from frontmatter.created  
+    const bCreated = b.data?.date  // Changed from frontmatter.created  
+        
     if (aCreated && bCreated) {  
-      return new Date(bCreated).getTime() - new Date(aCreated).getTime()  
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
     }  
       
     // If only one has a creation date, prioritize it  
