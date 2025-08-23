@@ -160,7 +160,7 @@ Porkbun has a "set up for github" button, so was a matter of clicking of that, t
 
 ### Theming
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]. When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from [the list and previews]( [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anything, currently using [Nord](https://github.com/nordtheme/nord)
 
 ### Setting Up Comments via Giscus
 
@@ -184,7 +184,7 @@ Somewhere on the Discord was mention of [this](https://github.com/vazome/quartz-
 
 ### Sort Order in the Explorer (or List on the left)
 
-This my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here. 
+This, my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here. 
 
 These lines need adding to the ```quartz.layout.ts``` file in GitHub. 
 
@@ -227,6 +227,10 @@ Component.Explorer({
 ```
 
 Then there were some shenanigans about whether it's "date" or "created" that's important, turns out the "created" field from my frontmatter gets translated to "date" at some point, and another part of Quartz was deliberately removing that from what was passed on to the client side (read web browser). SO, in ```quartz/plugins/emitters/contentIndex.tsx``` there's a line "delete content.date" that is to blame. Adding a couple of slashes in front of that "comments it out". Changing just that line to "// delete content.date" had everything working as expected. 
+
+![[Attachments/Pasted image 20250823214522.png]]
+
+There may be a cleaner way of doing it, but this works, good enough for me.
 
 ### Semi-automated Posting from iPad
 
