@@ -184,7 +184,7 @@ Somewhere on the Discord was mention of [this](https://github.com/vazome/quartz-
 
 ### Sort Order in the Explorer (or List on the left)
 
-This, my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here. 
+This, my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here after some chats with the [quartz deepwiki](https://deepwiki.com/jackyzha0/quartz).
 
 These lines need adding to the ```quartz.layout.ts``` file in GitHub. 
 
