@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2022-11-24 20:08:15
 draft: false
-modified: 2025-07-21 21:50:13
+modified: 2025-09-07 14:28:05
 publish: true
 title: Obsidian as a Second Brain Video Notes
 ---
@@ -67,9 +67,6 @@ NOT for archiving.
 ^79e8ce
 
 Could be a bit of a big deal, it's the buzzword I guess, that oughta kinda reinforce/give a name to some of the stuff I've been doing over the years anyway? Maybe? It this is a tale for a different day. For now, it is bed time.  
-#zettelkasten
-
-#test
 
 3 types of note:
 

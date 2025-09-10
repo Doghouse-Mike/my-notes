@@ -1,0 +1,1 @@
+- [ ] Work through task genius setup, see if I can get it doing what I want

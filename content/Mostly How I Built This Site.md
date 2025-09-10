@@ -1,6 +1,6 @@
 ---
 created: 2025-07-21 21:34:35
-modified: 2025-07-30 13:47:53
+modified: 2025-08-24 14:02:13
 publish: true
 title: Mostly How I Built This Site
 ---
@@ -31,6 +31,10 @@ Quartz had come up a bunch in my exploration around this. Hugo too (and I'd also
 ## Step 0. Prerequisites
 
 There will be much command line stuff. It's not complicated assuming you're comfortable blindly copying and pasting commands into Terminal. There's only a couple that need personalising to your specific setup. 
+
+> Step 0a. 
+> This is all *a lot* easier using the [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) plugin now. It allows publishing from directly within Obsidian, much like the official Publish, and/or Digital Garden plugin. 
+> I'll get a revised guide prepared at some point. The relevant parts from this guide are anything to do with configuring the (online) GitHub repo. There's no need to have a locally cloned version, although I'm keeping mine for easier troubleshooting/poking around. 
 
 ## Step 1. Download And Install Quartz
 
@@ -158,7 +162,7 @@ Porkbun has a "set up for github" button, so was a matter of clicking of that, t
 
 ### Theming
 
-Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from, with a [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]. When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anythin, currently using [Nord](https://github.com/nordtheme/nord)
+Themes were easy enough to setup using [quartz-themes](https://github.com/saberzero1/quartz-themes). There is a pile of options to choose from [the list and previews]( [[https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes]]). When I initially set one up it was a bit more of a faff to do, but now just involves adding a couple of lines to the `deploy.yml` file. *Almost* guaranteed not to break anything, currently using [Nord](https://github.com/nordtheme/nord)
 
 ### Setting Up Comments via Giscus
 
@@ -169,6 +173,66 @@ Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments).
 [The Discord](https://discord.gg/cRFFHYye7t) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
 ![[Pasted image 20250406223221.jpg]]
+
+### "Clickable" Images
+
+Somewhere on the Discord was mention of [this](https://github.com/vazome/quartz-clickable-images-zoom-plugin) to get a pseudo light box effect for images on the site. Dead easy to setup, create a new file, copy a line into another one, and Bob is your mum's sister. 
+
+```
+- Add file `clickableImages.ts` to your `quartz\plugins\transformers\`
+- Append line `export { ClickableImages } from "./clickableImages"` to your `quartz\plugins\transformers\index.ts`
+- Place line `Plugin.ClickableImages(),` to your `quartz.config.ts` in the end of `plugins: { transformers:` section
+```
+
+### Sort Order in the Explorer (or List on the left)
+
+This, my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here after some chats with the [quartz deepwiki](https://deepwiki.com/jackyzha0/quartz).
+
+These lines need adding to the ```quartz.layout.ts``` file in GitHub. 
+
+The Explorer component appears twice in that file (lines 41 and 65 as I write this), both will need replacing with the below:
+
+```
+Component.Explorer({    
+  sortFn: (a, b) => {    
+    // First, sort folders before files    
+    if (a.isFolder && !b.isFolder) return -1    
+    if (!a.isFolder && b.isFolder) return 1    
+        
+    // If both are folders, sort alphabetically    
+    if (a.isFolder && b.isFolder) {    
+      return a.displayName.localeCompare(b.displayName, undefined, {    
+        numeric: true,    
+        sensitivity: "base",    
+      })    
+    }    
+        
+    // If both are files, sort by creation date (newest first)  
+    const aCreated = a.data?.date  // Changed from frontmatter.created  
+    const bCreated = b.data?.date  // Changed from frontmatter.created  
+        
+    if (aCreated && bCreated) {    
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
+    }    
+        
+    // If only one has a creation date, prioritize it    
+    if (aCreated && !bCreated) return -1    
+    if (!aCreated && bCreated) return 1    
+        
+    // Fallback to alphabetical sorting    
+    return a.displayName.localeCompare(b.displayName, undefined, {    
+      numeric: true,    
+      sensitivity: "base",    
+    })    
+  },    
+})
+```
+
+Then there were some shenanigans about whether it's "date" or "created" that's important, turns out the "created" field from my frontmatter gets translated to "date" at some point, and another part of Quartz was deliberately removing that from what was passed on to the client side (read web browser). SO, in ```quartz/plugins/emitters/contentIndex.tsx``` there's a line "delete content.date" that is to blame. Adding a couple of slashes in front of that "comments it out". Changing just that line to "// delete content.date" had everything working as expected. 
+
+![[Pasted image 20250823214522.png]]
+
+There may be a cleaner way of doing it, but this works, good enough for me.
 
 ### Semi-automated Posting from iPad
 
