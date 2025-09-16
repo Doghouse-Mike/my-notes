@@ -1,7 +1,15 @@
 ---
-{"publish":true,"aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","cssclasses":""}
+tags: []
+aliases: []
+created: 2024-01-14 17:58:36
+date created: 2024-01-14 17:58:36
+date modified: 2025-07-10 19:37:12
+draft: false
+modified: 2025-08-18 15:51:58
+publish: true
+share_link: false
+title: Quotes to Use in Swrpg
 ---
-
 
 # Quotes to Use in Swrpg
 
