@@ -3,4 +3,17 @@
 // put your custom CSS here!
 .center article.popover-hint h1:first-of-type {
 	display: none;
+.dataview.list-view-ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.dataview.list-view-ul > li {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 1rem;
+  background: var(--background-primary-alt);
+  list-style: none;
+}
 }
