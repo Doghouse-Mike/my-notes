@@ -94,7 +94,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
 	Component.RecentNotes({  
     limit: 9,  
-	  right: [  
   }),  
 ],
   ],
