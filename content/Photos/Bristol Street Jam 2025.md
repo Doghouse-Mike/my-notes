@@ -1,7 +1,7 @@
 ---
 tags: [BMX, gigs, photos]
 created: 2025-08-17 16:29:51
-modified: 2025-09-16 09:32:35
+modified: 2025-09-16 14:04:51
 publish: true
 title: Bristol Street Jam 2025
 ---
@@ -325,4 +325,3 @@ Much fun was had, skin was lost, and then some bands (all of em with [Tom Sturme
 The fine folks at [Dig](https://digbmx.com) (courtesy of [Fred Murray](https://www.instagram.com/frankblurry?igsh=MWg0dmk3eHJvbWNwZQ==)) filmed the entire extravaganza.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbuLf8zN7pE?si=e37OUOYCISYpXpmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
