@@ -1,6 +1,6 @@
 ---
 created: 2025-08-13 11:55:14
-modified: 2025-08-11 16:17:21
+modified: 2025-09-19 19:55:17
 publish: true
 title: Starting out Green 20250811
 ---
@@ -25,7 +25,6 @@ What we wanna know:
 
 - Who is he spying on?
 	- Admiral Coraline, because he's inept. Intends to usurp his position after sabotaging him. 
-	
 - Troop Movements of this sector
 - How to take down the Jarine Base
 	- decent garrison 150+ troopers
@@ -34,7 +33,6 @@ What we wanna know:
 	- Could potentially sneak in in the guise of imperials
 	- Gave us his passwords for datapad/base access 
 	- There are prisoners but are regularly transferred out (Where TBC)
-	
 - Who are they targeting within the sector?
 	- The base/ Admiral Corlan is also interested in a group of rebels on planet, led by "Buzzsaw", apparently related to Saw Guerrara
 - Some light torture ensues
