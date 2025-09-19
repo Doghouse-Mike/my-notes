@@ -12,10 +12,10 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  maxDepth: 3,
-  minEntries: 1,
+  maxDepth: 6,
+  minEntries: 2,
   showByDefault: true,
-  collapseByDefault: false,
+  collapseByDefault: true,
 }
 
 interface TocEntry {
