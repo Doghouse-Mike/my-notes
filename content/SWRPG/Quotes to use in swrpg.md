@@ -5,7 +5,7 @@ created: 2024-01-14 17:58:36
 date created: 2024-01-14 17:58:36
 date modified: 2025-07-10 19:37:12
 draft: false
-modified: 2025-08-31 22:23:01
+modified: 2025-09-19 15:39:16
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -14,7 +14,8 @@ title: Quotes to Use in Swrpg
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
-- Shall we just fling ourselves at each other and see who’s parts give out first?
+- Young humans can be impulsive. The trick is keeping them around long enough to become old humans
+- Shall we just fling ourselves at each other and see whose parts give out first?
 - Caution is fear dressed as intelligence 
 - I *live* for faint praise
 - Got a can of kick arse with your name on it right here. You wanna come collect it, or should I bring it to ya?
