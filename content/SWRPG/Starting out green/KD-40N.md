@@ -11,9 +11,9 @@ title: KD-40N
 
 [[KD-40N|Character Sheet]] (Valid as of 2025-06-02) 
 
-- [ ] pick/get decision on toolkit vs toolhand 
-- [ ] Write background
-	- [ ] Add background to actual character sheet in Oggdude's
+- [x] pick/get decision on toolkit vs toolhand [completion:: 2025-09-21]
+- [x] Write background [completion:: 2025-09-21]
+	- [x] Add background to actual character sheet in Oggdude's [completion:: 2025-09-21]
 
 ## Sketch
 
