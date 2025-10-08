@@ -36,7 +36,7 @@ Dekmar's on the box! Decent roll. Know it's a sith artefact, their bad news, thi
 
 Box is whispering promises of power to the organic. This is the artefact of Shadar Lok
 
-Rimer went for it, KD slapped it out of his hands, but too late. He got a touch, took some wounds, and really wants it. KD taped it up back up in its box, then put it back in the armoury under lock n key. 
+Rimer went for it, KD slapped it out of his hands, but too late. He got a touch, took some wounds, and *really* wants it. KD taped it up back up in its box, then put it back in the armoury under lock n key. 
 
 Checked the ship out, bit of a history of being impounded but was sold off as a "police auction", stands clean now. No super suspect history. 
 
