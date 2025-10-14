@@ -17,16 +17,16 @@ Is a show about the early days of humans exploring the galaxy. Not historically 
 
 ### Misc
 
-- Love Asteroid
+- Love Asteroid - "Twelve singles. One asteroid. Zero gravity."
 - The Hydian Way's Got Talent (spoiler, it does not)
-- The Great Talus Bakeoff
+- The Great Talus Bakeoff - "One kitchen. Two moons. Infinite pastries."
 - Chums
 - The Fresh Prince of Nar Shaddar
 - North Park
-- ISB: Special Victims Unit
+- ISB: Special Victims Unit - "In the Galactic Empire's justice system, some crimes are especially treasonous."
 - Sport of Ceremonial Chairs
 - Public Gardens and Pastimes 
-- Cal Lumbo
+- Cal Lumbo - "Just one more thing…"
 - Crimson Midget
 - It's Always Sunny in Neimoidia
 
