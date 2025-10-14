@@ -1,9 +1,7 @@
 ---
-created: 2025-10-07 17:48:18
-modified: 2025-10-08 18:35:51
-publish: true
-title: Thoughts on How KD Feels About His Fellows
+{"publish":true,"title":"Thoughts on How KD Feels About His Fellows","created":"2025-10-07 17:48:18","cssclasses":""}
 ---
+
 
 # Thoughts on How KD Feels About His Fellows
 
@@ -101,5 +99,4 @@ I have always likened Willie to What if Han Solo was REALLY bad at being a smugg
 
 --- 
 
-Be interesting to revisit this after a few more sessions, see how people's fee
-
+Be interesting to revisit this after a few more sessions, see how people's feelings have evolved. 

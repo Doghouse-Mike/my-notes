@@ -13,6 +13,21 @@ Thought he'd love this, but none of the work they do would stand the test of tim
 
 ## Star Track
 
-is a show about the early days of humans exploring the galaxy. Not historically accurate but some interesting stories. What would Pichard do in this situation, etc. Maybe replace the Borg with some Ganks or something. 
+is a show about the early days of humans exploring the galaxy. Not historically accurate but some interesting stories, though bordering on human-supremacy propaganda. What would Pichard do in this situation, etc. Maybe replace the Borg with some Ganks. 
+
+### Misc
+
+- Love Asteroid
+- The Hydian Way's Got Talent (spoiler, it does not)
+- The Great Talus Bakeoff
+- Chums
+- The Fresh Prince of Nar Shaddar
+- North Park
+- ISB: Special Victims Unit
+- Sport of Ceremonial Chairs
+- Public Gardens and Pastimes 
+- Cal Lumbo
+- Crimson Midget
+- It's Always Sunny in Neimoidia
 
 Primp my ride could serve as inspiration for some MSE droid modifications. Lifted, monster truck wheels, etc. Could be fun to turn them into roller skates too, because the humans hate walking. - the walking thing inspired by the SW version of LOTR. The Ugnaughts complained because of all the walking. Darth of the rings? 
