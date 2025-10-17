@@ -1,10 +1,7 @@
 ---
-tags: []
-created: 2025-03-19 15:49:20
-modified: 2025-09-17 04:31:48
-publish: true
-title: Site Home
+{"publish":true,"title":"Site Home","created":"2025-03-19 15:49:20","cssclasses":""}
 ---
+
 
 # Site Home
 
@@ -12,6 +9,6 @@ Welcome aboard! This is the home page thing so there's a "default". It will like
 
 How I got here is kinda laid out in [[Mostly How I Built This Site]]
 
-![[B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
 
 <a href='https://ko-fi.com/Y8Y41LC22H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

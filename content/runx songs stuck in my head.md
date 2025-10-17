@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-01 15:01:08
-draft: true
-modified: 2025-07-17 21:42:59
-publish: true
-title: Runx Songs Stuck in My Head
+{"publish":true,"aliases":"","title":"Runx Songs Stuck in My Head","draft":true,"created":"2025-04-01 15:01:08","cssclasses":""}
 ---
+
 
 # Runx Songs Stuck in My Head
 
