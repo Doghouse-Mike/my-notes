@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-09-17 06:05:23
+modified: 2025-10-19 21:06:08
 publish: true
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
 ---
@@ -19,26 +19,26 @@ title: Obsidian October O_O 2024 Vault Self-critique Checklist
 
 ## Vault Maintenance
 
-- [ ] How well is your vault doing what it's supposed to do? (What is the purpose of your vault/notes? What measures might you use to judge how well it's working?) [^1] #project/Obsidian
+- [[How well is your vault doing what it's supposed to do (What is the purpose of your vaultnotes What measures might you use to judge how well it's working) ^1]]
 
 	Have kinda fallen out of the loop of reviewing/using it much really. So measures for judge would mostly be spending more time on it
 
-- [ ] How quickly can you find notes you used one week ago? #project/Obsidian
+- [[How quickly can you find notes you used one week ago]]
 
 	Pretty quick tbh. Omnisearch is good, most stuff is in "recents", but comfy that between search and linking most stuff will be findable.
 
-- [ ] If your cat intentionally deleted all of your files, how recent is your backup? #project/Obsidian
+- [[If your cat intentionally deleted all of your files, how recent is your backup]]
 
 	Decent. Between version history via obs sync, iCloud backups of my phone/ipad, and locally got Time Machine running on the mac, so at most losing an hour of work, but with sync doing its' thing, got more granular versioning
 
-- [ ] Do you need to document anything about your workflows? It can be surprisingly helpful to write out how you work and create checklists for important but uncommon tasks. #project/Obsidian
+- [[Do you need to document anything about your workflows It can be surprisingly helpful to write out how you work and create checklists for important but uncommon tasks]]
 
 	Probably not at the moment, but could be good to do as I'm using it more. 
 
 ## Vault Maintenance Checklist
 
 - [x] Delete unused attachments ✅ 2025-01-07
-- [ ] Delete or refactor notes that are not linked or tagged or in a folder ("orphan" notes) #project/Obsidian
+- [[Delete or refactor notes that are not linked or tagged or in a folder (orphan notes)]]
 - [x] Delete unused tags ✅ 2025-01-07
 - [x] Delete empty folders ✅ 2025-01-07
 - [x] Process items in inbox notes/folders/tags ✅ 2025-01-07
@@ -46,15 +46,15 @@ title: Obsidian October O_O 2024 Vault Self-critique Checklist
 - [x] Remove unused plugins ✅ 2025-01-07
 - [x] Remove unused themes ✅ 2025-01-07
 - [x] Remove unused snippets ✅ 2025-01-07
-- [ ] Add properties missing from notes #project/Obsidian @iPad
-- [ ] Convert tags to properties where appropriate #project/Obsidian
-- [ ] Fix up broken links #project/Obsidian
+- [[Add properties missing from notes @iPad]]
+- [[Convert tags to properties where appropriate]]
+- [[Fix up broken links]]
 - [x] Browse through the plugin gallery for new ideas ✅ 2025-05-02
 
 ## Vault Rediscovery Ideas
 
-- [ ] Open both Backlinks and Outgoing Links to see if there are any unlinked mentions that make sense #project/Obsidian
+- [[Open both Backlinks and Outgoing Links to see if there are any unlinked mentions that make sense]]
 - [x] Sort the files in Files Explorer by "Modified time (old to new)", take a look at the top files and see how they can be made better. ✅ 2025-05-04
-- [-] Enable the Random Note core plugin and randomly visit some notes for surprises.
+
 
 [^1]: Remember that "joy" is a valid measure! 

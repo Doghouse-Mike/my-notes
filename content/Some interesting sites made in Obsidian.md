@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2023-04-25 16:51:21
 draft: false
-modified: 2025-08-02 22:41:46
+modified: 2025-10-11 08:06:24
 publish: true
 title: Some Interesting Sites Made in Obsidian
 ---
@@ -21,6 +21,8 @@ I like the way [this one](https://lab.marconoris.com/About/Amanda+Cuesta) uses t
 Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) off, but has some interesting looking tips on using [[publish]], so keeping [this](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) around to review later. Otherwise was a bit like just looking at a vault. 
 
 [Chad](https://mister-chad.com/mind+gardens/!+mind+garden) has some thoughts on the whole [[mind garden]] thing, might be handy to read for getting things set up, knowing what to put where, etc. The fading sidebars are nifty too. Probably some CSS stuff that could potentially be borrowed. Read stuff. View source. 
+
+https://bryanhogan.com/blog/obsidian-website
 
 [Andy's Notes](https://publish.obsidian.md/andymatuschak/_Start+Here) - Andy Matuschak
 
