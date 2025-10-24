@@ -1,22 +1,15 @@
 ---
-tags: []
-aliases: []
-created: 2023-08-03 20:37:45
-date created: Thursday, August 3rd 2023, 8:37:45 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-06 19:04:18
-publish: true
-title: SWRPG Session 3
+{"publish":true,"aliases":"","title":"SWRPG Session 3","created":"2023-08-03 20:37:45","cssclasses":""}
 ---
+
 
 # SWRPG Session 3
 
-[[Z-X3ED]]
+[[SWRPG/Z-X3ED]]
 
-[[SWRPG session 1]]
+[[SWRPG/SWRPG session 1]]
 
-[[SWRPG Session 2]]
+[[SWRPG/SWRPG Session 2]]
 
 Spent XP, onto the ship!
 

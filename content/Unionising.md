@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-07 23:18:43
-draft: false
-modified: 2025-07-21 21:50:29
-publish: true
-title: "The Idiot's Guide to Unionising Your UK Workplace"
+{"publish":true,"aliases":"","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","cssclasses":""}
 ---
+
 
 see also [[Unionising summary]] 
 
