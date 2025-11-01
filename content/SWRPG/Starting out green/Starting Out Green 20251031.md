@@ -13,13 +13,11 @@ Ship needed the transponder changing still. Through some miraculous rolls, we ha
 - Mnemonic Drift
 - Serenity
 
-```Callout
-What We Know of the Artefact
-
-The artefact is Shadra Nid, which you found in the sith temple. You've only been able to determine that it has an aura of darkness, both literally, and figuratively. It has a sister artifact that is found in a temple some where on the moon of Dxun. Deckmar was able to find out that it's name is Shadra Nith. The only way of destroying them (short of shooting them into a star or black hole) is when they are combined, but you don't know what effect combining them will have, nor what destroying them will do.
-
-Our priority is keeping it/them out of the hands of the empire. 
-```
+> ### What We Know of the Artefact
+> 
+> The artefact is Shadra Nid, which you found in the sith temple. You've only been able to determine that it has an aura of darkness, both literally, and figuratively. It has a sister artifact that is found in a temple some where on the moon of Dxun. Deckmar was able to find out that it's name is Shadra Nith. The only way of destroying them (short of shooting them into a star or black hole) is when they are combined, but you don't know what effect combining them will have, nor what destroying them will do.
+> 
+> Our priority is keeping it/them out of the hands of the empire. 
 
 ## Back to Current Events
 
