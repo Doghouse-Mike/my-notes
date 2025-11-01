@@ -6,6 +6,7 @@
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- So little time, so many crimes
 - If I had a digestive system, I'd empty it now
 - Young humans can be impulsive. The trick is keeping them around long enough to become old humans
 - Shall we just fling ourselves at each other and see whose parts give out first?

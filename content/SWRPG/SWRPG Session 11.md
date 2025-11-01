@@ -1,15 +1,5 @@
 ---
-tags: []
-aliases: []
-created: 2024-05-27 23:23:01
-date created: Monday, May 27th 2024, 11:23:01 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-10-19 21:04:05
-publish: true
-share_link: https://share.note.sx/fx705ha8#raeGZu3j8/GiQ8zr6mrwcdGPErhIPAQSnuojIAOeX2Y
-share_updated: 2025-03-31T21:00:37+01:00
-title: SWRPG Session 11
+{"publish":true,"aliases":"","title":"SWRPG Session 11","created":"2024-05-27 23:23:01","cssclasses":""}
 ---
 
 
@@ -63,10 +53,10 @@ PPE will probably break if despair is rolled, eek. Although that could be our "s
 
 Jobs:
 
-- [[Fake QA]]
-- [[Deliver Jax's stuff - Profit]]
-- [[Deliver Deebo]]
-- [[Escape with a live sample of the virus]]
+- [[SWRPG/Fake QA]]
+- [[SWRPG/Deliver Jax's stuff - Profit]]
+- [[SWRPG/Deliver Deebo]]
+- [[SWRPG/Escape with a live sample of the virus]]
 
 ![[Attachments/Pasted image 20250401192102.png]]
 

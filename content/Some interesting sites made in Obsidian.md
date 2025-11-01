@@ -1,11 +1,5 @@
 ---
-tags: []
-aliases: []
-created: 2023-04-25 16:51:21
-draft: false
-modified: 2025-10-11 08:06:24
-publish: true
-title: Some Interesting Sites Made in Obsidian
+{"publish":true,"aliases":"","title":"Some Interesting Sites Made in Obsidian","created":"2023-04-25 16:51:21","cssclasses":""}
 ---
 
 
