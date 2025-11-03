@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":"","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","cssclasses":""}
+tags: []
+aliases: []
+created: 2025-04-01 17:12:14
+draft: true
+modified: 2025-07-21 21:50:13
+publish: true
+title: 'On Instead of "I Have to", "I Choose to"'
 ---
-
 
 # On Instead of "I Have to", "I Choose to"
 

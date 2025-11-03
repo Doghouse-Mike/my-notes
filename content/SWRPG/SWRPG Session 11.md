@@ -12,7 +12,6 @@ share_updated: 2025-03-31T21:00:37+01:00
 title: SWRPG Session 11
 ---
 
-
 # SWRPG Session 11
 
 2024-06-13
@@ -68,7 +67,7 @@ Jobs:
 - [[Deliver Deebo]]
 - [[Escape with a live sample of the virus]]
 
-![[Attachments/Pasted image 20250401192102.png]]
+![[Pasted image 20250401192102.png]]
 
 ## Official Writeup:
 
@@ -94,4 +93,4 @@ Jobs:
 - Deliver Jax's stuff - Profit
 - Deliver Deebo
 
-![[Attachments/Holonet.ColumexUpdate.png]]
+![[Holonet.ColumexUpdate.png]]

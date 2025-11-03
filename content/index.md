@@ -1,14 +1,20 @@
 ---
-{"publish":true,"title":"Site Home","created":"2025-03-19 15:49:20","cssclasses":""}
+tags: []
+created: 2025-03-19 15:49:20
+modified: 2025-11-03 09:03:43
+publish: true
+title: Site Home
 ---
-
 
 # Site Home
 
-Welcome aboard! This is the home page thing so there's a "default". It will likely change soon once I have made some more steps into figuring this whole shebang out. For now here is a photo so I can tell that works. 
+Welcome aboard! 
 
-How I got here is kinda laid out in [[Mostly How I Built This Site]]
+How I got here is kinda laid out in [[Mostly How I Built This Site]]    
 
-![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+Photos I've taken are over [here](https://28mm.coffee/Photos/)    
+Some stuff I've designed/drawn is [there](https://28mm.coffee/Design/)    
+
+Get in touch via the dreaded [instas](https://www.instagram.com/doghouse_mike?igsh=MXh4M2Y4dXo5MHhiZA%3D%3D&utm_source=qr), [GitHub](https://github.com/Doghouse-Mike) , [The Don](https://defcon.social/@Doghouse_mike), or even more dreaded [LinkedIn](https://www.linkedin.com/in/doghousemike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)    
 
 <a href='https://ko-fi.com/Y8Y41LC22H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

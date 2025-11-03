@@ -1,7 +1,12 @@
 ---
-{"publish":true,"title":"Memory Cores And Motivators","draft":true,"created":"2025-05-31 23:43:07","cssclasses":""}
+created: 2025-05-31 23:43:07
+date created: Saturday, May 31st 2025, 11:43:07 pm
+date modified: Monday, June 2nd 2025, 2:36:45 pm
+draft: true
+modified: 2025-07-21 21:50:39
+publish: true
+title: Memory Cores And Motivators
 ---
-
 
 # Memory Cores And Motivators
 
