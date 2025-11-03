@@ -5,10 +5,11 @@
 
 # Site Home
 
-Welcome aboard! This is the home page thing so there's a "default". It will likely change soon once I have made some more steps into figuring this whole shebang out. For now here is a photo so I can tell that works. 
+Welcome aboard! 
 
 How I got here is kinda laid out in [[Mostly How I Built This Site]]
 
-![[Attachments/B9EA387F-C3C8-45DB-8062-089E2A1ED204_1_102_o.jpeg]]
+Photos I've taken are over [here](https://28mm.coffee/Photos/)
+Some stuff I've designed/drawn is [there](https://28mm.coffee/Design/)
 
 <a href='https://ko-fi.com/Y8Y41LC22H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
