@@ -5,7 +5,7 @@ modified: 2025-11-03 08:04:08
 title: Index
 ---
 
-# Index
+# Photos
 
 ```folder-index-content
 ```
