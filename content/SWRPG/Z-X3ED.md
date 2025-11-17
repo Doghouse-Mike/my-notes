@@ -7,8 +7,6 @@ date modified: Tuesday, April 22nd 2025, 4:27:35 pm
 draft: false
 modified: 2025-07-21 21:50:38
 publish: true
-share_link: https://share.note.sx/68xttomp#2HIaFYTtQbH8yMk1WSk+78vxl5Tz0Qk8a7FkvZKexnM
-share_updated: 2025-03-17T17:46:18+00:00
 title: Z-X3ED
 ---
 

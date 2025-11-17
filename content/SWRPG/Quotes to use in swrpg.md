@@ -5,7 +5,7 @@ created: 2024-01-14 17:58:36
 date created: 2024-01-14 17:58:36
 date modified: 2025-07-10 19:37:12
 draft: false
-modified: 2025-10-27 13:43:14
+modified: 2025-11-11 11:49:52
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -15,6 +15,7 @@ title: Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - So little time, so many crimes
+- I'm the best there is at what I do, but what I do best isn't very nice
 - If I had a digestive system, I'd empty it now
 - Young humans can be impulsive. The trick is keeping them around long enough to become old humans
 - Shall we just fling ourselves at each other and see whose parts give out first?
