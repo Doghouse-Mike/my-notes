@@ -5,19 +5,20 @@ publish: true
 title: Starting out Green 20250509
 ---
 
+
 # Starting out Green 20250509
 
 Game notes
 
 Ship decided on was a YT 2100
 
-![[Pasted image 20250905211401.png]]
+![[Attachments/Pasted image 20250905211401.png]]
 
 ![[Pasted image 20250905211736.png]
 
-![[Pasted image 20250905211752.png]]
+![[Attachments/Pasted image 20250905211752.png]]
 
-![[Pasted image 20250905211919.png]]
+![[Attachments/Pasted image 20250905211919.png]]
 
 Things to do potentially this session:
 
