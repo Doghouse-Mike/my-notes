@@ -1,6 +1,7 @@
 ---
 created: 2025-09-05 21:11:30
-modified: 2025-09-06 00:05:35
+modified: 2025-11-17 23:32:16
+publish: true
 title: Starting out Green 20250509
 ---
 
