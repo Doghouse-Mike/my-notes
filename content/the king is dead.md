@@ -1,12 +1,7 @@
 ---
-tags: [rip, music]
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-21 21:50:12
-publish: true
-title: The King is Dead
+{"publish":true,"aliases":"","title":"The King is Dead","created":"2025-03-24 12:57:20","tags":["rip","music"],"cssclasses":""}
 ---
+
 
 # The King is Dead
 

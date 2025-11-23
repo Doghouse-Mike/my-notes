@@ -1,12 +1,7 @@
 ---
-tags: [kids, music]
-aliases: []
-created: 2025-04-01 17:12:14
-draft: false
-modified: 2025-07-19 00:07:18
-publish: true
-title: After that Another Glass of Wine
+{"publish":true,"aliases":"","title":"After that Another Glass of Wine","created":"2025-04-01 17:12:14","tags":["kids","music"],"cssclasses":""}
 ---
+
 
 # After that Another Glass of Wine
 

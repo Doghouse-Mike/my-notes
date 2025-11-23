@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-17 19:13:33
-date created: Tuesday, March 18th 2025, 9:46:55 am
-date modified: Saturday, May 31st 2025, 6:00:06 pm
-draft: false
-modified: 2025-07-06 19:04:27
-publish: true
-title: "Other Types of Characters I Think it Could Be Fun to Play:"
+{"publish":true,"aliases":"","title":"Other Types of Characters I Think it Could Be Fun to Play:","created":"2025-04-17 19:13:33","cssclasses":""}
 ---
+
 
 # Other Types of Characters I Think it Could Be Fun to Play:
 

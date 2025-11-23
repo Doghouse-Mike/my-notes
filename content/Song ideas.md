@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2014-04-23 15:51:25
-draft: false
-modified: 2025-07-21 21:50:37
-publish: true
-title: Song Ideas
+{"publish":true,"aliases":"","title":"Song Ideas","created":"2014-04-23 15:51:25","cssclasses":""}
 ---
+
 
 # Song Ideas
 
