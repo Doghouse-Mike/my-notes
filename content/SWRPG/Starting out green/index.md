@@ -6,7 +6,6 @@ publish: true
 title: Starting Out Green
 ---
 
-
 # Starting Out Green
 
 ```folder-index-content
