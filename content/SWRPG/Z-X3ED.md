@@ -1,13 +1,20 @@
 ---
-{"publish":true,"aliases":"","title":"Z-X3ED","created":"2023-02-21 06:30:00","cssclasses":""}
+tags: []
+aliases: []
+created: 2023-02-21 06:30:00
+date created: Tuesday, February 21st 2023, 6:30:00 am
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-21 21:50:38
+publish: true
+title: Z-X3ED
 ---
-
 
 # Z-X3ED
 
 ![[Attachments/ED.jpg]]
 
-Character info for [[SWRPG/SWRPG]]
+Character info for [[SWRPG]]
 
 Comedy robot guy. A cunning blend of Cayde-6, Joe Pineapples, and Bender. Maybe a smidge of K2SO
 
@@ -194,7 +201,7 @@ Enduring (+1 Soak)
 
 ?25 XP -Espionage Programming: +1 Cunning +1 Deception +1 Cool 
 
-![[Attachments/IMG_0623 1.jpeg]]
+![[IMG_0623 1.jpeg]]
 
 Look into Bounty Hunter - Gadgeteer spec. Gets mechanics+coercion as class skills, bonuses to mechanical things and some combat stuff, offensive and defensive. 
 
@@ -273,26 +280,7 @@ Frenchie would be a twilek. Jim's a Gank. Olu's a Wookiee, Buttons a Toydarian (
 
 Cooked up some decent enhancement/shopping ideas in ![[ Shopping List#Potentially Better for Ed:]]
 
-For ease of compare/contrast ## Equipment:
-
-Model 53 "Quicktrigger" 6 DMG 3 Crit 4HP 450cr
-
-Catch vest - 2 soak/1 vs non-energy weapons 300cr
-
-Datapad (integrated) - 75cr
-
-Comlink (integrated) - 25cr
-
-Lockpicking tools (integrated) - 50cr
-
-Emergency Repair Patch x3 - 25cr each (heals 3 wounds)
-
-Blade Breaker -Melee DMG +0 crit 4 250cr Defensive 2, Pierce 1, Sunder
-
-Extra reloads x2 - 25cr each
-
-150 cr left. Kinda makes sense, saving for a ship? 
-
+For ease of compare/contrast ![[#Equipment:]]
 
 Want a [Lucky Blaster](https://star-wars-rpg-ffg.fandom.com/wiki/Lucky_Blaster) (400 Cr) on a [Wrist Mount](https://star-wars-rpg-ffg.fandom.com/wiki/Wrist_Mount) (275 Cr), ideally in Ed's arm using the [Hidden Storage](https://star-wars-rpg-ffg.fandom.com/wiki/Hidden_Storage_talent) Talent
 
@@ -312,6 +300,6 @@ Get a [Repulsor Fist](https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Fist) g
 
 ### Related Notes
 
-[[SWRPG/Nira Keth]] (Shiv's character)
+[[Nira Keth]] (Shiv's character)
 
-[[SWRPG/Character Creation Ideas (for Future reference)]]
+[[Character Creation Ideas (for Future reference)]]

@@ -1,11 +1,15 @@
 ---
-{"publish":true,"title":"KD-40N","created":"2025-06-02 20:48:24","cssclasses":""}
+created: 2025-06-02 20:48:24
+date created: Monday, June 2nd 2025, 8:48:24 pm
+date modified: Monday, June 2nd 2025, 9:43:10 pm
+modified: 2025-07-06 18:02:23
+publish: true
+title: KD-40N
 ---
-
 
 # KD-40N
 
-[[SWRPG/Starting out green/KD-40N\|Character Sheet]] (Valid as of 2025-06-02) 
+[[KD-40N|Character Sheet]] (Valid as of 2025-06-02) 
 
 - [x] pick/get decision on toolkit vs toolhand [completion:: 2025-09-21]
 - [x] Write background [completion:: 2025-09-21]
@@ -23,7 +27,7 @@ Straightens some pictures in the hall on his way out. Remembers there had been s
 
 Brainbox is still on the fritz though, ends up getting lost, stumbles into some tunnels, walks and walks, gets lost some more. Powers down to try and run some self-diagnostics, aaaaaand ACTION.
 
-![[Attachments/Pasted image 20250602205301.jpg]]
+![[Pasted image 20250602205301.jpg]]
 
 ## Background
 

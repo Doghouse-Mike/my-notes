@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":"","title":"iPad for Work Thoughts May '23","draft":true,"created":"2025-04-01 15:01:08","cssclasses":""}
+tags: []
+aliases: []
+created: 2025-04-01 15:01:08
+draft: true
+modified: 2025-07-21 21:50:38
+publish: true
+title: "iPad for Work Thoughts May '23"
 ---
-
 
 # iPad for Work Thoughts May '23
 

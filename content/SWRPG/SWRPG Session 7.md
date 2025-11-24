@@ -1,7 +1,14 @@
 ---
-{"publish":true,"aliases":"","title":"SWRPG Session 7","created":"2024-02-01 20:02:07","cssclasses":""}
+tags: []
+aliases: []
+created: 2024-02-01 20:02:07
+date created: Thursday, February 1st 2024, 8:02:07 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-17 21:43:02
+publish: true
+title: SWRPG Session 7
 ---
-
 
 # SWRPG Session 7
 

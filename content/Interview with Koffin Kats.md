@@ -1,11 +1,16 @@
 ---
-{"publish":true,"aliases":"","title":"Interview With Koffin Kats","created":"2025-04-11 07:52:09","cssclasses":""}
+tags: []
+aliases: []
+created: 2025-04-11 07:52:09
+draft: false
+modified: 2025-07-21 21:50:38
+publish: true
+title: Interview With Koffin Kats
 ---
-
 
 # Interview With Koffin Kats
 
-Some photos from the show after this interview was conducted can be seen in [[Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Photos/Koffin Kats at Lady Luck]]!
+Some photos from the show after this interview was conducted can be seen in [[Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Koffin Kats at Lady Luck]]!
 
 Strap in. 
 

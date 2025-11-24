@@ -1,7 +1,10 @@
 ---
-{"publish":true,"title":"Site Home","created":"2025-03-19 15:49:20","cssclasses":""}
+tags: []
+created: 2025-03-19 15:49:20
+modified: 2025-11-03 09:02:29
+publish: true
+title: Site Home
 ---
-
 
 # Site Home
 

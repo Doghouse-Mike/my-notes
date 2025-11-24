@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"Post-defense of Whisper Base Shopping","created":"2025-08-14 19:56:48","cssclasses":""}
+created: 2025-08-14 19:56:48
+modified: 2025-08-15 09:37:28
+publish: true
+title: Post-defense of Whisper Base Shopping
 ---
-
 
 # Post-defense of Whisper Base Shopping
 

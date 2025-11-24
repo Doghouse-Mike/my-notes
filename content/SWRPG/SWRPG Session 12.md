@@ -1,7 +1,8 @@
 ---
-{"publish":true,"title":"SWRPG Session 12","created":"2025-11-19 19:07:06","cssclasses":""}
+created: 2025-11-19 19:07:06
+modified: 2025-11-22 19:52:32
+title: SWRPG Session 12
 ---
-
 
 # SWRPG Session 12
 

@@ -1,6 +1,13 @@
 ---
-{"publish":true,"aliases":"","title":"SWRPG","draft":true,"created":"2023-10-24 12:46:03","cssclasses":""}
+tags: []
+aliases: []
+created: 2023-10-24 12:46:03
+date created: Tuesday, October 24th 2023, 12:46:03 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: true
+modified: 2025-07-17 21:43:03
+publish: true
+title: SWRPG
 ---
-
 
 # SWRPG

@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"KD Progression Options","created":"2025-11-03 08:25:35","cssclasses":""}
+created: 2025-11-03 08:25:35
+modified: 2025-11-03 08:42:58
+publish: true
+title: KD Progression Options
 ---
-
 
 # KD Progression Options
 
@@ -15,4 +17,4 @@ With enough time/XP would probably do both anyway. Leaning towards Droid Tech *f
 
 Droid Tech would still provide some combat advantages, and there are still a few talents to pickup in Gadgeteer I could grab to boost that too. 
 
-![[Attachments/KD Prog.pdf]]
+![[KD Prog.pdf]]

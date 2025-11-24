@@ -1,7 +1,12 @@
 ---
-{"publish":true,"aliases":"","title":"Tshirt Ideas","created":"2021-09-20 13:22:25","cssclasses":""}
+tags: []
+aliases: []
+created: 2021-09-20 13:22:25
+draft: false
+modified: 2025-07-21 21:50:37
+publish: true
+title: Tshirt Ideas
 ---
-
 
 # Tshirt Ideas
 
@@ -9,7 +14,7 @@ Elephant/element series?
 
  - The elephant of surprise
  - The elephant of suspense
- - the elephant(s) of [[trunk and white?) [[[The Elements of Style - Wikipedia](https://en.wikipedia.org/wiki/The_Elements_of_Style\|[style]]]]
+ - the elephant(s) of [[trunk and white?) [[[The Elements of Style - Wikipedia](https://en.wikipedia.org/wiki/The_Elements_of_Style|[style]]]]
  - The elephant(s) of design
  - elephant of truth (judge dredd?)
  - elephantary my dear (deer?) Watson 

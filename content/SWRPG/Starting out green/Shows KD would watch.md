@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"Shows KD Would Watch","created":"2025-10-11 08:06:24","cssclasses":""}
+created: 2025-10-11 08:06:24
+modified: 2025-10-14 03:11:18
+publish: true
+title: Shows KD Would Watch
 ---
-
 
 # Shows KD Would Watch
 
