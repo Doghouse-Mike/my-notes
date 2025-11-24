@@ -1,20 +1,13 @@
 ---
-tags: []
-aliases: []
-created: 2024-01-14 17:58:36
-date created: 2024-01-14 17:58:36
-date modified: 2025-07-10 19:37:12
-draft: false
-modified: 2025-11-23 19:55:26
-publish: true
-share_link: false
-title: Quotes to Use in Swrpg
+{"publish":true,"aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","cssclasses":""}
 ---
+
 
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - So little time, so many crimes
+- I'm sorry, did I start that sentence with "if it pleases your highness"?
 - The next I time get optimistic about something, I want one of you to punch me in the face. Not really, because that would end badly
 - You're gonna reap the actions of those consequences 
 - I don't know, I didn't program me!

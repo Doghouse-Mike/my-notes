@@ -1,11 +1,7 @@
 ---
-created: 2025-05-31 18:00:05
-date created: Saturday, May 31st 2025, 6:00:05 pm
-date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: 2025-07-21 21:50:39
-publish: true
-title: Notes on New Swrpg Character Ideas
+{"publish":true,"title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","cssclasses":""}
 ---
+
 
 # Notes on New Swrpg Character Ideas
 
