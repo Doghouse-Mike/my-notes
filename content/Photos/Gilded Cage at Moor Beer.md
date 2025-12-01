@@ -5,48 +5,55 @@ created: 2025-04-01 17:12:14
 date created: Sunday, March 9th 2025, 9:00:22 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-08-17 17:32:28
+modified: 2025-12-01 08:26:16
 publish: true
 title: Gilded Cage at Moor Beer
-url: https://doghouse-mike.micro.blog/gilded-cage-at-moor-beer/
 ---
 
 # Gilded Cage at Moor Beer
 
-![](https://i.imgur.com/ZVnageW.jpeg)
+![[IMG_1199%202%20Edited 3 Edited.jpg]]
 
-![](https://i.imgur.com/BGKspil.jpeg)
+![[R0035930%202%20Edited 8 Edited.jpg]]
 
-![](https://i.imgur.com/35pGHej.jpeg)
+![[R0035931%203%20Edited 7 Edited.jpg]]
 
-![](https://i.imgur.com/Nt2vFBG.jpeg)
+![[R0035932%204%20Edited 9 Edited.jpg]]
 
-![](https://i.imgur.com/QBHCaoW.jpeg)
+![[R0035939%205%20Edited 10 Edited.jpg]]
 
-![](https://i.imgur.com/rv5qYA5.jpeg)
+![[R0035955%208%20Edited 13 Edited.jpg]]
 
-![](https://i.imgur.com/cVae3yU.jpeg)
+![[R0035957%209%20Edited 14 Edited.jpg]]
 
-![](https://i.imgur.com/J9oKsPH.jpeg)
+![[R0035959%2010%20Edited 15 Edited.jpg]]
 
-![](https://i.imgur.com/q00b0Wy.jpeg)
+![[R0035961%2011%20Edited 16 Edited.jpg]]
 
-![](https://i.imgur.com/nlmFQHI.jpeg)
+![[R0035964%2012%20Edited 17 Edited.jpg]]
 
-![](https://i.imgur.com/tUSs4y9.jpeg)
+![[R0035965%2013%20Edited 18 Edited.jpg]]
 
-![](https://i.imgur.com/mjPkDLQ.jpeg)
+![[R0035969%2014%20Edited 19 Edited.jpg]]
 
-![](https://i.imgur.com/JNVMwmR.jpeg)
+![[R0035979%2015%20Edited 21 Edited.jpg]]
 
-![](https://i.imgur.com/RPELBhq.jpeg)
+![[R0035980%2016%20Edited 20 Edited.jpg]]
 
-![](https://i.imgur.com/WWv7iKt.jpeg)
+![[R0035982%2018%20Edited 22 Edited.jpg]]
 
-![](https://i.imgur.com/3c7POCU.jpeg)
+![[R0035984%2017%20Edited 23 Edited.jpg]]
 
-![](https://i.imgur.com/OjwwxWi.jpeg)
+![[R0035985%2019%20Edited 24 Edited.jpg]]
 
-![](https://i.imgur.com/vt4KBGu.jpeg)
+![[R0035991%2020%20Edited 25 Edited.jpg]]
 
-![](https://i.imgur.com/yUWWumk.jpeg)
+![[R0035995%2021%20Edited 26 Edited.jpg]]
+
+![[R0035996%2022%20Edited 27 Edited.jpg]]
+
+![[R0036003%2023%20Edited 28 Edited.jpg]]
+
+![[R0036004%2024%20Edited 29 Edited.jpg]]
+
+![[R0036016%2025%20Edited 30 Edited.jpg]]

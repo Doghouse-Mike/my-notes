@@ -5,7 +5,7 @@ created: 2025-04-01 17:12:14
 date created: Saturday, March 26th 2022, 9:44:42 am
 date modified: Tuesday, April 22nd 2025, 4:28:02 pm
 draft: false
-modified: 2025-07-17 21:42:46
+modified: 2025-12-01 08:29:16
 publish: true
 title: Misc
 url: https://doghouse-mike.micro.blog/misc/
@@ -13,13 +13,9 @@ url: https://doghouse-mike.micro.blog/misc/
 
 # Misc
 
-![](https://i.imgur.com/f1SP1i9.jpeg)
+![[faperture logo.jpg]]
 
 ![](https://i.imgur.com/RbHDUd3.png)
-
-![](https://i.imgur.com/SLpvoU1.jpeg)
-
-![](https://i.imgur.com/QD8GWJ3.jpeg)
 
 ![[IMG_5386.jpg]]
 
@@ -44,3 +40,5 @@ url: https://doghouse-mike.micro.blog/misc/
  ![[Tax eat.jpg]]
 
 ![[Supertrain shirt.jpg]]
+
+![[KST-100 a 1.jpg]]
