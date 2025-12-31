@@ -1,9 +1,7 @@
 ---
-created: 2025-09-19 19:55:39
-modified: 2025-09-19 20:22:02
-publish: true
-title: Ship Name Ideas
+{"publish":true,"title":"Ship Name Ideas","created":"2025-09-19 19:55:39","cssclasses":""}
 ---
+
 
 # Ship Name Ideas
 

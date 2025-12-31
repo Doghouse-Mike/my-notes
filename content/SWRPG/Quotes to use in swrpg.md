@@ -3,12 +3,17 @@
 ---
 
 
+
+
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - So little time, so many crimes
 - Stop trying to hit me, and hit me!
 - I do not see coincidence, I see providence 
+- Plans are hard. Chaos though, chaos is easy
+- Leaves of cabbage? Is that what’s in your head? Five wilted leaves of cabbage?
+- Empathy is like mud, you’ll lose your boots in that shit
 - If I were you, I would hope that we don't meet again 
 - Tomorrow we may all be dead, but how is that different from any other day?
 - I'm the best there is at what I do, but what I do best isn't very nice
