@@ -1,12 +1,7 @@
 ---
-tags: [rip, music]
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-30 23:02:53
-publish: true
-title: "Without People You're Nothing"
+{"publish":true,"aliases":"","title":"Without People You're Nothing","created":"2025-03-24 12:57:20","tags":["rip","music"],"cssclasses":""}
 ---
+
 
 # Without People You're Nothing
 

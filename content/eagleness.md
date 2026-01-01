@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-03 23:21:52
-publish: true
-title: Eagleness
+{"publish":true,"aliases":"","title":"Eagleness","created":"2025-03-24 12:57:20","cssclasses":""}
 ---
+
 
 # Eagleness
 
