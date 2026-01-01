@@ -17,7 +17,7 @@
 - I'm the best there is at what I do, but what I do best isn't very nice
 - Caca. It means doodoo
 - I'm sorry, did I start that sentence with "if it pleases your highness"?
-- The next time get optimistic about something, I want one of you to punch me in the face. Not really, because that would end badly
+- The next time I get optimistic about something, I want one of you to punch me in the face. Not really, because that would end badly
 - You're gonna reap the actions of those consequences
 - I don't know, I didn't program me!
 - If I had a digestive system, I'd empty it now
