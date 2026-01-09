@@ -42,7 +42,7 @@ We are all learning how ship combat works *together*.
 > Reminder The Alexandrian has a nifty [quick reference guide](https://www.thealexandrian.net/creations/misc/star-wars-force-and-destiny-cheat-sheet.pdf) and today we have been making extensive use of the "Starship Actions" bit:
 > ![[Attachments/Pasted image 20251216215945.png]]
 
-Rimer gets local comms between us and them, convinces them to surrender "we've taken out your drives and escort, we own your comms there's nowhere to run"
+Rimer gets local comms between us and them, convinces them to surrender "we've taken out your drives and escort, we own your comms, there's nowhere to run"
 
 We board the ship. No resistance. Willie gets into the ship computer, no droids aboard, all stun weapons. Gets a crew/prisoner manifest, crew/prisoners all accounted for. 
 
