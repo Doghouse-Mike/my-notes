@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Neovim in Obsidian","created":"2025-06-30 21:52:24","cssclasses":""}
+publish: true
+title: Neovim in Obsidian
+created: 2025-06-30 21:52:24
+cssclasses: ""
 ---
 
 

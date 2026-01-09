@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"SWRPG Starter Ship Decision","created":"2023-11-14 06:21:33","cssclasses":""}
+publish: true
+aliases: ""
+title: SWRPG Starter Ship Decision
+created: 2023-11-14 06:21:33
+cssclasses: ""
 ---
 
 

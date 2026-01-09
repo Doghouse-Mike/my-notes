@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Welcome Aboard!","created":"2022-03-29 12:20:31","cssclasses":""}
+publish: true
+aliases: ""
+title: Welcome Aboard!
+created: 2022-03-29 12:20:31
+cssclasses: ""
 ---
 
 

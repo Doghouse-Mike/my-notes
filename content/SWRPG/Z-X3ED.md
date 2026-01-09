@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Z-X3ED","created":"2023-02-21 06:30:00","cssclasses":""}
+publish: true
+aliases: ""
+title: Z-X3ED
+created: 2023-02-21 06:30:00
+cssclasses: ""
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"How To Spot Arial","created":"2025-12-17 00:09:38","cssclasses":""}
+publish: true
+title: How To Spot Arial
+created: 2025-12-17 00:09:38
+cssclasses: ""
 ---
 
 

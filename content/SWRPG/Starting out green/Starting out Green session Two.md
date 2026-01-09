@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Starting out Green Session Two","created":"2025-06-27 20:45:45","cssclasses":""}
+publish: true
+title: Starting out Green Session Two
+created: 2025-06-27 20:45:45
+cssclasses: ""
 ---
 
 

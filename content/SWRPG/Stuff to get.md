@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Stuff to Get","created":"2024-05-27 23:58:27","cssclasses":""}
+publish: true
+aliases: ""
+title: Stuff to Get
+created: 2024-05-27 23:58:27
+cssclasses: ""
 ---
 
 

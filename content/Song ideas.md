@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Song Ideas","created":"2014-04-23 15:51:25","cssclasses":""}
+publish: true
+aliases: ""
+title: Song Ideas
+created: 2014-04-23 15:51:25
+cssclasses: ""
 ---
 
 

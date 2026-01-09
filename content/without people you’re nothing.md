@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Without People You're Nothing","created":"2025-03-24 12:57:20","tags":["rip","music"],"cssclasses":""}
+publish: true
+aliases: ""
+title: Without People You're Nothing
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
 
 

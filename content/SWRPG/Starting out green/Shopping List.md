@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Shoppings List","created":"2025-07-04 21:00:49","cssclasses":""}
+publish: true
+title: Shoppings List
+created: 2025-07-04 21:00:49
+cssclasses: ""
 ---
 
 

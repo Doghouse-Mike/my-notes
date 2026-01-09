@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"KD-40N","created":"2025-06-02 20:48:24","cssclasses":""}
+publish: true
+title: KD-40N
+created: 2025-06-02 20:48:24
+cssclasses: ""
 ---
 
 

@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Elegy Vs Eulogy","created":"2025-04-01 15:01:08","cssclasses":""}
+publish: true
+aliases: ""
+title: Elegy Vs Eulogy
+created: 2025-04-01 15:01:08
+cssclasses: ""
 ---
 
 

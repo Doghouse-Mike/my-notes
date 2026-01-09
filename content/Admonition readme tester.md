@@ -1,5 +1,10 @@
 ---
-{"publish":true,"aliases":"","title":"Admonition Readme Tester","draft":true,"created":"2023-04-23 21:21:43","cssclasses":""}
+publish: true
+aliases: ""
+title: Admonition Readme Tester
+draft: true
+created: 2023-04-23 21:21:43
+cssclasses: ""
 ---
 
 

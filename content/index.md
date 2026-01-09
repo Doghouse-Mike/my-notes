@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Site Home","created":"2025-03-19 15:49:20","cssclasses":""}
+publish: true
+title: Site Home
+created: 2025-03-19 15:49:20
+cssclasses: ""
 ---
 
 

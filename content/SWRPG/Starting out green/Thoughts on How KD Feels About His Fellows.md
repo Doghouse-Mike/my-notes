@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Thoughts on How KD Feels About His Fellows","created":"2025-10-07 17:48:18","cssclasses":""}
+publish: true
+title: Thoughts on How KD Feels About His Fellows
+created: 2025-10-07 17:48:18
+cssclasses: ""
 ---
 
 

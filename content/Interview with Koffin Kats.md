@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Interview With Koffin Kats","created":"2025-04-11 07:52:09","cssclasses":""}
+publish: true
+aliases: ""
+title: Interview With Koffin Kats
+created: 2025-04-11 07:52:09
+cssclasses: ""
 ---
 
 

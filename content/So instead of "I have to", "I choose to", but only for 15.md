@@ -1,5 +1,10 @@
 ---
-{"publish":true,"aliases":"","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","cssclasses":""}
+publish: true
+aliases: ""
+title: On Instead of "I Have to", "I Choose to"
+draft: true
+created: 2025-04-01 17:12:14
+cssclasses: ""
 ---
 
 

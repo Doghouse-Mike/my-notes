@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Die, Diddily Die, My Darling","created":"2017-12-05 20:33:02","cssclasses":""}
+publish: true
+aliases: ""
+title: Die, Diddily Die, My Darling
+created: 2017-12-05 20:33:02
+cssclasses: ""
 ---
 
 

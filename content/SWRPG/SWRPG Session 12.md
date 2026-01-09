@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"SWRPG Session 12","created":"2025-11-19 19:07:06","cssclasses":""}
+publish: true
+title: SWRPG Session 12
+created: 2025-11-19 19:07:06
+cssclasses: ""
 ---
 
 

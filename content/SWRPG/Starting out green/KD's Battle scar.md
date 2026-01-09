@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"KD's Battle Scar","created":"2025-08-14 20:19:03","cssclasses":""}
+publish: true
+title: KD's Battle Scar
+created: 2025-08-14 20:19:03
+cssclasses: ""
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"My Role at Secret Sales","created":"2025-11-03 07:15:12","cssclasses":""}
+publish: true
+title: My Role at Secret Sales
+created: 2025-11-03 07:15:12
+cssclasses: ""
 ---
 
 

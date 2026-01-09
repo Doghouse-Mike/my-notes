@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"The Year of \"Out\"","created":"2025-12-25 13:17:42","cssclasses":""}
+publish: true
+title: The Year of "Out"
+created: 2025-12-25 13:17:42
+cssclasses: ""
 ---
 
 

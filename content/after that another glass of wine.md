@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"After that Another Glass of Wine","created":"2025-04-01 17:12:14","tags":["kids","music"],"cssclasses":""}
+publish: true
+aliases: ""
+title: After that Another Glass of Wine
+created: 2025-04-01 17:12:14
+cssclasses: ""
 ---
 
 

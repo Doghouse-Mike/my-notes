@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"iPad Setup Feb 2023","created":"2025-03-24 12:57:20","cssclasses":""}
+publish: true
+aliases: ""
+title: iPad Setup Feb 2023
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
 
 

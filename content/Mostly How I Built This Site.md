@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Mostly How I Built This Site","created":"2025-07-21 21:34:35","cssclasses":""}
+publish: true
+title: Mostly How I Built This Site
+created: 2025-07-21 21:34:35
+cssclasses: ""
 ---
 
 

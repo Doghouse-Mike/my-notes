@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"SWRPG Session 8","created":"2024-03-07 19:44:21","cssclasses":""}
+publish: true
+aliases: ""
+title: SWRPG Session 8
+created: 2024-03-07 19:44:21
+cssclasses: ""
 ---
 
 

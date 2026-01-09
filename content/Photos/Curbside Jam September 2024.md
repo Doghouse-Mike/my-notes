@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"","title":"Curbside Jam September 2024","created":"2025-04-01 17:12:14","tags":["BMX","photos"],"cssclasses":""}
+publish: true
+aliases: ""
+title: Curbside Jam September 2024
+created: 2025-04-01 17:12:14
+tags:
+  - BMX
+  - photos
+cssclasses: ""
 ---
 
 

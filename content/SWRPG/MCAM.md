@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Memory Cores And Motivators","draft":true,"created":"2025-05-31 23:43:07","cssclasses":""}
+publish: true
+title: Memory Cores And Motivators
+draft: true
+created: 2025-05-31 23:43:07
+cssclasses: ""
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Character Creation Ideas (for Future reference)","created":"2025-07-06 18:57:05","cssclasses":""}
+publish: true
+title: Character Creation Ideas (for Future reference)
+created: 2025-07-06 18:57:05
+cssclasses: ""
 ---
 
 

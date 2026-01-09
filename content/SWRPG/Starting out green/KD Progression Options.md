@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"KD Progression Options","created":"2025-11-03 08:25:35","cssclasses":""}
+publish: true
+title: KD Progression Options
+created: 2025-11-03 08:25:35
+cssclasses: ""
 ---
 
 

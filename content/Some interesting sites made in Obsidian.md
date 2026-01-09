@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Some Interesting Sites Made in Obsidian","created":"2023-04-25 16:51:21","cssclasses":""}
+publish: true
+aliases: ""
+title: Some Interesting Sites Made in Obsidian
+created: 2023-04-25 16:51:21
+cssclasses: ""
 ---
 
 

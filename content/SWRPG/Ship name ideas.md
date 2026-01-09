@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Ship Name Ideas","created":"2025-09-19 19:55:39","cssclasses":""}
+publish: true
+title: Ship Name Ideas
+created: 2025-09-19 19:55:39
+cssclasses: ""
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Starting Out Green 20251031","created":"2025-10-31 20:04:40","cssclasses":""}
+publish: true
+title: Starting Out Green 20251031
+created: 2025-10-31 20:04:40
+cssclasses: ""
 ---
 
 

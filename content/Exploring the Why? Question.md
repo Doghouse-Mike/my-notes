@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Exploring the Why? Question","created":"2025-03-24 12:57:20","cssclasses":""}
+publish: true
+aliases: ""
+title: Exploring the Why? Question
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
 
 

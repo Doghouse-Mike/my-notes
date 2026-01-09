@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":"","title":"Session 10","created":"2024-05-23 21:01:52","cssclasses":""}
+publish: true
+aliases: ""
+title: Session 10
+created: 2024-05-23 21:01:52
+cssclasses: ""
 ---
 
 

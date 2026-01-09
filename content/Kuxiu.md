@@ -1,5 +1,8 @@
 ---
-{"publish":true,"title":"Kuxiu M30 Ipad Charger","created":"2025-08-14 09:58:51","cssclasses":""}
+publish: true
+title: Kuxiu M30 Ipad Charger
+created: 2025-08-14 09:58:51
+cssclasses: ""
 ---
 
 
