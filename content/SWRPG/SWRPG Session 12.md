@@ -1,6 +1,7 @@
 ---
 created: 2025-11-19 19:07:06
-modified: 2025-11-22 19:52:32
+modified: 2025-12-16 21:54:43
+publish: true
 title: SWRPG Session 12
 ---
 
@@ -107,3 +108,15 @@ Deebo's message contained info about fuel for the deathstar's weapon. Had a rene
 Reminder that Ed *also* has these plans encoded in his brain box. 
 
 Overnighting in the hospital for safety. 
+
+## Splat's Write Up:
+
+The group have reached the treatment center, delivered the much needed supplies, and passed on the stolen plans held within Deebo.
+
+Upon arriving at the makeshift base, they discovered that Routh Skivta, the woman that appeared to perish in space above Brentaal IV, is on the mend and currently undergoing a bacta tank treatment.
+
+Bad news arrived in the revelation that a deadly virus is loose in the sector, a virus that mutates based on the species of the host and has thus far proved fatal to those infected.
+
+Death is not the end for those who suffer; as darkness falls, the dead rise, and the streets become unsafe.
+
+Can the group solve the problem and restore access to the sector?

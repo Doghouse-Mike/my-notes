@@ -1,5 +1,5 @@
 ---
-tags: [kids, music]
+tags:
 aliases: []
 created: 2025-04-01 17:12:14
 draft: false

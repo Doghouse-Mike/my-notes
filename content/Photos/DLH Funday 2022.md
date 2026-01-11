@@ -4,7 +4,7 @@ created: 2025-04-01 17:12:14
 date created: Thursday, March 27th 2025, 8:17:14 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-09-03 08:14:26
+modified: 2025-12-07 16:26:44
 publish: true
 title: DLH Funday 2022
 ---
@@ -12,8 +12,6 @@ title: DLH Funday 2022
 # DLH Funday 2022
 
 ![[Pasted image 20250903081348.jpg]]
-
-![[Pasted image 20250903081348 1.jpg]]
 
 ![[Pasted image 20250903081349.jpg]]
 
@@ -70,8 +68,6 @@ title: DLH Funday 2022
 ![[Pasted image 20250903081352 3.jpg]]
 
 ![[Pasted image 20250903081352 4.jpg]]
-
-![[Pasted image 20250903081352 5.jpg]]
 
 ![[Pasted image 20250903081352 6.jpg]]
 

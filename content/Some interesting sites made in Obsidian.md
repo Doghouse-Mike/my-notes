@@ -3,7 +3,7 @@ tags: []
 aliases: []
 created: 2023-04-25 16:51:21
 draft: false
-modified: 2025-10-11 08:06:24
+modified: 2026-01-07 08:16:25
 publish: true
 title: Some Interesting Sites Made in Obsidian
 ---
@@ -38,3 +38,5 @@ https://bryanhogan.com/blog/obsidian-website
 - https://github.com/quartz-community/awesome-quartz
 - [https://blog.shuvangkardas.com](https://blog.shuvangkardas.com/)
 - [Bayesian Persuasion](https://bayesianpersuasion.com/)
+- [Kepano]([https://stephango.com](https://stephango.com/)) Yea, the Obsidian CEO. 
+- I especially enjoy Kepano's, as they're actually doing actual work. A lot of "content" around Obsidian seems more about how you can use Obsidian to use Obsidian, rather than by people with relatively jobby jobs.

@@ -3,12 +3,14 @@ tags: []
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-21 21:50:12
+modified: 2025-12-25 14:07:04
 publish: true
 title: Theme
 ---
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
+
+> see also [[Theme for 2026]]
 
 I've created a version of the Journal itself as a Template for my Daily Notes within Obsidian, which looks a little something like this:
 

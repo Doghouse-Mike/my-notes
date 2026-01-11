@@ -5,7 +5,7 @@ created: 2024-01-14 17:58:36
 date created: 2024-01-14 17:58:36
 date modified: 2025-07-10 19:37:12
 draft: false
-modified: 2025-11-23 19:55:26
+modified: 2026-01-30 18:46:38
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -15,10 +15,19 @@ title: Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - So little time, so many crimes
-- The next I time get optimistic about something, I want one of you to punch me in the face. Not really, because that would end badly
-- You're gonna reap the actions of those consequences 
-- I don't know, I didn't program me!
+- Stop trying to hit me, and hit me!
+- I do not see coincidence, I see providence 
+- Plans are hard. Chaos though, chaos is easy
+- Leaves of cabbage? Is that what's in your head? Five wilted leaves of cabbage?
+- Empathy is like mud, you'll lose your boots in that shit
+- If I were you, I would hope that we don't meet again 
+- Tomorrow we may all be dead, but how is that different from any other day?
 - I'm the best there is at what I do, but what I do best isn't very nice
+- Caca. It means doodoo
+- I'm sorry, did I start that sentence with "if it pleases your highness"?
+- The next time I get optimistic about something, I want one of you to punch me in the face. Not really, because that would end badly
+- You're gonna reap the actions of those consequences
+- I don't know, I didn't program me!
 - If I had a digestive system, I'd empty it now
 - Young humans can be impulsive. The trick is keeping them around long enough to become old humans
 - Shall we just fling ourselves at each other and see whose parts give out first?

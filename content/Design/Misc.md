@@ -5,7 +5,7 @@ created: 2025-04-01 17:12:14
 date created: Saturday, March 26th 2022, 9:44:42 am
 date modified: Tuesday, April 22nd 2025, 4:28:02 pm
 draft: false
-modified: 2025-12-01 08:29:16
+modified: 2025-11-24 22:58:37
 publish: true
 title: Misc
 url: https://doghouse-mike.micro.blog/misc/
@@ -13,32 +13,28 @@ url: https://doghouse-mike.micro.blog/misc/
 
 # Misc
 
-![[faperture logo.jpg]]
+![[Pasted image 20251124225500.jpg]]
 
-![](https://i.imgur.com/RbHDUd3.png)
+![[Pasted image 20251124225500 1.jpg]]
 
-![[IMG_5386.jpg]]
+![[Pasted image 20251124225500 2.jpg]]
 
-![[IMG_5784.jpg]]
+![[Pasted image 20251124225500 3.jpg]]
 
-![[ir-logo-hr2.jpg]]
+![[Pasted image 20251124225500 4.jpg]]
 
-![[mando.jpg]]
+![[Pasted image 20251124225500 5.jpg]]
 
-![[Milkshake.jpg.jpg]]
+![[Pasted image 20251124225500 6.jpg]]
 
-![[moorfits4.jpg]]
+![[Pasted image 20251124225500 7.jpg]]
 
-![[Open mic poster sep.jpg]]
+![[Pasted image 20251124225500 8.jpg]]
 
-![[Open mic v2.jpg]]
+![[Pasted image 20251124225500 9.jpg]]
 
-![[SSC2.jpg]]
+![[Pasted image 20251124225500 10.jpg]]
 
-![[SSC3.jpeg]]
+![[Pasted image 20251124225500 11.jpg]]
 
- ![[Tax eat.jpg]]
-
-![[Supertrain shirt.jpg]]
-
-![[KST-100 a 1.jpg]]
+![[Pasted image 20251124225500 12.jpg]]

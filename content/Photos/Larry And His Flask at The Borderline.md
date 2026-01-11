@@ -5,7 +5,7 @@ created: 2025-04-01 17:12:14
 date created: Tuesday, April 12th 2022, 11:11:00 am
 date modified: Tuesday, April 22nd 2025, 4:27:40 pm
 draft: false
-modified: 2025-12-01 07:54:50
+modified: 2025-12-07 16:33:08
 publish: true
 title: Larry And His Flask at The Borderline
 url: https://doghouse-mike.micro.blog/larry-and-his-flask-at/
@@ -26,22 +26,6 @@ url: https://doghouse-mike.micro.blog/larry-and-his-flask-at/
 ![[IMG_2657.jpg]]
 
 ![[IMG_2658.jpg]]
-
-![[R001E4869 1 Edited.jpg]]
-
-![[R001E4888 2 Edited.jpg]]
-
-![[R001E4891 3 Edited.jpg]]
-
-![[R001E4892 4 Edited.jpg]]
-
-![[R001E4894 5 Edited.jpg]]
-
-![[R001E4897 6 Edited.jpg]]
-
-![[R001E4900 7 Edited.jpg]]
-
-![[R001E4906 8 Edited.jpg]]
 
 ![[R001E4910 9 Edited.jpg]]
 
