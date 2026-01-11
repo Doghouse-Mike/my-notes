@@ -7,9 +7,12 @@ date modified: 2025-07-10 19:37:12
 draft: false
 modified: 2026-01-30 18:46:38
 publish: true
-share_link: false
+aliases: ""
 title: Quotes to Use in Swrpg
+created: 2024-01-14 17:58:36
+cssclasses: ""
 ---
+
 
 # Quotes to Use in Swrpg
 

@@ -1,12 +1,11 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-21 21:50:32
 publish: true
+aliases: ""
 title: Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
+
 
 # Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
 

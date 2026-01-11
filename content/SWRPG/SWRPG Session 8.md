@@ -1,14 +1,11 @@
 ---
-tags: []
-aliases: []
-created: 2024-03-07 19:44:21
-date created: Thursday, March 7th 2024, 7:44:21 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-17 21:43:03
 publish: true
+aliases: ""
 title: SWRPG Session 8
+created: 2024-03-07 19:44:21
+cssclasses: ""
 ---
+
 
 # SWRPG Session 8
 

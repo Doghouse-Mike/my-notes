@@ -7,9 +7,12 @@ date modified: Tuesday, April 22nd 2025, 4:28:02 pm
 draft: false
 modified: 2025-11-24 22:51:19
 publish: true
+aliases: ""
 title: Angus
-url: https://doghouse-mike.micro.blog/angus/
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
+
 
 # Angus
 

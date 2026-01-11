@@ -1,9 +1,10 @@
 ---
-created: 2025-10-24 08:25:59
-modified: 2025-10-24 09:15:23
 publish: true
 title: Untitled Heist Idea
+created: 2025-10-24 08:25:59
+cssclasses: ""
 ---
+
 
 # Untitled Heist Idea
 
@@ -23,7 +24,7 @@ We can get around the eyes/voice with some goggles and a mask/rebreather, ala th
 
 ## The Rest
 
-KD has been surreptitiously watching some shows, see [[Shows KD would watch]]
+KD has been surreptitiously watching some shows, see [[SWRPG/Starting out green/Shows KD would watch]]
 
 KD's role will be as a prince. For extra in joke/4th wall points, he is the prince of Wombatia, a planet in the Da'nundar system. Southern end of the outer rim or something. Their atmosphere is heavy with Tibanna gas, hence the rebreather. This also means he has an excuse to carry a big ol canister of the stuff, which could be used to smuggle in extra equipment, and could explain why it's setting off weapon scans. Or it could just be a bomb. Wake up, Samurai. 
 

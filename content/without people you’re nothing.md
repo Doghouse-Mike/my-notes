@@ -8,6 +8,7 @@ publish: true
 title: Without People You're Nothing
 ---
 
+
 # Without People You're Nothing
 
 I know it's not one of [his](http://en.m.wikipedia.org/wiki/Joe_Strummer) but this is the version that we know in our house, and the kids singing along to it the other day damn near brought a tear to my eye. Seeya on the other side, Joe

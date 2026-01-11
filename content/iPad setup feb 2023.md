@@ -1,12 +1,11 @@
 ---
-tags: []
-aliases: []
-created: 2025-03-24 12:57:20
-draft: false
-modified: 2025-07-21 21:50:37
 publish: true
+aliases: ""
 title: iPad Setup Feb 2023
+created: 2025-03-24 12:57:20
+cssclasses: ""
 ---
+
 
 # iPad Setup Feb 2023
 

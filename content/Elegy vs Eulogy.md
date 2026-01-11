@@ -1,12 +1,11 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-01 15:01:08
-draft: false
-modified: 2025-07-17 21:43:02
 publish: true
+aliases: ""
 title: Elegy Vs Eulogy
+created: 2025-04-01 15:01:08
+cssclasses: ""
 ---
+
 
 # Elegy Vs Eulogy
 
