@@ -1,6 +1,7 @@
 ---
 created: 2025-12-09 21:54:16
-modified: 2025-12-09 22:45:56
+modified: 2026-01-16 17:59:18
+publish: true
 title: Free Course Notes
 ---
 
