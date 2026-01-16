@@ -1,10 +1,10 @@
 ---
-publish: true
-title: Merlin's Wisdom Project
 created: 2025-05-08 10:13:28
-cssclasses: ""
+draft: false
+modified: 2025-07-21 21:50:13
+publish: true
+title: "Merlin's Wisdom Project"
 ---
-
 
 ---
 

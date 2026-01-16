@@ -1,12 +1,11 @@
 ---
+created: 2025-06-27 20:45:45
+modified: 2026-01-16 16:08:55
 publish: true
 title: Starting out Green Session Two
-created: 2025-06-27 20:45:45
-cssclasses: ""
 ---
 
-
-Following on from [[SWRPG/Starting out green/Starting out Green session one]]
+Following on from [[Starting out Green session one]]
 
 # Starting out Green Session Two
 

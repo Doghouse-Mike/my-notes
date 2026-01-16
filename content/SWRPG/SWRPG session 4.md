@@ -1,15 +1,18 @@
 ---
-publish: true
-aliases: ""
-title: SWRPG Session 4
+tags: []
+aliases: []
 created: 2023-09-14 20:21:27
-cssclasses: ""
+date created: Thursday, September 14th 2023, 8:21:27 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-17 21:43:03
+publish: true
+title: SWRPG Session 4
 ---
-
 
 # SWRPG Session 4
 
-[[SWRPG/SWRPG Session 3]]
+[[SWRPG Session 3]]
 
 Upload deebo's recordings to the comms relay at the front. 
 

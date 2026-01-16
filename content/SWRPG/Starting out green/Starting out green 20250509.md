@@ -1,10 +1,9 @@
 ---
+created: 2025-09-05 21:11:30
+modified: 2025-11-17 23:32:16
 publish: true
 title: Starting out Green 20250509
-created: 2025-09-05 21:11:30
-cssclasses: ""
 ---
-
 
 # Starting out Green 20250509
 
@@ -12,13 +11,13 @@ Game notes
 
 Ship decided on was a YT 2100
 
-![[Attachments/Pasted image 20250905211401.png]]
+![[Pasted image 20250905211401.png]]
 
 ![[Pasted image 20250905211736.png]
 
-![[Attachments/Pasted image 20250905211752.png]]
+![[Pasted image 20250905211752.png]]
 
-![[Attachments/Pasted image 20250905211919.png]]
+![[Pasted image 20250905211919.png]]
 
 Things to do potentially this session:
 

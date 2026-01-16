@@ -1,11 +1,14 @@
 ---
-publish: true
-aliases: ""
-title: SWRPG Starter Ship Decision
+tags: []
+aliases: []
 created: 2023-11-14 06:21:33
-cssclasses: ""
+date created: Tuesday, November 14th 2023, 6:21:33 am
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-17 21:43:02
+publish: true
+title: SWRPG Starter Ship Decision
 ---
-
 
 # SWRPG Starter Ship Decision
 
@@ -13,7 +16,7 @@ cssclasses: ""
 
 Kestrel. A bit munchkiny, but basically a slightly better/different version of the common HWK
 
-![[Attachments/KST-100 a.jpg]]
+![[KST-100 a.jpg]]
 
 ## Lancer
 
@@ -49,7 +52,7 @@ https://starwars.fandom.com/wiki/Wayfarer-class_medium_transport?so=search
 
 ![](https://vignette.wikia.nocookie.net/swse/images/e/e0/Wayfarer-Class_Medium_Transport_2.jpg/revision/latest?cb=20180601012314)
 
-![[Attachments/Pasted image 20231114062810 1.png]]
+![[Pasted image 20231114062810 1.png]]
 
 **Hyperdrive:** Primary: Class 2, Backup: Class 14.
 
@@ -74,7 +77,7 @@ https://starwars.fandom.com/wiki/HWK-290_light_freighter?so=search
 
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5953ce0-4094-4796-aec9-790dcd94e846/d90kstc-0571d116-a685-4549-8277-f91692a39561.jpg/v1/fill/w_1024,h_663,q_75,strp/hwk_290_light_freighter_deck_plan_by_edisoncreative_d90kstc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYzIiwicGF0aCI6IlwvZlwvZTU5NTNjZTAtNDA5NC00Nzk2LWFlYzktNzkwZGNkOTRlODQ2XC9kOTBrc3RjLTA1NzFkMTE2LWE2ODUtNDU0OS04Mjc3LWY5MTY5MmEzOTU2MS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.r7qiPvYyUEBBQjhEfieHK6NW9OYPSvTwbmsK3qRysZw)
 
-![[Attachments/Pasted image 20231114063744 1.png]]
+![[Pasted image 20231114063744 1.png]]
 
 **Hyperdrive:** Primary: Class 2, Backup: None.
 
@@ -98,7 +101,7 @@ https://starwars.fandom.com/wiki/Starlight-class_light_freighter
 
 ![](https://i.pinimg.com/originals/96/14/d5/9614d59af0b7596385f1d7d26bdcd0a3.jpg)
 
-![[Attachments/Pasted image 20231114063131 1.png]]
+![[Pasted image 20231114063131 1.png]]
 
 **Hyperdrive:** Primary: Class 2, Backup: Class 15.
 
@@ -124,7 +127,7 @@ https://starwars.fandom.com/wiki/Kazellis-class_light_freighter
 
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94d2e4c5-d3aa-40bc-85f0-53b4202a91bc/dfeap0k-1f1feb4c-ab8e-4867-8e5a-4cee0d0803a7.png/v1/fill/w_1125,h_711,q_70,strp/kazellis_class_light_freighter_by_kairoland_dfeap0k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA5IiwicGF0aCI6IlwvZlwvOTRkMmU0YzUtZDNhYS00MGJjLTg1ZjAtNTNiNDIwMmE5MWJjXC9kZmVhcDBrLTFmMWZlYjRjLWFiOGUtNDg2Ny04ZTVhLTRjZWUwZDA4MDNhNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wyXlKo7od9O_FANF3XnMDKRWmM24UBmE9hRkPG6u1Ak)
 
-![[Attachments/Pasted image 20231114064537 1.png]]
+![[Pasted image 20231114064537 1.png]]
 
 **Hyperdrive:** Primary: Class 2, Backup: Class 12
 
@@ -148,7 +151,7 @@ https://starwars.fandom.com/wiki/GX1_short_hauler
 
 ![](https://i.pinimg.com/originals/d4/99/0b/d4990bcd49829d67081863182b13af18.png)
 
-![[Attachments/Pasted image 20231114064811 1.png]]
+![[Pasted image 20231114064811 1.png]]
 
 **Hyperdrive:** Primary: Class 2, Backup: Class 12.
 

@@ -1,17 +1,20 @@
 ---
-publish: true
-aliases: ""
-title: SWRPG Session 2
+tags: []
+aliases: []
 created: 2023-07-20 19:09:15
-cssclasses: ""
+date created: Thursday, July 20th 2023, 7:09:15 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-06 19:04:19
+publish: true
+title: SWRPG Session 2
 ---
-
 
 # SWRPG Session 2
 
-[[SWRPG/Z-X3ED]]
+[[Z-X3ED]]
 
-[[SWRPG/SWRPG session 1]]
+[[SWRPG session 1]]
 
 Nera got a lightsaber
 

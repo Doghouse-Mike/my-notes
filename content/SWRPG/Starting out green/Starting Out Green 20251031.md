@@ -1,10 +1,9 @@
 ---
+created: 2025-10-31 20:04:40
+modified: 2025-11-01 18:33:08
 publish: true
 title: Starting Out Green 20251031
-created: 2025-10-31 20:04:40
-cssclasses: ""
 ---
-
 
 # Starting Out Green 20251031
 

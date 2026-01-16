@@ -1,10 +1,9 @@
 ---
+created: 2025-10-07 17:48:18
+modified: 2025-10-08 18:36:53
 publish: true
 title: Thoughts on How KD Feels About His Fellows
-created: 2025-10-07 17:48:18
-cssclasses: ""
 ---
-
 
 # Thoughts on How KD Feels About His Fellows
 

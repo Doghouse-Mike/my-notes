@@ -7,12 +7,9 @@ date modified: Tuesday, April 22nd 2025, 4:28:02 pm
 draft: false
 modified: 2025-11-24 22:58:37
 publish: true
-aliases: ""
 title: Misc
-created: 2025-04-01 17:12:14
-cssclasses: ""
+url: https://doghouse-mike.micro.blog/misc/
 ---
-
 
 # Misc
 

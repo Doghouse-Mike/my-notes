@@ -1,10 +1,9 @@
 ---
+created: 2025-07-11 20:45:43
+modified: 2025-07-13 13:30:17
 publish: true
 title: Starting out Green Session Three
-created: 2025-07-11 20:45:43
-cssclasses: ""
 ---
-
 
 # Starting out Green Session Three
 

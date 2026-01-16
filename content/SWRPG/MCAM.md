@@ -1,11 +1,12 @@
 ---
+created: 2025-05-31 23:43:07
+date created: Saturday, May 31st 2025, 11:43:07 pm
+date modified: Monday, June 2nd 2025, 2:36:45 pm
+draft: true
+modified: 2026-01-16 16:08:56
 publish: true
 title: Memory Cores And Motivators
-draft: true
-created: 2025-05-31 23:43:07
-cssclasses: ""
 ---
-
 
 # Memory Cores And Motivators
 

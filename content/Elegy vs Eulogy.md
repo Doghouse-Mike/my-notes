@@ -1,11 +1,12 @@
 ---
-publish: true
-aliases: ""
-title: Elegy Vs Eulogy
+tags: []
+aliases: []
 created: 2025-04-01 15:01:08
-cssclasses: ""
+draft: false
+modified: 2025-07-17 21:43:02
+publish: true
+title: Elegy Vs Eulogy
 ---
-
 
 # Elegy Vs Eulogy
 

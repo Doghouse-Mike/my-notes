@@ -7,12 +7,8 @@ date modified: Saturday, May 31st 2025, 6:00:06 pm
 draft: false
 modified: 2025-12-16 22:07:50
 publish: true
-aliases: ""
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
-created: 2025-04-17 19:13:33
-cssclasses: ""
 ---
-
 
 # Other Types of Characters I Think it Could Be Fun to Play:
 

@@ -1,19 +1,22 @@
 ---
-publish: true
-aliases: ""
-title: SWRPG Session 1
+tags: []
+aliases: []
 created: 2023-07-13 19:47:51
-cssclasses: ""
+date created: Thursday, July 13th 2023, 7:47:51 pm
+date modified: Tuesday, April 22nd 2025, 4:27:35 pm
+draft: false
+modified: 2025-07-21 21:50:39
+publish: true
+title: SWRPG Session 1
 ---
-
 
 # SWRPG Session 1
 
 2023-07-13
 
-[[SWRPG/Z-X3ED]]
+[[Z-X3ED]]
 
-[[SWRPG/SWRPG]]
+[[SWRPG]]
 
 ## How Do We Know Each Other?
 

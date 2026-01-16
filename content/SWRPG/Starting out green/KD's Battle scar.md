@@ -1,10 +1,9 @@
 ---
-publish: true
-title: KD's Battle Scar
 created: 2025-08-14 20:19:03
-cssclasses: ""
+modified: 2025-08-14 20:47:08
+publish: true
+title: "KD's Battle Scar"
 ---
-
 
 # KD's Battle Scar
 

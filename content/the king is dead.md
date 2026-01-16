@@ -1,16 +1,12 @@
 ---
-tags:
+tags: []
 aliases: []
 created: 2025-03-24 12:57:20
 draft: false
-modified: 2025-07-21 21:50:12
+modified: 2026-01-16 16:08:38
 publish: true
-aliases: ""
 title: The King is Dead
-created: 2025-03-24 12:57:20
-cssclasses: ""
 ---
-
 
 # The King is Dead
 

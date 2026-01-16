@@ -1,11 +1,12 @@
 ---
-publish: true
-aliases: ""
-title: Runx Funny Drunk Sayings
+tags: []
+aliases: []
 created: 2025-03-24 12:57:20
-cssclasses: ""
+draft: false
+modified: 2025-07-03 23:22:40
+publish: true
+title: Runx Funny Drunk Sayings
 ---
-
 
 # Runx Funny Drunk Sayings
 

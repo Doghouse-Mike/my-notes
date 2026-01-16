@@ -1,20 +1,22 @@
 ---
+created: 2025-06-02 20:25:32
+date created: Monday, June 2nd 2025, 8:25:32 pm
+date modified: Monday, June 2nd 2025, 10:22:12 pm
+draft: false
+modified: 2025-07-06 19:04:40
 publish: true
 title: Starting out Green
-created: 2025-06-02 20:25:32
-cssclasses: ""
 ---
-
 
 # Starting out Green
 
 ## Beings
 
-![[Attachments/KD.pdf]]
+![[KD.pdf]]
 
-![[Attachments/Sazzil3-21.pdf]]
+![[Sazzil3-21.pdf]]
 
-![[Attachments/Rimer.pdf]]
+![[Rimer.pdf]]
 
 ## Places
 
@@ -116,4 +118,4 @@ cssclasses: ""
 
 ![[The Wheel (SWE05).JPEG]]
 
-[[SWRPG/Starting out green/KD-40N]]
+[[KD-40N]]
