@@ -1,6 +1,6 @@
 ---
 created: 2026-01-09 20:51:14
-modified: 2026-01-11 21:11:46
+modified: 2026-01-23 13:20:17
 publish: true
 title: Starting out Green 20260109
 ---
@@ -27,7 +27,7 @@ Rimer wants to grab some [Repulsor Assist Units](https://star-wars-rpg-ffg.fando
 
 ![[Pasted image 20260111205331.png]]
 
-![[Pasted image 20260111205225.png]]
+![[Pasted image 20260123132005.png]]
 
 Head into town to pick things up. 
 
