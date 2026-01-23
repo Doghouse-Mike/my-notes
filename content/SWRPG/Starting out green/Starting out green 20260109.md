@@ -1,6 +1,6 @@
 ---
 created: 2026-01-09 20:51:14
-modified: 2026-01-23 13:20:17
+modified: 2026-01-23 14:40:46
 publish: true
 title: Starting out Green 20260109
 ---
@@ -9,7 +9,7 @@ title: Starting out Green 20260109
 
 We have taken out the prison ship, and left it scuttled on an asteroid on the outskirts of the system. 
 
-Zarlo's sister has been rescued, but Willie is the only member of the crew that knows this. 
+Zarlo's sister has been rescued, but Willie is the only member of the crew that knows the deets. 
 
 What are we up to next? Dxun? Bottle episode? Something else? Still in space, flying back to whisper base?
 
