@@ -5,7 +5,7 @@ created: 2024-01-14 17:58:36
 date created: 2024-01-14 17:58:36
 date modified: 2025-07-10 19:37:12
 draft: false
-modified: 2026-01-15 22:55:51
+modified: 2026-01-23 17:45:16
 publish: true
 share_link: false
 title: Quotes to Use in Swrpg
@@ -17,6 +17,7 @@ title: Quotes to Use in Swrpg
 - So little time, so many crimes
 - Stop trying to hit me, and hit me!
 - I do not see coincidence, I see providence 
+- Why does Ross, the largest friend, not simply eat the other five?
 - I have a nasty habit of telling the truth
 - Plans are hard. Chaos though, chaos is easy
 - Leaves of cabbage? Is that what's in your head? Five wilted leaves of cabbage?
