@@ -1,6 +1,6 @@
 ---
 created: 2025-12-16 21:43:53
-modified: 2026-01-25 10:30:38
+modified: 2026-01-25 10:35:29
 publish: true
 title: Starting Out Green 20260123
 ---
@@ -187,7 +187,7 @@ One zakkeg is following Willie around as he zooms. Zarlo bring the ship in, not 
 
 Return to Whisper Base!
 
-*No one died.* 
+***No one died.*** 
 
 Gav's pleased to see us but is confused by the box of bits we brought back, agrees it's probably for the best though. 
 

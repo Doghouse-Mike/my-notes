@@ -1,6 +1,6 @@
 ---
 created: 2025-10-11 08:06:24
-modified: 2025-10-14 03:11:18
+modified: 2026-01-25 11:26:44
 publish: true
 title: Shows KD Would Watch
 ---
@@ -15,7 +15,7 @@ Thought he'd love this, but none of the work they do would stand the test of tim
 
 ## Star Track
 
-Is a show about the early days of humans exploring the galaxy. Not historically accurate but some interesting stories, though bordering on human-supremacy propaganda. What would Pichard do in this situation, etc. Maybe replace the Borg with some Ganks. 
+Is a show about the early days of humans exploring the galaxy. Not historically accurate but some interesting stories, though bordering on human-supremacy propaganda. What would Pilchard do in this situation, etc. Maybe replace the Borg with some Ganks. 
 
 ### Misc
 
@@ -23,6 +23,8 @@ Is a show about the early days of humans exploring the galaxy. Not historically 
 - The Hydian Way's Got Talent (spoiler, it does not)
 - The Great Talus Bakeoff - "One kitchen. Two moons. Infinite pastries."
 - Chums
+	- "Why does Ross, the largest friend, not simply eat the other five?"
+	- This could also be a version of [Furends](https://youtu.be/VyxmfWtgvuY?si=UBZM51pMXndm1LXS&t=60), about some [Shistavanen](https://star-wars-rpg-ffg.fandom.com/wiki/Shistavanen) (or similar) living in some classy upper level of Coruscant (or somewhere)
 - The Fresh Prince of Nar Shaddar
 - North Park
 - ISB: Special Victims Unit - "In the Galactic Empire's justice system, some crimes are especially treasonous."
