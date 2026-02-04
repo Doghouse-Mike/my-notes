@@ -1,6 +1,6 @@
 ---
-created: 2025-12-16 21:43:53
-modified: 2026-01-25 10:35:29
+created: 2025-12-23 21:00:53
+modified: 2026-01-25 22:03:54
 publish: true
 title: Starting Out Green 20260123
 ---
@@ -9,7 +9,7 @@ title: Starting Out Green 20260123
 
 No duty triggered, so no extra juice. 
 
-We're near the temple. Zarlo's flying the ship into the canyon to hook up. 
+We're near the temple. Zarlo's flying the ship into the canyon to hook up/evac as needed.
 
 We have coined the phrase "right up the wombat's alley". A meaning has yet to be established, but one will become apparent. 
 

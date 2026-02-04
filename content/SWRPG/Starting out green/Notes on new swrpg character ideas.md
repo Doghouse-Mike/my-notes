@@ -2,14 +2,14 @@
 created: 2025-05-31 18:00:05
 date created: Saturday, May 31st 2025, 6:00:05 pm
 date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: 2026-01-16 16:08:56
+modified: 2026-01-25 21:42:25
 publish: true
 title: Notes on New Swrpg Character Ideas
 ---
 
 # Notes on New Swrpg Character Ideas
 
-If going droid, MC+M will probably needed to get intellect and brawn to a decent point
+If going droid, MC+M will probably be needed to get intellect and brawn to a decent point
 
 ## Other Potential Species:
 
