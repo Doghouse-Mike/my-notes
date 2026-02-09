@@ -1,13 +1,11 @@
 ---
-created: 2026-01-25 11:05:00
-modified: 2026-01-25 11:07:51
-publish: true
-title: "Rimer's Downtime. Part 1"
+{"publish":true,"permalink":"/SWRPG/Starting out green/Rimer's Downtime. Part 1.md","title":"Rimer's Downtime. Part 1","created":"2026-01-25 11:05:00","modified":"2026-01-25 11:07:51","cssclasses":""}
 ---
+
 
 # Rimer's Downtime. Part 1
 
-After the joys of [[Starting Out Green 20260123|combining the artefacts]] last session
+After the joys of [[SWRPG/Starting out green/Starting Out Green 20260123\|combining the artefacts]] last session
 
 Relief.
 

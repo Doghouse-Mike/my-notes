@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2024-05-27 23:58:27
-date created: Monday, May 27th 2024, 11:58:27 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-21 21:50:39
-publish: true
-title: Stuff to Get
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Stuff to get.md","aliases":"","title":"Stuff to Get","created":"2024-05-27 23:58:27","modified":"2025-07-21 21:50:39","cssclasses":""}
 ---
+
 
 # Stuff to Get
 

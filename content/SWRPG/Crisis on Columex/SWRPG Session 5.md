@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2023-10-26 20:54:09
-date created: Thursday, October 26th 2023, 8:54:09 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-06 19:04:25
-publish: true
-title: SWRPG Session 5
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Session 5.md","aliases":"","title":"SWRPG Session 5","created":"2023-10-26 20:54:09","modified":"2025-07-06 19:04:25","cssclasses":""}
 ---
+
 
 # SWRPG Session 5
 

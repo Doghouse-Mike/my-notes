@@ -1,9 +1,7 @@
 ---
-created: 2025-10-17 21:02:02
-modified: 2025-10-19 20:42:13
-publish: true
-title: Starting out Green 20251017
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20251017.md","title":"Starting out Green 20251017","created":"2025-10-17 21:02:02","modified":"2025-10-19 20:42:13","cssclasses":""}
 ---
+
 
 # Starting out Green 20251017
 

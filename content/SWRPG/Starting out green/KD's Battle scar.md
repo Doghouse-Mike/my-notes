@@ -1,9 +1,7 @@
 ---
-created: 2025-08-14 20:19:03
-modified: 2025-08-14 20:47:08
-publish: true
-title: "KD's Battle Scar"
+{"publish":true,"permalink":"/SWRPG/Starting out green/KD's Battle scar.md","title":"KD's Battle Scar","created":"2025-08-14 20:19:03","modified":"2025-08-14 20:47:08","cssclasses":""}
 ---
+
 
 # KD's Battle Scar
 

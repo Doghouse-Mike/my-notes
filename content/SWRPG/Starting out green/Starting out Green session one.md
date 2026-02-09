@@ -1,9 +1,7 @@
 ---
-created: 2025-06-13 21:05:37
-modified: 2025-07-06 19:04:38
-publish: true
-title: Starting out Green Session One
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green session one.md","title":"Starting out Green Session One","created":"2025-06-13 21:05:37","modified":"2025-07-06 19:04:38","cssclasses":""}
 ---
+
 
 # Starting out Green Session One
 

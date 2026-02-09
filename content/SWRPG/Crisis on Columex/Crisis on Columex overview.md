@@ -1,9 +1,7 @@
 ---
-created: 2026-01-25 21:47:32
-modified: 2026-02-04 08:32:04
-publish: true
-title: Crisis on Columex Overview
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex overview.md","title":"Crisis on Columex Overview","created":"2026-01-25 21:47:32","modified":"2026-02-04 08:32:04","cssclasses":""}
 ---
+
 
 # Crisis on Columex Overview
 
@@ -332,4 +330,15 @@ Death is not the end for those who suffer; as darkness falls, the dead rise, and
 
 Can the group solve the problem and restore access to the sector?
 
-![[SWRPG Session 12#Splat's Write Up]]
+## Splat's Write Up:
+
+The group have reached the treatment center, delivered the much needed supplies, and passed on the stolen plans held within Deebo.
+
+Upon arriving at the makeshift base, they discovered that Routh Skivta, the woman that appeared to perish in space above Brentaal IV, is on the mend and currently undergoing a bacta tank treatment.
+
+Bad news arrived in the revelation that a deadly virus is loose in the sector, a virus that mutates based on the species of the host and has thus far proved fatal to those infected.
+
+Death is not the end for those who suffer; as darkness falls, the dead rise, and the streets become unsafe.
+
+Can the group solve the problem and restore access to the sector?
+

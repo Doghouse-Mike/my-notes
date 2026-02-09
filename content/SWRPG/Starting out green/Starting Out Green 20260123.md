@@ -1,9 +1,7 @@
 ---
-created: 2025-12-23 21:00:53
-modified: 2026-01-25 22:03:54
-publish: true
-title: Starting Out Green 20260123
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260123.md","title":"Starting Out Green 20260123","created":"2025-12-23 21:00:53","modified":"2026-01-25 22:03:54","cssclasses":""}
 ---
+
 
 # Starting Out Green 20260123
 
@@ -17,7 +15,7 @@ We got 10XP last session. I spent 5 each on a rank in [Grit](https://star-wars-r
 
 > When attempting a [Coercion](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") check, the character may suffer a number of strain to downgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed [their] ranks in Intimidating. When the character is the target of a [Coercion](https://star-wars-rpg-ffg.fandom.com/wiki/Coercion_\(Will\) "Coercion (Will)") check, the character may suffer a number of strain to upgrade the difficulty of the check a number of times equal to the strain suffered. This number cannot exceed [their] ranks in Intimidating.
 
-[[KD Progression Options|Could lead to KD being more useful in social situations]]
+[[SWRPG/Starting out green/KD Progression Options\|Could lead to KD being more useful in social situations]]
 
 Willie fires a rock over towards the entrance to the temple, triggers another stalactite popping up. So the steps are definitely trapped. We're looking for another way in, through some cracks in the wall maybe.
 
@@ -47,7 +45,7 @@ We release a recon drone towards the centre
 
 Massive, black apparition begins to appear. The floor becomes covered in a tar pit, there's a rancor struggling within. KD can't see this. 
 
-![[Pasted image 20260124135701.jpg]]
+![[Attachments/Pasted image 20260124135701.jpg]]
 
 The rancor is wounded, but stuck and in distress. Pit covers the entire chamber floor. It *feels* like we're outdoors. 
 
@@ -117,13 +115,13 @@ Rimer goes for his blaster, but we confiscated them before he grabbed the box. H
 
 Willie starts blasting. 
 
-![[Pasted image 20260125100033.jpg]]
+![[Attachments/Pasted image 20260125100033.jpg]]
 
 Rancor goes down, another clamp released. 
 
 We're getting concerned about Rimer and the box, so wrestle it away from him. He is PISSED. Proper Bilbo face. 
 
-![[Pasted image 20260125100217.jpg]]
+![[Attachments/Pasted image 20260125100217.jpg]]
 
 A village fades in, they're looking for Peter, worried parents etc. Willie tells them he killed Peter, no messing. They are distraught, village fades away, and another clamp lets go.
 
