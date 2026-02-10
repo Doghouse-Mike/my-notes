@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","modified":"2026-02-09 18:17:16","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","modified":"2026-02-10 21:45:43","cssclasses":""}
 ---
 
 
@@ -10,7 +10,7 @@
 - Stop trying to hit me, and hit me!
 - I do not see coincidence, I see providence 
 - Why does Ross, the largest friend, not simply eat the other five?
-- I didn’t misunderstand, I was being obdurate 
+- I didn't misunderstand, I was being obdurate 
 - I have a nasty habit of telling the truth
 - Plans are hard. Chaos though, chaos is easy
 - Leaves of cabbage? Is that what's in your head? Five wilted leaves of cabbage?

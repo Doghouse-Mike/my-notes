@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/without people you're nothing.md","aliases":"without people you’re nothing","title":"Without People You're Nothing","created":"2025-03-24 12:57:20","modified":"2026-01-16 16:08:55","cssclasses":""}
+{"publish":true,"permalink":"/without people you're nothing.md","aliases":"without people you’re nothing","title":"Without People You're Nothing","created":"2025-03-24 12:57:20","modified":"2026-02-10 21:45:43","cssclasses":""}
 ---
 
 
