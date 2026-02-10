@@ -45,7 +45,7 @@ We release a recon drone towards the centre
 
 Massive, black apparition begins to appear. The floor becomes covered in a tar pit, there's a rancor struggling within. KD can't see this. 
 
-![[Pasted image 20260124135701.jpg]]
+![[Attachments/Pasted image 20260124135701.jpg]]
 
 The rancor is wounded, but stuck and in distress. Pit covers the entire chamber floor. It *feels* like we're outdoors. 
 
@@ -115,13 +115,13 @@ Rimer goes for his blaster, but we confiscated them before he grabbed the box. H
 
 Willie starts blasting. 
 
-![[Pasted image 20260125100033.jpg]]
+![[Attachments/Pasted image 20260125100033.jpg]]
 
 Rancor goes down, another clamp released. 
 
 We're getting concerned about Rimer and the box, so wrestle it away from him. He is PISSED. Proper Bilbo face. 
 
-![[Pasted image 20260125100217.jpg]]
+![[Attachments/Pasted image 20260125100217.jpg]]
 
 A village fades in, they're looking for Peter, worried parents etc. Willie tells them he killed Peter, no messing. They are distraught, village fades away, and another clamp lets go.
 

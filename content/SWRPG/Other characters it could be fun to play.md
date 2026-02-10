@@ -17,7 +17,7 @@ Gambler spec? Basically sucks at everything but manages to blag it anyway. Somet
 
 Mandalorian maybe, basically going for an Astartes. Walking tank, shoots/hits stuff and takes a pounding but no subtlety.
 
-Or the opposite of that. Real good at smashing stuff up but tries to avoid it. - This kinda became [[KD-40N]]
+Or the opposite of that. Real good at smashing stuff up but tries to avoid it. - This kinda became [[SWRPG/Starting out green/KD-40N]]
 
 ## Synth/Replicant
 
