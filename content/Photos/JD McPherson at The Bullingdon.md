@@ -7,13 +7,13 @@
 
 ![[Attachments/Pasted image 20250301190642.jpg]]
 
-![[Pasted image 20250301190643 4.jpg]]
+![[Attachments/Pasted image 20250301190643 4.jpg]]
 
 ![[Attachments/Pasted image 20250301190644.jpg]]
 
-![[Pasted image 20250301190645 4.jpg]]
+![[Attachments/Pasted image 20250301190645 4.jpg]]
 
-![[Pasted image 20250301190646 2.jpg]]
+![[Attachments/Pasted image 20250301190646 2.jpg]]
 
 ![[R0012913%204%20Edited.jpg]]
 

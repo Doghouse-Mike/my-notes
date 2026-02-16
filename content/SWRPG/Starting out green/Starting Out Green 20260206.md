@@ -1,11 +1,11 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260206.md","title":"Starting Out Green 20260206","created":"2026-02-06 21:00:07","modified":"2026-02-12 08:12:41","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260206.md","title":"Starting Out Green 20260206","created":"2026-02-06 21:00:07","modified":"2026-02-16 22:14:20","cssclasses":""}
 ---
 
 
 # Starting Out Green 20260206
 
-Recap time for Zarlo!
+Time for a recap with Zarlo!
 
 [[SWRPG/Starting out green/Starting Out Green 20260123]]
 
