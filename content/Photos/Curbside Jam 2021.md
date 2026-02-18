@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Curbside Jam 2021.md","aliases":[],"title":"Curbside Jam 2021","created":"2025-04-01 17:12:14","modified":"2026-02-18 20:24:32","published":"2026-02-18T20:24:32.728+00:00","tags":["BMX","photos"],"cssclasses":"","date created":"Tuesday, March 18th 2025, 9:46:55 am","date modified":"Friday, May 2nd 2025, 8:12:35 am","draft":false}
+{"publish":true,"permalink":"/Photos/Curbside Jam 2021.md","aliases":"","title":"Curbside Jam 2021","created":"2025-04-01 17:12:14","modified":"2026-02-18 20:24:32","tags":["BMX","photos"],"cssclasses":""}
 ---
 
 
