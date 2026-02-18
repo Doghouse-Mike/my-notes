@@ -35,7 +35,7 @@ outsiders (aka employees and non-employees). Figure Intro shows the three classe
 security and crime caused by each of the two types, plus a special class of threats that are not directly
 caused by humans, namely *accidents*.
 
-![[Attachments/Pasted image 20251209222740.png]]
+![[Attachments/Cybersecurity/Free course notes/IMG-Free course notes.png]]
 
 > The seven individual classes are as follows:
 
