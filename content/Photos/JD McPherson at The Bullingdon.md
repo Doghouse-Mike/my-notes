@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/JD McPherson at The Bullingdon.md","aliases":"","title":"JD McPherson at The Bullingdon","created":"2025-04-01 17:12:14","modified":"2025-12-01 08:04:33","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/JD McPherson at The Bullingdon.md","aliases":"","title":"JD McPherson at The Bullingdon","created":"2025-04-01 17:12:14","modified":"2026-02-18 20:25:10","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
