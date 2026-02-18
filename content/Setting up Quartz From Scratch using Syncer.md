@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Setting up Quartz From Scratch using Syncer.md","title":"Setting Up Quartz From Scratch Using Syncer","created":"2026-02-18 08:27:43","modified":"2026-02-18 20:09:34","published":"2026-02-18T20:09:36.266+00:00","cssclasses":""}
+{"publish":true,"permalink":"/Setting up Quartz From Scratch using Syncer.md","title":"Setting Up Quartz From Scratch Using Syncer","created":"2026-02-18 08:27:43","modified":"2026-02-18 20:22:43","published":"2026-02-18T20:23:13.837+00:00","cssclasses":""}
 ---
 
 
@@ -83,7 +83,7 @@ The rest of the settings are down to preference/setup, but mine look like:
 
 ![[Attachments/Pasted image 20260218183412.png]]
 
-I haven't bothered setting up a custom domain for this repo, as it's a test that I'll probably throw away in a minute or five. 
+I haven't bothered setting up a custom domain for this repo, as it's a test that I'll probably throw away in a minute or five (Or just leave it to languish forever).
 
 Hit that "Open Publication Centre" command, and give it a minute to think about it
 
