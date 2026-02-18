@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Mostly How I Built This Site.md","title":"Mostly How I Built This Site","created":"2025-07-21 21:34:35","modified":"2026-02-18 19:48:33","published":"2026-02-18T20:09:53.075+00:00","cssclasses":""}
+{"publish":true,"permalink":"/Mostly How I Built This Site.md","title":"Mostly How I Built This Site","created":"2025-07-21 21:34:35","modified":"2026-02-18 19:48:33","published":"2026-02-18T20:14:35.730+00:00","cssclasses":""}
 ---
 
 
@@ -33,7 +33,7 @@ There will be some command line stuff. It's not complicated assuming you're comf
 > Step 0a. 
 > This is all *a lot* easier using the [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) plugin now. It allows publishing from directly within Obsidian, much like the official Publish, and/or Digital Garden plugin. 
 > The relevant parts from this guide are anything to do with configuring the (online) GitHub repo. There's no need to have a locally cloned version, although I'm keeping mine for easier troubleshooting/poking around.
-> Quick n dirty guide without requiring a local Quartz install is available [[Settxing up Quartz From Scratch using Syncer\|here]]
+> Quick n dirty guide without requiring a local Quartz install is available [[Setting up Quartz From Scratch using Syncer\|here]]
 
 ## Step 1. Download And Install Quartz
 
