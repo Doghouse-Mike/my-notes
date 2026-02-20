@@ -5,20 +5,20 @@
 
 # Angus
 
-Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. ![[Attachments/Design/Angus/IMG-Angus-24.jpg]]
+Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. ![[Attachments/Design/Angus/IMG-Angus-33.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-25.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-34.jpg]]
 
 ![[Attachments/Design/Angus/IMG-Angus.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-26.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-35.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-27.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-36.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-28.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-37.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-29.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-38.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-30.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-39.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-31.jpg]]![[Attachments/Design/Angus/IMG-Angus-32.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-40.jpg]]![[Attachments/Design/Angus/IMG-Angus-41.jpg]]
