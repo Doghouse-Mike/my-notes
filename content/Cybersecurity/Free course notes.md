@@ -1,9 +1,7 @@
 ---
-created: 2025-12-09 21:54:16
-modified: 2026-01-16 17:59:18
-publish: true
-title: Free Course Notes
+{"publish":true,"permalink":"/Cybersecurity/Free course notes.md","title":"Free Course Notes","created":"2025-12-09 21:54:16","modified":"2026-01-16 17:59:18","cssclasses":""}
 ---
+
 
 # Free Course Notes
 
@@ -37,7 +35,7 @@ outsiders (aka employees and non-employees). Figure Intro shows the three classe
 security and crime caused by each of the two types, plus a special class of threats that are not directly
 caused by humans, namely *accidents*.
 
-![[IMG-Free course notes.png]]
+![[Attachments/Cybersecurity/Free course notes/IMG-Free course notes.png]]
 
 > The seven individual classes are as follows:
 
