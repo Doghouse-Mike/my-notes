@@ -1,11 +1,7 @@
 ---
-created: 2025-05-31 18:00:05
-date created: Saturday, May 31st 2025, 6:00:05 pm
-date modified: Saturday, May 31st 2025, 11:38:53 pm
-modified: 2026-01-25 21:42:25
-publish: true
-title: Notes on New Swrpg Character Ideas
+{"publish":true,"permalink":"/SWRPG/Starting out green/Notes on new swrpg character ideas.md","title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","modified":"2026-01-25 21:42:25","cssclasses":""}
 ---
+
 
 # Notes on New Swrpg Character Ideas
 

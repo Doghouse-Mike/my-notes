@@ -1,17 +1,15 @@
 ---
-created: 2026-02-06 21:00:07
-modified: 2026-02-16 22:14:20
-publish: true
-title: Starting Out Green 20260206
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260206.md","title":"Starting Out Green 20260206","created":"2026-02-06 21:00:07","modified":"2026-02-16 22:14:20","cssclasses":""}
 ---
+
 
 # Starting Out Green 20260206
 
 Time for a recap with Zarlo!
 
-[[Starting Out Green 20260123]]
+[[SWRPG/Starting out green/Starting Out Green 20260123]]
 
-[[Starting out green 20260109]]
+[[SWRPG/Starting out green/Starting out green 20260109]]
 
 Time's moved on for Zarlo and his sister, they're not kids any more. He's got a purpose now. 
 
@@ -109,7 +107,7 @@ Blag our way in to the bar for free based on the "everyone gets to keep their ar
 
 KD's fully collar up, hat on. 
 
-![[Pasted image 20260212081229.jpg]]
+![[Attachments/Pasted image 20260212081229.jpg]]
 
 In the bar, Black Sun are *not* keeping a low profile, blatant insignia on display. We don't attract a lot of attention on our way in though, the boys head to the Sabacc tables. 
 

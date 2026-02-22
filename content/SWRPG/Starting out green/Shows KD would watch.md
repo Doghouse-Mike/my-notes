@@ -1,9 +1,7 @@
 ---
-created: 2025-10-11 08:06:24
-modified: 2026-01-25 11:26:44
-publish: true
-title: Shows KD Would Watch
+{"publish":true,"permalink":"/SWRPG/Starting out green/Shows KD would watch.md","title":"Shows KD Would Watch","created":"2025-10-11 08:06:24","modified":"2026-01-25 11:26:44","cssclasses":""}
 ---
+
 
 # Shows KD Would Watch
 

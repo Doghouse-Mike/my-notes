@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2023-11-01 06:39:26
-date created: Wednesday, November 1st 2023, 6:39:26 am
-date modified: Tuesday, April 22nd 2025, 4:28:00 pm
-draft: true
-modified: 2026-02-11 21:41:30
-publish: true
-title: "ED's Version of Events"
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/ED's version of events.md","aliases":"","title":"ED's Version of Events","draft":true,"created":"2023-11-01 06:39:26","modified":"2026-02-11 21:41:30","cssclasses":""}
 ---
+
 
 # ED's Version of Events
 

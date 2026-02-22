@@ -1,20 +1,13 @@
 ---
-tags: []
-aliases: []
-created: 2023-07-20 19:09:15
-date created: Thursday, July 20th 2023, 7:09:15 pm
-date modified: Tuesday, April 22nd 2025, 4:27:35 pm
-draft: false
-modified: 2025-07-06 19:04:19
-publish: true
-title: SWRPG Session 2
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Session 2.md","aliases":"","title":"SWRPG Session 2","created":"2023-07-20 19:09:15","modified":"2025-07-06 19:04:19","cssclasses":""}
 ---
+
 
 # SWRPG Session 2
 
-[[Z-X3ED]]
+[[SWRPG/Crisis on Columex/Z-X3ED]]
 
-[[SWRPG session 1]]
+[[SWRPG/Crisis on Columex/SWRPG session 1]]
 
 Nera got a lightsaber
 

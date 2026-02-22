@@ -1,14 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2024-01-14 17:58:36
-date created: 2024-01-14 17:58:36
-date modified: 2025-07-10 19:37:12
-draft: false
-modified: 2026-02-20 11:53:43
-publish: true
-title: Quotes to Use in Swrpg
+{"publish":true,"permalink":"/SWRPG/Quotes to use in swrpg.md","aliases":"","title":"Quotes to Use in Swrpg","created":"2024-01-14 17:58:36","modified":"2026-02-20 11:53:43","cssclasses":""}
 ---
+
 
 # Quotes to Use in Swrpg
 

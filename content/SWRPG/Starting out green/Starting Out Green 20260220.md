@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260220.md","title":"Starting Out Green 20260220","created":"2026-02-20 20:59:44","modified":"2026-02-22 15:51:32","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260220.md","title":"Starting Out Green 20260220","created":"2026-02-20 20:59:44","modified":"2026-02-22 16:45:43","cssclasses":""}
 ---
 
 
@@ -41,9 +41,9 @@ Rimer catches sight of the runner, but he's making for the central stairs, catch
 
 KD heads towards the main entrance (where the runner's apparently heading). Brace for clothesline. 
 
-![[IMG_1946.webp]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220-3.webp]]
 
-Zarlo's got his thermal goggles out, but there are too many signals within the building to make out anything useful. 
+Zarlo's got his thermal goggles out, but there are too many signals within the building to make out anything useful.
 
 Rimer continues his pursuit. Busts through a door, spots our guy hiding behind a plant, very out of breath. Attempts to give em the nice greeting, guy keels over though, possible heart attack. Rimer gets his medical gear out and goes in for the save. 
 
@@ -95,13 +95,13 @@ Nalle warns that the instructions include corrupting a crystal. This is *not* a 
 
 Rimer knows that the light side zealots also used these weapons, and they didn't kill children. Ahem.
 
-![[Pasted image 20260222154842.jpg]]
+![[IMG-Starting Out Green 20260220-5.jpg]]
 
 The Tepani weapons might be more mechanical, rather than the more mystical/atuned weapons of the force-users.
 
 Niall doesn't want anyone to see the bits about atuning, but would like copies of the rest of it for his archives. They get copies without the atuning parts, and the location of the temple on Dxun (*not* the one on Onderon), and we get the actual translations. 
 
-![[Pasted image 20260222154901.jpg]]
+![[IMG-Starting Out Green 20260220-6.jpg]]
 
 Further discussion will be required over deciding on the selling the actual tablets, but we can keep in touch. 
 
