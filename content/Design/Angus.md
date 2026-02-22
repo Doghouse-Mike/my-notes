@@ -1,24 +1,28 @@
 ---
-{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"2025-03-24 12:57:20","modified":"2026-02-20 20:59:33","tags":["design"],"cssclasses":""}
+{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"2025-03-24 12:57:20","modified":"2026-02-22 20:38:30","tags":["design"],"cssclasses":""}
 ---
 
 
 # Angus
 
-Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. ![[Attachments/Design/Angus/IMG-Angus-33.jpg]]
+Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. 
 
-![[Attachments/Design/Angus/IMG-Angus-34.jpg]]
+![[Attachments/Pasted image 20260218202946.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus.jpg]]
+![[Attachments/Pasted image 20260218202946 1.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-35.jpg]]
+![[Attachments/Pasted image 20260218202946 2.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-36.jpg]]
+![[Attachments/Pasted image 20260218202946 3.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-37.jpg]]
+![[Attachments/Pasted image 20260218202946 4.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-38.jpg]]
+![[Attachments/Pasted image 20260218203204.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-39.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-51.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-40.jpg]]![[Attachments/Design/Angus/IMG-Angus-41.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-52.jpg]]
+
+![[Attachments/Design/Angus/IMG-Angus-53.jpg]]
+
+![[Attachments/Design/Angus/IMG-Angus-54.jpg]]
