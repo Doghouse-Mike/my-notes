@@ -1,15 +1,13 @@
 ---
-created: 2026-01-15 13:28:48
-modified: 2026-01-28 12:10:17
-publish: true
-title: Quartz Syncer Error
+{"publish":true,"permalink":"/Quartz syncer error.md","title":"Quartz Syncer Error","created":"2026-01-15 13:28:48","modified":"2026-01-28 12:10:17","cssclasses":""}
 ---
+
 
 # Quartz Syncer Error
 
-![[32015B70-C455-4FB7-A3C1-BA7967FF650B_4_5005_c 2.jpeg]]
+![[Attachments/32015B70-C455-4FB7-A3C1-BA7967FF650B_4_5005_c 2.jpeg]]
 
-![[D27BC866-4BB1-4F18-927D-B90B361C6B03_4_5005_c.jpeg]]
+![[Attachments/D27BC866-4BB1-4F18-927D-B90B361C6B03_4_5005_c.jpeg]]
 
 "Fixed" by using [BRAT](https://github.com/TfTHacker/obsidian42-brat) to roll back to version 1.8.10 of the syncer plugin. 
 

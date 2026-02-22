@@ -1,9 +1,7 @@
 ---
-created: 2025-12-25 13:17:42
-modified: 2026-01-01 23:26:50
-publish: true
-title: 'The Year of "Out"'
+{"publish":true,"permalink":"/Theme for 2026.md","title":"The Year of \"Out\"","created":"2025-12-25 13:17:42","modified":"2026-01-01 23:26:50","cssclasses":""}
 ---
+
 
 # The Year of "Out"
 
@@ -17,7 +15,7 @@ Some combo of going out more (leaving the house), and throwing stuff out in prep
 
 I was pretty inconsistent on last year's. Although I did get eventually have an eye test, and visit the dentist. I do need to go back to the dentist for a filling/extraction they suggested. 
 
-Right now, I think the template I came up with last year still applies, but can review that during the process. [[Daily Note template]]
+Right now, I think the template I came up with last year still applies, but can review that during the process. [[Templates/Daily Note template]]
 
 Recent weeks have seen an improvement in the grooming etc though, and self maintenance. 
 
@@ -90,4 +88,23 @@ Once a month, answer these briefly (bullet points only):
 
 Seems like a reasonable foundation. January may be rough, with the impending funeral, and money being tight (thanks, payday schedule). My concern is it will feel like most of January is just *waiting for the funeral*, then a particularly tough day or two, though hopefully those days will also bring a sense of relief and/or closure. 
 
-![[Daily Note template]]
+
+
+# Daily Note Template
+
+Remember the ~~Cant~~ [[Theme for 2026]]
+
+***"If in doubt, out."***
+
+What have I done today that helps get *out*?
+For quick wins, see [[Theme for 2026#"Out" Menu]]
+
+## Thing That Must Get Done Today
+
+## What's On My Mind
+
+## (Specific) Thing(™) That I'm Grateful For
+
+## Thing That Went Well
+
+## Notes for the Day

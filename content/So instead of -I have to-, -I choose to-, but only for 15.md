@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: [So instead of "I have to", "I choose to", but only for 15]
-created: 2025-04-01 17:12:14
-draft: true
-modified: 2026-02-10 21:45:28
-publish: true
-title: 'On Instead of "I Have to", "I Choose to"'
+{"publish":true,"permalink":"/So instead of -I have to-, -I choose to-, but only for 15.md","aliases":"So instead of \"I have to\" I choose to but only for 15","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","modified":"2026-02-10 21:45:28","cssclasses":""}
 ---
+
 
 # On Instead of "I Have to", "I Choose to"
 

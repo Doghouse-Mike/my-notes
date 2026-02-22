@@ -1,9 +1,7 @@
 ---
-created: 2025-11-03 07:15:12
-modified: 2026-02-04 08:38:51
-publish: true
-title: My Role at Secret Sales
+{"publish":true,"permalink":"/My Role at Secret Sales.md","title":"My Role at Secret Sales","created":"2025-11-03 07:15:12","modified":"2026-02-04 08:38:51","cssclasses":""}
 ---
+
 
 # My Role at Secret Sales
 

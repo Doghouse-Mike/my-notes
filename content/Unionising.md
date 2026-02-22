@@ -1,12 +1,7 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-07 23:18:43
-draft: false
-modified: 2026-01-16 16:08:48
-publish: true
-title: "The Idiot's Guide to Unionising Your UK Workplace"
+{"publish":true,"permalink":"/Unionising.md","aliases":"","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","modified":"2026-01-16 16:08:48","cssclasses":""}
 ---
+
 
 see also [[Unionising summary]] 
 

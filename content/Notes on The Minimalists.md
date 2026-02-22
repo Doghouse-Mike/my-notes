@@ -1,9 +1,7 @@
 ---
-created: 2026-01-11 22:05:39
-modified: 2026-01-16 17:01:37
-publish: true
-title: Notes on The Minimalists
+{"publish":true,"permalink":"/Notes on The Minimalists.md","title":"Notes on The Minimalists","created":"2026-01-11 22:05:39","modified":"2026-01-16 17:01:37","cssclasses":""}
 ---
+
 
 # Notes on The Minimalists
 
