@@ -1,10 +1,7 @@
 ---
-created: 2025-05-08 10:13:28
-draft: false
-modified: 2025-07-21 21:50:13
-publish: true
-title: "Merlin's Wisdom Project"
+{"publish":true,"permalink":"/Merlin's Wisdom.md","title":"Merlin's Wisdom Project","created":"2025-05-08 10:13:28","modified":"2025-07-21 21:50:13","cssclasses":""}
 ---
+
 
 ---
 
