@@ -1,32 +1,24 @@
 ---
-tags:
-  - design
-aliases: []
-created: 2025-03-24 12:57:20
-date created: Saturday, March 26th 2022, 9:47:29 am
-date modified: Tuesday, April 22nd 2025, 4:28:02 pm
-draft: false
-modified: 2026-02-18 22:34:42
-publish: true
-title: Angus
+{"publish":true,"permalink":"/Design/Angus.md","aliases":"","title":"Angus","created":"2025-03-24 12:57:20","modified":"2026-02-20 20:59:33","tags":["design"],"cssclasses":""}
 ---
+
 
 # Angus
 
-Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. ![[IMG-Angus-33.jpg]]
+Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. ![[Attachments/Design/Angus/IMG-Angus-33.jpg]]
 
-![[IMG-Angus-34.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-34.jpg]]
 
-![[IMG-Angus.jpg]]
+![[Attachments/Design/Angus/IMG-Angus.jpg]]
 
-![[IMG-Angus-35.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-35.jpg]]
 
-![[IMG-Angus-36.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-36.jpg]]
 
-![[IMG-Angus-37.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-37.jpg]]
 
-![[IMG-Angus-38.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-38.jpg]]
 
-![[IMG-Angus-39.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-39.jpg]]
 
-![[IMG-Angus-40.jpg]]![[IMG-Angus-41.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-40.jpg]]![[Attachments/Design/Angus/IMG-Angus-41.jpg]]

@@ -1,41 +1,34 @@
 ---
-tags: []
-aliases: []
-created: 2025-04-01 17:12:14
-date created: Saturday, March 26th 2022, 9:44:42 am
-date modified: Tuesday, April 22nd 2025, 4:28:02 pm
-draft: false
-modified: 2026-02-18 22:27:33
-publish: true
-title: Misc
+{"publish":true,"permalink":"/Design/Misc.md","aliases":"","title":"Misc","created":"2025-04-01 17:12:14","modified":"2026-02-18 22:27:33","cssclasses":""}
 ---
+
 
 # Misc
 
-![[IMG-Misc.jpg]]
+![[Attachments/Design/Misc/IMG-Misc.jpg]]
 
-![[IMG-Misc-53.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-53.jpg]]
 
-![[IMG-Misc-54.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-54.jpg]]
 
-![[IMG-Misc-55.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-55.jpg]]
 
-![[IMG-Misc-56.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-56.jpg]]
 
-![[IMG-Misc-57.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-57.jpg]]
 
-![[IMG-Misc-58.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-58.jpg]]
 
-![[IMG-Misc-59.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-59.jpg]]
 
-![[IMG-Misc-60.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-60.jpg]]
 
-![[IMG-Misc-61.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-61.jpg]]
 
-![[IMG-Misc-62.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-62.jpg]]
 
-![[IMG-Misc-63.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-63.jpg]]
 
-![[IMG-Misc-64.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-64.jpg]]
 
-![[IMG-Misc-65.jpg]]
+![[Attachments/Design/Misc/IMG-Misc-65.jpg]]
