@@ -14,7 +14,7 @@
 
 ## Vault Maintenance
 
-- [[TaskNotes/How well is your vault doing what it's supposed to do (What is the purpose of your vaultnotes What measures might you use to judge how well it's working) ^1]]
+- [[TaskNotes/How well is your vault doing what it's supposed to do (What is the purpose of your vaultnotes What measures might you use to judge how well it's working) -1]]
 
 	Have kinda fallen out of the loop of reviewing/using it much really. So measures for judge would mostly be spending more time on it
 
@@ -41,7 +41,7 @@
 - [x] Remove unused plugins ✅ 2025-01-07
 - [x] Remove unused themes ✅ 2025-01-07
 - [x] Remove unused snippets ✅ 2025-01-07
-- [[TaskNotes/Add properties missing from notes @iPad]]
+- [[TaskNotes/Add properties missing from notes -iPad]]
 - [[TaskNotes/Convert tags to properties where appropriate]]
 - [[TaskNotes/Fix up broken links]]
 - [x] Browse through the plugin gallery for new ideas ✅ 2025-05-02

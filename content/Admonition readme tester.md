@@ -740,4 +740,4 @@ If you're using Obsidian to run/plan a TTRPG, you may find my other plugin usefu
 - [[Clippings/Obsidian Resources]]
 - [[Clippings/Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
 - [[Clippings/Obsidian Resources (1)]]
-- [[Slurped Pages/The iPad’s “Sweet” Solution]]
+- [[Slurped Pages/The iPad's -Sweet- Solution]]
