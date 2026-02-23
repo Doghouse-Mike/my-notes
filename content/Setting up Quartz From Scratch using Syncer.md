@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Setting up Quartz From Scratch using Syncer.md","title":"Setting Up Quartz From Scratch Using Syncer","created":"2026-02-18 08:27:43","modified":"2026-02-18 20:23:16","cssclasses":""}
+{"publish":true,"permalink":"/Setting up Quartz From Scratch using Syncer.md","title":"Setting Up Quartz From Scratch Using Syncer","created":"2026-02-18 08:27:43","modified":"2026-02-23 07:39:55","cssclasses":""}
 ---
 
 
@@ -17,13 +17,13 @@ Kinda step zero. Don't need to do anything with it yet, but good to have it read
 
 Just because that's what I know. Other options are available.
 
-![[Attachments/Pasted image 20260218083207.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer.png]]
 
 [Click here](https://github.com/new?template_name=quartz&template_owner=jackyzha0) to create a copy of the Quartz repo All of your own to futz with.
 
 Name it, throw in a description, hit "Create repository"
 
-![[Attachments/Pasted image 20260218084215.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-1.png]]
 
 ## Enable GitHub Pages
 
@@ -35,15 +35,15 @@ Name it, throw in a description, hit "Create repository"
 
 Click the "code" bit in the top left of the GitHub window
 
-![[Attachments/Pasted image 20260218084818.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-2.png]]
 
 Then ya want that .github/workflows folder, then "Add file" (top right)
 
-![[Attachments/Pasted image 20260218195238.jpg]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer.jpg]]
 
 Copy/paste the code from [this page](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup), don't forget to add the .yml extension or nothing will work. Not sure if case is important, but caught my iPad trying to capitalise "deploy"
 
-![[Attachments/Pasted image 20260218085330.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-3.png]]
 
 (Also that should by `.yml`, *not* the `.yaml` I've done in the screenshot. Insert facepalm emoji.)
 
@@ -58,7 +58,7 @@ Setup Ala:
 5. Under **Permissions** > **Repository permissions**, set **Contents** to **Read and write**.
 6. Click **Generate token**.
 7. Copy the token immediately.
-![[Attachments/Pasted image 20260218182139.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-4.png]]
 
 Could set the token to never expire, weigh the security/hassle ratio for yourself.
 
@@ -77,20 +77,20 @@ Could set the token to never expire, weigh the security/hassle ratio for yoursel
 
 (Yours will look different, based on theme, and obvs will have your GitHub deets)
 
-![[Attachments/Pasted image 20260218183126.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-5.png]]
 
 The rest of the settings are down to preference/setup, but mine look like:
 
-![[Attachments/Pasted image 20260218183412.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-6.png]]
 
 I haven't bothered setting up a custom domain for this repo, as it's a test that I'll probably throw away in a minute or five (Or just leave it to languish forever).
 
 Hit that "Open Publication Centre" command, and give it a minute to think about it
 
-![[Attachments/Pasted image 20260218195549.jpg]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-1.jpg]]
 
 [That's it?](https://doghouse-mike.github.io/Bin-me/)
 
-![[Attachments/Pasted image 20260218195408.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-7.png]]
 
 This would be where I recall some parts from the official docs around tweaking `quartz.config.ts` with domains, comments, setting up [themes](https://github.com/saberzero1/quartz-themes) etc. Some of which is covered in [[Mostly How I Built This Site]] but [you get what you get.](https://www.youtube.com/watch?v=_1-ouKP-qZU&list=RD_1-ouKP-qZU&start_radio=1)
