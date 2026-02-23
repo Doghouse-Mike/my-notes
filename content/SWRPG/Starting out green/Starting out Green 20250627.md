@@ -1,11 +1,11 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250627.md","title":"Starting out Green Session Two","created":"2025-06-27 20:45:45","modified":"2026-01-16 16:08:55","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250627.md","title":"Starting out Green 20250627","created":"2025-06-27 20:45:45","modified":"2026-02-23 07:20:08","cssclasses":""}
 ---
 
 
 Following on from [[SWRPG/Starting out green/Starting out Green 20250613]]
 
-# Starting out Green Session Two
+# Starting out Green 20250627
 
 Recap of last time
 

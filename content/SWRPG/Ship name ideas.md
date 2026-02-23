@@ -1,14 +1,14 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Ship name ideas.md","title":"Ship Name Ideas","created":"2025-09-19 19:55:39","modified":"2025-09-19 20:22:02","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Ship name ideas.md","title":"Ship Name Ideas","created":"2025-09-19 19:55:39","modified":"2026-02-23 07:23:16","cssclasses":""}
 ---
 
 
 # Ship Name Ideas
 
 - Beggar's Lament 
-	- stolen from Foundation, but harks back to that Larry and His Flask song too
+	- stolen from Foundation, but harks back to that [Larry and His Flask song](https://www.youtube.com/watch?v=FgzUInVhd4s) too
 - Rendezvous 
-	- "Meet you back at the Rendezvous" after a heist gone awry gives us some cover
+	- "Meet you back at the Rendezvous" after a heist gone awry gives us some cover?
 - Explosive Decompression
 	- Because it's not a problem for droids
 - The Usual Way Out 
@@ -19,3 +19,4 @@
 - Datawake
 - Mnemonic Drift
 - Null Process
+- One Armed Scissor

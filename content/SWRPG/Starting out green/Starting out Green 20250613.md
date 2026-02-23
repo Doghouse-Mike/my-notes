@@ -1,9 +1,9 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250613.md","title":"Starting out Green Session One","created":"2025-06-13 21:05:37","modified":"2025-07-06 19:04:38","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250613.md","title":"Starting out Green 20250613","created":"2025-06-13 21:05:37","modified":"2026-02-23 07:19:52","cssclasses":""}
 ---
 
 
-# Starting out Green Session One
+# Starting out Green 20250613
 
 Character intros
 
