@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260220.md","title":"Starting Out Green 20260220","created":"2026-02-20 20:59:44","modified":"2026-02-22 16:45:43","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting Out Green 20260220.md","title":"Starting Out Green 20260220","created":"2026-02-20 20:59:44","modified":"2026-02-23 07:10:37","cssclasses":""}
 ---
 
 
@@ -95,13 +95,13 @@ Nalle warns that the instructions include corrupting a crystal. This is *not* a 
 
 Rimer knows that the light side zealots also used these weapons, and they didn't kill children. Ahem.
 
-![[IMG-Starting Out Green 20260220-5.jpg]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220.jpg]]
 
 The Tepani weapons might be more mechanical, rather than the more mystical/atuned weapons of the force-users.
 
 Niall doesn't want anyone to see the bits about atuning, but would like copies of the rest of it for his archives. They get copies without the atuning parts, and the location of the temple on Dxun (*not* the one on Onderon), and we get the actual translations. 
 
-![[IMG-Starting Out Green 20260220-6.jpg]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220-4.jpg]]
 
 Further discussion will be required over deciding on the selling the actual tablets, but we can keep in touch. 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/ED's version of events.md","aliases":"","title":"ED's Version of Events","draft":true,"created":"2023-11-01 06:39:26","modified":"2026-02-11 21:41:30","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/ED's version of events.md","aliases":"","title":"ED's Version of Events","created":"2023-11-01 06:39:26","modified":"2026-02-23 07:01:55","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Starter Ship Decision.md","aliases":"","title":"SWRPG Starter Ship Decision","created":"2023-11-14 06:21:33","modified":"2025-07-17 21:43:02","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Starter Ship Decision.md","aliases":"","title":"SWRPG Starter Ship Decision","created":"2023-11-14 06:21:33","modified":"2026-02-23 07:04:05","cssclasses":""}
 ---
 
 
@@ -58,6 +58,7 @@ https://starwars.fandom.com/wiki/Wayfarer-class_medium_transport?so=search
 **Encumbrance:** 850
 
 **Passenger Capacity:** 6
+
 More room. Tougher, slower, ALL the space tho (which could contain loot?). 
 
 ## HWK-290
