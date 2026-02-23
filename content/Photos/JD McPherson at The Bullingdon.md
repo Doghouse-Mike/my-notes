@@ -1,36 +1,54 @@
 ---
-{"publish":true,"permalink":"/Photos/JD McPherson at The Bullingdon.md","aliases":"","title":"JD McPherson at The Bullingdon","created":"2025-04-01 17:12:14","modified":"2026-02-23 07:35:54","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/JD McPherson at The Bullingdon.md","aliases":"","title":"JD McPherson at The Bullingdon","created":"2025-04-01 17:12:14","modified":"2026-02-23 19:56:54","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
 # JD McPherson at The Bullingdon
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon.png]]
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-1.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-1.png]]
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-2.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-2.png]]
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-3.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-3.png]]
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-4.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-4.png]]
 
-![[R0012913%204%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-5.png]]
 
-![[R0012919%205%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-6.png]]
 
-![[R0012957%208%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-7.png]]
 
-![[R0013045%2014%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-8.png]]
 
-![[R0013054%2015%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-23.png]]
 
-![[R0013062%2016%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-10.png]]
 
-![[R0013080%2017%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-24.png]]
 
-![[R0013116%2021%20Edited.jpg]]
+![[Attachments/Pasted image 20260223194439 5.png]]
 
-![[R0013118%2023%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-12.png]]
 
-![[R0013132%2025%20Edited.jpg]]
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-13.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-14.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-15.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-16.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-17.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-18.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-19.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-20.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-21.png]]
+
+![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-22.png]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","aliases":"","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-02-23 07:37:02","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","aliases":"","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-02-23 21:37:39","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
@@ -7,64 +7,54 @@
 
 I had a chat with some of the Koffin Kats lads before this gig, you can read that over at [[Interview with Koffin Kats]].
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana.jpg]]
+![[Pasted image 20260223213254.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-1.jpg]]
+![[Pasted image 20260223213254 1.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-2.jpg]]
+![[Pasted image 20260223213254 2.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-3.jpg]]
+![[Pasted image 20260223213254 3.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-4.jpg]]
+![[Pasted image 20260223213254 5.jpg]]![[Pasted image 20260223213323.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-5.jpg]]
+![[Pasted image 20260223213323 1.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-6.jpg]]
+![[Pasted image 20260223213323 2.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-7.jpg]]
+![[Pasted image 20260223213323 4.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-8.jpg]]
+![[Pasted image 20260223213323 6.jpg]]
 
-![[Attachments/R0015719%2010%20Edited 10 Edited.jpg]]
+![[Pasted image 20260223213352 1.jpg]]
 
-![[Attachments/R0015720%2011%20Edited 11 Edited.jpg]]
+![[Pasted image 20260223213352 3.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-9.jpg]]
+![[Pasted image 20260223213352 4.jpg]]![[Pasted image 20260223213516.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-10.jpg]]
+![[Pasted image 20260223213516 1.jpg]]
 
-![[Attachments/R0015744%2014%20Edited 14 Edited.jpg]]
+![[Pasted image 20260223213516 2.jpg]]
 
-![[Attachments/R0015748%2015%20Edited 15 Edited.jpg]]
+![[Pasted image 20260223213516 3.jpg]]
 
-![[Attachments/R0015750%2016%20Edited 16 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 4.jpg]]
 
-![[Attachments/R0015755%2017%20Edited 17 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 5.jpg]]
 
-![[Attachments/R0015766%2018%20Edited 18 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 6.jpg]]
 
-![[Attachments/R0015781%2019%20Edited 19 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 7.jpg]]
 
-![[Attachments/R0015784%2020%20Edited 20 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 8.jpg]]
 
-![[Attachments/R0015807%2021%20Edited 21 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 9.jpg]]
 
-![[Attachments/R0015813%2022%20Edited 22 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 10.jpg]]
 
-![[Attachments/R0015833%2023%20Edited 23 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 11.jpg]]
 
-![[Attachments/R0015851%2024%20Edited 24 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 12.jpg]]
 
-![[Attachments/R0015858%2025%20Edited 25 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 13.jpg]]
 
-![[Attachments/R0015864%2026%20Edited 26 Edited.jpg]]
-
-![[Attachments/R0015869%2027%20Edited 27 Edited.jpg]]
-
-![[Attachments/R0015901%2028%20Edited 28 Edited.jpg]]
-
-![[Attachments/R0015915%2029%20Edited 29 Edited.jpg]]
-
-![[Attachments/R0015924%2030%20Edited 30 Edited.jpg]]
-
-![[Attachments/R0015928%2031%20Edited 31 Edited.jpg]]
+![[Attachments/Pasted image 20260223213516 14.jpg]]

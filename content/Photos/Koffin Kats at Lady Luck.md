@@ -1,44 +1,38 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","aliases":"","title":"Koffin Kats at Lady Luck","created":"2025-04-01 17:12:14","modified":"2026-02-23 07:36:33","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","aliases":"","title":"Koffin Kats at Lady Luck","created":"2025-04-01 17:12:14","modified":"2026-02-23 21:45:39","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
 # Koffin Kats at Lady Luck
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck.jpg]]
+![[Attachments/Pasted image 20260223214223.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-1.jpg]]
+![[Attachments/Pasted image 20260223214223 1.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-2.jpg]]
+![[Attachments/Pasted image 20260223214223 2.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-3.jpg]]
+![[Attachments/Pasted image 20260223214223 3.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-4.jpg]]
+![[Attachments/Pasted image 20260223214223 4.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-5.jpg]]
+![[Attachments/Pasted image 20260223214223 5.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-6.jpg]]
+![[Attachments/Pasted image 20260223214223 6.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-7.jpg]]
+![[Attachments/Pasted image 20260223214223 7.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-8.jpg]]
+![[Attachments/Pasted image 20260223214223 8.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-9.jpg]]
+![[Attachments/Pasted image 20260223214223 9.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-10.jpg]]
+![[Attachments/Pasted image 20260223214223 10.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-11.jpg]]
+![[Attachments/Pasted image 20260223214223 11.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-12.jpg]]
+![[Attachments/Pasted image 20260223214223 12.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-13.jpg]]
+![[Attachments/Pasted image 20260223214223 13.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-14.jpg]]
+![[Attachments/Pasted image 20260223214223 14.jpg]]
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-15.jpg]]
-
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-16.jpg]]
-
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-17.jpg]]
-
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-18.jpg]]
+![[Attachments/Pasted image 20260223214223 15.jpg]]
