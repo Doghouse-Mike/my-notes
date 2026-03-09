@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Cold climate shopping.md","title":"Cold Climate Shopping","created":"2026-02-27 16:14:56","modified":"2026-03-07 14:55:47","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Cold climate shopping.md","title":"Cold Climate Shopping","created":"2026-02-27 16:14:56","modified":"2026-03-09 17:40:41","cssclasses":""}
 ---
 
 
@@ -85,3 +85,5 @@ KD could be painted in Reflec Shadowskin https://star-wars-rpg-ffg.fandom.com/wi
 Stealth field generators
 
 https://star-wars-rpg-ffg.fandom.com/wiki/Stealth_Field_Generator
+
+Kinda got put on hold due to the game taking a (hopefully) brief hiatus. 
