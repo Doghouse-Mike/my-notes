@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","aliases":"","title":"Gilded Cage at Moor Beer","created":"2025-04-01 17:12:14","modified":"2026-02-23 07:35:25","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","aliases":"","title":"Gilded Cage at Moor Beer","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:37:11","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
@@ -7,46 +7,46 @@
 
 ![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-1.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-23.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-2.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-24.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-3.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-25.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-4.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-26.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-5.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-27.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-6.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-28.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-7.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-29.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-8.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-30.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-9.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-31.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-10.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-32.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-11.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-33.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-12.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-34.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-13.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-35.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-14.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-36.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-15.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-37.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-16.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-38.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-17.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-39.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-18.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-40.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-19.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-41.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-20.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-42.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-21.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-43.jpg]]
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-22.jpg]]
+![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-44.jpg]]
