@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","aliases":"","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-02-23 21:37:39","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","aliases":"","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-03-10 21:43:14","tags":["gigs","photos"],"cssclasses":""}
 ---
 
 
@@ -7,54 +7,64 @@
 
 I had a chat with some of the Koffin Kats lads before this gig, you can read that over at [[Interview with Koffin Kats]].
 
-![[Pasted image 20260223213254.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-55.jpg]]
 
-![[Pasted image 20260223213254 1.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-56.jpg]]
 
-![[Pasted image 20260223213254 2.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-57.jpg]]
 
-![[Pasted image 20260223213254 3.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-58.jpg]]
 
-![[Pasted image 20260223213254 5.jpg]]![[Pasted image 20260223213323.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-59.jpg]]
 
-![[Pasted image 20260223213323 1.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-60.jpg]]
 
-![[Pasted image 20260223213323 2.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-61.jpg]]
 
-![[Pasted image 20260223213323 4.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-62.jpg]]
 
-![[Pasted image 20260223213323 6.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-63.jpg]]
 
-![[Pasted image 20260223213352 1.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-64.jpg]]
 
-![[Pasted image 20260223213352 3.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-74.jpg]]
 
-![[Pasted image 20260223213352 4.jpg]]![[Pasted image 20260223213516.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-76.jpg]]
 
-![[Pasted image 20260223213516 1.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-77.jpg]]
 
-![[Pasted image 20260223213516 2.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-79.jpg]]
 
-![[Pasted image 20260223213516 3.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-80.jpg]]
 
-![[Attachments/Pasted image 20260223213516 4.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-82.jpg]]
 
-![[Attachments/Pasted image 20260223213516 5.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-83.jpg]]
 
-![[Attachments/Pasted image 20260223213516 6.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-84.jpg]]
 
-![[Attachments/Pasted image 20260223213516 7.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-85.jpg]]
 
-![[Attachments/Pasted image 20260223213516 8.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-86.jpg]]
 
-![[Attachments/Pasted image 20260223213516 9.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-88.jpg]]
 
-![[Attachments/Pasted image 20260223213516 10.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-89.jpg]]
 
-![[Attachments/Pasted image 20260223213516 11.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-90.jpg]]
 
-![[Attachments/Pasted image 20260223213516 12.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-91.jpg]]
 
-![[Attachments/Pasted image 20260223213516 13.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-92.jpg]]
 
-![[Attachments/Pasted image 20260223213516 14.jpg]]
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-93.jpg]]
+
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-94.jpg]]
+
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-95.jpg]]
+
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-96.jpg]]
+
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-97.jpg]]
+
+![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-98.jpg]]
