@@ -1,11 +1,11 @@
 ---
-{"publish":true,"permalink":"/Interview with Koffin Kats.md","aliases":"","title":"Interview With Koffin Kats","created":"2025-04-11 07:52:09","modified":"2025-07-21 21:50:38","cssclasses":""}
+{"publish":true,"permalink":"/Interview with Koffin Kats.md","aliases":"","title":"Interview With Koffin Kats","created":"2025-04-11 07:52:09","modified":"2026-03-11 02:46:09","cssclasses":""}
 ---
 
 
 # Interview With Koffin Kats
 
-Some photos from the show after this interview was conducted can be seen in [[Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana]]. You may also be interested in [[Photos/Koffin Kats at Lady Luck]]!
+Some photos taken during the show that followed this interview can be seen in [[Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana]], you may also be interested in [[Photos/Koffin Kats at Lady Luck]], ya little psycho.
 
 Strap in. 
 
@@ -74,6 +74,7 @@ Strap in.
 ***Were you in other bands before Koffin Kats?***
 
 *Vic*: Yeah. I was in a bunch of local Detroit bands, but never really anything that got out of Detroit and that was the biggest influence for wanting to do something like Koffin Kats. 
+
 To get together with two other guys that could actually go hit the road. I was sick of just playing the same shitty bars all the time and of not going anywhere. I was turning twenty and I was like "I really want to do music but I'm not going to be able to do it if I just stick around here". So, I got together with Tommy and we got an old friend of ours, Damien. We got together, we started practicing and said, Damien actually said, that was the summer of 2003 "One year from now let's be out in California." and in the summer of 2004 that's where we were touring.
 
 ***Nice! So, nerdy bass talk alert! You've got your actual bass in the states, do you use the same one live that you use for recording or do you have a road one and a "nice" bass?***
@@ -131,6 +132,7 @@ To get together with two other guys that could actually go hit the road. I was s
 *Vic*: That all came like trial by fire. I never set out to be a vocalist and it was one of those things where we weren't finding any, Tommy couldn't sing. We'd sit down there in the basement like "We're gonna have to sing." and I just kind of took the reins with it because it was easier that way. As far as any type of training, I never sang in school or anything like that. People ask me "You must've had vocal lessons." And I'm like "no, no." I'm just learning how to not do it wrong, I guess. Over enough shows, you know, you just, you ask me to sing anything else other than Koffin Kats, it's barely going to happen, but as long as it's in the realm of what I know, I can do it.
 
 ***It's the punk thing again, just get on with it. 
+
 What was the transition like from being a band, having "normal" jobs and then being able to say "Forget this, we're doing the band full time now."?***
 
 *Vic*: It was very gradual. It used to be we'd go off for a couple months a year on tour and that's all we could get away from our jobs. We were fortunate in that Tommy and I worked at the same place, and Eric worked for the post office. Se always busted ass when we were working, so we'd be able to suck up and go "Heeeeey, can I have three months off next year?", and then finally it got to the point where our jobs were like "Hey, you guys are gone for half the year, we're going to have to knock you down to part-time." We were doing that for a while but then we decided that between being able to tour in Europe *and* tour North America, we could tour all year round! So we eventually made the decision to go "Okay, well we're going to have to let our jobs go and we'll focus mainly on just touring." and that's why we do so many shows a year. It's not like we're getting rich doing this! We play for three months and we'll take like couple weeks off and then we go hit the road again because all the savings have been used up.
@@ -142,6 +144,7 @@ What was the transition like from being a band, having "normal" jobs and then be
 ***What are the major differences between touring the states compared to coming over to Europe, and is the UK different to the mainland?***
 
 *John*: Yes, yes, and yes, and yes to all those questions! This is the first touring band that I've been a part of. I quit my job though in early 2008 and moved across the United States to get my degree in audio engineering. My whole plan was to be a freelance audio engineer, focus on that. It was getting to the point with my job where I was turning down clients to record because I had to go work in a store and make less money than I would be making in the studio. So it's like, "Okay I quit my job." I did that right before the economic downturn in the states so I was like, "Ah!". But anyway, I went out, got my degree, came back to Detroit and I've been a freelance engineer since. You know, we come out here. We tour the states, it's cool, everything's good, I'm finding my rhythm as a guitarist and we get over here and it's like, bang, there's a whole new world with a whole new set of challenges and learning experiences. Not only that but, the languages are different, food's different, the culture's different, it is a different experience. But it's not bad, it's good! Lufthansa broke my pedal board, so the first show over here, we found out an hour before we go on and it's like "Shit crap!" So then we're scrambling to get an effects pedal, and then the next day, we have another show so we go to the music store and buy another effects pedal and it's faulty right out of the box and it's like "Arg, what are we gonna do!?". So, other than gear issues, everything's been pretty smooth. He (Vic) had a horn blow in his speaker cab, so we had to replace that.
+
 Other than gear it's just been pretty smooth, but really the crowds are just as big, they just react a little differently here than in the states. Then again, as I say it out loud, I feel like the crowds that are our age, they're hip to just stand there and nod their head and drink their beers, but the younger crowds, well I guess it depends on how many beers they have in them, because the more beers you get in you start getting wild! One of the things over here is that a lot more venues are made of stone, vs when we're over in the states.
 
 ***We've got more old buildings than you guys.***
@@ -247,6 +250,7 @@ Other than gear it's just been pretty smooth, but really the crowds are just as 
 *Vic*: You feel me though?
 
 ***I get the general idea, yeah. Now there are very few shows that run on the actual radio that are worth listening to. Internet radio is a big thing now though. I think it tends to be very specialised, like if you know what you're looking for, you can just go and be like "I want to listen to psychobilly" or whatever. And that's all you'll hear and you won't get that random song I guess. You lose some of that chance discoverability. 
+
 Anyway, John, how are you fitting into the band?***
 
 *John*: I think, I feel good and, really, my feedback on that is I know how *I* feel, but my feedback on that comes from him and Eric, and then the fans and our friends. Really, the people that I'm concerned with what they think of me and how I'm settling in are the people that have been seeing Koffin Kats for years and years and have been through the change from Tommy to Ian and now from Ian to me. My biggest thing is, I just want to honour their legacies, bring all their good stuff to the table. We get along great. We've been working together for years already, so we knew we could work together. At first it was just a question of "Can I handle being on the road? Can we get along on the road? Am I going to annoy them?". Which I do. All the time, all the time…
@@ -336,6 +340,7 @@ Anyway, John, how are you fitting into the band?***
 *John*: "No, that's supposed to be there!"
 
 ***It's like "no that's fine….."***
+
 ***Cheesy interview question alert! If you were stuck on a desert island-***
 
 *laughter*
