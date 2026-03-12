@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/My (Redacted) CV.md","title":"My (Redacted) CV","created":"2025-11-03 07:17:54","modified":"2025-11-03 07:20:18","cssclasses":""}
+{"publish":true,"permalink":"/My (Redacted) CV.md","title":"My (Redacted) CV","created":"2025-11-03 07:17:54","modified":"2026-03-12 17:24:42","cssclasses":""}
 ---
 
 
@@ -28,8 +28,11 @@ A keen photographer, I own a both a traditional 35mm SLR and a few digital camer
 ### Secret Sales
 
 **May 2022 - Current**
+
 Working as part of a close-knit team of customer success advocates for a rapidly expanding e-commerce marketplace platform, ensuring any issues our customers have are dealt with promptly to guarantee their experience leads to them coming back for more. My role entails liaising with the sellers on our platform and our customers, often fighting for what's best for the customer while being mindful of the needs of the business. 
+
 As our company grows rapidly, I often notice patterns that suggest a bigger problem. My cross-departmental work helps us prevent future catastrophe. I enjoy presenting solutions, or at least temporary fixes, when raising these issues.
+
 More details in [[My Role at Secret Sales]]
 
 ### Tesco Express

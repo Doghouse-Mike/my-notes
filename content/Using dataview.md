@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Using dataview.md","aliases":"","title":"Using Dataview","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:37","cssclasses":""}
+{"publish":true,"permalink":"/Using dataview.md","aliases":"","title":"Using Dataview","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:35","cssclasses":""}
 ---
 
 
@@ -40,6 +40,7 @@ Example:
 > ***
 
 *** dataview
+
 TASK from #todo
 
 ***

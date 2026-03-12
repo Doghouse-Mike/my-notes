@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Free course notes.md","title":"Free Course Notes","created":"2025-12-09 21:54:16","modified":"2026-01-16 17:59:18","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Free course notes.md","title":"Free Course Notes","created":"2025-12-09 21:54:16","modified":"2026-03-12 17:25:04","cssclasses":""}
 ---
 
 
@@ -54,6 +54,7 @@ caused by humans, namely *accidents*.
 - Network Security. The vast majority of computers these days are connected to one or more networks, which may be breached by insiders or outsiders. When a network is accessed or in any way compromised without authorisation, this is considered a network security issue
 
  **there is no such thing as 100% flawless protection from attacks**
+
 Constantly new/refined techniques. Perpetual cat n mouse on both sides
 
 ## Microsoft's 10 Laws of Cyber Security:

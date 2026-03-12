@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Swift notes.md","aliases":"","title":"Swift Notes","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:12","cssclasses":""}
+{"publish":true,"permalink":"/Swift notes.md","aliases":"","title":"Swift Notes","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:36","cssclasses":""}
 ---
 
 
@@ -12,6 +12,7 @@
 ### Day 1
 
 *Variable*'s you can change their *value* whenever
+
 var name = "Ted"
 
 Can then go

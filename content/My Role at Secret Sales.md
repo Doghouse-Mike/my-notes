@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/My Role at Secret Sales.md","title":"My Role at Secret Sales","created":"2025-11-03 07:15:12","modified":"2026-02-04 08:38:51","cssclasses":""}
+{"publish":true,"permalink":"/My Role at Secret Sales.md","title":"My Role at Secret Sales","created":"2025-11-03 07:15:12","modified":"2026-03-12 17:24:42","cssclasses":""}
 ---
 
 
@@ -12,6 +12,7 @@ There's a good chunk of detective work too; resolving ghost orders, digging thro
 One of my proudest ongoing contributions is maintaining and improving our internal documentation on Notion. From full SOPs to video tutorials, flowcharts, FAQs, and top tips. I push updates proactively and encourage agents to help themselves (and each other).
 
 **Key things I get stuck into:**
+
 - Handling customer escalations via chat and email, especially the spicier ones
 - Monitoring Slack Help and Escalations channels, answering queries and ensuring quick turnaround (5 min SLA)
 - Managing agent scheduling in real time – chat coverage, lunch breaks, and general adherence
@@ -22,6 +23,7 @@ One of my proudest ongoing contributions is maintaining and improving our intern
 - Supporting QA, training, rota planning, and performance tracking
 
 **Highlights:**
+
 - Escalated (loudly and often) the issue of ghost orders, helping the business recover over £200k by October 2025 that would otherwise have been lost
 - Spotted patterns across international returns and seller behaviour, improving resolution times and refund accuracy
 - Tested and fed back on our new OMS system, squashing bugs and improving processes along the way
