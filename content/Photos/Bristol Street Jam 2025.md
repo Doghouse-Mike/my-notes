@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-13 10:57:47","tags":["BMX","gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-14 23:53:48","tags":["BMX","gigs","photos"],"cssclasses":""}
 ---
 
 
@@ -12,7 +12,7 @@ Much fun was had, skin was lost, and then some bands (all of em with [Tom Sturme
 The fine folks at [Dig](https://digbmx.com) (courtesy of [Fred Murray](https://www.instagram.com/frankblurry?igsh=MWg0dmk3eHJvbWNwZQ==)) filmed the entire extravaganza.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbuLf8zN7pE?si=e37OUOYCISYpXpmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![[R0037590 1 Edited 1.jpg]]
+![[Pasted image 20260314235337.jpg]]
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025.jpg]]
 
@@ -78,19 +78,11 @@ The fine folks at [Dig](https://digbmx.com) (courtesy of [Fred Murray](https://w
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-31.jpg]]
 
-![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-32.jpg]]
-
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-33.jpg]]
-
-![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-34.jpg]]
-
-![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-35.jpg]]
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-36.jpg]]
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-37.jpg]]
-
-![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-38.jpg]]
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-39.jpg]]
 
