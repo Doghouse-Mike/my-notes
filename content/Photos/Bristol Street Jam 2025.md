@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-15 00:17:11","tags":["BMX","gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-15 23:33:40","tags":["BMX","gigs","photos"],"cssclasses":""}
 ---
 
 
@@ -13,7 +13,7 @@ The fine folks at [Dig](https://digbmx.com) (courtesy of [Fred Murray](https://w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DbuLf8zN7pE?si=e37OUOYCISYpXpmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![[Pasted image 20260315001657.jpg]]
+![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025-158.jpg]]
 
 ![[Attachments/Photos/Bristol Street Jam 2025/IMG-Bristol Street Jam 2025.jpg]]
 
