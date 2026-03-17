@@ -23,7 +23,7 @@ Just because that's what I know. Other options are available.
 
 Name it, throw in a description, hit "Create repository"
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-1.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-15.png]]
 
 ## Enable GitHub Pages
 
@@ -35,7 +35,7 @@ Name it, throw in a description, hit "Create repository"
 
 Click the "code" bit in the top left of the GitHub window
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-2.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-16.png]]
 
 Then ya want that .github/workflows folder, then "Add file" (top right)
 
@@ -43,7 +43,7 @@ Then ya want that .github/workflows folder, then "Add file" (top right)
 
 Copy/paste the code from [this page](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup), don't forget to add the .yml extension or nothing will work. Not sure if case is important, but caught my iPad trying to capitalise "deploy"
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-3.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-17.png]]
 
 (Also that should by `.yml`, *not* the `.yaml` I've done in the screenshot. Insert facepalm emoji.)
 
@@ -58,7 +58,7 @@ Setup Ala:
 5. Under **Permissions** > **Repository permissions**, set **Contents** to **Read and write**.
 6. Click **Generate token**.
 7. Copy the token immediately.
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-4.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-18.png]]
 
 Could set the token to never expire, weigh the security/hassle ratio for yourself.
 
@@ -77,20 +77,20 @@ Could set the token to never expire, weigh the security/hassle ratio for yoursel
 
 (Yours will look different, based on theme, and obvs will have your GitHub deets)
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-5.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-19.png]]
 
 The rest of the settings are down to preference/setup, but mine look like:
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-6.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-20.png]]
 
 I haven't bothered setting up a custom domain for this repo, as it's a test that I'll probably throw away in a minute or five (Or just leave it to languish forever).
 
 Hit that "Open Publication Centre" command, and give it a minute to think about it
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-1.jpg]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-3.jpg]]
 
 [That's it?](https://doghouse-mike.github.io/Bin-me/)
 
-![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-7.png]]
+![[Attachments/Setting up Quartz From Scratch using Syncer/IMG-Setting up Quartz From Scratch using Syncer-21.png]]
 
 This would be where I recall some parts from the official docs around tweaking `quartz.config.ts` with domains, comments, setting up [themes](https://github.com/saberzero1/quartz-themes) etc. Some of which is covered in [[Mostly How I Built This Site]] but [you get what you get.](https://www.youtube.com/watch?v=_1-ouKP-qZU&list=RD_1-ouKP-qZU&start_radio=1)

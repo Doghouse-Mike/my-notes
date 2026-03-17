@@ -58,7 +58,7 @@ Jobs:
 - [[TaskNotes/Deliver Deebo]]
 - [[TaskNotes/Escape with a live sample of the virus]]
 
-![[Attachments/Pasted image 20250401192102.png]]
+![[Attachments/SWRPG/Crisis on Columex/ED's Story So Far/IMG-ED's Story So Far-17.png]]
 
 ## Official Writeup:
 
@@ -84,4 +84,4 @@ Jobs:
 - Deliver Jax's stuff - Profit
 - Deliver Deebo
 
-![[Attachments/Holonet.ColumexUpdate.png]]
+![[Attachments/SWRPG/Crisis on Columex/Crisis on Columex 20240527/IMG-Crisis on Columex 20240527-2.png]]

@@ -5,9 +5,9 @@
 
 # Quartz Syncer Error
 
-![[Attachments/32015B70-C455-4FB7-A3C1-BA7967FF650B_4_5005_c 2.jpeg]]
+![[Attachments/Quartz syncer error/IMG-Quartz syncer error.jpeg]]
 
-![[Attachments/D27BC866-4BB1-4F18-927D-B90B361C6B03_4_5005_c.jpeg]]
+![[Attachments/Quartz syncer error/IMG-Quartz syncer error-2.jpeg]]
 
 "Fixed" by using [BRAT](https://github.com/TfTHacker/obsidian42-brat) to roll back to version 1.8.10 of the syncer plugin. 
 
