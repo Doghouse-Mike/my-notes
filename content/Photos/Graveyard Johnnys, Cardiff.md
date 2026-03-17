@@ -5,7 +5,7 @@
 
 # Graveyard Johnnys, Cardiff
 
-![[Attachments/Photos/Graveyard Johnnys, Cardiff/IMG-Graveyard Johnnys, Cardiff.jpg]]
+![[obsidian-media-toolkit-trash/1773703308113__Attachments-2FPhotos-2FGraveyard-20Johnnys-2C-20Cardiff-2FIMG-Graveyard-20Johnnys-2C-20Cardiff.jpg]]
 
 ![[Attachments/Photos/Graveyard Johnnys, Cardiff/IMG-Graveyard Johnnys, Cardiff-47.jpg]]
 

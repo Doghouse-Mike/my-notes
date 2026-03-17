@@ -23,7 +23,7 @@
 
 ![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-32.png]]
 
-![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-33.png]]
+![[obsidian-media-toolkit-trash/1773703308684__Attachments-2FPhotos-2FJD-20McPherson-20at-20The-20Bullingdon-2FIMG-JD-20McPherson-20at-20The-20Bullingdon-33.png]]
 
 ![[Attachments/Photos/JD McPherson at The Bullingdon/IMG-JD McPherson at The Bullingdon-34.png]]
 
