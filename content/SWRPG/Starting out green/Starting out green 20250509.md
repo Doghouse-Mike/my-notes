@@ -13,7 +13,7 @@ Ship decided on was a YT 2100
 
 ![[Pasted image 20250905211736.png]
 
-![[Attachments/Pasted image 20250905211752.png]]
+![[obsidian-media-toolkit-trash/1773703282067__Attachments-2FPasted-20image-2020250905211752.png]]
 
 ![[Attachments/Pasted image 20250905211919.png]]
 

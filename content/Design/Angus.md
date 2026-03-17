@@ -9,20 +9,20 @@ Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, bec
 
 ![[Attachments/Design/Angus/IMG-Angus.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-55.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-82.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-56.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-83.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-57.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-84.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-58.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-85.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-59.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-86.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-60.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-87.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-61.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-88.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-62.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-89.jpg]]
 
-![[Attachments/Design/Angus/IMG-Angus-63.jpg]]
+![[Attachments/Design/Angus/IMG-Angus-90.jpg]]

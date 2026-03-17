@@ -9,7 +9,7 @@
 
 Kestrel. A bit munchkiny, but basically a slightly better/different version of the common HWK
 
-![[Attachments/KST-100 a.jpg]]
+![[obsidian-media-toolkit-trash/1773703238472__Attachments-2FKST-100-20a.jpg]]
 
 ## Lancer
 
