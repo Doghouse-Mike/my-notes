@@ -31,11 +31,11 @@ I had a chat with some of the Koffin Kats lads before this gig, you can read tha
 
 ![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-76.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-77.jpg]]
+![[obsidian-media-toolkit-trash/1773703288079__Attachments-2FPhotos-2FKoffin-20Kats-2C-20Cowboy-20and-20the-20Corpse-20at-20The-20Louisiana-2FIMG-Koffin-20Kats-2C-20Cowboy-20and-20the-20Corpse-20at-20The-20Louisiana-77.jpg]]
 
 ![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-79.jpg]]
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-80.jpg]]
+![[obsidian-media-toolkit-trash/1773703295399__Attachments-2FPhotos-2FKoffin-20Kats-2C-20Cowboy-20and-20the-20Corpse-20at-20The-20Louisiana-2FIMG-Koffin-20Kats-2C-20Cowboy-20and-20the-20Corpse-20at-20The-20Louisiana-80.jpg]]
 
 ![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-82.jpg]]
 
