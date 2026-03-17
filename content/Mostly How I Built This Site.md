@@ -57,7 +57,7 @@ I didn't 100% do things in this order, but think this is how I'd handle it if I 
 
 Quartz won't publish anything to your site that has the property of "draft: true". So, using the [[obsidian://show-plugin?id=obsidian-linter\|Linter]] Plugin, I added that to the "Text to insert" box in the "YAML" tab of Linter's settings. Hit the "Lint all files in the vault" option from the command palette, and give it a few seconds (or more) to trawl through and update all the files. Then, as I didn't have a massive amount of pre-existing notes that I wanted published, I had a quick dig through my vault and unticked the property (thus making it "draft: false") of anything I *did* want published, et voila. 
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-22.png]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-34.png]]
 
 Otherwise stick to what Nicole suggests. Though I've also just gone in and added a "Publish:" flag. Possibly more on that later when I've explored the [Quartz Syncer](https://github.com/saberzero1/quartz-syncer) plugin further. In theory that'll let me tick things off and manage all the actual publishing of new content from within Obsidian itself, which is ideal, as I'd prefer to handle everything from my iPad, rather than faffing with the command line each time. I *was* planning to set something up to automatically run the ```npx quartz sync``` command on some sort of schedule, but it'd appear that won't be necessary. Bonus!
 
@@ -157,7 +157,7 @@ You might need to exercise a little patience on the "Behold Your New Site!" step
 
 Porkbun has a "set up for github" button, so was a matter of clicking of that, then adding the domain in to the "Pages" section of the settings for the GitHub repo.
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-23.png]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-35.png]]
 
 ### Theming
 
@@ -167,11 +167,11 @@ Themes were easy enough to setup using [quartz-themes](https://github.com/saberz
 
 Mostly followed the [official docs](https://quartz.jzhao.xyz/features/comments). I did get myself confused about the "Add the following 'script> tag to your website's template where you want the comments to appear" part. Can ignore that bit and skip to the "Finally, in `quartz.layout.ts`" section, and copying/amending the required bits, so it ends up looking something like [this](https://github.com/Doghouse-Mike/my-notes/blob/v4/quartz.layout.ts): 
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-12.jpg]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-18.jpg]]
 
 [The Discord](https://discord.gg/cRFFHYye7t) proved handy for this part too, even though I managed to do that thing where writing out the question led me to work out what the solution was almost right away. As you do. 
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-13.jpg]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-19.jpg]]
 
 ### "Clickable" Images
 
@@ -229,7 +229,7 @@ Component.Explorer({
 
 Then there were some shenanigans about whether it's "date" or "created" that's important, turns out the "created" field from my frontmatter gets translated to "date" at some point, and another part of Quartz was deliberately removing that from what was passed on to the client side (read web browser). SO, in ```quartz/plugins/emitters/contentIndex.tsx``` there's a line "delete content.date" that is to blame. Adding a couple of slashes in front of that "comments it out". Changing just that line to "// delete content.date" had everything working as expected. 
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-24.png]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-36.png]]
 
 There may be a cleaner way of doing it, but this works, good enough for me.
 
@@ -241,7 +241,7 @@ In theory it should be possible to set a Mac to run a shortcut/script/etc based 
 
 #### Mac Shortcut:
 
-![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-25.png]]
+![[Attachments/Mostly How I Built This Site/IMG-Mostly How I Built This Site-37.png]]
 
 The "Wait" action is to give sync time to catch up. The ```npx quartz build``` command will *very* temporarily remove everything from the **Content** folder as part of the push to Github, and if Obsidian (with Sync) is running at the time, it will freak out big time. The "Wait" gets around that, two full minutes is a bit a long, but I'd rather be safe than sorry. 
 
