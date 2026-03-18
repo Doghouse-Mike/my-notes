@@ -5,7 +5,7 @@
 
 # Z-X3ED
 
-![[Attachments/ED.jpg]]
+![[Attachments/SWRPG/Crisis on Columex/Z-X3ED/IMG-Z-X3ED.jpg]]
 
 Character info for [[SWRPG/Crisis on Columex/SWRPG]]
 
@@ -194,7 +194,7 @@ Enduring (+1 Soak)
 
 ?25 XP -Espionage Programming: +1 Cunning +1 Deception +1 Cool 
 
-![[Attachments/IMG_0623 1.jpeg]]
+![[Attachments/SWRPG/Crisis on Columex/Z-X3ED/IMG-Z-X3ED.jpeg]]
 
 Look into Bounty Hunter - Gadgeteer spec. Gets mechanics+coercion as class skills, bonuses to mechanical things and some combat stuff, offensive and defensive. 
 

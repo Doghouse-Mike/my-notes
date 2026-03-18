@@ -15,4 +15,4 @@ With enough time/XP would probably do both anyway. Leaning towards Droid Tech *f
 
 Droid Tech would still provide some combat advantages, and there are still a few talents to pickup in Gadgeteer I could grab to boost that too. 
 
-![[Attachments/KD Prog.pdf]]
+![[Attachments/SWRPG/Starting out green/KD Progression Options/IMG-KD Progression Options.pdf]]

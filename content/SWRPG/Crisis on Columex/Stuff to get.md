@@ -25,7 +25,7 @@ Concealed escape kit
 
 EXOGLOVE (+1 brawn, grappling hook)
 
-[[Gadgets and Gear.pdf#page=38&selection=98,6,238,6|Gadgets and Gear, page 38]]
+[[IMG-Stuff to get.pdf#page=38&selection=98,6,238,6|Gadgets and Gear, page 38]]
 
 # Weapon Mods
 
@@ -35,19 +35,19 @@ EXOGLOVE (+1 brawn, grappling hook)
 
 Custom Grip (accurate +1, remove 1 setback from checks)
 
-[[Gadgets and Gear.pdf#page=84&selection=478,8,508,0|Gadgets and Gear, page 84]]
+[[IMG-Stuff to get.pdf#page=84&selection=478,8,508,0|Gadgets and Gear, page 84]]
 
 Rapid-recharge xciter (for autofire, but reduces accuracy) Autofire increases difficulty of check by 1. Inaccurate 2 adds setback die
 
-[[Gadgets and Gear.pdf#page=89&selection=36,3,90,12|Gadgets and Gear, page 89]]
+[[IMG-Stuff to get.pdf#page=89&selection=36,3,90,12|Gadgets and Gear, page 89]]
 
 Set Trigger (automatic advantage on first attack of each encounter)
 
-[[Gadgets and Gear.pdf#page=90&selection=480,0,494,12|Gadgets and Gear, page 90]]
+[[IMG-Stuff to get.pdf#page=90&selection=480,0,494,12|Gadgets and Gear, page 90]]
 
 Weapon signature reduction (increase difficulty of scanners to detect weapon)
 
-[[Gadgets and Gear.pdf#page=94&selection=507,1,517,2|Gadgets and Gear, page 94]]
+[[IMG-Stuff to get.pdf#page=94&selection=507,1,517,2|Gadgets and Gear, page 94]]
 
 [Paired weapons](https://star-wars-rpg-ffg.fandom.com/wiki/Paired_Weapons)
 
@@ -69,7 +69,7 @@ Weapon signature reduction (increase difficulty of scanners to detect weapon)
 
 CAAF-2 avionics interface - +1 piloting
 
-[[Gadgets and Gear.pdf#page=116&selection=668,7,670,1|Gadgets and Gear, page 116]]
+[[IMG-Stuff to get.pdf#page=116&selection=668,7,670,1|Gadgets and Gear, page 116]]
 
 Escape circuit fits with character, restraining bolts can be resisted with an easy discIpline check. 
 
@@ -95,7 +95,7 @@ Brain implant +1 int as with arms
 
 Lando's capes! Perception check to pick a good cape and upgrade charm check(s)
 
-[[Gadgets and Gear.pdf#page=134&selection=330,5,330,6|Gadgets and Gear, page 134]]
+[[IMG-Stuff to get.pdf#page=134&selection=330,5,330,6|Gadgets and Gear, page 134]]
 
 Weapon maintenance kit, adds 2x boost to repair/maintain/modify a weapon type
 

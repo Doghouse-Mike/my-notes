@@ -9,7 +9,7 @@ Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
 
 I've created a version of the Journal itself as a Template for my Daily Notes within Obsidian, which looks a little something like this:
 
-![[Attachments/Pasted image 20250411072056.png]]
+![[Attachments/Theme/IMG-Theme.png]]
 
 # Theme
 
@@ -35,7 +35,7 @@ Broadness of a theme allows it to change if needed. I am where I am *now*. The t
 
 Thinking about my thinking changes who I am 
 
-![[Attachments/Pasted image 20240901180350.png]]
+![[Attachments/Theme/IMG-Theme-2.png]]
 
 ## Daily Task Guidance
 

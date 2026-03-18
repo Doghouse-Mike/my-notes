@@ -15,7 +15,7 @@ Alliance command is gonna grant us some supplies, just need to work out what we'
 
 ## Heating System
 
-Joey/Willie called out the [Heating System](https://star-wars-rpg-ffg.fandom.com/wiki/Heating_System) to be modded to armour. ![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping.png]]
+Joey/Willie called out the [Heating System](https://star-wars-rpg-ffg.fandom.com/wiki/Heating_System) to be modded to armour. ![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping.png]]
 
 Only works on armour that can be sealed though. We could craft some more custom armour for everyone else, and apply this mod. 
 
@@ -32,7 +32,7 @@ I think they're bikes, so getting a sealed cockpit installed is out of scope? Ex
 
 [These](https://star-wars-rpg-ffg.fandom.com/wiki/Thermal_Cloak) would do the job for anyone not in sealed armour. 
 
-![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-1.png]]
+![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-6.png]]
 
 And could be thrown on over the top of whatever is already being worn (encumbrance allowing).
 
@@ -40,7 +40,7 @@ And could be thrown on over the top of whatever is already being worn (encumbran
 
 More of a [replacement](https://star-wars-rpg-ffg.fandom.com/wiki/Adverse_Environment_Gear) for current clothing. 
 
-![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-2.png]]
+![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-7.png]]
 
 Not as handy in a fight, would potentially involve getting changed/carrying "fighty" clothes around until needed. 
 
@@ -48,7 +48,7 @@ Not as handy in a fight, would potentially involve getting changed/carrying "fig
 
 [Pricier](https://star-wars-rpg-ffg.fandom.com/wiki/P-14_Hazardous_Industry_Suit), but with more Soak and an extra hard point compared to the AEG
 
-![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-3.png]]
+![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-8.png]]
 
 Could be a better option to basically "live" in for the duration. 
 
@@ -60,13 +60,13 @@ Something/anything to protect their squishy eyes from the wind.
 
 [Yea, really](https://star-wars-rpg-ffg.fandom.com/wiki/Pretormin_Plastent)
 
-![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-4.png]]
+![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-9.png]]
 
 Would let everyone rest up if we're caught out in the field or need to do some recon away from civilisation. 
 
 Although the [fancy tent](https://star-wars-rpg-ffg.fandom.com/wiki/Gandorthral_Portable_Survival_Shelter) seems better for less money, somehow. 
 
-![[Attachments/Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-5.png]]
+![[Attachments/SWRPG/Starting out green/Cold climate shopping/IMG-Cold climate shopping-10.png]]
 
 Without a tent, we're making resilience checks regularly. 
 

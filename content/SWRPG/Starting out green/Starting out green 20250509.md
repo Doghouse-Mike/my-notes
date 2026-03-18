@@ -9,13 +9,13 @@ Game notes
 
 Ship decided on was a YT 2100
 
-![[Attachments/Pasted image 20250905211401.png]]
+![[Attachments/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509.png]]
 
 ![[Pasted image 20250905211736.png]
 
-![[obsidian-media-toolkit-trash/1773703282067__Attachments-2FPasted-20image-2020250905211752.png]]
+![[Attachments/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509-3.png]]
 
-![[Attachments/Pasted image 20250905211919.png]]
+![[Attachments/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509-4.png]]
 
 Things to do potentially this session:
 

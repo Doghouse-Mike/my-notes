@@ -41,7 +41,7 @@ Rimer catches sight of the runner, but he's making for the central stairs, catch
 
 KD heads towards the main entrance (where the runner's apparently heading). Brace for clothesline. 
 
-![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220-3.webp]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220.webp]]
 
 Zarlo's got his thermal goggles out, but there are too many signals within the building to make out anything useful.
 
@@ -101,7 +101,7 @@ The Tepani weapons might be more mechanical, rather than the more mystical/atune
 
 Niall doesn't want anyone to see the bits about atuning, but would like copies of the rest of it for his archives. They get copies without the atuning parts, and the location of the temple on Dxun (*not* the one on Onderon), and we get the actual translations. 
 
-![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220-4.jpg]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260220/IMG-Starting Out Green 20260220-6.jpg]]
 
 Further discussion will be required over deciding on the selling the actual tablets, but we can keep in touch. 
 

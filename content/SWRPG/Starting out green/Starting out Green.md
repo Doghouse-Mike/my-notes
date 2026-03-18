@@ -7,110 +7,110 @@
 
 ## Beings
 
-![[Attachments/KD.pdf]]
+![[Attachments/SWRPG/Starting out green/Starting out Green/IMG-Starting out Green.pdf]]
 
-![[Attachments/Sazzil3-21.pdf]]
+![[Attachments/SWRPG/Starting out green/Starting out Green/IMG-Starting out Green-3.pdf]]
 
-![[Attachments/Rimer.pdf]]
+![[Attachments/SWRPG/Starting out green/Starting out Green/IMG-Starting out Green-4.pdf]]
 
 ## Places
 
-![[Ossus (SWF02).JPEG]]
+![[IMG-Starting out Green.JPEG]]
 
-![[Moraband (Korriban) SWF02.JPEG]]
+![[IMG-Starting out Green-49.JPEG]]
 
-![[Ilum (SWF02).JPEG]]
+![[IMG-Starting out Green-50.JPEG]]
 
-![[Dorin (SWF02).JPEG]]
+![[IMG-Starting out Green-51.JPEG]]
 
-![[Dagobah (SWF02).JPEG]]
+![[IMG-Starting out Green-52.JPEG]]
 
-![[Coruscant (SWF02).JPEG]]
+![[IMG-Starting out Green-53.JPEG]]
 
-![[Cerea (SWF02).JPEG]]
+![[IMG-Starting out Green-54.JPEG]]
 
-![[Nar Shaddaa (SWE11).JPEG]]
+![[IMG-Starting out Green-55.JPEG]]
 
-![[Nal Hutta (SWE11).JPEG]]
+![[IMG-Starting out Green-56.JPEG]]
 
-![[Kwenn Space Station (SWE11).JPEG]]
+![[IMG-Starting out Green-57.JPEG]]
 
-![[Ylesia (SWE11).JPEG]]
+![[IMG-Starting out Green-58.JPEG]]
 
-![[Toydaria (SWE11).JPEG]]
+![[IMG-Starting out Green-59.JPEG]]
 
-![[Sriluur (SWE11).JPEG]]
+![[IMG-Starting out Green-60.JPEG]]
 
-![[Saki (SWE11).JPEG]]
+![[IMG-Starting out Green-61.JPEG]]
 
-![[Klatooine (SWE11).JPEG]]
+![[IMG-Starting out Green-62.JPEG]]
 
-![[Kintan (SWE11).JPEG]]
+![[IMG-Starting out Green-63.JPEG]]
 
-![[Ord Radama (SWA04).JPEG]]
+![[IMG-Starting out Green-64.JPEG]]
 
-![[Ord Mantell (SWE02).JPEG]]
+![[IMG-Starting out Green-65.JPEG]]
 
-![[Jagomir (SWA04).JPEG]]
+![[IMG-Starting out Green-66.JPEG]]
 
-![[Arda I (SWA04).JPEG]]
+![[IMG-Starting out Green-67.JPEG]]
 
-![[Sullust (SWA02).JPEG]]
+![[IMG-Starting out Green-68.JPEG]]
 
-![[Imperial Center (Coruscant) (SWA02).JPEG]]
+![[IMG-Starting out Green-69.JPEG]]
 
-![[Hoth (SWA02).JPEG]]
+![[IMG-Starting out Green-70.JPEG]]
 
-![[Dac (Mon Calamari) (SWA02).JPEG]]
+![[IMG-Starting out Green-71.JPEG]]
 
-![[Chandrila (SWA02).JPEG]]
+![[IMG-Starting out Green-72.JPEG]]
 
-![[Byss (SWA02).JPEG]]
+![[IMG-Starting out Green-73.JPEG]]
 
-![[Alderaan (SWA02).JPEG]]
+![[IMG-Starting out Green-74.JPEG]]
 
-![[Vagran (SWE07).JPEG]]
+![[IMG-Starting out Green-75.JPEG]]
 
-![[Froz (SWE07).JPEG]]
+![[IMG-Starting out Green-76.JPEG]]
 
-![[Corfai (SWE07).JPEG]]
+![[IMG-Starting out Green-77.JPEG]]
 
-![[Sacorria (SWE07).JPEG]]
+![[IMG-Starting out Green-78.JPEG]]
 
-![[Aurea (SWE07).JPEG]]
+![[IMG-Starting out Green-79.JPEG]]
 
-![[Nubia (SWE07).JPEG]]
+![[IMG-Starting out Green-80.JPEG]]
 
-![[Duro (SWE07).JPEG]]
+![[IMG-Starting out Green-81.JPEG]]
 
-![[Centerpoint Station (SW07).JPEG]]
+![[IMG-Starting out Green-82.JPEG]]
 
-![[Talus Tralus (SWE07).JPEG]]
+![[IMG-Starting out Green-83.JPEG]]
 
-![[Selonia (SWE07).JPEG]]
+![[IMG-Starting out Green-84.JPEG]]
 
-![[Drall (SWE07).JPEG]]
+![[IMG-Starting out Green-85.JPEG]]
 
-![[Corellia (SWE07).JPEG]]
+![[IMG-Starting out Green-86.JPEG]]
 
-![[Corellia (SWE02).JPEG]]
+![[IMG-Starting out Green-87.JPEG]]
 
-![[Tatooine (SWE02).JPEG]]
+![[IMG-Starting out Green-88.JPEG]]
 
-![[Ryloth (SWE02).JPEG]]
+![[IMG-Starting out Green-89.JPEG]]
 
-![[Nal Hutta (SWE02).JPEG]]
+![[IMG-Starting out Green-90.JPEG]]
 
-![[Kessel (SWE02).JPEG]]
+![[IMG-Starting out Green-91.JPEG]]
 
-![[Fondor (SWE02).JPEG]]
+![[IMG-Starting out Green-92.JPEG]]
 
-![[Bespin (SWE02).JPEG]]
+![[IMG-Starting out Green-93.JPEG]]
 
-![[Raxus Prime (SWE05).JPEG]]
+![[IMG-Starting out Green-94.JPEG]]
 
-![[Cholganna (SWE05).JPEG]]
+![[IMG-Starting out Green-95.JPEG]]
 
-![[The Wheel (SWE05).JPEG]]
+![[IMG-Starting out Green-96.JPEG]]
 
 [[SWRPG/Starting out green/KD-40N]]

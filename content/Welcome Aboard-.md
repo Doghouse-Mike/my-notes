@@ -7,7 +7,7 @@
 
 # Welcome Aboard!
 
-![[Attachments/E2ABA691-689E-4714-A734-8E4CA2FF38BF 1.jpeg]]
+![[Attachments/Welcome Aboard-/IMG-Welcome Aboard-.jpeg]]
 
 Bonsoir, I'm not *entirely* sure what this is going to become. I *think* we're going to end up with some sort of hybrid of blog, portfolio, and [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/).
 

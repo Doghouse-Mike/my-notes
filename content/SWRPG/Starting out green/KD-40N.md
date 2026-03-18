@@ -15,7 +15,7 @@
 
 KX series droid.
 
-Can't recall previous assignments due to frequent memory wipes. Last assignment was working security for the [[Whisper base.jpg|Whisper Base]]. Lt.Dervest was in charge, they didn't like droids, KD in particular. Didn't trust him, had him doing menial tasks a lot of the time, cleaning, maintenance and the like. "Check the perimitter"
+Can't recall previous assignments due to frequent memory wipes. Last assignment was working security for the [[IMG-KD-40N.jpg|Whisper Base]]. Lt.Dervest was in charge, they didn't like droids, KD in particular. Didn't trust him, had him doing menial tasks a lot of the time, cleaning, maintenance and the like. "Check the perimitter"
 
 Queue some sort accident involving getting blasted by the ion engines of a shuttle down during resupply. (K and a maintenance unit? Kinda scrambled both their programming?) KD wakes up in the maintenance shop, awaiting repairs. It's night time, no one is around. Is still nominally functional, but whatever took him out has done a number on his personality. Rather than the loyal Imperial drone of old, he's motivated entirely by the need to repair. Like the mythical elves and the shoemaker, he spends a few hours fixing whatever else has been left in the workshop. Once that's done, he heads out to find other things to fix. Door squeaks on his way out, so he pauses to oil that.
 
@@ -23,7 +23,7 @@ Straightens some pictures in the hall on his way out. Remembers there had been s
 
 Brainbox is still on the fritz though, ends up getting lost, stumbles into some tunnels, walks and walks, gets lost some more. Powers down to try and run some self-diagnostics, aaaaaand ACTION.
 
-![[Attachments/Pasted image 20250602205301.jpg]]
+![[Attachments/SWRPG/Starting out green/KD-40N/IMG-KD-40N-2.jpg]]
 
 ## Background
 

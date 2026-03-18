@@ -107,7 +107,7 @@ Blag our way in to the bar for free based on the "everyone gets to keep their ar
 
 KD's fully collar up, hat on. 
 
-![[Attachments/Pasted image 20260212081229.jpg]]
+![[Attachments/SWRPG/Starting out green/Starting Out Green 20260206/IMG-Starting Out Green 20260206.jpg]]
 
 In the bar, Black Sun are *not* keeping a low profile, blatant insignia on display. We don't attract a lot of attention on our way in though, the boys head to the Sabacc tables. 
 
