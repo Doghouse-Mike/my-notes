@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","aliases":"","title":"Gilded Cage at Moor Beer","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:37:11","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","title":"Gilded Cage at Moor Beer","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:37:11","tags":["gigs","photos"],"cssclasses":""}
 ---
+
 
 
 # Gilded Cage at Moor Beer
