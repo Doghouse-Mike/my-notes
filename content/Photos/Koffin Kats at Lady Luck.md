@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","aliases":"","title":"Koffin Kats at Lady Luck","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:38:22","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","title":"Koffin Kats at Lady Luck","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:38:22","tags":["gigs","photos"],"cssclasses":""}
 ---
+
 
 
 # Koffin Kats at Lady Luck
