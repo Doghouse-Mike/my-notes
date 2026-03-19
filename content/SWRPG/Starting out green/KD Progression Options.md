@@ -3,6 +3,7 @@
 ---
 
 
+
 # KD Progression Options
 
 Think I've narrowed it down to [Droid Tech](https://sw-eote-srd.vercel.app/careers-specializations/technician/droid-tech) vs [Martial Artist](https://sw-eote-srd.vercel.app/careers-specializations/bounty-hunter/martial-artist). One of them is more combat orientated, the other not so much (but still provides combat benefits). 

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Swift notes.md","aliases":"","title":"Swift Notes","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:36","cssclasses":""}
+{"publish":true,"permalink":"/Swift notes.md","title":"Swift Notes","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:36","cssclasses":""}
 ---
+
 
 
 # Swift Notes

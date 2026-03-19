@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/after that another glass of wine.md","aliases":"","title":"After that Another Glass of Wine","created":"2025-04-01 17:12:14","modified":"2026-01-16 16:08:34","cssclasses":""}
+{"publish":true,"permalink":"/after that another glass of wine.md","title":"After that Another Glass of Wine","created":"2025-04-01 17:12:14","modified":"2026-01-16 16:08:34","cssclasses":""}
 ---
+
 
 
 # After that Another Glass of Wine

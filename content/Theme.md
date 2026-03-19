@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Theme.md","aliases":"","title":"Theme","created":"2025-03-24 12:57:20","modified":"2025-12-25 14:07:04","cssclasses":""}
+{"publish":true,"permalink":"/Theme.md","title":"Theme","created":"2025-03-24 12:57:20","modified":"2025-12-25 14:07:04","cssclasses":""}
 ---
+
 
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)

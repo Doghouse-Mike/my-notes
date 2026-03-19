@@ -3,6 +3,7 @@
 ---
 
 
+
 # Cold Climate Shopping
 
 So, we're heading off to colder climes 

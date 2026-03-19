@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/So instead of -I have to-, -I choose to-, but only for 15.md","aliases":"So instead of \"I have to\" I choose to but only for 15","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","modified":"2026-02-10 21:45:28","cssclasses":""}
+{"publish":true,"permalink":"/So instead of -I have to-, -I choose to-, but only for 15.md","aliases":"S o i n s t e a d o f \" I h a v e t o \" I c h o o s e t o b u t o n l y f o r 1 5","title":"On Instead of \"I Have to\", \"I Choose to\"","draft":true,"created":"2025-04-01 17:12:14","modified":"2026-02-10 21:45:28","cssclasses":""}
 ---
+
 
 
 # On Instead of "I Have to", "I Choose to"

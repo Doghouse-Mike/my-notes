@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20240527.md","aliases":"","title":"SWRPG Session 11","created":"2024-05-27 23:23:01","modified":"2025-10-19 21:04:05","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20240527.md","title":"SWRPG Session 11","created":"2024-05-27 23:23:01","modified":"2025-10-19 21:04:05","cssclasses":""}
 ---
+
 
 
 # SWRPG Session 11

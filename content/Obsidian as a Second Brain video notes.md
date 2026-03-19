@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Obsidian as a Second Brain video notes.md","aliases":"","title":"Obsidian as a Second Brain Video Notes","created":"2022-11-24 20:08:15","modified":"2025-09-07 14:28:05","cssclasses":""}
+{"publish":true,"permalink":"/Obsidian as a Second Brain video notes.md","title":"Obsidian as a Second Brain Video Notes","created":"2022-11-24 20:08:15","modified":"2025-09-07 14:28:05","cssclasses":""}
 ---
+
 
 
 # Obsidian as a Second Brain Video Notes

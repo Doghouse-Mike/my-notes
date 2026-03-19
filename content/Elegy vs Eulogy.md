@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Elegy vs Eulogy.md","aliases":"","title":"Elegy Vs Eulogy","created":"2025-04-01 15:01:08","modified":"2025-07-17 21:43:02","cssclasses":""}
+{"publish":true,"permalink":"/Elegy vs Eulogy.md","title":"Elegy Vs Eulogy","created":"2025-04-01 15:01:08","modified":"2025-07-17 21:43:02","cssclasses":""}
 ---
+
 
 
 # Elegy Vs Eulogy

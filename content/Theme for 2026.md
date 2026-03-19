@@ -3,6 +3,7 @@
 ---
 
 
+
 # The Year of "Out"
 
 Some combo of going out more (leaving the house), and throwing stuff out in prep for the house move. 

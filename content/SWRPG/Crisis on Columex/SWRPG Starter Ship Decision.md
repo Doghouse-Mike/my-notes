@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Starter Ship Decision.md","aliases":"","title":"SWRPG Starter Ship Decision","created":"2023-11-14 06:21:33","modified":"2026-02-23 07:04:05","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/SWRPG Starter Ship Decision.md","title":"SWRPG Starter Ship Decision","created":"2023-11-14 06:21:33","modified":"2026-02-23 07:04:05","cssclasses":""}
 ---
+
 
 
 # SWRPG Starter Ship Decision

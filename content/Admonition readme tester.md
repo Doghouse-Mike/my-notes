@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Admonition readme tester.md","aliases":"","title":"Admonition Readme Tester","draft":true,"created":"2023-04-23 21:21:43","modified":"2025-07-21 21:50:37","cssclasses":""}
+{"publish":true,"permalink":"/Admonition readme tester.md","title":"Admonition Readme Tester","draft":true,"created":"2023-04-23 21:21:43","modified":"2025-07-21 21:50:37","cssclasses":""}
 ---
+
 
 
 # Admonition Readme Tester

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/iPad setup feb 2023.md","aliases":"","title":"iPad Setup Feb 2023","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:37","cssclasses":""}
+{"publish":true,"permalink":"/iPad setup feb 2023.md","title":"iPad Setup Feb 2023","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:37","cssclasses":""}
 ---
+
 
 
 # iPad Setup Feb 2023

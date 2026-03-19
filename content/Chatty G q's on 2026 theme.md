@@ -3,6 +3,7 @@
 ---
 
 
+
 # Chatty G Q's on 2026 Theme
 
 In relation to the [[Theme for 2026]]

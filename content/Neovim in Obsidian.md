@@ -3,6 +3,7 @@
 ---
 
 
+
 # Neovim in Obsidian
 
 https://github.com/epwalsh/obsidian.nvim

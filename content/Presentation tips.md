@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Presentation tips.md","aliases":"","title":"Presentation Tips","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:41","cssclasses":""}
+{"publish":true,"permalink":"/Presentation tips.md","title":"Presentation Tips","created":"2025-03-24 12:57:20","modified":"2026-03-12 17:24:41","cssclasses":""}
 ---
+
 
 
 # Presentation Tips

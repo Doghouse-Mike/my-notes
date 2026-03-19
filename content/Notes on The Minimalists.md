@@ -3,6 +3,7 @@
 ---
 
 
+
 # Notes on The Minimalists
 
 *Less is Now*

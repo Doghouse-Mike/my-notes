@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Welcome Aboard-.md","aliases":"Welcome Aboard!","title":"Welcome Aboard!","created":"2022-03-29 12:20:31","modified":"2026-02-10 21:45:44","cssclasses":""}
+{"publish":true,"permalink":"/Welcome Aboard-.md","aliases":"W e l c o m e A b o a r d !","title":"Welcome Aboard!","created":"2022-03-29 12:20:31","modified":"2026-02-10 21:45:44","cssclasses":""}
 ---
+
 
 
 - for historical context of when I was trying to pimp myself out a bit more

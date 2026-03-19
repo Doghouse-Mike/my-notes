@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Design/Misc.md","aliases":"","title":"Misc","created":"2025-04-01 17:12:14","modified":"2026-03-13 11:06:51","cssclasses":""}
+{"publish":true,"permalink":"/Design/Misc.md","title":"Misc","created":"2025-04-01 17:12:14","modified":"2026-03-13 11:06:51","cssclasses":""}
 ---
+
 
 
 # Misc

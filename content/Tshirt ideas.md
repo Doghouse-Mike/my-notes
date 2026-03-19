@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Tshirt ideas.md","aliases":"","title":"Tshirt Ideas","created":"2021-09-20 13:22:25","modified":"2025-07-21 21:50:37","cssclasses":""}
+{"publish":true,"permalink":"/Tshirt ideas.md","title":"Tshirt Ideas","created":"2021-09-20 13:22:25","modified":"2025-07-21 21:50:37","cssclasses":""}
 ---
+
 
 
 # Tshirt Ideas

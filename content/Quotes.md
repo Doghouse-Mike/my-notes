@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Quotes.md","aliases":"","title":"Quotes","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:33","cssclasses":""}
+{"publish":true,"permalink":"/Quotes.md","title":"Quotes","created":"2025-03-24 12:57:20","modified":"2025-07-21 21:50:33","cssclasses":""}
 ---
+
 
 
 # Quotes

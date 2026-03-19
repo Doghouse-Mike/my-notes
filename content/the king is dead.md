@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/the king is dead.md","aliases":"","title":"The King is Dead","created":"2025-03-24 12:57:20","modified":"2026-01-16 16:08:38","cssclasses":""}
+{"publish":true,"permalink":"/the king is dead.md","title":"The King is Dead","created":"2025-03-24 12:57:20","modified":"2026-01-16 16:08:38","cssclasses":""}
 ---
+
 
 
 # The King is Dead

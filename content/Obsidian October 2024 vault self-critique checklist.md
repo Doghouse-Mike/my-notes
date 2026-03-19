@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Obsidian October 2024 vault self-critique checklist.md","aliases":"","title":"Obsidian October O_O 2024 Vault Self-critique Checklist","created":"2025-03-24 12:57:20","modified":"2025-10-19 21:06:08","cssclasses":""}
+{"publish":true,"permalink":"/Obsidian October 2024 vault self-critique checklist.md","title":"Obsidian October O_O 2024 Vault Self-critique Checklist","created":"2025-03-24 12:57:20","modified":"2025-10-19 21:06:08","cssclasses":""}
 ---
+
 
 
 # Obsidian October O_O 2024 Vault Self-critique Checklist

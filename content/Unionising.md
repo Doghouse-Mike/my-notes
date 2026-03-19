@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Unionising.md","aliases":"","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","modified":"2026-01-16 16:08:48","cssclasses":""}
+{"publish":true,"permalink":"/Unionising.md","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2025-04-07 23:18:43","modified":"2026-01-16 16:08:48","cssclasses":""}
 ---
+
 
 
 see also [[Unionising summary]] 

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Song ideas.md","aliases":"","title":"Song Ideas","created":"2014-04-23 15:51:25","modified":"2025-07-21 21:50:37","cssclasses":""}
+{"publish":true,"permalink":"/Song ideas.md","title":"Song Ideas","created":"2014-04-23 15:51:25","modified":"2025-07-21 21:50:37","cssclasses":""}
 ---
+
 
 
 # Song Ideas
