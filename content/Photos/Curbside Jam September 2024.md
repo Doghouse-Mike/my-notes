@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Curbside Jam September 2024.md","aliases":"","title":"Curbside Jam September 2024","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:35:16","tags":["BMX","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Curbside Jam September 2024.md","title":"Curbside Jam September 2024","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:35:16","tags":["BMX","photos"],"cssclasses":""}
 ---
+
 
 
 # Curbside Jam September 2024
