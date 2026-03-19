@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","aliases":"","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-03-13 11:07:37","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2025-03-20 11:55:25","modified":"2026-03-13 11:07:37","tags":["gigs","photos"],"cssclasses":""}
 ---
+
 
 
 # Koffin Kats, Cowboy And the Corpse at The Louisiana
