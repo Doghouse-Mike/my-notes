@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Curbside Jam March 2023.md","aliases":"","title":"Curbside Jam March 2023","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:34:42","tags":["BMX","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Curbside Jam March 2023.md","title":"Curbside Jam March 2023","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:34:42","tags":["BMX","photos"],"cssclasses":""}
 ---
+
 
 
 # Curbside Jam March 2023
