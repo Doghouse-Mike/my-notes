@@ -1,6 +1,7 @@
 ---
-{"publish":true,"permalink":"/Photos/Graveyard Johnnys, Cardiff.md","aliases":"","title":"Graveyard Johnnys, Cardiff","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:37:24","tags":["gigs","photos"],"cssclasses":""}
+{"publish":true,"permalink":"/Photos/Graveyard Johnnys, Cardiff.md","title":"Graveyard Johnnys, Cardiff","created":"2025-04-01 17:12:14","modified":"2026-03-10 21:37:24","tags":["gigs","photos"],"cssclasses":""}
 ---
+
 
 
 # Graveyard Johnnys, Cardiff
