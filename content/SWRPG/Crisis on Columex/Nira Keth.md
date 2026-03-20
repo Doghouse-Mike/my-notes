@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Nira Keth.md","title":"Nira Keth","created":"2025-07-06 18:58:29","modified":"2025-07-06 19:03:57","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Nira Keth.md","title":"Nira Keth","created":"2025-07-06 18:58:29","modified":"2026-03-19 22:38:16","cssclasses":""}
 ---
-
 
 
 # Nira Keth

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Post-defense of Whisper base shopping.md","title":"Post-defense of Whisper Base Shopping","created":"2025-08-14 19:56:48","modified":"2025-08-15 09:37:28","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Post-defense of Whisper base shopping.md","title":"Post-defense of Whisper Base Shopping","created":"2025-08-14 19:56:48","modified":"2026-03-19 22:49:57","cssclasses":""}
 ---
-
 
 
 # Post-defense of Whisper Base Shopping

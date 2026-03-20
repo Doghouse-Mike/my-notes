@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/How To Spot Arial.md","title":"How To Spot Arial","created":"2025-12-17 00:09:38","modified":"2025-12-17 00:15:51","cssclasses":""}
+{"publish":true,"permalink":"/How To Spot Arial.md","title":"How To Spot Arial","created":"2025-12-17 00:09:38","modified":"2026-03-19 22:56:38","cssclasses":""}
 ---
-
 
 
 # How To Spot Arial

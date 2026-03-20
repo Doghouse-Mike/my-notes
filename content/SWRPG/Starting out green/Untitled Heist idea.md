@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Untitled Heist idea.md","title":"Untitled Heist Idea","created":"2025-10-24 08:25:59","modified":"2025-10-24 09:15:23","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Untitled Heist idea.md","title":"Untitled Heist Idea","created":"2025-10-24 08:25:59","modified":"2026-03-19 22:51:14","cssclasses":""}
 ---
-
 
 
 # Untitled Heist Idea

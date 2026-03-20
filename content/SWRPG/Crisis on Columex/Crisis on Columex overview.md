@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex overview.md","title":"Crisis on Columex Overview","created":"2026-01-25 21:47:32","modified":"2026-03-18 07:37:18","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex overview.md","title":"Crisis on Columex Overview","created":"2026-01-25 21:47:32","modified":"2026-03-19 22:38:10","cssclasses":""}
 ---
-
 
 
 # Crisis on Columex Overview
@@ -321,8 +320,6 @@ The droids were also able to provide you with a map to the main hospital.
 
 ![image.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/b3720368-0b10-4763-81ea-0f0f23e481a7)
 
-
-
 # SWRPG Session 12
 
 Soo, 
@@ -438,4 +435,3 @@ Bad news arrived in the revelation that a deadly virus is loose in the sector, a
 Death is not the end for those who suffer; as darkness falls, the dead rise, and the streets become unsafe.
 
 Can the group solve the problem and restore access to the sector?
-

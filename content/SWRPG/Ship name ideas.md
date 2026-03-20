@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Ship name ideas.md","title":"Ship Name Ideas","created":"2025-09-19 19:55:39","modified":"2026-02-23 07:23:16","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Ship name ideas.md","title":"Ship Name Ideas","created":"2025-09-19 19:55:39","modified":"2026-03-19 22:52:57","cssclasses":""}
 ---
-
 
 
 # Ship Name Ideas

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250919.md","title":"Starting out Green 20250919","created":"2025-09-19 21:05:40","modified":"2025-09-19 23:59:51","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out Green 20250919.md","title":"Starting out Green 20250919","created":"2025-09-19 21:05:40","modified":"2026-03-19 22:50:34","cssclasses":""}
 ---
-
 
 
 # Starting out Green 20250919

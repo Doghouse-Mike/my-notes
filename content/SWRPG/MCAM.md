@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/MCAM.md","title":"Memory Cores And Motivators","draft":true,"created":"2025-05-31 23:43:07","modified":"2026-01-16 16:08:56","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/MCAM.md","title":"Memory Cores And Motivators","created":"2025-05-31 23:43:07","modified":"2026-03-19 22:52:05","cssclasses":""}
 ---
-
 
 
 # Memory Cores And Motivators

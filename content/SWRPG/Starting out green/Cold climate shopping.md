@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Cold climate shopping.md","title":"Cold Climate Shopping","created":"2026-02-27 16:14:56","modified":"2026-03-09 17:40:46","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Cold climate shopping.md","title":"Cold Climate Shopping","created":"2026-02-27 16:14:56","modified":"2026-03-19 22:32:55","cssclasses":""}
 ---
-
 
 
 # Cold Climate Shopping

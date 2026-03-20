@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Notes on new swrpg character ideas.md","title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","modified":"2026-01-25 21:42:25","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Notes on new swrpg character ideas.md","title":"Notes on New Swrpg Character Ideas","created":"2025-05-31 18:00:05","modified":"2026-03-19 22:49:52","cssclasses":""}
 ---
-
 
 
 # Notes on New Swrpg Character Ideas

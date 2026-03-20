@@ -1,14 +1,13 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out green 20250811.md","title":"Starting out Green 20250811","created":"2025-08-13 11:55:14","modified":"2025-09-19 19:55:17","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Starting out green/Starting out green 20250811.md","title":"Starting out Green 20250811","created":"2025-08-13 11:55:14","modified":"2026-03-19 22:50:44","cssclasses":""}
 ---
-
 
 
 # Starting out Green 20250811
 
 Regroup
 
-Celebration/comiserations after battle
+Celebration/commiserations after battle
 
 Got a pile of blasters
 
