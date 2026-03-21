@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-19 21:57:56","cssclasses":""}
+{"publish":true,"permalink":"/Photos/Bristol Street Jam 2025.md","title":"Bristol Street Jam 2025","created":"2025-08-17 16:29:51","modified":"2026-03-19 22:00:23","tags":["photos","gigs","BMX"],"cssclasses":""}
 ---
 
 
