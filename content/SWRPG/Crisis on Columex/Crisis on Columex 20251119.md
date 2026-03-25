@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20251119.md","title":"SWRPG Session 12","created":"2025-11-19 19:07:06","modified":"2026-03-25 19:55:25","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20251119.md","title":"SWRPG Session 12","created":"2025-11-19 19:07:06","modified":"2026-03-25 21:01:09","cssclasses":""}
 ---
 
 
@@ -39,9 +39,9 @@ Watch out for Nero near the hotel, his gang are thievy.
 
 Guys are on cables/ziplines and mechanical pulleys for getting around town while staying off the streets. 
 
-Nero's not between us and the hospital (?) we're headed to. Scouts may be out n about tho. 
+Neero's not between us and the hospital (?) we're headed to. Scouts may be out n about tho. 
 
-Nero sounds a bit like Neegan, keeping his guys strong while preying on everyone else. 
+Neero sounds a bit like Neegan, keeping his guys strong while preying on everyone else. 
 
 Heading on to the hospital with our escort, locals taking point.
 
