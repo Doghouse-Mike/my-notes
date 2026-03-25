@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md","title":"Crisis on Columex 20260325","created":"2026-03-25 19:27:11","modified":"2026-03-25 22:22:08","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md","title":"Crisis on Columex 20260325","created":"2026-03-25 19:27:11","modified":"2026-03-25 22:39:12","cssclasses":""}
 ---
 
 
@@ -73,4 +73,4 @@ Head into a corridor that leads to a bit of a lobby. Some signs on the wall, not
 
 "Doors and corners, people" Ed says as they head towards the lab. The lab vs ops decision was made by a roll of Ed's lucky chance cube. 
 
-Ominous music and a fade to black as the crew head towards the lab. 15XP richer
+Ominous music and a fade to black as the crew head towards the lab, 15XP richer
