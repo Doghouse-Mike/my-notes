@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20251119.md","title":"SWRPG Session 12","created":"2025-11-19 19:07:06","modified":"2026-03-19 22:38:07","cssclasses":""}
+{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20251119.md","title":"SWRPG Session 12","created":"2025-11-19 19:07:06","modified":"2026-03-25 19:55:25","cssclasses":""}
 ---
 
 
@@ -106,6 +106,8 @@ Deebo's message contained info about fuel for the deathstar's weapon. Had a rene
 Reminder that Ed *also* has these plans encoded in his brain box. 
 
 Overnighting in the hospital for safety. 
+
+We got 15XP each
 
 ## Splat's Write Up:
 
