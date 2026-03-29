@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/DnD/Initial DND thoughts.md","title":"Initial DND Thoughts","created":"2026-03-27 21:48:03","modified":"2026-03-29 09:44:02","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/DnD/Initial DND thoughts.md","title":"Initial DND Thoughts","created":"2026-03-27 21:48:03","modified":"2026-03-29 12:53:26","cssclasses":""}
 ---
 
 
@@ -65,3 +65,23 @@ Or the opposite of that. Real good at smashing stuff up but tries to avoid it. -
 
 A droid that can pass as human (or a different species). All of the extra special bonus points for the other players not knowing initially too. A [Gank](https://star-wars-rpg-ffg.fandom.com/wiki/Gank) could be a good disguise. Pass as a cyborg/augmented human for as long as possible. 
 
+
+## Backgrounds
+
+[Acolyte](https://www.dndbeyond.com/backgrounds/7-acolyte) could make sense for the Monke. Or Paladin for that matter. 
+
+Charlatan could be fun for anyone. Rogue or Bard makes most sense though. 
+
+Criminal->Spy could be good for a bard too. Used to be attached to the court of so and so, espionage etc had to get out fast. 
+
+Picking Entertainer for a bard seems *a bit* too basic. 
+
+Guild Artisan *sounds* boring, but maybe a cartographer got bored/inspired looking at maps and decided to go and actually see these places. The access to political powers could be handy. 
+
+Hermit could work for the monk/paladin. Secluded monastery yada yada. Mostly noting because it'd be hilarious if the "unique and powerful discovery" they unearthed was the fourth wall. Trying to convince the other *characters* that nothing matters because someone else is pulling the strings, and everything is ultimately decided on the roll of a dice. Ooh, that could work for a rogue too. Ala Matt from Wheel of Time, hearing the dice rattling. 
+
+Noble = Stede *fucking* Bonnet. 
+
+Outlander for a Callahan? Wandered in from another plane of existence/level of The Tower?
+
+Sailor could be interesting for a Bard. Like Frenchie. Gives options for running into the crew/captain at some point (or not, because they all died). Sole survivor of the legendary INSERT SHIP NAME. 
