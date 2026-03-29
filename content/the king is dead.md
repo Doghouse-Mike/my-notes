@@ -16,3 +16,11 @@ Just so gutted, thoughts and condolences to the man's friends, family, bandmates
 Raise a glass.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/Q4DeQYpbNWc" frameborder="0" allowfullscreen id="yui_3_17_2_2_1448458682910_6997"></iframe>
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[the king is dead]]
+- [[Old Blog Posts/the-king-is-dead]]
+- [[day-one-entries/2013-06-09 214243]]
+<!-- rhizome:end -->

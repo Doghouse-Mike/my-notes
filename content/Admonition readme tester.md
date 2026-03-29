@@ -735,9 +735,8 @@ If you're using Obsidian to run/plan a TTRPG, you may find my other plugin usefu
 
 <a href="https://www.buymeacoffee.com/valentine195"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"></a>
 
+<!-- rhizome:start -->
 ## Related Notes
 
-- [[Clippings/Obsidian Resources]]
-- [[Clippings/Dataview in Obsidian - A Beginner's Guide - Obsidian Rocks]]
-- [[Clippings/Obsidian Resources (1)]]
-- [[Slurped Pages/The iPad's -Sweet- Solution]]
+- [[Daily notes/2023-04-23]]
+<!-- rhizome:end -->

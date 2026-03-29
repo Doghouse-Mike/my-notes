@@ -20,3 +20,9 @@
 - Mnemonic Drift
 - Null Process
 - One Armed Scissor
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[RPGs/SWRPG/Ship name ideas]]
+<!-- rhizome:end -->

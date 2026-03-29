@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/DnD/Initial DND thoughts.md","title":"Initial DND Thoughts","created":"2026-03-27 21:48:03","modified":"2026-03-29 09:36:15","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/DnD/Initial DND thoughts.md","title":"Initial DND Thoughts","created":"2026-03-27 21:48:03","modified":"2026-03-29 09:44:02","cssclasses":""}
 ---
 
 
@@ -43,7 +43,7 @@ Tying a bunch of bones and antlers onto his armour? Oath of Vengenace gives Batm
 
 Just for full "agent of chaos" points. Wild magic. 
 
-Maybe steal some ideas from 
+Maybe steal/adapt some ideas from Star Wars bois: 
 
 # Other Types of Characters I Think it Could Be Fun to Play:
 

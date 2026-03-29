@@ -11,3 +11,9 @@
 Via [Gruber](http://daringfireball.net/)
 
 #drinks #booze 
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[day-one-entries/2015-03-15 003047]]
+<!-- rhizome:end -->

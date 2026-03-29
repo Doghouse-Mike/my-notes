@@ -71,3 +71,9 @@
 	- Does cost :grimacing: £15-£20/month ish
 - Start identifying specific workplace concerns we want to address
 	- what's going on with the secrecy around (statutory?) payrises
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Unionising summary]]
+<!-- rhizome:end -->

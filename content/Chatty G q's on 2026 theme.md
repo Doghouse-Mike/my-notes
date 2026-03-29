@@ -167,3 +167,9 @@ If you want, next time we can:
 - Pressure-test this against a busy / low-energy week
 - Create a one-page "Year of Out" manifesto
 - Or turn it into something Quartz-friendly for your site 👀
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Theme for 2026]]
+<!-- rhizome:end -->

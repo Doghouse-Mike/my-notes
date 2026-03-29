@@ -35,3 +35,10 @@ https://bryanhogan.com/blog/obsidian-website
 - [Bayesian Persuasion](https://bayesianpersuasion.com/)
 - [Kepano]([https://stephango.com](https://stephango.com/)) Yea, the Obsidian CEO. 
 - I especially enjoy Kepano's, as they're actually doing actual work. A lot of "content" around Obsidian seems more about how you can use Obsidian to use Obsidian, rather than by people with relatively jobby jobs.
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Clippings/Obsidian Resources (1)]]
+- [[Clippings/Obsidian Resources]]
+<!-- rhizome:end -->

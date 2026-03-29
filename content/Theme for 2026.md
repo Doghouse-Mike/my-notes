@@ -109,3 +109,9 @@ For quick wins, see [[Theme for 2026#"Out" Menu]]
 ## Thing That Went Well
 
 ## Notes for the Day
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Chatty G q's on 2026 theme]]
+<!-- rhizome:end -->

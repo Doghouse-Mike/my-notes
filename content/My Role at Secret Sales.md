@@ -29,3 +29,9 @@ One of my proudest ongoing contributions is maintaining and improving our intern
 - Spotted patterns across international returns and seller behaviour, improving resolution times and refund accuracy
 - Tested and fed back on our new OMS system, squashing bugs and improving processes along the way
 - Levelled up team self-sufficiency by maintaining a detailed, accessible knowledge base
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Drafts/CV tweaks for Insycle job]]
+<!-- rhizome:end -->

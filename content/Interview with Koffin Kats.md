@@ -468,3 +468,10 @@ Anyway, John, how are you fitting into the band?***
 ***I didn't really know what I was doing, but that wasn't too bad!***
 
 *Vic*: That's always kind of my favourite interviews. The ones that just kind of *go*.
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Drafts/OLD interview with KK]]
+- [[Drafts/KKint final]]
+<!-- rhizome:end -->

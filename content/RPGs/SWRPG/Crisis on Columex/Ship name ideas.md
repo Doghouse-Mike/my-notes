@@ -20,3 +20,9 @@
 - Mnemonic Drift
 - Null Process
 - Undying gratitude ([via](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen))
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[RPGs/SWRPG/Crisis on Columex/Ship name ideas]]
+<!-- rhizome:end -->

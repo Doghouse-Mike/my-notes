@@ -10,3 +10,9 @@ I know it's not one of [his](http://en.m.wikipedia.org/wiki/Joe_Strummer) but th
 <iframe data-preserve-html-node="true" width="420" height="315" src="https://www.youtube.com/embed/F10tP5HIpaA" frameborder="0" allowfullscreen></iframe>
 
 #music #kids
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[day-one-entries/2013-12-24 012043]]
+<!-- rhizome:end -->

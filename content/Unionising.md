@@ -346,3 +346,10 @@ Collecting and relaying workplace concerns
 Most unions provide substantial training and support for workplace reps, so people don't need prior experience. The ideal rep is someone respected by colleagues, good at communication, and committed to fairness in the workplace.
 
 Remember that while you're building membership, the union can still provide individual support to members even before formal recognition is achieved.
+
+<!-- rhizome:start -->
+## Related Notes
+
+- [[Drafts/Unionising 1]]
+- [[Unionising]]
+<!-- rhizome:end -->
