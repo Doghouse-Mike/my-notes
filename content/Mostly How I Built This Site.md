@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/Mostly How I Built This Site.md","title":"Mostly How I Built This Site","created":"2025-07-21 21:34:35","modified":"2026-02-23 07:39:28","cssclasses":""}
+{"publish":true,"permalink":"/Mostly How I Built This Site.md","title":"Mostly How I Built This Site","created":"2025-07-21 21:34:35","modified":"2026-03-30 22:48:46","cssclasses":""}
 ---
-
 
 
 # Mostly How I Built This Site
