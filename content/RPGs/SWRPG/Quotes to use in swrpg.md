@@ -1,11 +1,12 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-03-19 22:52:48","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-08 09:45:40","cssclasses":""}
 ---
 
 
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- If you believe that, I'm not saying you're the dumbest person in the world, but you'd better hope the dumbest person doesn't die. 
 - So little time, so many crimes
 - I do not see coincidence, I see providence 
 - Why does Ross, the largest friend, not simply eat the other five?
