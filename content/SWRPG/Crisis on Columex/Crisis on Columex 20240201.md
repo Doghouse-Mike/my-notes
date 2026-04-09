@@ -1,8 +1,10 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20240201.md","title":"SWRPG Session 7","created":"2024-02-01 20:02:07","modified":"2025-07-17 21:43:02","cssclasses":""}
+publish: true
+permalink: /SWRPG/Crisis on Columex/Crisis on Columex 20240201.md
+title: SWRPG Session 7
+created: 2024-02-01 20:02:07
+modified: 2025-07-17 21:43:02
 ---
-
-
 
 # SWRPG Session 7
 
@@ -14,7 +16,7 @@ Spent some XP n that, worked out where we're at
 
 On the ship!
 
-Found 9 crates, 1 meter by 1.5, with timers on. Ship said something about destabilising in a couple weeks. 
+Found 9 crates, 1 meter by 1.5, with timers on. Ship said something about destabilising in a couple weeks.
 
 Found a donked up, shell of an astromech
 

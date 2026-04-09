@@ -1,8 +1,10 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20240523.md","title":"Session 10","created":"2024-05-23 21:01:52","modified":"2025-11-08 21:46:14","cssclasses":""}
+publish: true
+permalink: /SWRPG/Crisis on Columex/Crisis on Columex 20240523.md
+title: Session 10
+created: 2024-05-23 21:01:52
+modified: 2025-11-08 21:46:14
 ---
-
-
 
 # Session 10
 
@@ -16,7 +18,7 @@ Cr03 (Crow) is the astromech
 
 Was shot by Ion blaster, captured by old ship owner guy
 
-Crow fixed Deebo up though. Droids in equal numbers to organics on the ship now. 
+Crow fixed Deebo up though. Droids in equal numbers to organics on the ship now.
 
 All the droids had an oil bath
 

@@ -1,16 +1,18 @@
 ---
-{"publish":true,"permalink":"/SWRPG/Crisis on Columex/Crisis on Columex 20230713.md","title":"SWRPG Session 1","created":"2023-07-13 19:47:51","modified":"2025-07-21 21:50:39","cssclasses":""}
+publish: true
+permalink: /SWRPG/Crisis on Columex/Crisis on Columex 20230713.md
+title: SWRPG Session 1
+created: 2023-07-13 19:47:51
+modified: 2025-07-21 21:50:39
 ---
-
-
 
 # SWRPG Session 1
 
 2023-07-13
 
-[[RPGs/SWRPG/Crisis on Columex/Z-X3ED]]
+[[SWRPG/Crisis on Columex/Z-X3ED]]
 
-[[RPGs/SWRPG/Crisis on Columex/SWRPG]]
+[[SWRPG/Crisis on Columex/SWRPG]]
 
 ## How Do We Know Each Other?
 
@@ -18,7 +20,7 @@ Snowy patched Nira up after a blowy up thing gone wrong?
 
 I've been Cantina security
 
-Ruth-reporter lady. 
+Ruth-reporter lady.
 
 DEBOcam droid
 
