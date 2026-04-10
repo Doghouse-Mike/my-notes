@@ -3,6 +3,7 @@
 ---
 
 
+
 # Thoughts on How KD Feels About His Fellows
 
 And probably some other stuff that will come up

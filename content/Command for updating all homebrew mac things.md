@@ -3,6 +3,7 @@
 ---
 
 
+
 # Command for Updating All Homebrew Mac Things
 
 ```

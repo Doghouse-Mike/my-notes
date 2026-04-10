@@ -3,6 +3,7 @@
 ---
 
 
+
 # Some Interesting Sites Made in Obsidian
 
 Mostly gleaned from [the roundup](https://www.eleanorkonik.com/2022-04-22/), a few [[Drafts/publish]] sites to steal things from. [See also](https://obsidian-gallery.craftengineer.com/?category=quartz)

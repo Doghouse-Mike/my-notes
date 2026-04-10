@@ -3,6 +3,7 @@
 ---
 
 
+
 # Quotes
 
 People should not be afraid of their government, government should be afraid of their people

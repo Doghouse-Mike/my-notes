@@ -3,6 +3,7 @@
 ---
 
 
+
 # Other Types of Characters I Think it Could Be Fun to Play:
 
 ## The Picard

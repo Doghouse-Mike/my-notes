@@ -3,6 +3,7 @@
 ---
 
 
+
 # The King is Dead
 
 It's strange how spending *years* listening to someone's songs seems like you're getting to know them. Without ever having talked to Torr, I can still kinda tell that he was one of the good guys. I guess he talked to me, without ever knowing it. Sadly, it'd [appear he never will](http://www.verbicidemagazine.com/2013/06/09/torr-skoog-kings-of-nuthin-dead/). Torr Skoog has left the building.

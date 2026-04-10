@@ -3,6 +3,7 @@
 ---
 
 
+
 # Starting out Green 20260109
 
 We have taken out the prison ship, and left it scuttled on an asteroid on the outskirts of the system. 

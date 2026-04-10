@@ -3,6 +3,7 @@
 ---
 
 
+
 # How To Spot Arial
 
 I don't care about it as much as [Gruber does](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/), but [this](https://www.marksimonson.com/notebook/view/how-to-spot-arial/) was a handy guide. 

@@ -3,6 +3,7 @@
 ---
 
 
+
 # Booze
 
 > Empirically, there is no better number of drinks than three. Three drinks shoves you right up to the blurry border between you and drunkenness, a line in the sand that's been washed over by a wave — you can still see it, but barely.

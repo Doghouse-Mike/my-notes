@@ -3,6 +3,7 @@
 ---
 
 
+
 # KD-40N
 
 [[RPGs/SWRPG/Starting out green/KD-40N\|Character Sheet]] (Valid as of 2025-06-02) 

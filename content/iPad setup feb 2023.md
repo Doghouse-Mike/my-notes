@@ -3,6 +3,7 @@
 ---
 
 
+
 # iPad Setup Feb 2023
 
 M1 iPad Pro, 12.9, 2TB(!)

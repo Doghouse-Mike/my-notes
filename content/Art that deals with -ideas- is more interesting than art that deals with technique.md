@@ -3,6 +3,7 @@
 ---
 
 
+
 # Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
 
 [[Art]] that deals with *[[ideas]]* is more interesting than art that deals with technique 

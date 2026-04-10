@@ -3,6 +3,7 @@
 ---
 
 
+
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
 
 > see also [[Theme for 2026]]

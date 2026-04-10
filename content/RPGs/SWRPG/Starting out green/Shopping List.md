@@ -3,6 +3,7 @@
 ---
 
 
+
 # Shoppings List
 
 ## Pre-Defense of Whisper Base

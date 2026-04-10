@@ -3,6 +3,7 @@
 ---
 
 
+
 # Post-defense of Whisper Base Shopping
 
 Got 10k worth of "requisitions"

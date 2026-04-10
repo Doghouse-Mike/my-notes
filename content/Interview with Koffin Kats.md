@@ -3,6 +3,7 @@
 ---
 
 
+
 # Interview With Koffin Kats
 
 Some photos taken during the show that followed this interview can be seen in [[Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana]], you may also be interested in [[Photos/Koffin Kats at Lady Luck]], ya little psycho.
