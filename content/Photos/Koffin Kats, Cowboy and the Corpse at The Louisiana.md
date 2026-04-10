@@ -3,6 +3,7 @@
 ---
 
 
+
 # Koffin Kats, Cowboy And the Corpse at The Louisiana
 
 I had a chat with some of the Koffin Kats lads before this gig, you can read that over at [[Interview with Koffin Kats]].
