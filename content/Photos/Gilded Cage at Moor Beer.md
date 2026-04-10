@@ -3,6 +3,7 @@
 ---
 
 
+
 # Gilded Cage at Moor Beer
 
 ![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer.jpg]]
