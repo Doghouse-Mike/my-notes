@@ -4,4 +4,3 @@
 [[2026-03-27]] 08:53 BigMac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
 [[2026-03-30]] 08:48 BigMac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
 [[2026-03-29]] 09:18 Mini-Mac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
-[[2026-04-09]] 15:19 MOBILE cybrcore theme installed from cybrcore/cybr-obsidian. [Theme Info](https://github.com/cybrcore/cybr-obsidian)
