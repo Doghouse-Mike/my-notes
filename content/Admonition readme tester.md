@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Admonition readme tester.md","title":"Admonition Readme Tester","created":"2026-02-23 07:36:18","modified":"2026-04-11 10:15:22","cssclasses":""}
+{"publish":true,"permalink":"/Admonition readme tester.md","title":"Admonition Readme Tester","created":"2026-02-23 07:36:18","modified":"2026-04-11 21:42:26","cssclasses":""}
 ---
 
 
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ```ad-note
-title: Tittle
+title: Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
