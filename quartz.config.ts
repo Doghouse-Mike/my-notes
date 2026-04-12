@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "VT323",
-        body: "Atkinson Hyperlegible Next",
-        code: "JetBrains Mono",
+        body: "JetBrains Mono",
+        code: "Geist Mono",
       },
       colors: {
         lightMode: {
