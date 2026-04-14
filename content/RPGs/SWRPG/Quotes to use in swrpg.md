@@ -7,6 +7,7 @@
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- The acoustics in your head must be amazing
 - If you believe that, I'm not saying you're the dumbest person in the world, but you'd better hope the dumbest person doesn't die. 
 - So little time, so many crimes
 - I do not see coincidence, I see providence 

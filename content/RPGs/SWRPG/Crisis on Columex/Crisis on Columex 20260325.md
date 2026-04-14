@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md","title":"Crisis on Columex 20260325","created":"2026-03-25 19:27:11","modified":"2026-03-25 22:39:12","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md","title":"Crisis on Columex 20260325","created":"2026-03-25 19:27:11","modified":"2026-04-14 07:20:39","cssclasses":""}
 ---
-
 
 
 # Crisis on Columex 20260325

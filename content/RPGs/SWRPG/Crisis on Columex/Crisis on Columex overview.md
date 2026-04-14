@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex overview.md","title":"Crisis on Columex Overview","created":"2026-01-25 21:47:32","modified":"2026-03-25 22:23:23","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex overview.md","title":"Crisis on Columex Overview","created":"2026-01-25 21:47:32","modified":"2026-04-14 07:20:15","cssclasses":""}
 ---
-
 
 
 # Crisis on Columex Overview
@@ -437,8 +436,6 @@ Death is not the end for those who suffer; as darkness falls, the dead rise, and
 
 Can the group solve the problem and restore access to the sector?
 
-
-
 # Crisis on Columex 20260325
 
 Back in the saddle!
@@ -510,4 +507,3 @@ Head into a corridor that leads to a bit of a lobby. Some signs on the wall, not
 "Doors and corners, people" Ed says as they head towards the lab. The lab vs ops decision was made by a roll of Ed's lucky chance cube. 
 
 Ominous music and a fade to black as the crew head towards the lab, 15XP richer
-
