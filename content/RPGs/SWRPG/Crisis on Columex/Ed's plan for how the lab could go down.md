@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Ed's plan for how the lab could go down.md","title":"Ed's Plan for How the Lab Could Go Down","created":"2026-04-14 07:12:40","modified":"2026-04-14 07:44:24","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Ed's plan for how the lab could go down.md","title":"Ed's Plan for How the Lab Could Go Down","created":"2026-04-14 07:12:40","modified":"2026-04-23 21:28:33","cssclasses":""}
 ---
 
 
