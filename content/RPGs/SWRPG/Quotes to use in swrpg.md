@@ -1,14 +1,13 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-15 17:35:20","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-24 23:05:02","cssclasses":""}
 ---
-
 
 
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
 - The acoustics in your head must be amazing
-- No tyrant can thrive where every subject says “no”. The tyrant thrives when the first fucking fool salutes
+- No tyrant can thrive where every subject says "no". The tyrant thrives when the first fucking fool salutes
 - If you believe that, I'm not saying you're the dumbest person in the world, but you'd better hope the dumbest person doesn't die. 
 - So little time, so many crimes
 - I do not see coincidence, I see providence 

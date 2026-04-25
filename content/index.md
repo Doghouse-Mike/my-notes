@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/index.md","title":"Site Home","created":"2025-03-19 15:49:20","modified":"2026-03-19 22:56:50","cssclasses":""}
+{"publish":true,"permalink":"/index.md","title":"Site Home","created":"2025-03-19 15:49:20","modified":"2026-04-24 23:05:40","cssclasses":""}
 ---
-
 
 
 # Site Home
