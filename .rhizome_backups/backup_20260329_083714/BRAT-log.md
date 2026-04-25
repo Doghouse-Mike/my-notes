@@ -1,5 +1,0 @@
-[[2026-03-22]] 17:28 Mini-Mac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
-[[2026-03-24]] 13:59 BigMac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
-[[2026-03-26]] 17:17 Mini-Mac-2.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
-[[2026-03-27]] 08:53 BigMac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
-[[2026-03-29]] 09:18 Mini-Mac.local Aubade theme updated from DuckTapeKiller/obsidian-aubade.[Theme Info](https://github.com/DuckTapeKiller/obsidian-aubade)
