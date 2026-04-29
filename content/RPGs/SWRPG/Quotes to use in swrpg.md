@@ -1,11 +1,12 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-26 22:22:36","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-29 11:26:06","cssclasses":""}
 ---
 
 
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- The space between life and death, that's where we are the most alive.
 - "*Please 'talk up' if your comprehension white-shifts. I will use simple-happy language words to help you understand.*"
 - The acoustics in your head must be amazing
 - No tyrant can thrive where every subject says "no". The tyrant thrives when the first fucking fool salutes
