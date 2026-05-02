@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Questions.md","title":"Questions","created":"2026-05-02 09:42:20","modified":"2026-05-02 10:23:10","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Questions.md","title":"Questions","created":"2026-05-02 09:42:20","modified":"2026-05-02 10:26:10","cssclasses":""}
 ---
 
 
@@ -25,7 +25,7 @@ Options:
 
 ## Learning
 
-https://www.oxfordhomestudy.com/ has a free course. I did start a while ago, but it's basically a PDF in the vein of "my first computer". 
+https://www.oxfordhomestudy.com/ has a free course. I did start [[Cybersecurity/Free course notes\|a while ago]], but it's basically a PDF in the vein of "my first computer". 
 
 [Network Chuck's Academy](https://academy.networkchuck.com/) has *a lot* more on there than there was last time I checked, which is actually kinda exciting. The guy does get a bit "youtube" but appears to know what he's on about. 
 
