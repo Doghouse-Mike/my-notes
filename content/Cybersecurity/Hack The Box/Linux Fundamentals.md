@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-03 14:47:37","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-03 19:48:31","cssclasses":""}
 ---
 
 
@@ -24,3 +24,7 @@ Useful to know (when you forget where new things get installed)
 | `/tmp`   | The operating system and many programs use this directory to store temporary files. This directory is generally cleared upon system boot and may be deleted at other times without any warning.                                                                                                                                    |
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                   |
 | `/var`   | This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.                                                                                                                                                                                                |
+
+[Explainshell](https://explainshell.com/) may be useful if something gets proper donked. 
+
+Otherwise some combination of `-h` `--help` or just a bare command with no arguments churns out all kinds of info without delving into `man` pages.
