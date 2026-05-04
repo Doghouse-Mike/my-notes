@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Answers.md","aliases":"Answers?","title":"Answers","created":"2026-05-03 13:17:01","modified":"2026-05-03 14:49:11","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Answers.md","aliases":"Answers?","title":"Answers","created":"2026-05-03 13:17:01","modified":"2026-05-04 11:15:01","cssclasses":""}
 ---
 
 
@@ -17,6 +17,6 @@ Shiv's old laptop has been claimed, after backing up what was on there. How the 
 
 I shall mostly be going through some courses on NetworkChuck's [Academy](https://academy.networkchuck.com/) which seems to lean pretty heavily into [HackTheBox](https://www.hackthebox.com/)
 
-![[attachment/Screenshot from 2026-05-03 14-29-20.png]]
+![[Attachments/Cybersecurity/Answers/IMG-Answers.jpeg]]
 
 Onwards to [[Cybersecurity/Hack The Box/Linux Fundamentals]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-03 23:36:56","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-04 10:30:55","cssclasses":""}
 ---
 
 
@@ -68,3 +68,5 @@ EG: `git --help`
 > `usbreset (1) - send a USB port reset to`
 
 Ok, hackthebox is a bit *too* particular on its quizes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
+
+13:41 into the sudo vid
