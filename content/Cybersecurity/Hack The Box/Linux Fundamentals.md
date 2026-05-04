@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-04 10:30:55","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-04 16:39:24","cssclasses":""}
 ---
 
 
@@ -67,6 +67,8 @@ EG: `git --help`
 > `usbmuxd (8) - Expose a socket to multi…`
 > `usbreset (1) - send a USB port reset to`
 
-Ok, hackthebox is a bit *too* particular on its quizes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
+Ok, hackthebox is a bit *too* particular on its quizzes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
 
-13:41 into the sudo vid
+Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down?
+
+You were 13:41 into the sudo vid
