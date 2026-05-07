@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-04 16:39:24","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-06 08:28:49","cssclasses":""}
 ---
 
 
@@ -26,6 +26,9 @@ Useful to know (when you forget where new things get installed)
 | `/var`   | This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.                                                                                                                                                                                                |
 
 [Explainshell](https://explainshell.com/) may be useful if something gets proper donked. 
+
+`sudo apt update && sudo apt upgrade -y` is your best pal
+And `sudo apt autoremove`
 
 Otherwise some combination of `-h` `--help` or just a bare command with no arguments churns out all kinds of info without delving into `man` pages.
 
@@ -71,4 +74,4 @@ Ok, hackthebox is a bit *too* particular on its quizzes. "bin/bash" and "bash" w
 
 Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down?
 
-You were 13:41 into the sudo vid
+
