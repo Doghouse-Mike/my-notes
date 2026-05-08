@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-06 08:28:49","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-07 20:19:55","cssclasses":""}
 ---
 
 
@@ -28,6 +28,7 @@ Useful to know (when you forget where new things get installed)
 [Explainshell](https://explainshell.com/) may be useful if something gets proper donked. 
 
 `sudo apt update && sudo apt upgrade -y` is your best pal
+
 And `sudo apt autoremove`
 
 Otherwise some combination of `-h` `--help` or just a bare command with no arguments churns out all kinds of info without delving into `man` pages.
@@ -73,5 +74,3 @@ EG: `git --help`
 Ok, hackthebox is a bit *too* particular on its quizzes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
 
 Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down?
-
-

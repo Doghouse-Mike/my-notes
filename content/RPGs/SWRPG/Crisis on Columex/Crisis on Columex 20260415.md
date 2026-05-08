@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-07 21:01:23","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-08 14:41:58","cssclasses":""}
 ---
 
 
@@ -38,7 +38,7 @@ Snowy trips over Ed as they're stumbling through the dark. Not a lot to see, but
 
 See this excellent map:
 
-![[Pasted image 20260507203415.png]]
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415/IMG-Crisis on Columex 20260415-1.png]]
 
 Ed points em out, isn't sure if they're to keep things *in*, or to keep people out. 
 
@@ -56,13 +56,15 @@ Dr Voss was running the show, but didn't want to release it, sparking a minor re
 
 Says the virus was created by commingling the cells of a few different virus (viri? More than one virus) with the cells of a specific person who is IN the lab. He's very keen to get out of here. A bit TOO keen if ya ask me. 
 
-Ed hears the clunk of some footsteps headed our way. There's a [KX droid](https://starwars.fandom.com/wiki/KX-series_security_droid) walking in, raising his blaster at Human man. ![[IMG_2853.webp]]
+Ed hears the clunk of some footsteps headed our way. There's a [KX droid](https://starwars.fandom.com/wiki/KX-series_security_droid) walking in, raising his blaster at Human man. 
+
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415/IMG-Crisis on Columex 20260415-1.jpeg]]
 
 Ed shouts at Mouth to get the doc down, everyone dives into cover. 
 
 The Droid is asking us its purpose. Or maybe ours. 
 
-![[IMG_2854.webp]]
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415/IMG-Crisis on Columex 20260415-2.jpeg]]
 
 Ed tells him we're here for "[liberation](https://www.youtube.com/watch?v=wQFX6NP8s3E)" Droid says human must die. 
 
@@ -94,7 +96,7 @@ Downstairs is a *mess*. Some working terminals, datapads strewn around, the ligh
 
 Outer area is raised (purple), desks n stuff in a bit in the centre. Computers, other equipment. Lab is in the bottom right corner. This is where our tube man is. 
 
-![[Pasted image 20260507205142.jpg]]
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415/IMG-Crisis on Columex 20260415-3.jpeg]]
 
 Bit deformy, bits chopped off, samples taken etc. This is science, not medicine. Many tubes in n out. 
 
