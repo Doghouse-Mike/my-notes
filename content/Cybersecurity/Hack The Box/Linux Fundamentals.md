@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-07 20:19:55","cssclasses":""}
+{"publish":true,"permalink":"/Cybersecurity/Hack The Box/Linux Fundamentals.md","title":"Linux Fundamentals","created":"2026-05-03 13:14:58","modified":"2026-05-11 08:45:07","cssclasses":""}
 ---
 
 
@@ -73,4 +73,40 @@ EG: `git --help`
 
 Ok, hackthebox is a bit *too* particular on its quizzes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
 
-Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down?
+Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down, one supposes. 
+
+dpkg vs apt. 
+
+dpkg is more "low level"
+
+but that's the .deb files (or.rpm) from downloading. 
+
+dpkg doesn't pick up any dependencies automatically. 
+
+APT=advanced package tool
+
+Will fix things that dpkg "broke". Higher level. 
+
+Fetches dependencies automagically. 
+
+Wise to run `apt update` *before* installing anything. 
+
+That's answered that then. `update` refreshes the list of stuff my install "knows" exists, `upgrade` etc actually installs/updates software. 
+
+`sudo apt remove [package]` to "delete" stuff. This *won't* get rid of any user data.
+
+`sudo apt purge [package]` *will* get rid of user data
+
+Snap is another package manager. More like a store. 
+
+`sudo snap install` or `sudo snap install --classic` and name of package. EG I now have vs code courtesy of `sudo snap install --classic code`!
+
+Pip is Python's package manager. `pip` or `pip3`
+
+Ruby has Gems. `gem install`
+
+Aptitude is fancy
+
+And our old pal git. 
+
+Git to download stuff, the actual installation might require running python or something from the cloned folder. 

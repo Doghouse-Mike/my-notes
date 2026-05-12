@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-08 14:41:58","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-08 19:36:21","cssclasses":""}
 ---
 
 
@@ -104,9 +104,9 @@ Ed begins a nose through the computers, leaves the others to the organic parts.
 
 One of the out tubes is taking blood. Snowy gets a decent sample or 9. They are good (due to rolling many success (3) and advantage (2), meaning we get boost to actually making the cure when that happens)
 
-Meanwhile:
+## Meanwhile:
 
-Ed finds some passwords written down on the bottom of a keyboard. We go through the computers for anything on how this virus was made (as they could provide clues to a cure) and anything on a cure already. 
+Ed finds some passwords written down on the bottom of a keyboard. We go through the computers for anything on how this virus was made (as they could provide clues to a cure) and anything on a cure already existing. 
 
 The journals of Dr Elara Voss.
 
