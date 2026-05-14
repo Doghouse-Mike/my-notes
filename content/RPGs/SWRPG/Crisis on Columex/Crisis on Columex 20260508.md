@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260508.md","title":"Crisis on Columex 20260508","created":"2026-05-08 19:05:50","modified":"2026-05-14 08:47:08","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260508.md","title":"Crisis on Columex 20260508","created":"2026-05-08 19:05:50","modified":"2026-05-14 13:35:33","cssclasses":""}
 ---
 
 
@@ -13,7 +13,7 @@ Aaaand Action!
 
 Three guys have rappelled in, and started taking up positions. They're outfitted like stormtroopers, but all in black. 
 
-![[Crisis on Columex 20260508-1.jpeg]]
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260508/IMG-Crisis on Columex 20260508.png]]
 
 Hostile One spots our KX droid first and blasts his poor little arm off. Sad sad sad. 
 
@@ -67,7 +67,7 @@ Ed blasts the nearest group, one goes down. Shouts "Aim for the head, shoot em i
 
 Pinky spots the contaminants, and starts blasting. 
 
-![[Pasted image 20260514083808.jpg]]
+![[attachment/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260508/IMG-Crisis on Columex 20260508-3.jpeg]]
 
 Takes out the rest of that group. "Yes, you shoot most things in the head, they tend to die"
 
