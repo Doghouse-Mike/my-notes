@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-08 19:36:21","cssclasses":""}
+{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md","title":"Crisis on Columex 20260415","created":"2026-04-15 19:15:27","modified":"2026-05-14 07:58:29","cssclasses":""}
 ---
 
 
@@ -86,7 +86,7 @@ The best hope for a cure is getting the unique biology of the test subject. (How
 
 Ok, so Dr Guy is staying up here, so we'll lock him in. 
 
-So it is that we head downstairs after all. Bringing "big guy" with us. Search the ops room before we head down, Snowy finds some more robust PPE, but it's not Wookiee-sized. Will fit Nira though. Pops it on over what they're wearing. And down we go. 
+So it is that we head downstairs after all. Bringing "big guy" (designation [[K3-M1]]) with us. Search the ops room before we head down, Snowy finds some more robust PPE, but it's not Wookiee-sized. Will fit Nira though. Pops it on over what they're wearing. And down we go. 
 
 It is a bit tight in the lift, but everyone fits. Convince the Droid that his new purpose is to protect everyone currently in the lift. 
 
