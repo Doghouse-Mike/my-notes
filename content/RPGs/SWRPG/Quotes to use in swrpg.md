@@ -6,6 +6,7 @@
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- You are mortal, you will take what you can, and then fail
 - The stars are better off without us
 - I am incapable of emotion but you are making me feel chafed
 - You underestimate my ability to break things
