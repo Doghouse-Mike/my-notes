@@ -16,5 +16,5 @@ Via [Gruber](http://daringfireball.net/)
 <!-- rhizome:start -->
 ## Related Notes
 
-- [[day-one-entries/2015-03-15 003047]]
+- [[Daily notes/day-one-entries/2015-03-15 003047]]
 <!-- rhizome:end -->

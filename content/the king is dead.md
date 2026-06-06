@@ -23,5 +23,5 @@ Raise a glass.
 
 - [[the king is dead]]
 - [[Old Blog Posts/the-king-is-dead]]
-- [[day-one-entries/2013-06-09 214243]]
+- [[Daily notes/day-one-entries/2013-06-09 214243]]
 <!-- rhizome:end -->

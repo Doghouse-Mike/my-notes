@@ -15,5 +15,5 @@ I know it's not one of [his](http://en.m.wikipedia.org/wiki/Joe_Strummer) but th
 
 ## Related Notes
 
-- [[day-one-entries/2013-12-24 012043]]
+- [[Daily notes/day-one-entries/2013-12-24 012043]]
 <!-- rhizome:end -->

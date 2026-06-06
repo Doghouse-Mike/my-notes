@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/End Transmissions.md","title":"End Transmissions","created":"2026-06-06 12:09:01","modified":"2026-06-06 13:07:58","cssclasses":""}
+{"publish":true,"permalink":"/End Transmissions.md","title":"End Transmissions","created":"2026-06-06 12:09:01","modified":"2026-06-06 13:24:10","cssclasses":""}
 ---
 
 
@@ -34,3 +34,5 @@ Other random thoughts to wrangle in:
 - The physical copies of End Transmission felt premium. There was something fancy going on with inlays, definitely one of those "get home from the shop and sit with it for a while" releases
 - Refused were also straightedge, but probably mentioned it even less than Snapcase did. 
 - Earth Crisis' "last" album might fit into this category too. Slither maybe? Got away from the hardcore a bit, some "clean" vocals that reminded me of Ozzy. I'm not clear enough on their actual history. Apart from the Greatest Hits album, there might've been more. 
+- One Armed Scissor also has that line about "Last transmission". A few of their songs seem to be along this theme actually 
+- ATDI are definitely NOT straightedge. Also their weird. TMV ended up burying a ouija board in the desert because it was haunting them and pretty much all their albums are some sort of "concept". Found a journal in the woods? Write an album based on what's in it. What's the worst that could happen?
