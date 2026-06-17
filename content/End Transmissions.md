@@ -1,13 +1,16 @@
 ---
-{"publish":true,"permalink":"/End Transmissions.md","title":"End Transmissions","created":"2026-06-06 12:09:01","modified":"2026-06-06 13:24:10","cssclasses":""}
+{"publish":true,"permalink":"/End Transmissions.md","title":"End Transmissions","created":"2026-06-06 12:09:01","modified":"2026-06-07 13:03:40","cssclasses":""}
 ---
 
 
 # End Transmissions
 
+
 After [[Pachelbel's Snapcase]], [[Snapcase]]'s End Transmission has been getting a lot of rotation again. And my brain has been whirring. 
 
-I think I recall at the time (2002ish) rumours to the affect of it being their last album. And it sure felt that way. Bit of a radical departure from their prior works, much more "arty" (it was a concept album, whatever that means). Though it wasn't *technically* their last album, Bright Flashes came out a couple of years later, that was remixes, covers, and other unreleased stuff from the End Transmission recording times. Definitely not a "proper" album. I think. So far this has been written without doing any research, just initial *feels*. Or dredged up feels I suppose. Ironically, this album is old enough to drink. 
+
+I think I recall at the time (2002ish)
+ rumours to the affect of it being their last album. And it sure felt that way. Bit of a radical departure from their prior works, much more "arty" (it was a concept album, whatever that means). Though it wasn't *technically* their last album, Bright Flashes came out a couple of years later, that was remixes, covers, and other unreleased stuff from the End Transmission recording times. Definitely not a "proper" album. I think. So far this has been written without doing any research, just initial *feels*. Or dredged up feels I suppose. Ironically, this album is old enough to drink. 
 
 BUT, the "main" point was that it has me thinking about "last" albums by bands, that took them in a (little/yellow/different) new direction. Off the top of my head, the other main contenders are:
 
