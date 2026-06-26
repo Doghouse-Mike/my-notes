@@ -6,7 +6,6 @@ modified: 2026-03-19 23:00:44
 ---
 
 
-
 # On Instead of "I Have to", "I Choose to"
 
 So instead of "I have to", "I choose to", but only for 15 minutes, and reasons/bigger picture

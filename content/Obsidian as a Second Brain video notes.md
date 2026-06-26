@@ -6,7 +6,6 @@ modified: 2026-03-19 22:58:58
 ---
 
 
-
 # Obsidian as a Second Brain Video Notes
 
 [Via](https://www.youtube.com/watch?v=WqKluXIra70)

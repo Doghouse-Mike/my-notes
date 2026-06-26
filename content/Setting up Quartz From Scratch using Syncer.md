@@ -7,7 +7,6 @@ modified: 2026-02-23 07:39:55
 
 
 
-
 # Setting Up Quartz From Scratch Using Syncer
 
 Prompted by some chats in [the discord](https://discord.gg/cRFFHYye7t), a (hopefully) straightforward guide to getting [Quartz]([https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/)) set up with [Obsidian]([https://obsidian.md](https://obsidian.md/)). Mostly following the [official docs](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup). One could probably skip the first couple of steps if you've already got a Quartz repo, but this is a test to show you don't need a local install of Quartz. I think I'd still prefer to have that local copy so a manual `npx quartz sync` etc remains available, even if 99% of the time publishing will be handled by [the plugin](https://github.com/saberzero1/quartz-syncer). Then again, I guess that could be set up later if required. 

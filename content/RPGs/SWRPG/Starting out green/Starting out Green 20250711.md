@@ -6,7 +6,6 @@ modified: 2026-03-19 22:50:30
 ---
 
 
-
 # Starting out Green 20250711
 
 Prep/for fight off Imperial invasion force. Should be fun/hard.

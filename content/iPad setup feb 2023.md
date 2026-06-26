@@ -6,7 +6,6 @@ modified: 2026-03-19 22:57:35
 ---
 
 
-
 # iPad Setup Feb 2023
 
 M1 iPad Pro, 12.9, 2TB(!)

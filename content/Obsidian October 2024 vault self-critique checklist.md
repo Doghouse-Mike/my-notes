@@ -7,7 +7,6 @@ modified: 2026-03-19 22:59:17
 
 
 
-
 # Obsidian October O_O 2024 Vault Self-critique Checklist
 
 100% yoinked from [[Obsidian October 2024 vault self-critique checklist\|here]]

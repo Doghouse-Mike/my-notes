@@ -7,7 +7,6 @@ modified: 2026-01-01 23:26:50
 
 
 
-
 # The Year of "Out"
 
 Some combo of going out more (leaving the house), and throwing stuff out in prep for the house move. 

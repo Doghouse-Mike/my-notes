@@ -6,7 +6,6 @@ modified: 2026-03-19 22:49:57
 ---
 
 
-
 # Post-defense of Whisper Base Shopping
 
 Got 10k worth of "requisitions"

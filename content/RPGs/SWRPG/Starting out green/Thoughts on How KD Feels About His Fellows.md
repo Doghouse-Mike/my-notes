@@ -6,7 +6,6 @@ modified: 2026-03-19 22:51:09
 ---
 
 
-
 # Thoughts on How KD Feels About His Fellows
 
 And probably some other stuff that will come up

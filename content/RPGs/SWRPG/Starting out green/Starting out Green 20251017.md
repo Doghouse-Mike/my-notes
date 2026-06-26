@@ -6,7 +6,6 @@ modified: 2026-03-19 22:50:51
 ---
 
 
-
 # Starting out Green 20251017
 
 Notes:

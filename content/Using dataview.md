@@ -6,7 +6,6 @@ modified: 2026-03-19 23:02:30
 ---
 
 
-
 # Using Dataview
 
 Metadata in notes

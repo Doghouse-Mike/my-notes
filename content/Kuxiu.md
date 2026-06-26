@@ -6,7 +6,6 @@ modified: 2026-03-19 22:58:11
 ---
 
 
-
 # Kuxiu M30 Ipad Charger
 
 Stumbled upon [this](https://kuxiu.co/products/kuxiu-m30-charger-for-ipad)

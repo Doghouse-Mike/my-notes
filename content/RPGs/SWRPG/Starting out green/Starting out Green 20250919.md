@@ -6,7 +6,6 @@ modified: 2026-03-19 22:50:34
 ---
 
 
-
 # Starting out Green 20250919
 
 Dekmar's taken the stuff back to the ship. Dom's out so he's staying there to guard the stuff. 

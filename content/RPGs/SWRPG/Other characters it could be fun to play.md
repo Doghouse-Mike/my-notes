@@ -6,7 +6,6 @@ modified: 2026-03-19 22:52:19
 ---
 
 
-
 # Other Types of Characters I Think it Could Be Fun to Play:
 
 ## The Picard

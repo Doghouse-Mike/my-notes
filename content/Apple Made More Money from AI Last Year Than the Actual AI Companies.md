@@ -6,7 +6,6 @@ modified: 2026-03-21 09:45:18
 ---
 
 
-
 # Apple Made More Money from AI Last Year Than the Actual AI Companies
 
 According to [The Wall Street Journal](https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f), via [Macrumors](https://www.macrumors.com/2026/03/20/apple-made-nearly-900m-from-ai-apps-2025/), Apple made *$900 Million* from commission/App Store tax on generative AI apps in 2025. 

@@ -7,7 +7,6 @@ modified: 2026-01-01 23:17:14
 
 
 
-
 # Chatty G Q's on 2026 Theme
 
 In relation to the [[Theme for 2026]]
