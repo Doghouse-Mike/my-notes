@@ -6,6 +6,7 @@ modified: 2026-03-19 22:50:11
 ---
 
 
+
 # Shows KD Would Watch
 
 Just thinking with the recent trip to the city, he'd have had unfettered access to the holonet for the first time. And in a murderbot stylee, the *entertainment feeds*. 

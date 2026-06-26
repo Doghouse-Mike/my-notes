@@ -6,6 +6,7 @@ modified: 2026-03-19 22:50:44
 ---
 
 
+
 # Starting out Green 20250811
 
 Regroup

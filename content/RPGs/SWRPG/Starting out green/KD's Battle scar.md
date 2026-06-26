@@ -6,6 +6,7 @@ modified: 2026-03-19 22:49:16
 ---
 
 
+
 # KD's Battle Scar
 
 If I remember rightly, KD got hit with [On the Brink](https://sw-eote-srd.vercel.app/personal/status-recovery/critical-injuries#:~:text=At%20the%20Brink:%20The%20target%20suffers%201%20Strain%20each%20time%20they%20perform%20an%20action.) (important bit is that it's a hard check to heal, which Rimer made in the heat of battle!)

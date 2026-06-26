@@ -6,6 +6,7 @@ modified: 2026-03-19 22:57:23
 ---
 
 
+
 # iPad for Work Thoughts May '23
 
 My day job is in customer service for an online marketplace, so lots of emails/live chat on Freshdesk/gmail, Slack and emails again for company comms, and a whole bunch of Google docs and sheets that I'm either adding data to or pulling info from, pretty much constantly. The store backend is all web-based (Mirakl/Magento for the interested), some of which can only be accessed via VPN. Obsidian is always open with a big ol running file of notes and things I need quick access to (you only hit "send" on some partially completed multi paragraph thing with codes and special URLS without meaning to a couple times before you start getting that stuff ready not in a text field on a web page).

@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "VT323",
         body: "JetBrains Mono",
-        code: "Share Tech Mono",
+        code: "Geist Mono",
       },
       colors: {
         lightMode: {

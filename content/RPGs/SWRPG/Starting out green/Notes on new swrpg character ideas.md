@@ -6,6 +6,7 @@ modified: 2026-03-19 22:49:52
 ---
 
 
+
 # Notes on New Swrpg Character Ideas
 
 If going droid, MC+M will probably be needed to get intellect and brawn to a decent point

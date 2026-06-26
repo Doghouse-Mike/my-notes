@@ -6,6 +6,7 @@ modified: 2026-03-19 22:52:05
 ---
 
 
+
 # Memory Cores And Motivators
 
 [Via](https://forum.swrpgcommunity.com/t/memory-cores-and-motivators-a-book-for-droids/34)and ripped all the text out for easy adding to [oggdudes](https://www.swrpgcommunity.com/gm-resources/apps-dice-utilities/oggdudes-generator)

@@ -6,6 +6,7 @@ modified: 2026-03-19 22:50:10
 ---
 
 
+
 # Shoppings List
 
 ## Pre-Defense of Whisper Base

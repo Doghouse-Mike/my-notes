@@ -6,6 +6,7 @@ modified: 2026-03-19 22:50:54
 ---
 
 
+
 # Starting Out Green 20251128
 
 Take out the last of the troopers we're aware of, Zarlo gets healed up. 
