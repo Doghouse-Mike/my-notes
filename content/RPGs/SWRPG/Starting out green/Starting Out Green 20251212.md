@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting Out Green 20251212.md","title":"Starting Out Green 20251212","created":"2025-12-03 19:19:14","modified":"2026-03-19 22:50:56","cssclasses":""}
+created: 2025-12-03 19:19:14
+modified: 2026-06-26 00:54:24
+publish: true
+title: Starting Out Green 20251212
 ---
-
 
 # Starting Out Green 20251212
 
@@ -40,7 +42,7 @@ Willie brings us in closer to em, performing evasive actions on the way.
 We are all learning how ship combat works *together*. 
 
 > Reminder The Alexandrian has a nifty [quick reference guide](https://www.thealexandrian.net/creations/misc/star-wars-force-and-destiny-cheat-sheet.pdf) and today we have been making extensive use of the "Starship Actions" bit:
-> ![[Attachments/RPGs/SWRPG/Starting out green/Starting Out Green 20251212/IMG-Starting Out Green 20251212.png]]
+> ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235412683Z.png)
 
 Rimer gets local comms between us and them, convinces them to surrender "we've taken out your drives and escort, we own your comms, there's nowhere to run"
 

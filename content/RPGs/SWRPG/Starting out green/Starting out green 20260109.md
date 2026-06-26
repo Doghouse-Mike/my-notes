@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting out green 20260109.md","title":"Starting out Green 20260109","created":"2026-01-09 20:51:14","modified":"2026-03-19 22:50:59","cssclasses":""}
+created: 2026-01-09 20:51:14
+modified: 2026-06-26 00:52:35
+publish: true
+title: Starting out Green 20260109
 ---
-
 
 # Starting out Green 20260109
 
@@ -23,9 +25,9 @@ Willie's calling his black market contacts, checking they're open for business. 
 
 Rimer wants to grab some [Repulsor Assist Units](https://star-wars-rpg-ffg.fandom.com/wiki/Repulsor_Assist_Unit), some [recon remotes](https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Industries_Recon_Remote) to help out on the moon. 
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20260109/IMG-Starting out green 20260109.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235216125Z.png)
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20260109/IMG-Starting out green 20260109-1.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235217804Z.png)
 
 Head into town to pick things up. 
 
@@ -39,11 +41,11 @@ Run into one group, but we scare em off.
 
 Sold the disruptor pistol, KD bought a [natty coat](https://star-wars-rpg-ffg.fandom.com/wiki/Smuggler's_Trenchcoat) (and hat)
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20260109/IMG-Starting out green 20260109-2.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235219188Z.png)
 
 As a crew we got one of the repulsion bois for Rimer, some # Combat Tested attachments (4, 1 each)
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20260109/IMG-Starting out green 20260109-3.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235220747Z.png)
 
 Got some remote observation remote things too, to help scouting. 
 
@@ -111,7 +113,7 @@ KD and Rimer get into some crevices/under foliage. Willie jetpacks up to safety.
 
 If this thing is a Zakkeg, it's bigger than usual. After the Boma, it hasn't spotted us, fortunately. These things are like an [ankylosaurus](https://en.wikipedia.org/wiki/Ankylosaurus) but without the clubbed tail. Size of a house
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20260109/IMG-Starting out green 20260109-4.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235222180Z.png)
 
 The general consensus is that in the ship we *might* be able to take one out. 
 

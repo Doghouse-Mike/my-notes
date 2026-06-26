@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Rimer's Downtime. Part 1.md","title":"Rimer's Downtime. Part 1","created":"2026-01-25 11:05:00","modified":"2026-03-19 22:50:03","cssclasses":""}
+publish: true
+title: Rimer's Downtime. Part 1
+created: 2026-01-25 11:05:00
+modified: 2026-03-19 22:50:03
 ---
 
 

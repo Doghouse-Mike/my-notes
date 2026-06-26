@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Some interesting sites made in Obsidian.md","title":"Some Interesting Sites Made in Obsidian","created":"2026-02-10 21:13:55","modified":"2026-03-30 22:49:33","cssclasses":""}
+publish: true
+title: Some Interesting Sites Made in Obsidian
+created: 2026-02-10 21:13:55
+modified: 2026-03-30 22:49:33
 ---
 
 

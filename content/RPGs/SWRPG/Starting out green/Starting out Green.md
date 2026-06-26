@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting out Green.md","title":"Starting out Green","created":"2025-06-02 20:25:32","modified":"2026-03-19 22:50:15","cssclasses":""}
+created: 2025-06-02 20:25:32
+modified: 2026-06-26 00:52:07
+publish: true
+title: Starting out Green
 ---
-
 
 # Starting out Green
 
@@ -15,102 +17,102 @@
 
 ## Places
 
-![[IMG-Starting out Green.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235032336Z.jpeg)
 
-![[IMG-Starting out Green-1.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235034333Z.jpeg)
 
-![[IMG-Starting out Green-2.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235035985Z.jpeg)
 
-![[IMG-Starting out Green-3.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235038034Z.jpeg)
 
-![[IMG-Starting out Green-4.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235039984Z.jpeg)
 
-![[IMG-Starting out Green-5.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235041712Z.jpeg)
 
-![[IMG-Starting out Green-6.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235043447Z.jpeg)
 
-![[IMG-Starting out Green-7.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235045085Z.jpeg)
 
-![[IMG-Starting out Green-8.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235046905Z.jpeg)
 
-![[IMG-Starting out Green-9.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235048531Z.jpeg)
 
-![[IMG-Starting out Green-10.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235050206Z.jpeg)
 
-![[IMG-Starting out Green-11.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235052062Z.jpeg)
 
-![[IMG-Starting out Green-12.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235053791Z.jpeg)
 
-![[IMG-Starting out Green-13.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235055537Z.jpeg)
 
-![[IMG-Starting out Green-14.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235057266Z.jpeg)
 
-![[IMG-Starting out Green-15.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235058807Z.jpeg)
 
-![[IMG-Starting out Green-16.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235100535Z.jpeg)
 
-![[IMG-Starting out Green-17.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235102182Z.jpeg)
 
-![[IMG-Starting out Green-18.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235103682Z.jpeg)
 
-![[IMG-Starting out Green-19.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235105463Z.jpeg)
 
-![[IMG-Starting out Green-20.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235107216Z.jpeg)
 
-![[IMG-Starting out Green-21.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235108943Z.jpeg)
 
-![[IMG-Starting out Green-22.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235110801Z.jpeg)
 
-![[IMG-Starting out Green-23.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235112844Z.jpeg)
 
-![[IMG-Starting out Green-24.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235114584Z.jpeg)
 
-![[IMG-Starting out Green-25.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235116621Z.jpeg)
 
-![[IMG-Starting out Green-26.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235118486Z.jpeg)
 
-![[IMG-Starting out Green-27.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235120202Z.jpeg)
 
-![[IMG-Starting out Green-28.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235122284Z.jpeg)
 
-![[IMG-Starting out Green-29.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235124500Z.jpeg)
 
-![[IMG-Starting out Green-30.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235126256Z.jpeg)
 
-![[IMG-Starting out Green-31.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235127519Z.jpeg)
 
-![[IMG-Starting out Green-32.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235129241Z.jpeg)
 
-![[IMG-Starting out Green-33.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235131570Z.jpeg)
 
-![[IMG-Starting out Green-34.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235133620Z.jpeg)
 
-![[IMG-Starting out Green-35.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235135369Z.jpeg)
 
-![[IMG-Starting out Green-36.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235136831Z.jpeg)
 
-![[IMG-Starting out Green-37.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235138532Z.jpeg)
 
-![[IMG-Starting out Green-38.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235140595Z.jpeg)
 
-![[IMG-Starting out Green-39.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235142236Z.jpeg)
 
-![[IMG-Starting out Green-40.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235144180Z.jpeg)
 
-![[IMG-Starting out Green-41.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235145707Z.jpeg)
 
-![[IMG-Starting out Green-42.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235147526Z.jpeg)
 
-![[IMG-Starting out Green-43.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235149418Z.jpeg)
 
-![[IMG-Starting out Green-44.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235151447Z.jpeg)
 
-![[IMG-Starting out Green-45.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235153288Z.jpeg)
 
-![[IMG-Starting out Green-46.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235155142Z.jpeg)
 
-![[IMG-Starting out Green-47.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235156775Z.jpeg)
 
-![[IMG-Starting out Green-48.JPEG]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235158510Z.jpeg)
 
 [[RPGs/SWRPG/Starting out green/KD-40N]]

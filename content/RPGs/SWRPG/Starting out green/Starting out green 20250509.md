@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting out green 20250509.md","title":"Starting out Green 20250509","created":"2025-09-05 21:11:30","modified":"2026-03-19 22:50:18","cssclasses":""}
+created: 2025-09-05 21:11:30
+modified: 2026-06-26 00:50:13
+publish: true
+title: Starting out Green 20250509
 ---
-
 
 # Starting out Green 20250509
 
@@ -9,13 +11,13 @@ Game notes
 
 Ship decided on was a YT 2100
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T234959540Z.png)
 
 ![[Pasted image 20250905211736.png]
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509-1.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235001352Z.png)
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting out green 20250509/IMG-Starting out green 20250509-2.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235003110Z.png)
 
 Things to do potentially this session:
 

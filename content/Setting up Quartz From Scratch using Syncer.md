@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Setting up Quartz From Scratch using Syncer.md","title":"Setting Up Quartz From Scratch Using Syncer","created":"2026-02-18 08:27:43","modified":"2026-02-23 07:39:55","cssclasses":""}
+publish: true
+title: Setting Up Quartz From Scratch Using Syncer
+created: 2026-02-18 08:27:43
+modified: 2026-02-23 07:39:55
 ---
 
 

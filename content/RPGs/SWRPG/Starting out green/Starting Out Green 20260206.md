@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting Out Green 20260206.md","title":"Starting Out Green 20260206","created":"2026-02-06 21:00:07","modified":"2026-03-19 22:51:02","cssclasses":""}
+created: 2026-02-06 21:00:07
+modified: 2026-06-26 00:52:54
+publish: true
+title: Starting Out Green 20260206
 ---
-
 
 # Starting Out Green 20260206
 
@@ -107,7 +109,7 @@ Blag our way in to the bar for free based on the "everyone gets to keep their ar
 
 KD's fully collar up, hat on. 
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting Out Green 20260206/IMG-Starting Out Green 20260206.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235243246Z.jpg)
 
 In the bar, Black Sun are *not* keeping a low profile, blatant insignia on display. We don't attract a lot of attention on our way in though, the boys head to the Sabacc tables. 
 

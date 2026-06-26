@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Shows KD would watch.md","title":"Shows KD Would Watch","created":"2025-10-11 08:06:24","modified":"2026-03-19 22:50:11","cssclasses":""}
+publish: true
+title: Shows KD Would Watch
+created: 2025-10-11 08:06:24
+modified: 2026-03-19 22:50:11
 ---
 
 

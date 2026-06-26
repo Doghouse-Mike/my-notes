@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/eagleness.md","title":"Eagleness","created":"2025-07-03 23:21:52","modified":"2026-03-19 22:55:53","cssclasses":""}
+created: 2025-07-03 23:21:52
+modified: 2026-06-26 14:53:47
+publish: true
+title: Eagleness
 ---
-
 
 # Eagleness
 

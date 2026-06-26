@@ -1,28 +1,31 @@
 ---
-{"publish":true,"permalink":"/Design/Angus.md","title":"Angus","created":"2025-07-03 23:23:04","modified":"2026-03-19 23:12:00","tags":["design","angus"],"cssclasses":""}
+tags: [design, angus]
+created: 2025-07-03 23:23:04
+modified: 2026-06-25 22:34:58
+publish: true
+title: Angus
 ---
-
 
 # Angus
 
 Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. 
 
-![[Attachments/Design/Angus/IMG-Angus.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213433747Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-104.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213435918Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-105.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213437350Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-106.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213439201Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-107.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213440728Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-108.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213443285Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-109.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213445022Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-110.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213446350Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-111.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213448498Z.jpg)
 
-![[Attachments/Design/Angus/IMG-Angus-112.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213450972Z.jpg)

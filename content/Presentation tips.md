@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Presentation tips.md","title":"Presentation Tips","created":"2026-03-12 17:25:10","modified":"2026-03-19 22:59:33","cssclasses":""}
+publish: true
+title: Presentation Tips
+created: 2026-03-12 17:25:10
+modified: 2026-03-19 22:59:33
 ---
 
 

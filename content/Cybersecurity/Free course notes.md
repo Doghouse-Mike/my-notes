@@ -1,8 +1,9 @@
 ---
-{"publish":true,"permalink":"/Cybersecurity/Free course notes.md","title":"Free Course Notes","created":"2025-12-09 21:54:16","modified":"2026-03-12 17:25:04","cssclasses":""}
+created: 2025-12-09 21:54:16
+modified: 2026-05-02 09:42:21
+publish: true
+title: Free Course Notes
 ---
-
-
 
 # Free Course Notes
 

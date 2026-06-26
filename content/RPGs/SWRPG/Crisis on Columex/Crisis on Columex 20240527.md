@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240527.md","title":"SWRPG Session 11","created":"2026-02-10 22:20:20","modified":"2026-03-19 22:30:22","cssclasses":""}
+created: 2026-02-10 22:20:20
+modified: 2026-06-26 00:48:30
+publish: true
+title: SWRPG Session 11
 ---
-
 
 # SWRPG Session 11
 
@@ -58,7 +60,7 @@ Jobs:
 - [[TaskNotes/Deliver Deebo]]
 - [[TaskNotes/Escape with a live sample of the virus]]
 
-![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240527/IMG-Crisis on Columex 20240527.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T234818792Z.png)
 
 ## Official Writeup:
 
@@ -84,4 +86,4 @@ Jobs:
 - Deliver Jax's stuff - Profit
 - Deliver Deebo
 
-![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240527/IMG-Crisis on Columex 20240527-1.png]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T234821515Z.png)

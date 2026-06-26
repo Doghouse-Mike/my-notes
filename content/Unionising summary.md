@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Unionising summary.md","title":"Unionising Our Workplace: Key Points","created":"2026-01-16 16:08:58","modified":"2026-03-19 23:02:19","cssclasses":""}
+publish: true
+title: "Unionising Our Workplace: Key Points"
+created: 2026-01-16 16:08:58
+modified: 2026-03-19 23:02:19
 ---
 
 

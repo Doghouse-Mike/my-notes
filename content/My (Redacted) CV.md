@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/My (Redacted) CV.md","title":"My (Redacted) CV","created":"2025-11-03 07:17:54","modified":"2026-03-12 17:24:42","cssclasses":""}
+publish: true
+title: My (Redacted) CV
+created: 2025-11-03 07:17:54
+modified: 2026-03-12 17:24:42
 ---
 
 

@@ -1,13 +1,17 @@
 ---
-{"publish":true,"permalink":"/Quotes.md","title":"Quotes","created":"2025-07-21 21:50:42","modified":"2026-03-19 22:59:55","cssclasses":""}
+created: 2025-07-21 21:50:42
+modified: 2026-04-20 22:38:36
+publish: true
+title: Quotes
 ---
-
 
 # Quotes
 
+If you don't know what are you trying to learn when you ship a prototype, do not ship a prototype. - [Pavel Samsonov](https://productpicnic.beehiiv.com/p/grammarly-shows-how-prototyping-turned-into-an-excuse-for-not-thinking)
+
 People should not be afraid of their government, government should be afraid of their people
 
-The unselfishness of arttake music for instance. Less than anything else, it is connected to reality, or if connected at all, it's done mechanically, not by way of ideas, just by a sheer sound, devoid of any associations. And yet, music, as if by some miracle, gets through to our heart. What is it that resonates in us in response to noise brought to harmony, making it the source of the greatest delight, which stuns us and brings us together? 
+The unselfishness of art, take music for instance. Less than anything else, it is connected to reality, or if connected at all, it's done mechanically, not by way of ideas, just by a sheer sound, devoid of any associations. And yet, music, as if by some miracle, gets through to our heart. What is it that resonates in us in response to noise brought to harmony, making it the source of the greatest delight, which stuns us and brings us together? 
 
 What's all this needed for? And most important, who needs it?
 

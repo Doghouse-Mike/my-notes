@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Nira Keth.md","title":"Nira Keth","created":"2025-07-06 18:58:29","modified":"2026-03-19 22:38:16","cssclasses":""}
+created: 2025-07-06 18:58:29
+modified: 2026-06-26 00:47:37
+publish: true
+title: Nira Keth
 ---
-
 
 # Nira Keth
 
@@ -9,7 +11,7 @@ Species: Mirialan
 
 Appearance: Nira has yellow skin, typical of the Mirialan species, with black tattoos on her face and hands. She has piercing green eyes and short, spiky black hair. She wears a simple jumpsuit with various tools and gadgets attached to it.
 
-![[Attachments/RPGs/SWRPG/Crisis on Columex/Nira Keth/IMG-Nira Keth.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T234725881Z.jpg)
 
 Background: Nira Keth was born on the planet Mirial and raised by her father (mum already dead). From a young age, she showed an aptitude for tinkering with machines and computers. Her parent encouraged her passion and taught her the basics of engineering.
 

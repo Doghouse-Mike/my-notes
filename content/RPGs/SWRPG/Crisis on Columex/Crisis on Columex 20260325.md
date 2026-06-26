@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md","title":"Crisis on Columex 20260325","created":"2026-03-25 19:27:11","modified":"2026-03-25 22:39:12","cssclasses":""}
+created: 2026-03-25 19:27:11
+modified: 2026-06-25 23:08:19
+publish: true
+title: Crisis on Columex 20260325
 ---
-
 
 # Crisis on Columex 20260325
 
@@ -17,7 +19,7 @@ Concerns that the Empire will use the outbreak as an excuse to torch the sector.
 
 Reminder that the virus is reanimating the dead. They mostly come out at night, mostly. 
 
-![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325/IMG-Crisis on Columex 20260325.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T220810808Z.jpg)
 
 Moxley's here! The guy we busted for cheating at cards. 
 
@@ -57,7 +59,7 @@ Wants us to Trojan Horse em into the hospital. We agree because otherwise we'll 
 
 Off we head. Walkin casual. Duck into a nearby building to check we're not carrying a bomb or something. The stuff is mostly harmless. Malware looks like it'll do what it says. Code rings a bell with Nira, reminds her of the guy that was involved in her dad's death. So there's a tie there. Not the ship. 
 
-![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325/IMG-Crisis on Columex 20260325-1.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T220812946Z.jpg)
 
 Carry on our merry way towards the lab. 
 

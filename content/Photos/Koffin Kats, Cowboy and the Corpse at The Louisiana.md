@@ -1,66 +1,70 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md","title":"Koffin Kats, Cowboy And the Corpse at The Louisiana","created":"2026-03-16 23:21:49","modified":"2026-03-19 22:21:21","tags":["gigs","photos"],"cssclasses":""}
+tags: [gigs, photos]
+created: 2026-03-16 23:21:49
+modified: 2026-06-26 01:27:01
+publish: true
+published: true
+title: Koffin Kats, Cowboy And the Corpse at The Louisiana
 ---
-
 
 # Koffin Kats, Cowboy And the Corpse at The Louisiana
 
 I had a chat with some of the Koffin Kats lads before this gig, you can read that over at [[Interview with Koffin Kats]].
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002553233Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-129.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002556151Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-130.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002558222Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-131.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002600370Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-132.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002602742Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-133.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002604483Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-134.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002606804Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-135.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002608689Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-136.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002611009Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-137.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002613099Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-138.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002615166Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-139.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002617409Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-141.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002619415Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-142.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002621566Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-144.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002623008Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-145.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002624959Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-146.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002626910Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-147.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002628633Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-148.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002630384Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-149.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002632832Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-150.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002634939Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-151.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002637662Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-152.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002639708Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-153.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002641737Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-154.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002643788Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-155.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002645759Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-156.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002647993Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-157.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002650133Z.jpg)
 
-![[Attachments/Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana/IMG-Koffin Kats, Cowboy and the Corpse at The Louisiana-158.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T002652284Z.jpg)

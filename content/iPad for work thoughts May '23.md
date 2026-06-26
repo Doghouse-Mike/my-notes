@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/iPad for work thoughts May '23.md","title":"iPad for Work Thoughts May '23","created":"2025-07-21 21:50:42","modified":"2026-03-19 22:57:23","cssclasses":""}
+publish: true
+title: iPad for Work Thoughts May '23
+created: 2025-07-21 21:50:42
+modified: 2026-03-19 22:57:23
 ---
 
 

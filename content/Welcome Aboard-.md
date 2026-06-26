@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Welcome Aboard-.md","title":"Welcome Aboard!","created":"2026-02-10 21:45:44","modified":"2026-03-19 23:02:42","cssclasses":""}
+publish: true
+title: Welcome Aboard!
+created: 2026-02-10 21:45:44
+modified: 2026-03-19 23:02:42
 ---
 
 

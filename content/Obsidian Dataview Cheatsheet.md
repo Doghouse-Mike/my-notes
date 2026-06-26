@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Obsidian Dataview Cheatsheet.md","title":"Obsidian Dataview Cheatsheet","created":"2024-10-03 22:26:28","modified":"2025-07-21 21:50:37","cssclasses":""}
+publish: true
+title: Obsidian Dataview Cheatsheet
+created: 2024-10-03 22:26:28
+modified: 2025-07-21 21:50:37
 ---
 
 

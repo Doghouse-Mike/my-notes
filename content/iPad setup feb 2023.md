@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/iPad setup feb 2023.md","title":"iPad Setup Feb 2023","created":"2025-07-21 21:50:42","modified":"2026-03-19 22:57:35","cssclasses":""}
+publish: true
+title: iPad Setup Feb 2023
+created: 2025-07-21 21:50:42
+modified: 2026-03-19 22:57:35
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Thoughts on How KD Feels About His Fellows.md","title":"Thoughts on How KD Feels About His Fellows","created":"2025-10-07 17:48:18","modified":"2026-03-19 22:51:09","cssclasses":""}
+publish: true
+title: Thoughts on How KD Feels About His Fellows
+created: 2025-10-07 17:48:18
+modified: 2026-03-19 22:51:09
 ---
 
 

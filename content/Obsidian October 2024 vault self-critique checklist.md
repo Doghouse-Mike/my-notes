@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Obsidian October 2024 vault self-critique checklist.md","title":"Obsidian October O_O 2024 Vault Self-critique Checklist","created":"2026-02-23 07:36:18","modified":"2026-03-19 22:59:17","cssclasses":""}
+publish: true
+title: Obsidian October O_O 2024 Vault Self-critique Checklist
+created: 2026-02-23 07:36:18
+modified: 2026-03-19 22:59:17
 ---
 
 

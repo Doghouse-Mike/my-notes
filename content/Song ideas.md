@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Song ideas.md","title":"Song Ideas","created":"2025-07-21 21:50:42","modified":"2026-03-19 23:01:05","cssclasses":""}
+publish: true
+title: Song Ideas
+created: 2025-07-21 21:50:42
+modified: 2026-03-19 23:01:05
 ---
 
 

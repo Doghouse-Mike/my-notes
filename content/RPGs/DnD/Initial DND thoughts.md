@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/DnD/Initial DND thoughts.md","title":"Initial DND Thoughts","created":"2026-03-27 21:48:03","modified":"2026-03-30 14:40:46","cssclasses":""}
+created: 2026-03-27 21:48:03
+modified: 2026-06-26 00:40:24
+publish: true
+title: Initial DND Thoughts
 ---
-
 
 # Initial DND Thoughts
 
@@ -64,7 +66,6 @@ Or the opposite of that. Real good at smashing stuff up but tries to avoid it. -
 ## Synth/Replicant
 
 A droid that can pass as human (or a different species). All of the extra special bonus points for the other players not knowing initially too. A [Gank](https://star-wars-rpg-ffg.fandom.com/wiki/Gank) could be a good disguise. Pass as a cyborg/augmented human for as long as possible. 
-
 
 ## Backgrounds
 

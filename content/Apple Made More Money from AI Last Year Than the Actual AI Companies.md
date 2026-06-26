@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Apple Made More Money from AI Last Year Than the Actual AI Companies.md","title":"Apple Made More Money from AI Last Year Than the Actual AI Companies","created":"2026-03-20 22:01:27","modified":"2026-03-21 09:45:18","cssclasses":""}
+publish: true
+title: Apple Made More Money from AI Last Year Than the Actual AI Companies
+created: 2026-03-20 22:01:27
+modified: 2026-03-21 09:45:18
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Ship name ideas.md","title":"Ship Name Ideas","created":"2025-09-19 19:55:39","modified":"2026-03-19 22:31:38","cssclasses":""}
+created: 2025-09-19 19:55:39
+modified: 2026-06-26 00:49:11
+publish: true
+title: Ship Name Ideas
 ---
-
 
 # Ship Name Ideas
 
@@ -21,8 +23,6 @@
 - Null Process
 - Undying gratitude ([via](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen))
 
-<!-- rhizome:start -->
 ## Related Notes
 
 - [[RPGs/SWRPG/Crisis on Columex/Ship name ideas]]
-<!-- rhizome:end -->

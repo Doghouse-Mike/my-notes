@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting out Green 20250627.md","title":"Starting out Green 20250627","created":"2025-06-27 20:45:45","modified":"2026-03-19 22:50:28","cssclasses":""}
+publish: true
+title: Starting out Green 20250627
+created: 2025-06-27 20:45:45
+modified: 2026-03-19 22:50:28
 ---
 
 

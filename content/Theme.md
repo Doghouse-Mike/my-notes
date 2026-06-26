@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/Theme.md","title":"Theme","created":"2025-12-25 14:07:06","modified":"2026-03-19 23:01:33","cssclasses":""}
+created: 2025-12-25 14:07:06
+modified: 2026-06-26 14:55:52
+publish: true
+title: Theme
 ---
-
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)
 
@@ -55,7 +57,7 @@ Bottom box for *one* thing that went well today
 
 Big box in the middle for general thoughts/what's on my mind. Less actionable, but good to review for recurring *themes* that might want more investigation, turning into daily tracking questions
 
-## Theme Part (first Pages in the book)
+## Theme Part (First Pages in the bOok)
 
 High level theme for the year/season
 

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/booze.md","title":"Booze","created":"2025-07-03 23:22:25","modified":"2026-03-19 22:55:04","cssclasses":""}
+publish: true
+title: Booze
+created: 2025-07-03 23:22:25
+modified: 2026-03-19 22:55:04
 ---
 
 
@@ -15,5 +18,5 @@ Via [Gruber](http://daringfireball.net/)
 <!-- rhizome:start -->
 ## Related Notes
 
-- [[day-one-entries/2015-03-15 003047]]
+- [[2015-03-15 003047]]
 <!-- rhizome:end -->

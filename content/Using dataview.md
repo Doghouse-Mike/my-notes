@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Using dataview.md","title":"Using Dataview","created":"2026-03-12 17:25:10","modified":"2026-03-19 23:02:30","cssclasses":""}
+publish: true
+title: Using Dataview
+created: 2026-03-12 17:25:10
+modified: 2026-03-19 23:02:30
 ---
 
 

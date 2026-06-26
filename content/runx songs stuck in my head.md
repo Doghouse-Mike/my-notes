@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/runx songs stuck in my head.md","title":"Runx Songs Stuck in My Head","created":"2025-07-17 21:43:09","modified":"2026-03-19 23:00:21","cssclasses":""}
+publish: true
+title: Runx Songs Stuck in My Head
+created: 2025-07-17 21:43:09
+modified: 2026-03-19 23:00:21
 ---
 
 

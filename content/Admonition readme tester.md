@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/Admonition readme tester.md","title":"Admonition Readme Tester","created":"2026-02-23 07:36:18","modified":"2026-03-19 22:54:20","cssclasses":""}
+created: 2026-02-23 07:36:18
+modified: 2026-04-11 22:11:33
+publish: true
+title: Admonition Readme Tester
 ---
-
 
 # Admonition Readme Tester
 
@@ -31,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ```ad-note
-title: Tittle
+title: Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
@@ -735,8 +737,6 @@ If you're using Obsidian to run/plan a TTRPG, you may find my other plugin usefu
 
 <a href="https://www.buymeacoffee.com/valentine195"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=valentine195&button_colour=e3e7ef&font_colour=262626&font_family=Inter&outline_colour=262626&coffee_colour=ff0000"></a>
 
-<!-- rhizome:start -->
 ## Related Notes
 
 - [[Daily notes/2023-04-23]]
-<!-- rhizome:end -->

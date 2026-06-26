@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Swift notes.md","title":"Swift Notes","created":"2026-03-12 17:25:10","modified":"2026-03-19 23:01:14","cssclasses":""}
+publish: true
+title: Swift Notes
+created: 2026-03-12 17:25:10
+modified: 2026-03-19 23:01:14
 ---
 
 

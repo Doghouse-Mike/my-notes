@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Unionising.md","title":"The Idiot's Guide to Unionising Your UK Workplace","created":"2026-01-16 16:08:59","modified":"2026-03-19 23:02:06","cssclasses":""}
+publish: true
+title: The Idiot's Guide to Unionising Your UK Workplace
+created: 2026-01-16 16:08:59
+modified: 2026-03-19 23:02:06
 ---
 
 

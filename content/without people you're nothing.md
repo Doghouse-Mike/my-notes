@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/without people you're nothing.md","title":"Without People You're Nothing","created":"2026-02-10 21:45:44","modified":"2026-03-19 23:02:48","cssclasses":""}
+created: 2026-02-10 21:45:44
+modified: 2026-04-11 10:18:33
+publish: true
+title: "Without People You're Nothing"
 ---
-
 
 # Without People You're Nothing
 
@@ -12,7 +14,8 @@ I know it's not one of [his](http://en.m.wikipedia.org/wiki/Joe_Strummer) but th
 #music #kids
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
-- [[day-one-entries/2013-12-24 012043]]
+- [[2013-12-24 012043]]
 <!-- rhizome:end -->

@@ -1,38 +1,42 @@
 ---
-{"publish":true,"permalink":"/Photos/Koffin Kats at Lady Luck.md","title":"Koffin Kats at Lady Luck","created":"2026-03-10 21:38:24","modified":"2026-03-19 22:19:15","tags":["gigs","photos"],"cssclasses":""}
+tags: [gigs, photos]
+created: 2026-03-10 21:38:24
+modified: 2026-06-26 00:58:52
+publish: true
+published: true
+title: Koffin Kats at Lady Luck
 ---
-
 
 # Koffin Kats at Lady Luck
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235807237Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-84.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235808566Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-85.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235810533Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-86.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235812575Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-87.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235814526Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-88.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235816356Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-89.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235818401Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-90.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235820251Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-91.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235821989Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-92.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235824142Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-93.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235826191Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-94.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235828027Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-95.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235829868Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-96.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235831804Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-97.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235833559Z.jpg)
 
-![[Attachments/Photos/Koffin Kats at Lady Luck/IMG-Koffin Kats at Lady Luck-98.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235835814Z.jpg)

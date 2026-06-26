@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20230720.md","title":"SWRPG Session 2","created":"2026-02-23 07:08:24","modified":"2026-03-19 22:28:21","cssclasses":""}
+created: 2026-02-23 07:08:24
+modified: 2026-06-26 00:46:39
+publish: true
+title: SWRPG Session 2
 ---
-
 
 # SWRPG Session 2
 

@@ -1,11 +1,29 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Quotes to use in swrpg.md","title":"Quotes to Use in Swrpg","created":"2026-03-16 17:56:32","modified":"2026-04-08 09:45:40","cssclasses":""}
+created: 2026-03-16 17:56:32
+modified: 2026-06-21 10:03:29
+publish: true
+title: Quotes to Use in Swrpg
 ---
-
 
 # Quotes to Use in Swrpg
 
 - Any noun can be made a lot funnier by placing the word "prescription" in front of it.
+- You are mortal, you will take what you can, and then fail
+- The stars are better off without us
+- I am incapable of emotion but you are making me feel chafed
+- You underestimate my ability to break things
+- No one is more pious than the guilty
+- This is going to be very tedious if you remain this dim
+	- Right, the tedious version then
+- Dead people don't need their things
+- The cosmos cares not
+- Don't stick your dick in it, this situation is fucked enough
+- The space between life and death, that's where we are the most alive.
+- "*Please 'talk up' if your comprehension white-shifts. I will use simple-happy language words to help you understand.*"
+- The acoustics in your head must be amazing
+- One of us is wrong. I think it's you. I hope it's me.
+- I'm a nightmare wrapped in the apocalypse 
+- No tyrant can thrive where every subject says "no". The tyrant thrives when the first fucking fool salutes
 - If you believe that, I'm not saying you're the dumbest person in the world, but you'd better hope the dumbest person doesn't die. 
 - So little time, so many crimes
 - I do not see coincidence, I see providence 
@@ -17,6 +35,7 @@
 - Plans are hard. Chaos though, chaos is easy
 - Leaves of cabbage? Is that what's in your head? Five wilted leaves of cabbage?
 - Empathy is like mud, you'll lose your boots in that shit
+- Kill two flighted creatures with a single, non-exploding projectile 
 - If I were you, I would hope that we don't meet again 
 - Tomorrow we may all be dead, but how is that different from any other day?
 - I'm the best there is at what I do, but what I do best isn't very nice

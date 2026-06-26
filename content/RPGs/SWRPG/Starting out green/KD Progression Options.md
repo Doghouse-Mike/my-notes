@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/KD Progression Options.md","title":"KD Progression Options","created":"2025-11-03 08:25:35","modified":"2026-03-19 22:38:51","cssclasses":""}
+publish: true
+title: KD Progression Options
+created: 2025-11-03 08:25:35
+modified: 2026-03-19 22:38:51
 ---
 
 

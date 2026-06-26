@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/KD-40N.md","title":"KD-40N","created":"2025-06-02 20:48:24","modified":"2026-03-19 22:48:22","cssclasses":""}
+created: 2025-06-02 20:48:24
+modified: 2026-06-26 00:54:02
+publish: true
+title: KD-40N
 ---
-
 
 # KD-40N
 
@@ -23,7 +25,7 @@ Straightens some pictures in the hall on his way out. Remembers there had been s
 
 Brainbox is still on the fritz though, ends up getting lost, stumbles into some tunnels, walks and walks, gets lost some more. Powers down to try and run some self-diagnostics, aaaaaand ACTION.
 
-![[Attachments/RPGs/SWRPG/Starting out green/KD-40N/IMG-KD-40N-1.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235354064Z.jpg)
 
 ## Background
 

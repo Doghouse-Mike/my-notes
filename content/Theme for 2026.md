@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Theme for 2026.md","title":"The Year of \"Out\"","created":"2025-12-25 13:17:42","modified":"2026-01-01 23:26:50","cssclasses":""}
+publish: true
+title: The Year of "Out"
+created: 2025-12-25 13:17:42
+modified: 2026-01-01 23:26:50
 ---
 
 

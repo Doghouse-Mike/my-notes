@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Character Creation Ideas (for Future reference).md","title":"Character Creation Ideas (for Future reference)","created":"2025-07-06 18:57:05","modified":"2026-03-19 22:51:16","cssclasses":""}
+publish: true
+title: Character Creation Ideas (for Future reference)
+created: 2025-07-06 18:57:05
+modified: 2026-03-19 22:51:16
 ---
 
 

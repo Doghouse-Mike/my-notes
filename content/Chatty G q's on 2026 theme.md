@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/Chatty G q's on 2026 theme.md","title":"Chatty G Q's on 2026 Theme","created":"2025-12-25 14:09:07","modified":"2026-01-01 23:17:14","cssclasses":""}
+publish: true
+title: Chatty G Q's on 2026 Theme
+created: 2025-12-25 14:09:07
+modified: 2026-01-01 23:17:14
 ---
 
 

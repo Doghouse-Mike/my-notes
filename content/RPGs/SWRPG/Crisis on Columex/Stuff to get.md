@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/Stuff to get.md","title":"Stuff to Get","created":"2026-02-25 21:32:01","modified":"2026-03-19 22:31:53","cssclasses":""}
+publish: true
+title: Stuff to Get
+created: 2026-02-25 21:32:01
+modified: 2026-03-19 22:31:53
 ---
 
 

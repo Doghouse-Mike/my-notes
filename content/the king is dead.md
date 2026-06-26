@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/the king is dead.md","title":"The King is Dead","created":"2026-01-16 16:08:58","modified":"2026-03-19 23:01:23","cssclasses":""}
+created: 2026-01-16 16:08:58
+modified: 2026-06-26 14:56:19
+publish: true
+title: The King is Dead
 ---
-
 
 # The King is Dead
 
@@ -18,9 +20,10 @@ Raise a glass.
 <iframe width="480" height="360" src="http://www.youtube.com/embed/Q4DeQYpbNWc" frameborder="0" allowfullscreen id="yui_3_17_2_2_1448458682910_6997"></iframe>
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[the king is dead]]
 - [[Old Blog Posts/the-king-is-dead]]
-- [[day-one-entries/2013-06-09 214243]]
+- [[2013-06-09 214243]]
 <!-- rhizome:end -->

@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Starting out green/Starting Out Green 20260123.md","title":"Starting Out Green 20260123","created":"2025-12-23 21:00:53","modified":"2026-03-19 22:51:00","cssclasses":""}
+created: 2025-12-23 21:00:53
+modified: 2026-06-26 00:53:45
+publish: true
+title: Starting Out Green 20260123
 ---
-
 
 # Starting Out Green 20260123
 
@@ -45,7 +47,7 @@ We release a recon drone towards the centre
 
 Massive, black apparition begins to appear. The floor becomes covered in a tar pit, there's a rancor struggling within. KD can't see this. 
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting Out Green 20260123/IMG-Starting Out Green 20260123.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235331840Z.jpg)
 
 The rancor is wounded, but stuck and in distress. Pit covers the entire chamber floor. It *feels* like we're outdoors. 
 
@@ -115,13 +117,13 @@ Rimer goes for his blaster, but we confiscated them before he grabbed the box. H
 
 Willie starts blasting. 
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting Out Green 20260123/IMG-Starting Out Green 20260123-1.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235333640Z.jpg)
 
 Rancor goes down, another clamp released. 
 
 We're getting concerned about Rimer and the box, so wrestle it away from him. He is PISSED. Proper Bilbo face. 
 
-![[Attachments/RPGs/SWRPG/Starting out green/Starting Out Green 20260123/IMG-Starting Out Green 20260123-2.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235334764Z.jpg)
 
 A village fades in, they're looking for Peter, worried parents etc. Willie tells them he killed Peter, no messing. They are distraught, village fades away, and another clamp lets go.
 

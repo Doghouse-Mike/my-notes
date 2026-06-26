@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Crisis on Columex/ED's version of events.md","title":"ED's Version of Events","created":"2026-02-23 07:01:55","modified":"2026-03-19 22:38:14","cssclasses":""}
+created: 2026-02-23 07:01:55
+modified: 2026-06-26 00:46:45
+publish: true
+title: "ED's Version of Events"
 ---
-
 
 # ED's Version of Events
 

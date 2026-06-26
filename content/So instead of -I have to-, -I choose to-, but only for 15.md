@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/So instead of -I have to-, -I choose to-, but only for 15.md","title":"On Instead of \"I Have to\", \"I Choose to\"","created":"2026-02-10 21:45:44","modified":"2026-03-19 23:00:44","cssclasses":""}
+publish: true
+title: On Instead of "I Have to", "I Choose to"
+created: 2026-02-10 21:45:44
+modified: 2026-03-19 23:00:44
 ---
 
 

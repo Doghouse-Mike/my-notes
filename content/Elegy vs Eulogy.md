@@ -1,7 +1,9 @@
 ---
-{"publish":true,"permalink":"/Elegy vs Eulogy.md","title":"Elegy Vs Eulogy","created":"2025-07-17 21:43:10","modified":"2026-03-19 22:56:02","cssclasses":""}
+created: 2025-07-17 21:43:10
+modified: 2026-06-26 14:53:51
+publish: true
+title: Elegy Vs Eulogy
 ---
-
 
 # Elegy Vs Eulogy
 

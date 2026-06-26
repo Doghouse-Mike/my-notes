@@ -1,52 +1,56 @@
 ---
-{"publish":true,"permalink":"/Photos/Gilded Cage at Moor Beer.md","title":"Gilded Cage at Moor Beer","created":"2026-03-10 21:37:13","modified":"2026-03-19 22:16:40","tags":["gigs","photos"],"cssclasses":""}
+tags: [gigs, photos]
+created: 2026-03-10 21:37:13
+modified: 2026-06-26 09:36:03
+publish: true
+published: true
+title: Gilded Cage at Moor Beer
 ---
-
 
 # Gilded Cage at Moor Beer
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081243333Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-67.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081246995Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-68.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081249135Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-69.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081250941Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-70.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081252896Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-71.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081254598Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-72.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081256548Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-73.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081258457Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-74.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081300304Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-75.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081302151Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-76.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081303901Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-77.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081305659Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-78.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081307257Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-79.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081309078Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-80.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081310624Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-81.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081312378Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-82.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081314342Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-83.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081315887Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-84.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081317532Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-85.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081319007Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-86.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081320638Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-87.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081322339Z.jpg)
 
-![[Attachments/Photos/Gilded Cage at Moor Beer/IMG-Gilded Cage at Moor Beer-88.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T081323749Z.jpg)

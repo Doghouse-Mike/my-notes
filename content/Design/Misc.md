@@ -1,34 +1,37 @@
 ---
-{"publish":true,"permalink":"/Design/Misc.md","title":"Misc","created":"2025-04-01 17:12:14","modified":"2026-03-19 23:11:36","tags":["design"],"cssclasses":""}
+tags: [design]
+created: 2025-04-01 17:12:14
+modified: 2026-06-26 00:39:41
+publish: true
+title: Misc
 ---
-
 
 # Misc
 
-![[Attachments/Design/Misc/IMG-Misc.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221124890Z.jpg)
 
 ![[Pasted image 20260222203848 1.jpg]]
 
-![[Attachments/Design/Misc/IMG-Misc-153.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221126996Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-154.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221128705Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-155.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221130268Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-156.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221131871Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-157.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221133404Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-158.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221134743Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-159.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221136592Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-160.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221138226Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-161.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221139855Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-162.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221141810Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-163.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221143544Z.jpg)
 
-![[Attachments/Design/Misc/IMG-Misc-164.jpg]]
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T221145497Z.jpg)

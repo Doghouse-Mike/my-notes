@@ -1,5 +1,8 @@
 ---
-{"publish":true,"permalink":"/RPGs/SWRPG/Other characters it could be fun to play.md","title":"Other Types of Characters I Think it Could Be Fun to Play:","created":"2026-02-06 21:46:36","modified":"2026-03-19 22:52:19","cssclasses":""}
+publish: true
+title: "Other Types of Characters I Think it Could Be Fun to Play:"
+created: 2026-02-06 21:46:36
+modified: 2026-03-19 22:52:19
 ---
 
 
