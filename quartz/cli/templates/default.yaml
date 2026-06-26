@@ -72,6 +72,9 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
+    layout:
+      position: right
+      priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -97,12 +100,23 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
+  - source: github:quartz-community/fonts
+    enabled: true
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
+  - source: github:quartz-community/unlisted-pages
+    enabled: true
+    options: {}
+    order: 45
   - source: github:quartz-community/encrypted-pages
     enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -152,7 +166,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 30
+      priority: 50
   - source: github:quartz-community/article-title
     enabled: true
     layout:

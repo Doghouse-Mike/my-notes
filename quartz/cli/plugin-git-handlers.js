@@ -20,6 +20,7 @@ import {
   resolveLockfileName,
   getNameOverrides,
 } from "./plugin-data.js"
+import { symlinkOrCopySync } from "./helpers.js"
 
 const INTERNAL_EXPORTS = new Set(["manifest", "default"])
 
@@ -46,6 +47,12 @@ async function cloneWithSubdirAsync({ url, ref, subdir, pluginDir }) {
 }
 
 async function buildPluginAsync(pluginDir, name) {
+  if (hasPrebuiltDist(pluginDir)) {
+    console.log(styleText("green", `  ✓ ${name}: using pre-built dist/`))
+    linkPeerPlugins(pluginDir)
+    return true
+  }
+
   try {
     const skipBuild = !needsBuild(pluginDir)
     console.log(styleText("cyan", `  → ${name}: installing dependencies...`))
@@ -102,6 +109,11 @@ function isDistGitignored(pluginDir) {
   })
 }
 
+function hasPrebuiltDist(pluginDir) {
+  const distDir = path.join(pluginDir, "dist")
+  return fs.existsSync(distDir) && !isDistGitignored(pluginDir)
+}
+
 function needsBuild(pluginDir) {
   if (isDistGitignored(pluginDir)) return true
   const distDir = path.join(pluginDir, "dist")
@@ -116,6 +128,10 @@ function needsBuild(pluginDir) {
  *  2. All other peers → symlink to the host Quartz node_modules so plugins
  *     share a single copy of packages like unified, vfile, rehype-raw, etc.
  */
+function trySymlink(target, linkPath) {
+  symlinkOrCopySync(target, linkPath)
+}
+
 function linkPeerPlugins(pluginDir) {
   const pkgPath = path.join(pluginDir, "package.json")
   if (!fs.existsSync(pkgPath)) return
@@ -123,16 +139,13 @@ function linkPeerPlugins(pluginDir) {
   const pkg = JSON.parse(fs.readFileSync(pkgPath, "utf-8"))
   const peers = pkg.peerDependencies ?? {}
 
-  // Locate the host Quartz node_modules (two levels up from .quartz/plugins/<name>)
   const quartzRoot = path.resolve(pluginDir, "..", "..", "..")
   const hostNodeModules = path.join(quartzRoot, "node_modules")
 
   for (const peerName of Object.keys(peers)) {
-    // Check if this peer is already satisfied (e.g. installed as a regular dep)
     const peerNodeModulesPath = path.join(pluginDir, "node_modules", ...peerName.split("/"))
     if (fs.existsSync(peerNodeModulesPath)) continue
 
-    // Case 1: @quartz-community scoped packages → sibling plugin symlink
     if (peerName.startsWith("@quartz-community/")) {
       const siblingPlugin = findPluginByPackageName(peerName)
       if (!siblingPlugin) continue
@@ -141,15 +154,13 @@ function linkPeerPlugins(pluginDir) {
       fs.mkdirSync(scopeDir, { recursive: true })
 
       const target = path.relative(scopeDir, siblingPlugin)
-      fs.symlinkSync(target, peerNodeModulesPath, "dir")
+      trySymlink(target, peerNodeModulesPath)
       continue
     }
 
-    // Case 2: Other peers → resolve from host Quartz node_modules
     const hostPeerPath = path.join(hostNodeModules, ...peerName.split("/"))
     if (!fs.existsSync(hostPeerPath)) continue
 
-    // Ensure parent directory exists (for scoped packages like @napi-rs/simple-git)
     const parts = peerName.split("/")
     if (parts.length > 1) {
       const scopeDir = path.join(pluginDir, "node_modules", parts[0])
@@ -159,7 +170,7 @@ function linkPeerPlugins(pluginDir) {
     }
 
     const target = path.relative(path.dirname(peerNodeModulesPath), hostPeerPath)
-    fs.symlinkSync(target, peerNodeModulesPath, "dir")
+    trySymlink(target, peerNodeModulesPath)
   }
 }
 
@@ -186,6 +197,23 @@ function findPluginByPackageName(packageName) {
     } catch {}
   }
   return null
+}
+
+const PLUGIN_TYPE_PATTERN =
+  /Quartz(?:Emitter|Transformer|Filter|PageType)Plugin|QuartzComponentConstructor|\(.*\)\s*=>\s*QuartzComponent\b/
+
+function resolveOriginalName(exportName, dtsContent) {
+  const aliasPattern = new RegExp(`(\\w+)\\s+as\\s+${exportName}\\b`)
+  const match = dtsContent.match(aliasPattern)
+  return match ? match[1] : exportName
+}
+
+function isOverridableExport(name, dtsContent) {
+  const declName = resolveOriginalName(name, dtsContent)
+  const declPattern = new RegExp(`declare\\s+const\\s+${declName}\\s*:\\s*(.+?)(?:;|$)`, "m")
+  const match = dtsContent.match(declPattern)
+  if (!match) return false
+  return PLUGIN_TYPE_PATTERN.test(match[1])
 }
 
 function parseExportsFromDts(content) {
@@ -217,14 +245,16 @@ function parseExportsFromDts(content) {
 async function regeneratePluginIndex() {
   if (!fs.existsSync(PLUGINS_DIR)) return
 
-  const plugins = fs.readdirSync(PLUGINS_DIR).filter((name) => {
+  const pluginDirs = fs.readdirSync(PLUGINS_DIR).filter((name) => {
     const pluginPath = path.join(PLUGINS_DIR, name)
     return fs.statSync(pluginPath).isDirectory()
   })
 
-  const exports = []
+  // Phase 1: Collect all exports per plugin, detect conflicts
+  const pluginExports = new Map()
+  const nameCount = new Map()
 
-  for (const pluginName of plugins) {
+  for (const pluginName of pluginDirs) {
     const pluginDir = path.join(PLUGINS_DIR, pluginName)
     const distIndex = path.join(pluginDir, "dist", "index.d.ts")
 
@@ -232,21 +262,88 @@ async function regeneratePluginIndex() {
 
     const dtsContent = fs.readFileSync(distIndex, "utf-8")
     const exportedNames = parseExportsFromDts(dtsContent)
+    const named = exportedNames.filter((e) => !e.startsWith("type "))
+    const types = exportedNames.filter((e) => e.startsWith("type ")).map((e) => e.slice(5))
 
-    if (exportedNames.length > 0) {
-      const namedExports = exportedNames.filter((e) => !e.startsWith("type "))
-      const typeExports = exportedNames.filter((e) => e.startsWith("type ")).map((e) => e.slice(5))
+    const overridable = named.filter((n) => isOverridableExport(n, dtsContent))
+    const passthrough = named.filter((n) => !isOverridableExport(n, dtsContent))
 
-      if (namedExports.length > 0) {
-        exports.push(`export { ${namedExports.join(", ")} } from "./${pluginName}"`)
-      }
-      if (typeExports.length > 0) {
-        exports.push(`export type { ${typeExports.join(", ")} } from "./${pluginName}"`)
+    if (overridable.length > 0 || passthrough.length > 0 || types.length > 0) {
+      pluginExports.set(pluginName, { overridable, passthrough, types })
+      for (const n of [...overridable, ...passthrough]) {
+        nameCount.set(n, (nameCount.get(n) ?? 0) + 1)
       }
     }
   }
 
-  const indexContent = exports.join("\n") + "\n"
+  // Phase 2: Generate index with registry import, plugin map, and conditional top-level exports
+  const lines = []
+
+  lines.push(`import { componentRegistry } from "../../quartz/components/registry"`)
+  lines.push("")
+
+  // Type re-exports
+  for (const [pluginName, { types }] of pluginExports) {
+    if (types.length > 0) {
+      lines.push(`export type { ${types.join(", ")} } from "./${pluginName}"`)
+    }
+  }
+
+  // Direct re-exports for non-overridable values (constants, utility functions, etc.)
+  for (const [pluginName, { passthrough }] of pluginExports) {
+    if (passthrough.length === 0) continue
+    const unique = passthrough.filter((n) => (nameCount.get(n) ?? 0) === 1)
+    if (unique.length > 0) {
+      lines.push(`export { ${unique.join(", ")} } from "./${pluginName}"`)
+    }
+  }
+  lines.push("")
+
+  // Generate the plugins map with override wrappers (overridable exports only)
+  lines.push(
+    `export const plugins: Record<string, Record<string, (...args: unknown[]) => void>> = {`,
+  )
+  for (const [pluginName, { overridable }] of pluginExports) {
+    if (overridable.length === 0) continue
+    const escapedName = pluginName.replace(/"/g, '\\"')
+    lines.push(`  "${escapedName}": {`)
+    for (const n of overridable) {
+      lines.push(
+        `    ${n}: (...args: unknown[]) => { componentRegistry.setOptionOverrides("${escapedName}", args[0] as Record<string, unknown>); },`,
+      )
+    }
+    lines.push(`  },`)
+  }
+  lines.push(`}`)
+  lines.push("")
+
+  // Top-level exports for overridable names: alias to the plugins map wrapper
+  for (const [pluginName, { overridable }] of pluginExports) {
+    if (overridable.length === 0) continue
+
+    const unique = overridable.filter((n) => (nameCount.get(n) ?? 0) === 1)
+    const conflicting = overridable.filter((n) => (nameCount.get(n) ?? 0) > 1)
+
+    if (unique.length > 0) {
+      const escapedName = pluginName.replace(/"/g, '\\"')
+      for (const n of unique) {
+        lines.push(`export const ${n} = plugins["${escapedName}"].${n}`)
+      }
+    }
+
+    if (conflicting.length > 0) {
+      for (const n of conflicting) {
+        console.warn(
+          styleText("yellow", `⚠`),
+          `Export "${n}" conflicts across plugins — use plugins["${pluginName}"].${n} in quartz.ts`,
+        )
+      }
+    }
+  }
+
+  lines.push("")
+
+  const indexContent = lines.join("\n")
   const indexPath = path.join(PLUGINS_DIR, "index.ts")
   fs.writeFileSync(indexPath, indexContent)
 }
@@ -257,11 +354,14 @@ export async function handlePluginInstallUnified({
   latest = false,
   clean = false,
   dryRun = false,
+  concurrency: concurrencyOption,
 } = {}) {
   if (clean && latest) {
     console.log(styleText("red", "✗ --clean and --latest cannot be used together"))
     return
   }
+
+  const resolvedConcurrency = Math.max(1, concurrencyOption ?? os.cpus().length)
 
   const pluginsJson = readPluginsJson()
   let lockfile = readLockfile()
@@ -517,7 +617,7 @@ export async function handlePluginInstallUnified({
           }
           console.log(styleText("cyan", `→ Linking ${name} from ${resolvedPath}...`))
           fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-          fs.symlinkSync(resolvedPath, pluginDir, "dir")
+          symlinkOrCopySync(resolvedPath, pluginDir)
           lockfile.plugins[name] = {
             source: entry.source,
             resolved: resolvedPath,
@@ -539,7 +639,7 @@ export async function handlePluginInstallUnified({
 
     // Clone remote plugins in parallel
     if (remoteEntries.length > 0) {
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       await runParallel(
         remoteEntries,
         concurrency,
@@ -595,7 +695,7 @@ export async function handlePluginInstallUnified({
     if (installed.length > 0) {
       console.log()
       console.log(styleText("cyan", "→ Building plugins..."))
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       const results = await runParallel(installed, concurrency, async ({ name, pluginDir }) => {
         const ok = await buildPluginAsync(pluginDir, name)
         if (ok) console.log(styleText("green", `  ✓ ${name} built`))
@@ -706,7 +806,7 @@ export async function handlePluginInstallUnified({
             continue
           }
           fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-          fs.symlinkSync(entry.resolved, pluginDir, "dir")
+          symlinkOrCopySync(entry.resolved, pluginDir)
           console.log(styleText("green", `✓ ${name} restored (local symlink)`))
           restoredPlugins.push({ name, pluginDir })
           installed++
@@ -722,7 +822,7 @@ export async function handlePluginInstallUnified({
 
     // Clone remote plugins in parallel
     if (remotePlugins.length > 0) {
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       await runParallel(remotePlugins, concurrency, async ({ name, entry, pluginDir }) => {
         try {
           if (entry.subdir) {
@@ -763,7 +863,7 @@ export async function handlePluginInstallUnified({
     if (restoredPlugins.length > 0) {
       console.log()
       console.log(styleText("cyan", "→ Building restored plugins..."))
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       const results = await runParallel(
         restoredPlugins,
         concurrency,
@@ -824,7 +924,7 @@ export async function handlePluginInstallUnified({
 
     // Phase 2: Fetch/update plugins in parallel
     if (validPlugins.length > 0) {
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       await runParallel(validPlugins, concurrency, async ({ name, pluginDir, entry }) => {
         try {
           console.log(styleText("cyan", `→ Updating ${name}...`))
@@ -884,7 +984,7 @@ export async function handlePluginInstallUnified({
     if (updatedPlugins.length > 0) {
       console.log()
       console.log(styleText("cyan", "→ Rebuilding updated plugins..."))
-      const concurrency = Math.max(1, os.cpus().length)
+      const concurrency = resolvedConcurrency
       await runParallel(updatedPlugins, concurrency, async ({ name, pluginDir }) => {
         const ok = await buildPluginAsync(pluginDir, name)
         if (ok) console.log(styleText("green", `  ✓ ${name} rebuilt`))
@@ -941,7 +1041,7 @@ export async function handlePluginInstallUnified({
           continue
         }
         fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-        fs.symlinkSync(entry.resolved, pluginDir, "dir")
+        symlinkOrCopySync(entry.resolved, pluginDir)
         console.log(styleText("green", `  ✓ ${name} (local) linked`))
         pluginsToBuild.push({ name, pluginDir })
         installed++
@@ -986,7 +1086,7 @@ export async function handlePluginInstallUnified({
 
   // Run git fetch/clone operations in parallel
   if (gitEntries.length > 0) {
-    const concurrency = Math.max(1, os.cpus().length)
+    const concurrency = resolvedConcurrency
     await runParallel(gitEntries, concurrency, async ({ name, entry, pluginDir, action }) => {
       try {
         if (action === "update") {
@@ -1031,7 +1131,7 @@ export async function handlePluginInstallUnified({
   if (pluginsToBuild.length > 0) {
     console.log()
     console.log(styleText("cyan", "→ Building plugins..."))
-    const concurrency = Math.max(1, os.cpus().length)
+    const concurrency = resolvedConcurrency
     const results = await runParallel(pluginsToBuild, concurrency, async ({ name, pluginDir }) => {
       const ok = await buildPluginAsync(pluginDir, name)
       if (ok) console.log(styleText("green", `  ✓ ${name} built`))
@@ -1061,7 +1161,7 @@ export async function handlePluginInstall() {
 
 export async function handlePluginAdd(
   sources,
-  { name: nameOverride, subdir: subdirOverride } = {},
+  { name: nameOverride, subdir: subdirOverride, concurrency: concurrencyOption } = {},
 ) {
   if (nameOverride && sources.length > 1) {
     console.log(styleText("red", "✗ --name/--as can only be used when adding a single plugin"))
@@ -1071,6 +1171,8 @@ export async function handlePluginAdd(
     console.log(styleText("red", "✗ --subdir can only be used when adding a single plugin"))
     return
   }
+
+  const resolvedConcurrency = Math.max(1, concurrencyOption ?? os.cpus().length)
 
   let lockfile = readLockfile()
   if (!lockfile) {
@@ -1116,7 +1218,7 @@ export async function handlePluginAdd(
         }
         console.log(styleText("cyan", `→ Adding ${name} from local path ${resolvedPath}...`))
         fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-        fs.symlinkSync(resolvedPath, pluginDir, "dir")
+        symlinkOrCopySync(resolvedPath, pluginDir)
         lockfile.plugins[name] = {
           source,
           resolved: resolvedPath,
@@ -1136,7 +1238,7 @@ export async function handlePluginAdd(
 
   // Clone remote plugins in parallel
   if (remoteSources.length > 0) {
-    const concurrency = Math.max(1, os.cpus().length)
+    const concurrency = resolvedConcurrency
     await runParallel(
       remoteSources,
       concurrency,
@@ -1187,7 +1289,7 @@ export async function handlePluginAdd(
   if (addedPlugins.length > 0) {
     console.log()
     console.log(styleText("cyan", "→ Building plugins..."))
-    const concurrency = Math.max(1, os.cpus().length)
+    const concurrency = resolvedConcurrency
     await runParallel(addedPlugins, concurrency, async ({ name, pluginDir }) => {
       const ok = await buildPluginAsync(pluginDir, name)
       if (ok) console.log(styleText("green", `  ✓ ${name} built`))
@@ -1209,13 +1311,13 @@ export async function handlePluginAdd(
       }
 
       if (manifest?.components) {
+        const layoutPositions = new Set(["left", "right", "beforeBody", "afterBody"])
         const firstComponentKey = Object.keys(manifest.components)[0]
         const comp = manifest.components[firstComponentKey]
-        if (comp?.defaultPosition) {
+        if (comp?.defaultPosition && layoutPositions.has(comp.defaultPosition)) {
           newEntry.layout = {
             position: comp.defaultPosition,
             priority: comp.defaultPriority ?? 50,
-            display: "all",
           }
         }
       }
