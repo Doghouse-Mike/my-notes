@@ -89,7 +89,7 @@ plugins:
     enabled: true
     order: 70
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -110,7 +110,7 @@ plugins:
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/encrypted-pages
-    enabled: true
+    enabled: false
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -131,7 +131,7 @@ plugins:
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
