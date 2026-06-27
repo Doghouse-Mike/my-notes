@@ -2,7 +2,7 @@
 publish: true
 title: Now
 created: 2026-04-24 23:05:38
-modified: 2026-06-06 13:12:11
+modified: 2026-06-27 13:53:44
 ---
 
 # Now
@@ -13,7 +13,7 @@ I wasn't around for the "heyday" of twitter, but that ship has sailed (or burned
 
 ## Reading
 
-### [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_\(novel_series\)) (again)
+### [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_\(novel_series\)) (Again)
 
 I've read em all before, but now introducing my wife to the series. After the success of [Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary), felt like some more "hard" sci-fi. I had forgotten the vomit zombies, and how great Human Miller was (spoiler alert!). I may need to get a hat, and steal some [[Quotes to use in swrpg|quotes]].
 

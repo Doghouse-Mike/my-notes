@@ -2,7 +2,7 @@
 publish: true
 title: Presentation Tips
 created: 2026-03-12 17:25:10
-modified: 2026-03-19 22:59:33
+modified: 2026-06-27 13:53:40
 ---
 
 # Presentation Tips

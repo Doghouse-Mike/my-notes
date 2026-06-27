@@ -2,7 +2,7 @@
 publish: true
 title: Using Dataview
 created: 2026-03-12 17:25:10
-modified: 2026-03-19 23:02:30
+modified: 2026-06-27 13:53:41
 ---
 
 # Using Dataview

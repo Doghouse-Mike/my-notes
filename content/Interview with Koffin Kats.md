@@ -2,7 +2,7 @@
 publish: true
 title: Interview With Koffin Kats
 created: 2026-03-11 02:46:11
-modified: 2026-03-19 22:57:00
+modified: 2026-06-27 13:53:42
 ---
 
 # Interview With Koffin Kats

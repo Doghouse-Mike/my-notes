@@ -2,7 +2,7 @@
 publish: true
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
 created: 2026-02-06 21:46:36
-modified: 2026-03-19 22:52:19
+modified: 2026-06-27 13:53:43
 ---
 
 # Other Types of Characters I Think it Could Be Fun to Play:

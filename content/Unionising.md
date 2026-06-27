@@ -2,7 +2,7 @@
 publish: true
 title: The Idiot's Guide to Unionising Your UK Workplace
 created: 2026-01-16 16:08:59
-modified: 2026-03-19 23:02:06
+modified: 2026-06-27 13:53:04
 ---
 
 see also [[Unionising summary]]
@@ -115,19 +115,19 @@ UK workers have significant legal protections when unionising:
 
 ## Common Challenges And How to Address Them
 
-### "What If Management Finds out Before We're ready?"
+### "What If Management Finds out Before We're rEady?"
 
 - Focus on building solid membership first
 - Know your rights - you cannot legally be dismissed for union activities
 - Have union support ready for any members who face issues
 
-### "What If Colleagues Are Hesitant to join?"
+### "What If Colleagues Are Hesitant to jOin?"
 
 - Focus on specific workplace issues that affect them
 - Explain concrete benefits of collective representation
 - Address concerns about fees (many unions have reduced rates for lower earners)
 
-### "What If Management is Hostile to the union?"
+### "What If Management is Hostile to the uNion?"
 
 - Document all interactions
 - Rely on union expertise and legal protection

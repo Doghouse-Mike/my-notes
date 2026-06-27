@@ -2,7 +2,7 @@
 publish: true
 title: Movie Ideas
 created: 2025-07-17 21:43:10
-modified: 2026-03-19 22:58:33
+modified: 2026-06-27 13:53:41
 ---
 
 # Movie Ideas

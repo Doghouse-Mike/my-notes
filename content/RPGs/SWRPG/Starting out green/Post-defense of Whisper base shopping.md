@@ -2,7 +2,7 @@
 publish: true
 title: Post-defense of Whisper Base Shopping
 created: 2025-08-14 19:56:48
-modified: 2026-03-19 22:49:57
+modified: 2026-06-27 13:53:42
 ---
 
 # Post-defense of Whisper Base Shopping

@@ -2,7 +2,7 @@
 publish: true
 title: iPad for Work Thoughts May '23
 created: 2025-07-21 21:50:42
-modified: 2026-03-19 22:57:23
+modified: 2026-06-27 13:53:43
 ---
 
 # iPad for Work Thoughts May '23

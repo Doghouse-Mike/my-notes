@@ -1,11 +1,11 @@
 ---
 publish: true
-title: Character Creation Ideas (for Future reference)
+title: Character Creation Ideas (For Future rEference)
 created: 2025-07-06 18:57:05
-modified: 2026-03-19 22:51:16
+modified: 2026-06-27 13:53:43
 ---
 
-# Character Creation Ideas (for Future reference)
+# Character Creation Ideas (For Future rEference)
 
 [via](https://www.youtube.com/watch?v=hhkYSLOMmTs\&list=PLUd6XtD1PA7Yf-FSzj79MQmxXabhX_9Tb)
 
