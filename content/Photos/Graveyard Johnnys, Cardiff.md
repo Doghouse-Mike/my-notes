@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Graveyard Johnnys, Cardiff
 created: 2026-03-16 23:21:49
 modified: 2026-06-26 09:12:28
-publish: true
-published: true
-title: Graveyard Johnnys, Cardiff
+tags:
+  - gigs
+  - photos
 ---
 
 # Graveyard Johnnys, Cardiff

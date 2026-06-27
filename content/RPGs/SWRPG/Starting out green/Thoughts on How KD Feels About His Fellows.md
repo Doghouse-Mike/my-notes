@@ -5,7 +5,6 @@ created: 2025-10-07 17:48:18
 modified: 2026-03-19 22:51:09
 ---
 
-
 # Thoughts on How KD Feels About His Fellows
 
 And probably some other stuff that will come up
@@ -22,7 +21,7 @@ And probably some other stuff that will come up
 
 - Cautious/plays it safe
 - Asks more questions/wants to know the plan(tm)
-- Voted most likely to be able to save us when we get into trouble. 
+- Voted most likely to be able to save us when we get into trouble.
 - More going on behind the scenes than he lets out
 
 ### Zarlo
@@ -48,23 +47,23 @@ And probably some other stuff that will come up
 
 ### KD
 
-Probably worth exploring how he feels about what he's ended up becoming so far. 
+Probably worth exploring how he feels about what he's ended up becoming so far.
 
-Will handwavium that he was tasked with protection of Whisper Base, rather than loyalty to any one faction, so doesn't care that the base has changed hands. If the new beings in charge of the base think that X needs doing, X will (probably) get done. 
+Will handwavium that he was tasked with protection of Whisper Base, rather than loyalty to any one faction, so doesn't care that the base has changed hands. If the new beings in charge of the base think that X needs doing, X will (probably) get done.
 
-Not sure if Rimer or Zarlo are the ones most likely to get everyone killed. 78% probability that in an "everyone's about to die" situation, Willie will be the one to pull them out of it. 
+Not sure if Rimer or Zarlo are the ones most likely to get everyone killed. 78% probability that in an "everyone's about to die" situation, Willie will be the one to pull them out of it.
 
-Rimer is more intelligent than he appears, but also seems a bit too reckless to live long. KD will attempt to keep him alive as long as possible. Appreciates his resourcefulness and smarts though. Has delivered some inspiring speeches to the others. May be the team mascot. 
+Rimer is more intelligent than he appears, but also seems a bit too reckless to live long. KD will attempt to keep him alive as long as possible. Appreciates his resourcefulness and smarts though. Has delivered some inspiring speeches to the others. May be the team mascot.
 
-Zarlo's "smarts" are of a different sort. More devious, but *probably* in a good way. Has a better chance of living longer, but probably not long enough to die peacefully in his sleep. Identified Zarlo as the biggest threat (to our opponents) within the group. The others mostly defer to his judgement, but don't seem super pleased about it. 
+Zarlo's "smarts" are of a different sort. More devious, but _probably_ in a good way. Has a better chance of living longer, but probably not long enough to die peacefully in his sleep. Identified Zarlo as the biggest threat (to our opponents) within the group. The others mostly defer to his judgement, but don't seem super pleased about it.
 
-Willie is more cautious than the others, and has more going on behind the scenes than he lets out, though no idea what that is yet. He'll either want to know what the plan is for any given situation, or be the one with the plan. May have a heart condition, or be a little too into droids. Noted to let him down gently should he ever try to make his feelings known. 
+Willie is more cautious than the others, and has more going on behind the scenes than he lets out, though no idea what that is yet. He'll either want to know what the plan is for any given situation, or be the one with the plan. May have a heart condition, or be a little too into droids. Noted to let him down gently should he ever try to make his feelings known.
 
-Dekmar also seems intelligent, in a book smart way. Need more input to evaluate fully, but concerned how he'll perform in the field. 
+Dekmar also seems intelligent, in a book smart way. Need more input to evaluate fully, but concerned how he'll perform in the field.
 
-Feels sorry for Buckster. Wants to try and help unlock his potential if he can work out what that even is. 
+Feels sorry for Buckster. Wants to try and help unlock his potential if he can work out what that even is.
 
-Captain Whatsizface (at the base) seems to think he's in charge but obviously isn't. Somehow keeps things running though. 
+Captain Whatsizface (at the base) seems to think he's in charge but obviously isn't. Somehow keeps things running though.
 
 Also why is everyone obsessed with jackets?
 
@@ -74,7 +73,7 @@ Also why is everyone obsessed with jackets?
 
 Zarlo trusts KD the most because he's absolutely scary and funny in his eyes. He views Rimer's intelligent/witty side like a past version of himself but honestly, Zarlo believes that rimer could be more than just a smart guy. Zarlo is confused by Willy. He sees the sort of Smuggler Mask that Willy puts on but He doesn't know who Willy is at his core. He just seems like a generic good person with no flaws.
 
-<OOC:None of this about player roleplay ability, more of the story at this point, hasn't given us more opportunities to show our character off. Zarlo determines who someone is by this quote: When the chips are down, people show you who and what they care about.>
+\<OOC:None of this about player roleplay ability, more of the story at this point, hasn't given us more opportunities to show our character off. Zarlo determines who someone is by this quote: When the chips are down, people show you who and what they care about.>
 
 ### Rimer
 
@@ -100,6 +99,6 @@ I am not sure that Willie will do much in the way of something too insane. TBH h
 
 I have always likened Willie to What if Han Solo was REALLY bad at being a smuggler
 
---- 
+---
 
-Be interesting to revisit this after a few more sessions, see how people's feelings have evolved. 
+Be interesting to revisit this after a few more sessions, see how people's feelings have evolved.

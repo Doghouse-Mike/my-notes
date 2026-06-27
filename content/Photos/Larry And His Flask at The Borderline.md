@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Larry And His Flask at The Borderline
 created: 2026-03-10 21:44:22
 modified: 2026-06-26 00:55:05
-publish: true
-published: true
-title: Larry And His Flask at The Borderline
+tags:
+  - gigs
+  - photos
 ---
 
 # Larry And His Flask at The Borderline

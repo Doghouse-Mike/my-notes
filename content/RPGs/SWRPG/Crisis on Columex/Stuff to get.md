@@ -1,15 +1,15 @@
 ---
-created: 2026-02-25 21:32:01
-modified: 2026-06-26 19:37:27
 publish: true
 title: Stuff to Get
+created: 2026-02-25 21:32:01
+modified: 2026-06-26 19:37:27
 ---
 
 # Stuff to Get
 
 Ed has a cybernetic implant cap of 6
 
-Anything encumb 1 or less can be "built in". So that'd be blaster + knuckles + breaker + catch vest(!) + datapad + Lock breaking tools 
+Anything encumb 1 or less can be "built in". So that'd be blaster + knuckles + breaker + catch vest(!) + datapad + Lock breaking tools
 
 ## Other Things I Could Have "Built iN":
 
@@ -73,7 +73,7 @@ CAAF-2 avionics interface - +1 piloting
 
 [[IMG-Stuff to get.pdf#page=116&selection=668,7,670,1|Gadgets and Gear, page 116]]
 
-Escape circuit fits with character, restraining bolts can be resisted with an easy discIpline check. 
+Escape circuit fits with character, restraining bolts can be resisted with an easy discIpline check.
 
 Implant armour, +1 soak
 
@@ -89,7 +89,7 @@ Arms/legs? +1 Brawn OR +1 Agility per limb. Might be hard sell though, my arms a
 
 Brain implant +1 int as with arms
 
-[suggests](https://reddit.com/r/swrpg/comments/6j3736/cybernetics_on_droids/) droids *do* qualify for the limbs/brain bonus. Look at it as upgrades vs strict replacement as it would be on an organic being
+[suggests](https://reddit.com/r/swrpg/comments/6j3736/cybernetics_on_droids/) droids _do_ qualify for the limbs/brain bonus. Look at it as upgrades vs strict replacement as it would be on an organic being
 
 "Custom built" limbs are in the special modifications book. Grant boost?
 

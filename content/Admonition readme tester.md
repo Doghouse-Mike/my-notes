@@ -1,8 +1,8 @@
 ---
-created: 2026-02-23 07:36:18
-modified: 2026-04-11 22:11:33
 publish: true
 title: Admonition Readme Tester
+created: 2026-02-23 07:36:18
+modified: 2026-04-11 22:11:33
 ---
 
 # Admonition Readme Tester
@@ -88,7 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 ````
 
-Please note that as of **4.4.1**, the `title`, `collapse`, `icon` and `color` parameters must be at the *top* of the block, in any order.
+Please note that as of **4.4.1**, the `title`, `collapse`, `icon` and `color` parameters must be at the _top_ of the block, in any order.
 
 ### Title
 
@@ -233,7 +233,7 @@ This is in the original admonition.
 
 ## Rendering Code Blocks Inside Admonitions
 
-Code blocks may be nested inside admonitions using a method similar to [[Admonition readme tester#Nesting-Admonitions\|Nesting Admonitions]] above.
+Code blocks may be nested inside admonitions using a method similar to [[Admonition readme tester#Nesting-Admonitions|Nesting Admonitions]] above.
 
 Additionally, for a single layer, the `~~~` markdown codeblock syntax may be used:
 
@@ -313,7 +313,7 @@ This will open a modal where the admonition type, title and collapse behavior ca
 
 ### Admonition-specific Commands
 
-Commands may be registered for each [[Admonition readme tester#custom-admonition-types\|custom admonition]] type to insert them into an open note by clicking the `Register Commands` button in [[Admonition readme tester#custom-admonition-types\|Settings]].
+Commands may be registered for each [[Admonition readme tester#custom-admonition-types|custom admonition]] type to insert them into an open note by clicking the `Register Commands` button in [[Admonition readme tester#custom-admonition-types|Settings]].
 
 3 commands will be registered: `Insert <type> Callout`, `Insert <type>`, and `Insert <type> with Title`.
 
@@ -338,8 +338,8 @@ Mermaid graphs are supported by Admonitions, but with some caveats:
 
 ## Non-code Block Admonitions
 
-> :heavy_exclamation_mark: This syntax has been officially removed as of Admonitions 7.0.0.
-> 
+> :heavy\_exclamation\_mark: This syntax has been officially removed as of Admonitions 7.0.0.
+>
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
 As of version 6.0.0, there is a new setting: Enable Non-codeblock Admonitions.
@@ -417,23 +417,23 @@ content
 ### Caveats
 
 1. Changes to the admonition after render require the cache to be cleared. The note must be closed and re-opened (and sometimes, a different note must be opened first).
-    1. This is *all* changes, including the admonition type, title, content, even whether or not a collapsible admonition is open or closed initially.
+   1. This is _all_ changes, including the admonition type, title, content, even whether or not a collapsible admonition is open or closed initially.
 2. Nested admonitions are not currently supported.
 
 If you experience any bugs using this setting, please create an issue and I will look into them.
 
 ## Microsoft Document Syntax
 
-> :heavy_exclamation_mark: This syntax has been officially removed as of version **8.0.0**.
-> 
+> :heavy\_exclamation\_mark: This syntax has been officially removed as of version **8.0.0**.
+>
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
 As of v6.8.0, an additional non-code block syntax can be used that is inspired by the [Microsoft Document Syntax](https://docs.microsoft.com/en-us/contribute/markdown-reference) to render admonitions.
 
 > **:warning: Please note:**
-> 
+>
 > Unlike the Microsoft Document Syntax, the type is not required to be upper case.
-> 
+>
 > The plugin will use an exact-match first, then try to find a case-insensitive match.
 
 ```md
@@ -499,15 +499,15 @@ Additional icon packs can be downloaded in settings.
 
 Want to add an existing icon pack? Make a pull request with the following:
 
-1. Add a new folder in the [[./icons\|icons]] folder with the name of your icon set.
-2. Create an `icons.json` file that has the icons defined as an Object. Please see the [[./icons/octicons/icons.json\|Octicons json]] for reference.
-3. Put your icon pack's information in the two variables in the [[./src/icons/packs.ts\|Icon Packs]] file.
+1. Add a new folder in the [[./icons|icons]] folder with the name of your icon set.
+2. Create an `icons.json` file that has the icons defined as an Object. Please see the [[./icons/octicons/icons.json|Octicons json]] for reference.
+3. Put your icon pack's information in the two variables in the [[./src/icons/packs.ts|Icon Packs]] file.
 
 # Settings
 
 ## Custom Admonition Types
 
-[[Admonition readme tester#custom-admonitions--callouts\|Custom admonition]] types can be created and managed in this section of the settings.
+[[Admonition readme tester#custom-admonitions--callouts|Custom admonition]] types can be created and managed in this section of the settings.
 
 ### Export Custom Types as CSS
 
@@ -517,7 +517,7 @@ This button will generate a CSS snippet that you can save and use for your custo
 
 Custom admonitions can be imported in settings from a JSON array of definitions.
 
-At a *minimum*, you only need a valid admonition type:
+At a _minimum_, you only need a valid admonition type:
 
 ```json
 [
@@ -596,13 +596,13 @@ Turn this off to totally control color via CSS.
 
 Admonitions with no content are hidden by default.
 
-> :warning: Please note that this only works for Admonitions that have *no text content whatsoever*.
+> :warning: Please note that this only works for Admonitions that have _no text content whatsoever_.
 
 ## Icon Packs
 
 ### Use Font Awesome Icons
 
-The plugin comes pre-bundled with the entire [Font Awesome Free](https://fontawesome.com/search?m=free&s=brands%2Cregular%2Csolid) icon set. Turn this setting off to not include them in the icon picker.
+The plugin comes pre-bundled with the entire [Font Awesome Free](https://fontawesome.com/search?m=free\&s=brands%2Cregular%2Csolid) icon set. Turn this setting off to not include them in the icon picker.
 
 Existing custom Admonitions that use Font Awesome icons will continue to work.
 
@@ -626,35 +626,35 @@ Your existing code block Admonitions will always work!
 
 ### Enable Non-codeblock Admonitions
 
-> :heavy_exclamation_mark: This setting has been removed as of version **7.0.0**.
-> 
+> :heavy\_exclamation\_mark: This setting has been removed as of version **7.0.0**.
+>
 > It is recommended to use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) instead.
 
 Enabled use of `!!! ad-<type>` style admonitions. No longer supported, will be removed in a future version.
 
 ### Allow Microsoft Document Syntax
 
-> :heavy_exclamation_mark: This syntax has been officially removed as of version **8.0.0**.
-> 
+> :heavy\_exclamation\_mark: This syntax has been officially removed as of version **8.0.0**.
+>
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] for blockquote admonitions.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax|Microsoft Document Syntax]] for blockquote admonitions.
 
 ### Use Microsoft Document Syntax for Indented Code Blocks
 
-> :heavy_exclamation_mark: This syntax has been officially removed as of version **8.0.0**.
-> 
+> :heavy\_exclamation\_mark: This syntax has been officially removed as of version **8.0.0**.
+>
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] for indented code blocks.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax|Microsoft Document Syntax]] for indented code blocks.
 
 ### Render Microsoft Document Syntax in Live Preview
 
-> :heavy_exclamation_mark: This syntax has been officially removed as of version **8.0.0**.
-> 
+> :heavy\_exclamation\_mark: This syntax has been officially removed as of version **8.0.0**.
+>
 > Use the [Obsidian Callout box](https://help.obsidian.md/Editing+and+formatting/Callouts) syntax instead!
 
-Enables use of the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]] in live preview.
+Enables use of the [[Admonition readme tester#microsoft-document-syntax|Microsoft Document Syntax]] in live preview.
 
 This feature is still under development and you may experience rendering bugs.
 
@@ -676,22 +676,22 @@ This setting is experimental. Links will only be synced when rendered in an admo
 
 Please see [this issue](https://github.com/valentine195/obsidian-admonition/issues/144) for more information.
 
-If you require links to be fully synced, it is recommended to use the [[Admonition readme tester#microsoft-document-syntax\|Microsoft Document Syntax]].
+If you require links to be fully synced, it is recommended to use the [[Admonition readme tester#microsoft-document-syntax|Microsoft Document Syntax]].
 
 ### Generate JS for Publish
 
 Use this setting to enable Admonitions on custom-domain Obsidian Publish websites.
 
-See [[Admonition readme tester#publish\|Publish]] for more information.
+See [[Admonition readme tester#publish|Publish]] for more information.
 
 # Todo
 
 No additional features are planned at this time. If there is a feature missing that you would like to see, please open an issue.
 
-- [x] Add the ability to collapse the admonition
-- [x] Custom admonitions
-- [x] Settings tab to customize icon and color of all admonitions
-- [x] Ability to render markdown inside an admonition
+- Add the ability to collapse the admonition
+- Custom admonitions
+- Settings tab to customize icon and color of all admonitions
+- Ability to render markdown inside an admonition
 
 # Installation
 
@@ -709,12 +709,12 @@ From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the 
 ## From GitHub
 
 - Download the Latest Release from the Releases section of the GitHub Repository
-- Extract the plugin folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
-    Note: On some machines the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
+- Extract the plugin folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`\
+  Note: On some machines the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
 - Reload Obsidian
 - If prompted about Safe Mode, you can disable safe mode and enable the plugin.
-    Otherwise head to Settings, third-party plugins, make sure safe mode is off and
-    enable the plugin from there.
+  Otherwise head to Settings, third-party plugins, make sure safe mode is off and
+  enable the plugin from there.
 
 ### Updates
 

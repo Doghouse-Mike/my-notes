@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Gilded Cage at Moor Beer
 created: 2026-03-10 21:37:13
 modified: 2026-06-26 09:36:03
-publish: true
-published: true
-title: Gilded Cage at Moor Beer
+tags:
+  - gigs
+  - photos
 ---
 
 # Gilded Cage at Moor Beer

@@ -5,7 +5,6 @@ created: 2025-08-14 19:56:48
 modified: 2026-03-19 22:49:57
 ---
 
-
 # Post-defense of Whisper Base Shopping
 
 Got 10k worth of "requisitions"
@@ -16,7 +15,7 @@ Got 10k worth of "requisitions"
 
 Takes 2 HP
 
-**Base Modifiers:** Provides the character with an additional mechanical arm that can function as one of the character's normal limbs, although it does not provide the character with additional actions or maneuvers. The utility arm adds a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die to [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)") checks and may modify other checks at the GM's discretion.  
+**Base Modifiers:** Provides the character with an additional mechanical arm that can function as one of the character's normal limbs, although it does not provide the character with additional actions or maneuvers. The utility arm adds a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die to [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)") checks and may modify other checks at the GM's discretion.\
 **Modification Options:** 1 Add a a [boost](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Boost_\(Blue\) "Narrative Dice") die to [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)") checks Mod (got), 1 Spend 1 strain to gain an additional free maneuver per turn (character still may not perform more than two maneuvers) per turn Mod.
 
 (Mods could be interesting, look into them if I've got spare spends)
@@ -45,9 +44,9 @@ An escape circuit is a cybernetic implant that can only be installed in droids. 
 
 ## Leftovers
 
-2070 cr left at this point. Could blow it on attachments/mods, or sacrifice it to the merging of the utility arm/repulsor fist. 
+2070 cr left at this point. Could blow it on attachments/mods, or sacrifice it to the merging of the utility arm/repulsor fist.
 
-- [x] Add more stun to my Exo gloves? https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Pulse Stun+2, 250cr a pop ✅ 2025-08-15
+- Add more stun to my Exo gloves? https://star-wars-rpg-ffg.fandom.com/wiki/Stun\_Pulse Stun+2, 250cr a pop ✅ 2025-08-15
 
 1820
 
@@ -57,7 +56,7 @@ An escape circuit is a cybernetic implant that can only be installed in droids. 
 
 A welding rod adds an automatic [success](https://star-wars-rpg-ffg.fandom.com/wiki/Narrative_Dice#Success "Narrative Dice") result to [Mechanics](https://star-wars-rpg-ffg.fandom.com/wiki/Mechanics_\(Int\) "Mechanics (Int)") checks to repair droids, vehicles, and starships.
 
-Hello. I am a droid. 
+Hello. I am a droid.
 
 ## [Insider's guide](https://star-wars-rpg-ffg.fandom.com/wiki/Insider%27s_Guide)
 
@@ -65,7 +64,7 @@ Hello. I am a droid.
 
 Auto advantage to finding a specific location/service
 
-Later on, [Armour Spikes](https://star-wars-rpg-ffg.fandom.com/wiki/Armor_Spikes) could be fun. For now it might be more beneficial to pass for a "stock" droid though. Spikes would gimme a Fallout-style Raider look. Bonus for modding it to get the [Intimadating Talent](https://star-wars-rpg-ffg.fandom.com/wiki/Intimidating_talent). Then again, might not fit for this character. Sabotage would be easier while appearing to be relatively as the maker made me, sir. 
+Later on, [Armour Spikes](https://star-wars-rpg-ffg.fandom.com/wiki/Armor_Spikes) could be fun. For now it might be more beneficial to pass for a "stock" droid though. Spikes would gimme a Fallout-style Raider look. Bonus for modding it to get the [Intimadating Talent](https://star-wars-rpg-ffg.fandom.com/wiki/Intimidating_talent). Then again, might not fit for this character. Sabotage would be easier while appearing to be relatively as the maker made me, sir.
 
 ## Future Buys:
 
@@ -79,7 +78,7 @@ A character using this tool gains an automatic [advantage](https://star-wars-rp
 
 1000cr
 
-+2 boost to mechanics checks involving explosives. Can remove a despair or 3 threat from results. 
++2 boost to mechanics checks involving explosives. Can remove a despair or 3 threat from results.
 
 ## [Communications media manipulator](https://star-wars-rpg-ffg.fandom.com/wiki/Communications_Media_Manipulator)
 

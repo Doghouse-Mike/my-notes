@@ -5,8 +5,6 @@ created: 2025-11-03 07:15:12
 modified: 2026-03-12 17:24:42
 ---
 
-
-
 # My Role at Secret Sales
 
 I help keep the wheels turning in a fast-moving customer service team. Whether it's answering agent queries in Slack, jumping on customer escalations, or making sure chat is covered and breaks are taken on time, I'm usually juggling a bit of everything. I also support our Team Leader and wider CS leadership with day-to-day operations, training, admin, and whatever else needs doing.
@@ -34,7 +32,9 @@ One of my proudest ongoing contributions is maintaining and improving our intern
 - Levelled up team self-sufficiency by maintaining a detailed, accessible knowledge base
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Drafts/CV tweaks for Insycle job]]
+
 <!-- rhizome:end -->

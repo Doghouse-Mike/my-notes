@@ -1,8 +1,8 @@
 ---
-created: 2026-05-03 13:14:58
-modified: 2026-06-24 21:07:02
 publish: true
 title: Linux Fundamentals
+created: 2026-05-03 13:14:58
+modified: 2026-06-24 21:07:02
 ---
 
 # Linux Fundamentals
@@ -27,7 +27,7 @@ Useful to know (when you forget where new things get installed)
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                   |
 | `/var`   | This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.                                                                                                                                                                                                |
 
-[Explainshell](https://explainshell.com/) may be useful if something gets proper donked. 
+[Explainshell](https://explainshell.com/) may be useful if something gets proper donked.
 
 `sudo apt update && sudo apt upgrade -y` is your best pal
 
@@ -81,37 +81,37 @@ EG: `git --help`
 4. `tar xzf archive.tar.gz` Extract a gunzip archive.
 5. `find . -type f -name "*md" -exec grep something {} \;` Starting at in the current directory, recursively search for all files ending in "md", within each such file look for a word "something".
 6. I like the tee command. Quite useful.
-7. ls -larth # for some reason I can remember larth quite goods 
-8. not a command but ctrl+r is hella useful 
+7. ls -larth # for some reason I can remember larth quite goods
+8. not a command but ctrl+r is hella useful
 9. ncdu # what the fuck takes up my whole space
 
-Ok, hackthebox is a bit *too* particular on its quizzes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate. 
+Ok, hackthebox is a bit _too_ particular on its quizzes. "bin/bash" and "bash" were incorrect. "/bin/bash" was the right answer. Frustrate.
 
-Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. *Or* you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down, one supposes. 
+Mused that Linux is a bit like lockpicking. You get things in just the right order and magic happens. _Or_ you try what feel like the same thing over and over and eventually it works. I'm not sure what macOS/windows would be in this tortured analogy. I guess that's much like anything when learning though. Expertise goes up, jiggling things around til they work goes down, one supposes.
 
-dpkg vs apt. 
+dpkg vs apt.
 
 dpkg is more "low level"
 
-but that's the .deb files (or.rpm) from downloading. 
+but that's the .deb files (or.rpm) from downloading.
 
-dpkg doesn't pick up any dependencies automatically. 
+dpkg doesn't pick up any dependencies automatically.
 
 APT=advanced package tool
 
-Will fix things that dpkg "broke". Higher level. 
+Will fix things that dpkg "broke". Higher level.
 
-Fetches dependencies automagically. 
+Fetches dependencies automagically.
 
-Wise to run `apt update` *before* installing anything. 
+Wise to run `apt update` _before_ installing anything.
 
-That's answered that then. `update` refreshes the list of stuff my install "knows" exists, `upgrade` etc actually installs/updates software. 
+That's answered that then. `update` refreshes the list of stuff my install "knows" exists, `upgrade` etc actually installs/updates software.
 
-`sudo apt remove [package]` to "delete" stuff. This *won't* get rid of any user data.
+`sudo apt remove [package]` to "delete" stuff. This _won't_ get rid of any user data.
 
-`sudo apt purge [package]` *will* get rid of user data
+`sudo apt purge [package]` _will_ get rid of user data
 
-Snap is another package manager. More like a store. 
+Snap is another package manager. More like a store.
 
 `sudo snap install` or `sudo snap install --classic` and name of package. EG I now have vs code courtesy of `sudo snap install --classic code`!
 
@@ -121,6 +121,6 @@ Ruby has Gems. `gem install`
 
 Aptitude is fancy
 
-And our old pal git. 
+And our old pal git.
 
-Git to download stuff, the actual installation might require running python or something from the cloned folder. 
+Git to download stuff, the actual installation might require running python or something from the cloned folder.

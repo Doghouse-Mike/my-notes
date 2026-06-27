@@ -5,7 +5,6 @@ created: 2025-07-04 21:00:49
 modified: 2026-03-19 22:50:10
 ---
 
-
 # Shoppings List
 
 ## Pre-Defense of Whisper Base
@@ -28,7 +27,7 @@ The bolted/welded on equivalent of an [armoured half-vest](https://star-wars-rpg
 
 A pile of grenades. For big jobs
 
-Sensors/scanners for advanced warning [(1)](https://star-wars-rpg-ffg.fandom.com/wiki/SE–Vigilant_Automated_Sensor) [(2)](https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Industries_Recon_Remote) [Binos](https://star-wars-rpg-ffg.fandom.com/wiki/Electrobinoculars) [(3)](https://star-wars-rpg-ffg.fandom.com/wiki/General_Purpose_Scanner) [Goggles](https://star-wars-rpg-ffg.fandom.com/wiki/Scanner_Goggles) 
+Sensors/scanners for advanced warning [(1)](https://star-wars-rpg-ffg.fandom.com/wiki/SE–Vigilant_Automated_Sensor) [(2)](https://star-wars-rpg-ffg.fandom.com/wiki/Arakyd_Industries_Recon_Remote) [Binos](https://star-wars-rpg-ffg.fandom.com/wiki/Electrobinoculars) [(3)](https://star-wars-rpg-ffg.fandom.com/wiki/General_Purpose_Scanner) [Goggles](https://star-wars-rpg-ffg.fandom.com/wiki/Scanner_Goggles)
 
 Comlinks for coordination. [Earbuds?](https://star-wars-rpg-ffg.fandom.com/wiki/Earbud_Comlink)
 
@@ -58,14 +57,14 @@ Is there enough stuff laying around the base to jury rig a [power fence](https:/
 
 ## Potentially Better for Ed:
 
-[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) (500 Cr each) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) (discounted now) look decent, a bit too "combative" For KD though mayhap. [[RPGs/SWRPG/Crisis on Columex/Z-X3ED\|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
+[S-1 Vamblade](https://star-wars-rpg-ffg.fandom.com/wiki/S-1_Vamblade) (500 Cr each) Or [Kyuzo Petars](https://star-wars-rpg-ffg.fandom.com/wiki/Kyuzo_Petars) (discounted now) look decent, a bit too "combative" For KD though mayhap. [[RPGs/SWRPG/Crisis on Columex/Z-X3ED|Ed]] would dig em (if he was any good at brawling. That defensive bonus would be good to replace the sword breaker tho, ditch melee in favour of it). Vamblades may win as easier to build in, and the have a HP for bonus goodies.
 
 [OK-98 blaster carbine](https://starwars.fandom.com/wiki/OK-98_blaster_carbine) Or similar, but fitted with the [pistol grip](https://star-wars-rpg-ffg.fandom.com/wiki/Pistol_Grip)mod (turns it into ranged (light) for 400 Cr)
 
 Other options for pistol grip mod:
 
 - [Galaar 15](https://star-wars-rpg-ffg.fandom.com/wiki/GALAAR-15_Blaster_Carbine)
-- [A280-CFE Convertible Heavy Blaster Pistol](https://star-wars-rpg-ffg.fandom.com/wiki/A280-CFE_Convertible_Heavy_Blaster_Pistol) could *always* be in rifle mode
+- [A280-CFE Convertible Heavy Blaster Pistol](https://star-wars-rpg-ffg.fandom.com/wiki/A280-CFE_Convertible_Heavy_Blaster_Pistol) could _always_ be in rifle mode
 - [FWG flechette carbine](https://star-wars-rpg-ffg.fandom.com/wiki/FWG-7_Flechette_Smart_Carbine)
 - [MODEL 38 SHARPSHOOTER'S RIFLE](https://star-wars-rpg-ffg.fandom.com/wiki/Model_38_Sharpshooter%27s_Rifle) for slugthrower fun
 - [Boomstick1](https://star-wars-rpg-ffg.fandom.com/wiki/AA8_8-Gauge_Scatter_Gun)

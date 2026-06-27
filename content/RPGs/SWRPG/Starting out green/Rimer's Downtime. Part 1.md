@@ -5,14 +5,13 @@ created: 2026-01-25 11:05:00
 modified: 2026-03-19 22:50:03
 ---
 
-
 # Rimer's Downtime. Part 1
 
-After the joys of [[RPGs/SWRPG/Starting out green/Starting Out Green 20260123\|combining the artefacts]] last session
+After the joys of [[RPGs/SWRPG/Starting out green/Starting Out Green 20260123|combining the artefacts]] last session
 
 Relief.
 
-*Sheer kriffing relief!*
+_Sheer kriffing relief!_
 
 That evening Rimer drifted into a deep sleep, the most restful sleep in some time.
 

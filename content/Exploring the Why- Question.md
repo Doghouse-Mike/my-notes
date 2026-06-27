@@ -5,7 +5,6 @@ created: 2026-02-10 21:45:44
 modified: 2026-03-19 22:56:14
 ---
 
-
 # Exploring the Why? Question
 
 Often it is easiest to start with your personal preferences:
@@ -26,7 +25,7 @@ In content?
 
 In association?
 
-And now you could try to explore how you created a difference between choices:   
+And now you could try to explore how you created a difference between choices:
 
 What is the difference in how I created them?
 

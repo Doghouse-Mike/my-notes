@@ -1,8 +1,8 @@
 ---
-created: 2026-02-10 21:13:57
-modified: 2026-04-14 07:20:11
 publish: true
 title: SWRPG Session 1
+created: 2026-02-10 21:13:57
+modified: 2026-04-14 07:20:11
 ---
 
 # SWRPG Session 1
@@ -19,7 +19,7 @@ Snowy patched Nira up after a blowy up thing gone wrong?
 
 I've been Cantina security
 
-Ruth-reporter lady. 
+Ruth-reporter lady.
 
 DEBOcam droid
 

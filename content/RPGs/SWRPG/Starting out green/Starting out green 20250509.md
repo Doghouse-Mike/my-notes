@@ -1,8 +1,8 @@
 ---
-created: 2025-09-05 21:11:30
-modified: 2026-06-26 00:50:13
 publish: true
 title: Starting out Green 20250509
+created: 2025-09-05 21:11:30
+modified: 2026-06-26 00:50:13
 ---
 
 # Starting out Green 20250509
@@ -13,7 +13,7 @@ Ship decided on was a YT 2100
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T234959540Z.png)
 
-![[Pasted image 20250905211736.png]
+!\[\[Pasted image 20250905211736.png]
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235001352Z.png)
 
@@ -29,25 +29,25 @@ Research on artefact
 
 Ship arrives!
 
-Transport has taken ATAT away, took Syberius with it. 
+Transport has taken ATAT away, took Syberius with it.
 
 Ship is legit, spaceworthy, currently named "heavy load", working on that
 
-Dekmar's on the box! Decent roll. Know it's a sith artefact, their bad news, this should not be handled. Came from a temple on Olderon, knows there's a similar temple on Dxun (moon of Onderon). Will need to get that one too if we wanted to destroy it. 
+Dekmar's on the box! Decent roll. Know it's a sith artefact, their bad news, this should not be handled. Came from a temple on Olderon, knows there's a similar temple on Dxun (moon of Onderon). Will need to get that one too if we wanted to destroy it.
 
 Box is whispering promises of power to the organic. This is the artefact of Shadar Lok
 
-Rimer went for it, KD slapped it out of his hands, but too late. He got a touch, took some wounds, and *really* wants it. KD taped it up back up in its box, then put it back in the armoury under lock n key. 
+Rimer went for it, KD slapped it out of his hands, but too late. He got a touch, took some wounds, and _really_ wants it. KD taped it up back up in its box, then put it back in the armoury under lock n key.
 
-Checked the ship out, bit of a history of being impounded but was sold off as a "police auction", stands clean now. No super suspect history. 
+Checked the ship out, bit of a history of being impounded but was sold off as a "police auction", stands clean now. No super suspect history.
 
-Take both ships to the city. Sell the skyhopper. 
+Take both ships to the city. Sell the skyhopper.
 
-Many speederbikes, take a couple (three) with us for transport rather than to sell. Gaav had a panic we were gonna strip the base. 
+Many speederbikes, take a couple (three) with us for transport rather than to sell. Gaav had a panic we were gonna strip the base.
 
-Rebs are keeping the lander. 
+Rebs are keeping the lander.
 
-All the gubbins on Patsy to be got rid of tho. 
+All the gubbins on Patsy to be got rid of tho.
 
 City's sandstoney, big temple in the middle, walls around the outside, shield generators within the city walls.
 
@@ -55,25 +55,25 @@ Big market. Admin district, commercial district, population roughly a million. D
 
 Clearing of the customs. Panic but we're ok
 
-Streets are a bit busier. Checkpoints n that. The imps are after someone not us. Word on the street there was a heist at the customs office recently, hence the heightened security. 
+Streets are a bit busier. Checkpoints n that. The imps are after someone not us. Word on the street there was a heist at the customs office recently, hence the heightened security.
 
 Rimer, KD, Willie head off to the market
 
-Zarlo and Dekmar hit the library (nerds). Get some local history, and access to the "rare" books to look up more juicy stuff artefact adjacent 
+Zarlo and Dekmar hit the library (nerds). Get some local history, and access to the "rare" books to look up more juicy stuff artefact adjacent
 
-Dxun is *not* a place to visit, but does have ruins. 
+Dxun is _not_ a place to visit, but does have ruins.
 
-Architecture wise, there are tunnels under the base (or city?). Dekmar got the ADHD (mating rituals) but Zarlo found some handy books and maps, referencing ancient religions. 
+Architecture wise, there are tunnels under the base (or city?). Dekmar got the ADHD (mating rituals) but Zarlo found some handy books and maps, referencing ancient religions.
 
-More digging into older ruins etc around the bass that might be handy for getting in there. 
+More digging into older ruins etc around the bass that might be handy for getting in there.
 
-The base *is* hooked into the city's sewer systems. 
+The base _is_ hooked into the city's sewer systems.
 
 ## Back to the Market
 
 Contacting Willie's person about selling the ship
 
-Coughed up a contact that would be interested in the weapons too. 
+Coughed up a contact that would be interested in the weapons too.
 
 Darrin Hopsteader is the arms dealer
 
@@ -87,7 +87,7 @@ Off to the industrial bit of town to meet up with our guys and tackle a meet wit
 
 We leave Rimer alone for a minute….
 
-While he's scoping out the rebel place, imps are coming. He fails to find a place to hide, so knocks on the safe house door, and gets pulled inside. 
+While he's scoping out the rebel place, imps are coming. He fails to find a place to hide, so knocks on the safe house door, and gets pulled inside.
 
 Screen fades to black
 
@@ -95,4 +95,4 @@ Screen fades to black
 
 Remember to check if Dekmar's got the armour cos Patsy didn't want to let it go
 
-Willie wants an in helmet scanner. 
+Willie wants an in helmet scanner.

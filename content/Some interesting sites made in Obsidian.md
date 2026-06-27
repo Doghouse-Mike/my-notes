@@ -5,20 +5,19 @@ created: 2026-02-10 21:13:55
 modified: 2026-03-30 22:49:33
 ---
 
-
 # Some Interesting Sites Made in Obsidian
 
 Mostly gleaned from [the roundup](https://www.eleanorkonik.com/2022-04-22/), a few [[Drafts/publish]] sites to steal things from. [See also](https://obsidian-gallery.craftengineer.com/?category=quartz)
 
-Much customisation, *and* explanation of *how they did it* on [eileenz](https://quartz.eilleeenz.com) notes
+Much customisation, _and_ explanation of _how they did it_ on [eileenz](https://quartz.eilleeenz.com) notes
 
-I like the way [this one](https://lab.marconoris.com/About/Amanda+Cuesta) uses the sliding panes thing, need to check if mine is doing that. Especially as more stuff goes up and there are more links between notes/pages. Not sure what it does for handling URL's though, like if you wanted to link to a specific page. Tested, is all good, gives you the direct URL to the current page. 
+I like the way [this one](https://lab.marconoris.com/About/Amanda+Cuesta) uses the sliding panes thing, need to check if mine is doing that. Especially as more stuff goes up and there are more links between notes/pages. Not sure what it does for handling URL's though, like if you wanted to link to a specific page. Tested, is all good, gives you the direct URL to the current page.
 
-[This](https://www.andricheli.com/02Blog/Home) has a bit of a photography bent. The way the "view posts by date" thing is set up is neat. Probably using Dataview to do that? [Maybe](https://www.andricheli.com/02Blog/👩🏽%E2%80%8D💻+Productivity/Obsidian+Publish) based on tags too. *Interesting*. Explore more
+[This](https://www.andricheli.com/02Blog/Home) has a bit of a photography bent. The way the "view posts by date" thing is set up is neat. Probably using Dataview to do that? [Maybe](https://www.andricheli.com/02Blog/👩🏽%E2%80%8D💻+Productivity/Obsidian+Publish) based on tags too. _Interesting_. Explore more
 
-Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) off, but has some interesting looking tips on using [[Drafts/publish]], so keeping [this](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) around to review later. Otherwise was a bit like just looking at a vault. 
+Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) off, but has some interesting looking tips on using [[Drafts/publish]], so keeping [this](https://notes.joschua.io/50+Slipbox/Obsidian+Publish) around to review later. Otherwise was a bit like just looking at a vault.
 
-[Chad](https://mister-chad.com/mind+gardens/!+mind+garden) has some thoughts on the whole [[mind garden]] thing, might be handy to read for getting things set up, knowing what to put where, etc. The fading sidebars are nifty too. Probably some CSS stuff that could potentially be borrowed. Read stuff. View source. 
+[Chad](https://mister-chad.com/mind+gardens/!+mind+garden) has some thoughts on the whole [[mind garden]] thing, might be handy to read for getting things set up, knowing what to put where, etc. The fading sidebars are nifty too. Probably some CSS stuff that could potentially be borrowed. Read stuff. View source.
 
 https://bryanhogan.com/blog/obsidian-website
 
@@ -36,12 +35,14 @@ https://bryanhogan.com/blog/obsidian-website
 - https://github.com/quartz-community/awesome-quartz
 - [https://blog.shuvangkardas.com](https://blog.shuvangkardas.com/)
 - [Bayesian Persuasion](https://bayesianpersuasion.com/)
-- [Kepano]([https://stephango.com](https://stephango.com/)) Yea, the Obsidian CEO. 
+- [Kepano]([https://stephango.com]\(https://stephango.com/\)) Yea, the Obsidian CEO.
 - I especially enjoy Kepano's, as they're actually doing actual work. A lot of "content" around Obsidian seems more about how you can use Obsidian to use Obsidian, rather than by people with relatively jobby jobs.
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
-- [[Clippings/Obsidian Resources (1)]]
-- [[Clippings/Obsidian Resources]]
+- [[Obsidian Resources (1)]]
+- [[Obsidian Resources]]
+
 <!-- rhizome:end -->

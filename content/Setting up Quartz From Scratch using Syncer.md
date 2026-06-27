@@ -1,19 +1,19 @@
 ---
-created: 2026-02-18 08:27:43
-modified: 2026-06-26 19:38:59
 publish: true
 title: Setting Up Quartz From Scratch Using Syncer
+created: 2026-02-18 08:27:43
+modified: 2026-06-26 19:38:59
 ---
 
 # Setting Up Quartz From Scratch Using Syncer
 
-Prompted by some chats in [the discord](https://discord.gg/cRFFHYye7t), a (hopefully) straightforward guide to getting [Quartz]([https://quartz.jzhao.xyz](https://quartz.jzhao.xyz/)) set up with [Obsidian]([https://obsidian.md](https://obsidian.md/)). Mostly following the [official docs](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup). One could probably skip the first couple of steps if you've already got a Quartz repo, but this is a test to show you don't need a local install of Quartz. I think I'd still prefer to have that local copy so a manual `npx quartz sync` etc remains available, even if 99% of the time publishing will be handled by [the plugin](https://github.com/saberzero1/quartz-syncer). Then again, I guess that could be set up later if required. 
+Prompted by some chats in [the discord](https://discord.gg/cRFFHYye7t), a (hopefully) straightforward guide to getting [Quartz]([https://quartz.jzhao.xyz]\(https://quartz.jzhao.xyz/\)) set up with [Obsidian]([https://obsidian.md]\(https://obsidian.md/\)). Mostly following the [official docs](https://saberzero1.github.io/quartz-syncer-docs/Guides/GitHub-Setup). One could probably skip the first couple of steps if you've already got a Quartz repo, but this is a test to show you don't need a local install of Quartz. I think I'd still prefer to have that local copy so a manual `npx quartz sync` etc remains available, even if 99% of the time publishing will be handled by [the plugin](https://github.com/saberzero1/quartz-syncer). Then again, I guess that could be set up later if required.
 
-I reserve the right to donk some technical terms. This entire thing was done using an iPad. As far as Obsidian goes it faces the same constraints as the smaller "mobile" versions, so apart from the bigger screenshots, this should be just as possible on a phone. 
+I reserve the right to donk some technical terms. This entire thing was done using an iPad. As far as Obsidian goes it faces the same constraints as the smaller "mobile" versions, so apart from the bigger screenshots, this should be just as possible on a phone.
 
 ## Install the Quartz Syncer Plugin
 
-Kinda step zero. Don't need to do anything with it yet, but good to have it ready to go for later. 
+Kinda step zero. Don't need to do anything with it yet, but good to have it ready to go for later.
 
 ## Get Quartz Setup in Github
 
@@ -21,7 +21,7 @@ Just because that's what I know. Other options are available.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183814921Z.png)
 
-[Click here](https://github.com/new?template_name=quartz&template_owner=jackyzha0) to create a copy of the Quartz repo All of your own to futz with.
+[Click here](https://github.com/new?template_name=quartz\&template_owner=jackyzha0) to create a copy of the Quartz repo All of your own to futz with.
 
 Name it, throw in a description, hit "Create repository"
 
@@ -47,7 +47,7 @@ Copy/paste the code from [this page](https://saberzero1.github.io/quartz-syncer-
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183820692Z.png)
 
-(Also that should by `.yml`, *not* the `.yaml` I've done in the screenshot. Insert facepalm emoji.)
+(Also that should by `.yml`, _not_ the `.yaml` I've done in the screenshot. Insert facepalm emoji.)
 
 ## Access Tokens
 
@@ -60,7 +60,7 @@ Setup Ala:
 5. Under **Permissions** > **Repository permissions**, set **Contents** to **Read and write**.
 6. Click **Generate token**.
 7. Copy the token immediately.
-![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183822274Z.png)
+   ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183822274Z.png)
 
 Could set the token to never expire, weigh the security/hassle ratio for yourself.
 
@@ -68,12 +68,12 @@ Could set the token to never expire, weigh the security/hassle ratio for yoursel
 
 1. Open Obsidian and go to **Settings** > **Community Plugins** > **Quartz Syncer**.
 2. In the **Git** settings tab:
-    - **Remote URL**: `https://github.com/<username>/<repository>.git`
-    - **Branch**: `v4` (or your Quartz branch)
-    - **Provider**: GitHub
-    - **Authentication Type**: Username & Token/Password
-    - **Username**: Your GitHub username
-    - **Access Token**: The token you generated
+   - **Remote URL**: `https://github.com/<username>/<repository>.git`
+   - **Branch**: `v4` (or your Quartz branch)
+   - **Provider**: GitHub
+   - **Authentication Type**: Username & Token/Password
+   - **Username**: Your GitHub username
+   - **Access Token**: The token you generated
 
 **A green checkmark indicates a successful connection.**
 
@@ -95,4 +95,4 @@ Hit that "Open Publication Centre" command, and give it a minute to think about 
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183852627Z.png)
 
-This would be where I recall some parts from the official docs around tweaking `quartz.config.ts` with domains, comments, setting up [themes](https://github.com/saberzero1/quartz-themes) etc. Some of which is covered in [[Mostly How I Built This Site]] but [you get what you get.](https://www.youtube.com/watch?v=_1-ouKP-qZU&list=RD_1-ouKP-qZU&start_radio=1)
+This would be where I recall some parts from the official docs around tweaking `quartz.config.ts` with domains, comments, setting up [themes](https://github.com/saberzero1/quartz-themes) etc. Some of which is covered in [[Mostly How I Built This Site]] but [you get what you get.](https://www.youtube.com/watch?v=_1-ouKP-qZU\&list=RD_1-ouKP-qZU\&start_radio=1)

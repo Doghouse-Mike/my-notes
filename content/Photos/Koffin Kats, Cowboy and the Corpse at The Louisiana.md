@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Koffin Kats, Cowboy And the Corpse at The Louisiana
 created: 2026-03-16 23:21:49
 modified: 2026-06-26 01:27:01
-publish: true
-published: true
-title: Koffin Kats, Cowboy And the Corpse at The Louisiana
+tags:
+  - gigs
+  - photos
 ---
 
 # Koffin Kats, Cowboy And the Corpse at The Louisiana

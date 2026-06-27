@@ -5,8 +5,6 @@ created: 2025-06-30 21:52:24
 modified: 2025-07-03 23:21:45
 ---
 
-
-
 # Neovim in Obsidian
 
 https://github.com/epwalsh/obsidian.nvim

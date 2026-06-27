@@ -1,8 +1,8 @@
 ---
-created: 2026-02-10 21:13:56
-modified: 2026-06-26 00:46:49
 publish: true
 title: SWRPG Session 9
+created: 2026-02-10 21:13:56
+modified: 2026-06-26 00:46:49
 ---
 
 # SWRPG Session 9
@@ -13,7 +13,7 @@ Cake complete.
 
 Animal wrangling time!
 
-Function room, viewport, 20 kids, groups of animals. 
+Function room, viewport, 20 kids, groups of animals.
 
 Porgs
 

@@ -1,8 +1,8 @@
 ---
+publish: true
+title: On Instead of "I Have tO", "I Choose tO"
 created: 2026-02-10 21:45:44
 modified: 2026-06-26 19:38:59
-publish: true
-title: 'On Instead of "I Have tO", "I Choose tO"'
 ---
 
 # On Instead of "I Have tO", "I Choose tO"

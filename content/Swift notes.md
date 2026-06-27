@@ -1,8 +1,8 @@
 ---
-created: 2026-03-12 17:25:10
-modified: 2026-06-26 19:38:48
 publish: true
 title: Swift Notes
+created: 2026-03-12 17:25:10
+modified: 2026-06-26 19:38:48
 ---
 
 # Swift Notes
@@ -13,7 +13,7 @@ title: Swift Notes
 
 ### Day 1
 
-*Variable*'s you can change their *value* whenever
+_Variable_'s you can change their _value_ whenever
 
 var name = "Ted"
 
@@ -29,7 +29,7 @@ name = "Keeley"
 
 Or whatever and "Ted" will be forgotten about
 
-If don't ever want to change the *value*, can use a *constant* instead
+If don't ever want to change the _value_, can use a _constant_ instead
 
 ```swift
 let character = "Daphne"
@@ -37,7 +37,7 @@ let character = "Daphne"
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183839354Z.png)
 
-It won't let you change the *value* of the *character* because that's set as a *constant*.
+It won't let you change the _value_ of the _character_ because that's set as a _constant_.
 
 ```swift
 var greeting = "Hello, playground"
@@ -92,7 +92,7 @@ Will, when ran, spit out:
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183840777Z.png)
 
-Using constants instead of variables lets swift optimise code a bit better but also make it harder for me to accidentally change/mistype a variable by accident. 
+Using constants instead of variables lets swift optimise code a bit better but also make it harder for me to accidentally change/mistype a variable by accident.
 
 Can have quotes within strings, but have to backlsalsh em out, like:
 
@@ -153,9 +153,9 @@ Remember that those are case sensitive though. So prefix "a day" or suffix "JPG"
 
 ## Below Here is Stuff from Donking Around in Swift Playgrounds without Really Knowing What I'm Doing.
 
-[[Boolean]] is either true OR false. Meaning we can write *conditional code*. If 
+[[Boolean]] is either true OR false. Meaning we can write _conditional code_. If
 
-true, the "If" bit will run, if false, the "else" bit will run. 
+true, the "If" bit will run, if false, the "else" bit will run.
 
 ## Examples/code Snippets:
 
@@ -165,19 +165,19 @@ Eg:
 
 > [!CODE]
 > for i in 1…4{
-> 
+>
 >     moveForward()
-> 
+>
 >     collectGem()
-> 
+>
 >     moveForward()
-> 
+>
 >     moveForward()
-> 
+>
 >     moveForward()
-> 
+>
 >     turnRight()
-> 
+>
 > }
 
 ### If Statements
@@ -186,48 +186,48 @@ EG (with a loop):
 
 > [!Code]
 > for i in 1 … 4{
-> 
+>
 > moveForward()
-> 
+>
 > if isOnClosedSwitch {
-> 
+>
 >     toggleSwitch()
-> 
+>
 > }
-> 
+>
 > }
 
 ### Else If
 
 > [!Code]
 > for i in 1 … 2{
-> 
+>
 >     moveForward()
-> 
+>
 >     if isOnClosedSwitch {
-> 
+>
 >         toggleSwitch()
-> 
+>
 >     } else if isOnGem {
-> 
+>
 >         collectGem()
-> 
+>
 >     }
-> 
+>
 > }
 
 > [!Code]
 > for i in 1 … 10 {
 > Commands go here
 > }
-> 
+>
 > if or else if
-> 
+>
 > && - both conditions must be true
-> 
+>
 > ! NOT - makes it the opposite, so the condition must be false
-> 
-> || OR - if *either* condition is true, code will run
+>
+> || OR - if _either_ condition is true, code will run
 
 #swift #programming #ipad
 
@@ -243,35 +243,35 @@ EG
 
 > [!code]
 > for i in 1 … 4 {
-> 
+>
 >     moveForward()
-> 
+>
 >     if isOnGem {
-> 
+>
 >         collectGem()
-> 
+>
 > } else if !isOnGem || isBlocked {
-> 
+>
 >         turnLeft()
-> 
+>
 >         moveForward()
-> 
+>
 >         moveForward()
-> 
+>
 >         collectGem()
-> 
+>
 >         turnLeft()
-> 
+>
 >         turnLeft()
-> 
+>
 >         moveForward()
-> 
+>
 >         moveForward()
-> 
+>
 >         turnLeft()
-> 
+>
 >     }
-> 
+>
 > }
 
 ## Variables
@@ -288,90 +288,90 @@ Eg:
 
 > [!code]
 > for i in 1 … 21 {
-> 
+>
 > if isOnGem{
-> 
+>
 >     collectGem()
-> 
+>
 >     gemCounter = gemCounter + 1
-> 
+>
 > }    else if !isOnGem{
-> 
+>
 >     moveForward()
-> 
+>
 > }
-> 
+>
 >     if isBlocked{
-> 
+>
 >         turnRight()
-> 
+>
 >     }
-> 
+>
 > }
 
 Thing I forget is you gotta do "nameofvariable = nameofvariable + 1" or whatevers, NOT just "nameofvariable + 1"
 
-A *Type* is like a blueprint. 
+A _Type_ is like a blueprint.
 
-Has features called *properties* - Like defined variables
+Has features called _properties_ - Like defined variables
 
-Has behaviours called *methods* - Like defined functions
+Has behaviours called _methods_ - Like defined functions
 
-An *Instance* is like a house built from said blueprint. In this example, "blueportal" and "pinkportal" are *instances*, "isActive" is the *state*
+An _Instance_ is like a house built from said blueprint. In this example, "blueportal" and "pinkportal" are _instances_, "isActive" is the _state_
 
 > [!code]
 > bluePortal.isActive = false
-> 
+>
 > pinkPortal.isActive = false
-> 
+>
 > moveForward()
-> 
+>
 > moveForward()
-> 
+>
 > moveForward()
-> 
+>
 > collectGem()
-> 
+>
 > turnLeft()
-> 
+>
 > turnLeft()
-> 
+>
 > pinkPortal.isActive = true
-> 
+>
 > moveForward()
-> 
+>
 > turnLeft()
-> 
+>
 > turnLeft()
-> 
+>
 > moveForward()
-> 
+>
 > collectGem()
-> 
+>
 > turnLeft()
-> 
+>
 > turnLeft()
-> 
+>
 > moveForward()
-> 
+>
 > bluePortal.isActive = true
-> 
+>
 > moveForward()
-> 
+>
 > moveForward()
-> 
+>
 > collectGem()
-> 
+>
 > bluePortal.isActive = false
-> 
+>
 > turnLeft()
-> 
+>
 > turnLeft()
-> 
+>
 > moveForward()
-> 
+>
 > moveForward()
-> 
+>
 > collectGem()
 
 ### Initialisation
@@ -380,54 +380,54 @@ Let blahblah = blahblah() "turns it on"
 
 > [!code]
 > Let expert = Expert()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.turnLockUp()
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.turnLeft()
-> 
+>
 > for i in 1 … 3{
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.collectGem()
-> 
+>
 >     expert.turnLeft()
-> 
+>
 >     expert.turnLeft()
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.moveForward()
-> 
+>
 >     expert.turnLeft()
-> 
+>
 > }
 
 ### Functions
 
-Get ya func set up first. Lets you name a set of commands to be run. 
+Get ya func set up first. Lets you name a set of commands to be run.
 
 Eg func tieMyShoe(){
 
@@ -440,121 +440,119 @@ Pull()
 }
 
 > [!code]
-> 
+>
 > func gemnSwitch() {
 > moveForward()
-> 
+>
 >     collectGem()
-> 
+>
 >     moveForward()
-> 
+>
 >     toggleSwitch()
 > }
-> 
+>
 > for i in 1 … 4{
-> 
+>
 >     gemnSwitch()
-> 
+>
 >     moveForward()
-> 
+>
 >     moveForward()
-> 
+>
 >     turnLeft()
-> 
+>
 > }
 
 ### Parameters
 
-Have an input value to function - *type*
+Have an input value to function - _type_
 
-When calling the function, pass an *argument* that customises HOW it runs
+When calling the function, pass an _argument_ that customises HOW it runs
 
 > [!code]
 > let expert = Expert()
-> 
+>
 > func move(distance: Int) {
-> 
+>
 > }
-> 
+>
 > expert.move(distance:6)
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:2)
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:5)
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.move(distance:5)
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.turnLockUp()
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.move(distance:3)
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:3)
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:4)
-> 
+>
 > expert.collectGem()
 
 > [!code]
 > let expert = Expert()
-> 
+>
 > world.place(expert, atColumn: 1, row: 5)
-> 
+>
 > func move(distance: Int) {
-> 
+>
 > }
-> 
-> 
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.turnLeft()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.collectGem()
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.turnLockUp()
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:5)
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.collectGem()
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.moveForward()
-> 
+>
 > expert.turnLockUp()
-> 
+>
 > expert.turnRight()
-> 
+>
 > expert.move(distance:6)
-> 
+>
 > expert.collectGem()
 
 ## Swift UI Views
@@ -563,516 +561,488 @@ Deffo a little bit lost to start with
 
 > [!code]
 > import SwiftUI
-> 
-> 
-> 
-> /*#-code-walkthrough(1.first)*/
-> 
-> struct/*#-code-walkthrough(1.introView)*/ IntroView: /*#-code-walkthrough(1.introView)*/ View {
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+> /_#-code-walkthrough(1.first)_/
+>
+> struct/_#-code-walkthrough(1.introView)_/ IntroView: /_#-code-walkthrough(1.introView)_/ View {
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 >     var body: some View {
-> 
+>
 >         //#-learning-task(placeOneViewInsideAnother)
-> 
+>
 >         //#-learning-task(addImageInHStack)
-> 
+>
 >         //#-learning-task(modifierWalkthrough)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(addFriend)
-> 
+>
 >         //#-learning-task(modifier)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(changeText)
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         Text("Bonsoir, Amigo.")
-> 
+>
 >         Text ("here is some more text")
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         //#-learning-task(textElement)
-> 
+>
 >     }
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 > }
-> 
-> 
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> struct IntroView_Previews: PreviewProvider {
-> 
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> struct IntroView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             IntroView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> /*#-code-walkthrough(1.first)*/
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> /_#-code-walkthrough(1.first)_/
 
 > [!code]
-> 
+>
 > import SwiftUI
-> 
-> 
-> /*#-code-walkthrough(1.first)*/
-> 
-> struct/*#-code-walkthrough(1.introView)*/ IntroView: /*#-code-walkthrough(1.introView)*/ View {
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+> /_#-code-walkthrough(1.first)_/
+>
+> struct/_#-code-walkthrough(1.introView)_/ IntroView: /_#-code-walkthrough(1.introView)_/ View {
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 >     var body: some View {
-> 
+>
 >         //#-learning-task(placeOneViewInsideAnother)
-> 
+>
 >         //#-learning-task(addImageInHStack)
-> 
+>
 >         //#-learning-task(modifierWalkthrough)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(addFriend)
-> 
+>
 >         //#-learning-task(modifier)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(changeText)
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         Text("Bonsoir, Amigo.")
-> 
+>
 >         Text ("here is some more text")
-> 
+>
 >         Image("FriendAndGem")
-> 
+>
 >             .resizable()
-> 
+>
 >             .scaledToFit()
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         //#-learning-task(textElement)
-> 
+>
 >     }
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 > }
-> 
-> 
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> struct IntroView_Previews: PreviewProvider {
-> 
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> struct IntroView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             IntroView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> /*#-code-walkthrough(1.first)*/
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> /_#-code-walkthrough(1.first)_/
 
 ## Hstacks
 
 Let you place a view within another view. Or something?
 
 > [!code]
-> 
+>
 > import SwiftUI
-> 
-> 
-> 
-> /*#-code-walkthrough(1.first)*/
-> 
-> struct/*#-code-walkthrough(1.introView)*/ IntroView: /*#-code-walkthrough(1.introView)*/ View {
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+> /_#-code-walkthrough(1.first)_/
+>
+> struct/_#-code-walkthrough(1.introView)_/ IntroView: /_#-code-walkthrough(1.introView)_/ View {
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 >     var body: some View {
-> 
+>
 >         HStack { 
-> 
+>
 >             Text ("this is in the hstack")
-> 
+>
 >         }
-> 
+>
 >         //#-learning-task(addImageInHStack)
-> 
+>
 >         //#-learning-task(modifierWalkthrough)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(addFriend)
-> 
+>
 >         //#-learning-task(modifier)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(changeText)
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         Text("Bonsoir, Amigo.")
-> 
+>
 >         Text ("here is some more text")
-> 
+>
 >         Image("FriendAndGem")
-> 
+>
 >             .resizable()
-> 
+>
 >             .scaledToFit()
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         //#-learning-task(textElement)
-> 
+>
 >     }
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 > }
-> 
-> 
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> struct IntroView_Previews: PreviewProvider {
-> 
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> struct IntroView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             IntroView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> /*#-code-walkthrough(1.first)*/
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> /_#-code-walkthrough(1.first)_/
 
-So like this, the image appears beside the text, rather than above/below it. Guessing the "h" in hstack refers to "horizontal". So they get arranged horizontally rather than vertically. 
+So like this, the image appears beside the text, rather than above/below it. Guessing the "h" in hstack refers to "horizontal". So they get arranged horizontally rather than vertically.
 
 > [!code]
-> 
+>
 > import SwiftUI
-> 
-> 
-> 
-> /*#-code-walkthrough(1.first)*/
-> 
-> struct/*#-code-walkthrough(1.introView)*/ IntroView: /*#-code-walkthrough(1.introView)*/ View {
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+> /_#-code-walkthrough(1.first)_/
+>
+> struct/_#-code-walkthrough(1.introView)_/ IntroView: /_#-code-walkthrough(1.introView)_/ View {
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 >     var body: some View {
-> 
+>
 >         HStack { 
-> 
+>
 >             Text ("this is in the hstack")
-> 
+>
 >             Image("FriendAndGem")
-> 
+>
 >                 .resizable()
-> 
+>
 >                 .scaledToFit()
-> 
+>
 >         }
-> 
+>
 >         //#-learning-task(addImageInHStack)
-> 
+>
 >         //#-learning-task(modifierWalkthrough)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(addFriend)
-> 
+>
 >         //#-learning-task(modifier)
-> 
->         /*#-code-walkthrough(2.bothModifiers)*/
-> 
+>
+>         /_#-code-walkthrough(2.bothModifiers)_/
+>
 >         //#-learning-task(changeText)
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         Text("Bonsoir, Amigo.")
-> 
+>
 >         Text ("here is some more text")
-> 
-> 
-> 
->         /*#-code-walkthrough(1.text)*/
-> 
+>
+>         /_#-code-walkthrough(1.text)_/
+>
 >         //#-learning-task(textElement)
-> 
+>
 >     }
-> 
->     /*#-code-walkthrough(1.body)*/
-> 
+>
+>     /_#-code-walkthrough(1.body)_/
+>
 > }
-> 
-> 
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> struct IntroView_Previews: PreviewProvider {
-> 
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> struct IntroView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             IntroView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> /*#-code-walkthrough(1.preview)*/
-> 
-> /*#-code-walkthrough(1.first)*/
+>
+> /_#-code-walkthrough(1.preview)_/
+>
+> /_#-code-walkthrough(1.first)_/
 
 Views in views in view. It's views all the way down:
 
 > [!code]
-> 
-> 
+>
 > import SwiftUI
-> 
-> 
-> 
+>
 > struct FriendDetailView: View {
-> 
+>
 >     var body: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             HStack { 
-> 
+>
 >                 Image("Friend")
-> 
+>
 >                     .resizable()
-> 
+>
 >                     .scaledToFit()
-> 
+>
 >                 VStack {
-> 
+>
 >                     Text ("Friendo")
-> 
+>
 >                         .font(.largeTitle)
-> 
+>
 >                 }
-> 
+>
 >                 //#-learning-task(addTextInVStack)
-> 
+>
 >                 //#-learning-task(describeFriend)
-> 
+>
 >             }
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> 
-> 
-> struct FriendDetailView_Previews: PreviewProvider {
-> 
+>
+> struct FriendDetailView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             FriendDetailView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
 
-So with *this*, the image and text appear side by side, but because both sets of text are in a vstack *inside* the hstack, the text remains vertically aligned to each other, but horizontally in relation to the image
+So with _this_, the image and text appear side by side, but because both sets of text are in a vstack _inside_ the hstack, the text remains vertically aligned to each other, but horizontally in relation to the image
 
 > [!code]
-> 
+>
 > import SwiftUI
-> 
-> 
-> 
+>
 > struct FriendDetailView: View {
-> 
+>
 >     var body: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             HStack { 
-> 
+>
 >                 Image("Friend")
-> 
+>
 >                     .resizable()
-> 
+>
 >                     .scaledToFit()
-> 
+>
 >         VStack {
-> 
+>
 >                     Text ("Friendo")
-> 
+>
 >                         .font(.largeTitle)
-> 
+>
 >                  Text("Orange guy. If this gets longer how does it wrap or otherwise behave? The image will get smaller depending on the text but might get bigger again as we start a new line.")
-> 
+>
 >                 .font(.caption)
-> 
+>
 >                 }
-> 
+>
 >                 //#-learning-task(addTextInVStack)
-> 
+>
 >                 //#-learning-task(describeFriend)
-> 
+>
 >             }
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
-> 
-> 
-> 
-> struct FriendDetailView_Previews: PreviewProvider {
-> 
+>
+> struct FriendDetailView\_Previews: PreviewProvider {
+>
 >     static var previews: some View {
-> 
+>
 >         VStack {
-> 
+>
 >             FriendDetailView()
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }
 
-Can mix n match, so the start of this'll get the image on top of two separate text boxes, can tweak the text bits separately. 
+Can mix n match, so the start of this'll get the image on top of two separate text boxes, can tweak the text bits separately.
 
 > [!code]
 > import SwiftUI
-> 
-> 
-> 
+>
 > struct ExperimentView: View {
-> 
+>
 >     var body: some View {
-> 
+>
 >         VStack{
-> 
+>
 >             Text("This is a title for this screen")
-> 
+>
 >                 .font(.headline)
-> 
+>
 >         }
-> 
+>
 >         VStack{
-> 
+>
 >             Image("Hopper")
-> 
+>
 >                 .resizable()
-> 
+>
 >                 .scaledToFit()
-> 
+>
 >             HStack{
-> 
+>
 >                 Text("Hopper")
-> 
+>
 >                     .font(.largeTitle)
-> 
+>
 >                 Text("Hopper is a stretched praying mantis")
-> 
+>
 >                     .font(.caption)
-> 
+>
 >             }
-> 
+>
 >             VStack {
-> 
+>
 >                 FriendDetailView()
-> 
+>
 >                 HStack {
-> 
+>
 >                     Image("Blu")
-> 
+>
 >                         .resizable()
-> 
+>
 >                         .scaledToFit()
-> 
+>
 >                     VStack{
-> 
+>
 >                         Text("Blu")
-> 
+>
 >                             .font(.largeTitle)
-> 
+>
 >                         Text("This is something about Blu. They look like a teardrop")
-> 
+>
 >                             .font(.caption)
-> 
+>
 >                     }
-> 
+>
 >                 }
-> 
+>
 >             }
-> 
+>
 >             //#-learning-task(createBluView)
-> 
+>
 >             //#-learning-task(createHopperView)
-> 
+>
 >         }
-> 
+>
 >     }
-> 
->     struct ExperimentView_Previews: PreviewProvider {
-> 
+>
+>     struct ExperimentView\_Previews: PreviewProvider {
+>
 >         static var previews: some View {
-> 
+>
 >             VStack {
-> 
+>
 >                 ExperimentView()
-> 
+>
 >             }
-> 
+>
 >         }
-> 
+>
 >     }
-> 
+>
 > }

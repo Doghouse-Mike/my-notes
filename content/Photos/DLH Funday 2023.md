@@ -1,10 +1,12 @@
 ---
-tags: [gigs, photos, skating]
+publish: true
+title: DLH Funday 2023
 created: 2026-03-10 21:36:16
 modified: 2026-06-26 01:04:32
-publish: true
-published: true
-title: DLH Funday 2023
+tags:
+  - gigs
+  - photos
+  - skating
 ---
 
 # DLH Funday 2023
@@ -117,4 +119,5 @@ title: DLH Funday 2023
 
 - [[Photos/DLH Funday 2022]]
 - [[Photos/DLH Funday 2024]]
+
 <!-- rhizome:end -->

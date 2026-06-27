@@ -1,8 +1,8 @@
 ---
-created: 2026-06-06 12:31:50
-modified: 2026-06-06 13:08:06
 publish: true
 title: Snapcase
+created: 2026-06-06 12:31:50
+modified: 2026-06-06 13:08:06
 ---
 
 # Snapcase

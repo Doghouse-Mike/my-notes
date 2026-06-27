@@ -5,7 +5,6 @@ created: 2026-02-10 21:13:56
 modified: 2026-03-19 22:29:31
 ---
 
-
 # SWRPG Session 6
 
 Ed has a copy of the plans that were meant to be transmitted to the rebels on columex

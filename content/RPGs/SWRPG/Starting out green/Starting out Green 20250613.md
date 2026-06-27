@@ -5,7 +5,6 @@ created: 2025-06-13 21:05:37
 modified: 2026-03-19 22:50:24
 ---
 
-
 # Starting out Green 20250613
 
 Character intros
@@ -44,30 +43,30 @@ Into the depths
 
 Got jumped by some creatures. With claws
 
-Our session zero, newbs came to the temple too, on different assignment though I think. They were part of the rebellion, Left Izis to investigate this artifact (same one the oldbies are after). Saw the other three descend into the temple, so followed em in. 
+Our session zero, newbs came to the temple too, on different assignment though I think. They were part of the rebellion, Left Izis to investigate this artifact (same one the oldbies are after). Saw the other three descend into the temple, so followed em in.
 
-Snuck in anyways. 
+Snuck in anyways.
 
-KD is in the ruins somewhere, waiting to be found. 
+KD is in the ruins somewhere, waiting to be found.
 
 ### Onwards for Actual Session:
 
-newbs are catching up on the "old" guys. 
+newbs are catching up on the "old" guys.
 
 Old guys just finished a fight, they're wandering around in the dark
 
-We fight some gremlins. I demolish one. 
+We fight some gremlins. I demolish one.
 
 Wander off further into the ruins. Squishies reconcile that they're all part of the rebellion. K tags along
 
 Found a kitchen
 
-Found a tunnel. Sense of dread decreased down there though, deffo made by the morlocks. 
+Found a tunnel. Sense of dread decreased down there though, deffo made by the morlocks.
 
 Turned around and headed further into the temple
 
-Glowy rocks. Critters around em like some sort of ritual going on. Fighting ensues. They don't like it when you shoot em. 
+Glowy rocks. Critters around em like some sort of ritual going on. Fighting ensues. They don't like it when you shoot em.
 
-Glowing stops when the critters around the rock die, has alerted the others. More coming. 
+Glowing stops when the critters around the rock die, has alerted the others. More coming.
 
-Pause for 15XP each. 
+Pause for 15XP each.

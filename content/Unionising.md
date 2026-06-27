@@ -5,8 +5,7 @@ created: 2026-01-16 16:08:59
 modified: 2026-03-19 23:02:06
 ---
 
-
-see also [[Unionising summary]] 
+see also [[Unionising summary]]
 
 Many Bothans died to bring us this information.
 
@@ -14,11 +13,13 @@ This guide covers the essential steps to unionise your workplace in the UK, focu
 
 Some additional points to consider:
 
-	1.	Documentation is important - keep records of any workplace issues that demonstrate why unionisation would be beneficial.
+```
+1.	Documentation is important - keep records of any workplace issues that demonstrate why unionisation would be beneficial.
 
-	2.	Patience is crucial - successful unionisation typically takes months rather than weeks.
+2.	Patience is crucial - successful unionisation typically takes months rather than weeks.
 
-	3.	Digital organizing may be particularly relevant for your online marketplace workplace - consider secure communication channels for discussing union matters.
+3.	Digital organizing may be particularly relevant for your online marketplace workplace - consider secure communication channels for discussing union matters.
+```
 
 # The Idiot's Guide to Unionising Your UK Workplace
 
@@ -149,65 +150,67 @@ UK workers have significant legal protections when unionising:
 
 . Here are some important things to keep in mind as you move forward:
 
-	1.	Be patient - Union organizers are often busy and may take a few days to respond. If you don’t hear back within a week, a polite follow-up is appropriate.
+```
+1.	Be patient - Union organizers are often busy and may take a few days to respond. If you don’t hear back within a week, a polite follow-up is appropriate.
 
-	2.	Prepare for your conversation - When a union organizer does connect with you, be ready to discuss:
+2.	Prepare for your conversation - When a union organizer does connect with you, be ready to discuss:
 
-	-	Specific workplace issues in more detail
+-	Specific workplace issues in more detail
 
-	-	The general mood of your colleagues
+-	The general mood of your colleagues
 
-	-	Any company policies about communication or organizing
+-	Any company policies about communication or organizing
 
-	-	Your workplace structure and different departments
+-	Your workplace structure and different departments
 
-	3.	Start documenting - Begin keeping records of workplace issues that could demonstrate the need for a union, such as:
+3.	Start documenting - Begin keeping records of workplace issues that could demonstrate the need for a union, such as:
 
-	-	Inconsistent application of policies
+-	Inconsistent application of policies
 
-	-	Pay disparities
+-	Pay disparities
 
-	-	Workload concerns
+-	Workload concerns
 
-	-	Any problematic management practices
+-	Any problematic management practices
 
-	4.	Maintain strict confidentiality - At this early stage:
+4.	Maintain strict confidentiality - At this early stage:
 
-	-	Use personal devices and accounts for all union-related communication
+-	Use personal devices and accounts for all union-related communication
 
-	-	Meet colleagues off-site or in private settings
+-	Meet colleagues off-site or in private settings
 
-	-	Be careful about leaving union materials around
+-	Be careful about leaving union materials around
 
-	-	Consider who you can truly trust before bringing them into discussions
+-	Consider who you can truly trust before bringing them into discussions
 
-	5.	Research your employer’s history - Look into whether your company has dealt with unionization efforts before, either in the UK or elsewhere. This might give you insight into what to expect.
+5.	Research your employer’s history - Look into whether your company has dealt with unionization efforts before, either in the UK or elsewhere. This might give you insight into what to expect.
 
-	6.	Know your rights - Familiarize yourself with your legal protections:
+6.	Know your rights - Familiarize yourself with your legal protections:
 
-	-	The right to join a union without penalty
+-	The right to join a union without penalty
 
-	-	Protection from being dismissed for union activities
+-	Protection from being dismissed for union activities
 
-	-	The right to discuss working conditions with colleagues
+-	The right to discuss working conditions with colleagues
 
-	7.	Be prepared for questions from colleagues like:
+7.	Be prepared for questions from colleagues like:
 
-	-	“How much are union dues?”
+-	“How much are union dues?”
 
-	-	“What concrete benefits will we get?”
+-	“What concrete benefits will we get?”
 
-	-	“Could we lose our jobs?”
+-	“Could we lose our jobs?”
 
-	8.	Watch for common management responses if they become aware of organizing:
+8.	Watch for common management responses if they become aware of organizing:
 
-	-	Sudden interest in addressing workplace issues
+-	Sudden interest in addressing workplace issues
 
-	-	“Open door” meetings about concerns
+-	“Open door” meetings about concerns
 
-	-	Increased scrutiny of organizing individuals
+-	Increased scrutiny of organizing individuals
 
-	-	Anti-union communications
+-	Anti-union communications
+```
 
 Remember that this is a marathon, not a sprint. The strongest unionization efforts build steadily through relationship-building and addressing specific workplace concerns rather than rushing to go public before you have solid support.​​​​​​​​​​​​​​​​
 
@@ -215,7 +218,7 @@ Remember that this is a marathon, not a sprint. The strongest unionization effor
 
 If you reach the threshold for statutory recognition, there's a specific process to follow rather than just informing the company. Here's how it typically works:
 
-1. **Verify your numbers first**: 
+1. **Verify your numbers first**:
    - Ensure you genuinely have at least 10% of the workforce as union members
    - Have evidence suggesting a majority would likely vote in favor in a ballot
 
@@ -267,10 +270,10 @@ The union you're working with will guide you through this process, as they have 
 - https://www.usdaw.org.uk/join-usdaw/good-reasons-to-join/
 - https://www.usdaw.org.uk/join-usdaw/who-can-join-usdaw/
 - https://www.tuc.org.uk/workplace-guidance/organising-and-bargaining/union-reps
-- https://www.tuc.org.uk/sites/default/files/2019-10/Pocket_Guide_To_Organising%26Campaigning_2019.pdf
+- https://www.tuc.org.uk/sites/default/files/2019-10/Pocket\_Guide\_To\_Organising%26Campaigning\_2019.pdf
 - https://www.tuc.org.uk/sites/default/files/2021-04/TheRoleUnionRep.pdf
 
-Usdaw *might* be slightly more retail suitable, but unite are unite. 
+Usdaw _might_ be slightly more retail suitable, but unite are unite.
 
 `not everyone that works for the company is permanently resident in the UK, though they are employed by a UK company, pay UK taxes etc. Would those people still be eligible to join?`
 
@@ -351,8 +354,10 @@ Most unions provide substantial training and support for workplace reps, so peop
 Remember that while you're building membership, the union can still provide individual support to members even before formal recognition is achieved.
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Drafts/Unionising 1]]
 - [[Unionising]]
+
 <!-- rhizome:end -->

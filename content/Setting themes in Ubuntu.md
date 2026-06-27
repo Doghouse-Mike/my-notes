@@ -1,13 +1,13 @@
 ---
-created: 2026-06-14 09:06:36
-modified: 2026-06-26 14:56:30
 publish: true
 title: Setting Themes in Ubuntu
+created: 2026-06-14 09:06:36
+modified: 2026-06-26 14:56:30
 ---
 
 # Setting Themes in Ubuntu
 
-Twas a bit of a challenge working out how, and getting https://github.com/MathisP75/daemon-kde-mk2 set up. 
+Twas a bit of a challenge working out how, and getting https://github.com/MathisP75/daemon-kde-mk2 set up.
 
 If I'm gonna be dicking around in Linux, I may as well have it look pretty, no?
 
@@ -19,23 +19,23 @@ git clone https://github.com/MathisP75/daemon-kde-mk2.git
 
 cd daemon-kde-mk2
 
-cp 'Color Scheme/Daemon2.colors' $HOME/.local/share/color-schemes/
+cp 'Color Scheme/Daemon2.colors' \$HOME/.local/share/color-schemes/
 
-cp -r Kvantum/daemon-2.0 $HOME/.config/Kvantum/
+cp -r Kvantum/daemon-2.0 \$HOME/.config/Kvantum/
 
-cp -r 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
+cp -r 'Icon Theme/Daemon-Icons' \$HOME/.local/share/icons/
 
-cp -r 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
+cp -r 'Plasma Style/Daemon-2.0' \$HOME/.local/share/plasma/desktoptheme/
 
-cp -r 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
+cp -r 'Window Decorations/daemon-2.0' \$HOME/.local/share/aurorae/themes/
 
-cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
+cp Konsole/Daemon-2.0.colorscheme \$HOME/.local/share/konsole/
 
-cp -r VSCode/daemon-2-0 $HOME/.vscode-oss/extensions/
+cp -r VSCode/daemon-2-0 \$HOME/.vscode-oss/extensions/
 
-cp Kitty/Daemon-2.0.conf $HOME/.config/kitty/
+cp Kitty/Daemon-2.0.conf \$HOME/.config/kitty/
 
-cp 'Color Scheme/Daemon2.colors' $HOME/.local/share/color-schemes/ was giving me the error "cp: cannot create regular file '/home/mike/.local/share/color-schemes/': Not a directory"
+cp 'Color Scheme/Daemon2.colors' \$HOME/.local/share/color-schemes/ was giving me the error "cp: cannot create regular file '/home/mike/.local/share/color-schemes/': Not a directory"
 
 What fixed it was to first run:
 
@@ -43,7 +43,7 @@ rm ~/.local/share/color-schemes
 
 mkdir -p ~/.local/share/color-schemes
 
-The next few worked too (with sudo in front of em). Til we get to 
+The next few worked too (with sudo in front of em). Til we get to
 
 ```
 cp -r 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
@@ -61,19 +61,19 @@ Same for the next couple, paired them up below
 
 mkdir -p ~/.local/share/konsole/
 
-cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
+cp Konsole/Daemon-2.0.colorscheme \$HOME/.local/share/konsole/
 
 mkdir -p ~/.vscode-oss/extensions/
 
-cp -r VSCode/daemon-2-0 $HOME/.vscode-oss/extensions/
+cp -r VSCode/daemon-2-0 \$HOME/.vscode-oss/extensions/
 
 ## After Some Palaver:
 
 ### 1. Theme Installation StatusThe Daemon Theme Was Installed Locally Here:
 
-``` ~/.local/share/plasma/look-and-feel/Daemon-2.0 ```
+`~/.local/share/plasma/look-and-feel/Daemon-2.0`
 
-Verification: ``` bashls ~/.local/share/plasma/look-and-feel/ ```
+Verification: `bashls ~/.local/share/plasma/look-and-feel/`
 
 Expected output:
 
@@ -243,18 +243,18 @@ KDE resolves icons in this order:
 - Plasma CLI tools require active DBus session
 - Fix with:
 
-    ```
-    export $(dbus-launch)
-    ```
+  ```
+  export $(dbus-launch)
+  ```
 
 #### Snap Packaging Quirk
 
 - Snap `.desktop` files often hardcode icon paths
 - Best fix is overriding locally via:
 
-    ```
-    ~/.local/share/applications/
-    ```
+  ```
+  ~/.local/share/applications/
+  ```
 
 #### Theme Behaviour
 

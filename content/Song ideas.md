@@ -1,17 +1,17 @@
 ---
-created: 2025-07-21 21:50:42
-modified: 2026-06-26 19:39:00
 publish: true
 title: Song Ideas
+created: 2025-07-21 21:50:42
+modified: 2026-06-26 19:39:00
 ---
 
 # Song Ideas
 
 ## Addendum 2025-04-11
 
-Fair warning, I found this floating around in my digital hoarding and it appears to date back to *at least* 2014 and added to over time. I genuinely wonder what was going through my noggin. 
+Fair warning, I found this floating around in my digital hoarding and it appears to date back to _at least_ 2014 and added to over time. I genuinely wonder what was going through my noggin.
 
-Some parts I immediately recognise as being "inspired" by other songs, but then, [everything *is* a remix](https://www.youtube.com/watch?v=nJPERZDfyWc)
+Some parts I immediately recognise as being "inspired" by other songs, but then, [everything _is_ a remix](https://www.youtube.com/watch?v=nJPERZDfyWc)
 
 ## These Don't Have to Be Things that the Songs Are About, They Could Be Said by Characters in the Songs
 
@@ -67,7 +67,7 @@ This machine (like the gun/Woodie Guthrie reference) is killing US
 
 A kiss from me is not a gift, it's a warning
 
-Sometimes it feels like I can't do anything. So is that because I'm being selfish, or do I need to change the way I do things. Or what? Some combination of the above?  
+Sometimes it feels like I can't do anything. So is that because I'm being selfish, or do I need to change the way I do things. Or what? Some combination of the above?
 
 The words I speak today shall outlive me
 

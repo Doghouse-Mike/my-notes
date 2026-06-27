@@ -1,31 +1,35 @@
 ---
-created: 2026-01-25 21:47:32
-modified: 2026-04-14 07:20:15
 publish: true
 title: Crisis on Columex Overview
+created: 2026-01-25 21:47:32
+modified: 2026-04-14 07:20:15
 ---
 
 # Crisis on Columex Overview
 
-[Link to Original Document](craftdocs://open?blockId=5A2FA5C2-63D4-4C00-B579-F9AC59273764&spaceId=a5e056c3-c2f3-390c-fd15-bc927715145c) 
+[Link to Original Document](craftdocs://open?blockId=5A2FA5C2-63D4-4C00-B579-F9AC59273764\&spaceId=a5e056c3-c2f3-390c-fd15-bc927715145c)
 
-We used craft for easy collab/sharing, this is but a tribute. 
+We used craft for easy collab/sharing, this is but a tribute.
 
 # Crisis on Columex
 
 # The Story So Far
 
 > ### 2 Days After Battle of Yavin.
+>
 > #### It is a dark time for the civilians of the galaxy.
+>
 > #### Following the destruction of the peaceful world of Alderaan and one of the Empire's special projects "Stardust" (referred to by rebellion propaganda as the "Death Star") the Empire seeks to restore order and find answers.
+>
 > #### Security has tightened, raids by the ISB have become more frequent, and those voicing discontent are disappearing in the night.
+>
 > #### On Brentaal IV, a commerce hub situated at the intersection of the Hydian Way and Perlemian Trade Route, the cantinas are bustling with people from all walks of life seeking work in all corners of the galaxy, trying to escape the oppression of Imperial bureaucracy.
 
 ## Session 1
 
 Snowy patched [Nira](https://28mm.coffee/SWRPG/Nira-Keth) up after a blowy up thing gone wrong? Not entirely sure on their backstory tbh.
 
-[Ed](https://28mm.coffee/SWRPG/Z-X3ED)'s been Cantina security/general dogsbody at the Bent Lekku since being marooned on Brentaal after his former crew staged a [bloody mutiny](https://28mm.coffee/SWRPG/Z-X3ED#:~:text=Z%2DX3ED%20(or%20%E2%80%9CEd%E2%80%9D)%20was%20marooned%20on%20Brentaal%20after%20his%20former%20crew%20staged%20a%20bloody%20mutiny%2C%20murdering%20Captain%20Planck%20in%20a%20plan%20to%20leave%20their%20affiliation%20with%20Car%E2%80%99das%20behind%2C%20and%20join%20up%20with%20the%20Zaan%20Consortium.%20About%202%20meters%20tall%2C%20humanoid.).
+[Ed](https://28mm.coffee/SWRPG/Z-X3ED)'s been Cantina security/general dogsbody at the Bent Lekku since being marooned on Brentaal after his former crew staged a [bloody mutiny](https://28mm.coffee/SWRPG/Z-X3ED#:~:text=Z%2DX3ED%20\(or%20%E2%80%9CEd%E2%80%9D\)%20was%20marooned%20on%20Brentaal%20after%20his%20former%20crew%20staged%20a%20bloody%20mutiny%2C%20murdering%20Captain%20Planck%20in%20a%20plan%20to%20leave%20their%20affiliation%20with%20Car%E2%80%99das%20behind%2C%20and%20join%20up%20with%20the%20Zaan%20Consortium.%20About%202%20meters%20tall%2C%20humanoid.).
 
 ![image.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/D39F2738-9920-4FB9-A6AE-A4A4107467E7_2/pGn2NzvxRVTpSYrhMbg6ntHPIaXy6P7oD88Ml8kx1Ksz/image.png)
 
@@ -33,7 +37,7 @@ My memory is hazy. There was a gig, Routh was there to report on it, something w
 
 ---
 
-> Matt - One of the bands transmitted a data burst using audio and light whilst playing their set to keep it discrete. DEBO and Ed both absorbed this information.  
+> Matt - One of the bands transmitted a data burst using audio and light whilst playing their set to keep it discrete. DEBO and Ed both absorbed this information.
 
 ---
 
@@ -49,7 +53,7 @@ Snikora and Pulo are the Hutts running the blackmarket in town
 
 They're organising a trip out of the system, along the [Permellian trade route](https://starwars.fandom.com/wiki/Perlemian_Trade_Route)
 
-Routh has wrangled us a place on it as thanks for fixing Debo. Will be a working trip, no free rides, but we all need to get off planet as the Imperial grip tightens. 
+Routh has wrangled us a place on it as thanks for fixing Debo. Will be a working trip, no free rides, but we all need to get off planet as the Imperial grip tightens.
 
 Cormond spaceport-docking bay 19 at midnight
 
@@ -61,9 +65,9 @@ Heading to the spaceport, run into some stormies harassing people. We could've s
 
 ![image.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/4175BC2A-782D-4DCB-BA95-550ECFEC3B32_2/QKEqy9YFZcoOYbQJcHcsSSK9ZddtxBxnANqjaCZkutEz/image.png)
 
-Turns out the people being harassed were Pink Droid (the band). They now owe us for saving them. We got their contact deets and a copy of their latest album for now. 
+Turns out the people being harassed were Pink Droid (the band). They now owe us for saving them. We got their contact deets and a copy of their latest album for now.
 
-Looted some stuff from their corpses and the van. Nera got a (non-functioning) lightsaber, Ed got a pile (10) blaster rifles (to sell) and an ISB code cylinder. One of these things is easier to carry than the others. 
+Looted some stuff from their corpses and the van. Nera got a (non-functioning) lightsaber, Ed got a pile (10) blaster rifles (to sell) and an ISB code cylinder. One of these things is easier to carry than the others.
 
 ## Session 3
 
@@ -71,11 +75,11 @@ Onto the ship!
 
 ![latest.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/BC38DAB6-4848-4536-A03C-0810730B7E37_2/imesrteABnaowbhps3V2ttyOKO16oDkXmdr96qy1Y9Yz/latest.png)
 
-Met Moxley the Quermian, think he might've been quartermaster. 
+Met Moxley the Quermian, think he might've been quartermaster.
 
 ![latest.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/4356A2CD-33FA-44CA-B28C-38646E304589_2/ZTExSzNIQj3CKoFsxDq0svxiTgHGC2QPG0f5P9yUnTQz/latest.png)
 
-Liberated all his money from him playing sabacc and he slunk off in shame after getting caught trying to cheat. 
+Liberated all his money from him playing sabacc and he slunk off in shame after getting caught trying to cheat.
 
 ![image.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/3D30A297-BB05-4EF7-BB26-7262C8E5A693_2/3IhQxTwnmMOHx2yUIVWcfaJOh5CDQOBaUuHooU4OHYAz/image.png)
 
@@ -87,7 +91,7 @@ We stumbled upon the control rod for the ships' compliment of six astromechs. Li
 
 Need to find out where we are (are escape pods an option?). Astrogation check? Is there anywhere to even escape to, or is this a deep space situation?
 
-Talk to Routh, see what's going on, if she knows *why.*
+Talk to Routh, see what's going on, if she knows _why._
 
 ---
 
@@ -95,25 +99,25 @@ Talk to Routh, see what's going on, if she knows *why.*
 
 ---
 
-Got a cutter, can theoretically go *through* walls rather than having to stick to doors and corridors. Ed in vacuum?
+Got a cutter, can theoretically go _through_ walls rather than having to stick to doors and corridors. Ed in vacuum?
 
 ## Session 4
 
-Routh wants us to upload Deebo's recordings to the comms relay at the front and transmit them to the Alliance. 
+Routh wants us to upload Deebo's recordings to the comms relay at the front and transmit them to the Alliance.
 
 Did it turn out the ship getting targeted was our fault? For the Pink Droid incident?
 
-Could go *around* the ship EVA to dodge the stormies. We space the guns picked up on Brentaal to minimise evidence. 
+Could go _around_ the ship EVA to dodge the stormies. We space the guns picked up on Brentaal to minimise evidence.
 
 Use the droid buddies to steer the ship to keep us on the blindside of the incoming ships, or provide other disruption?
 
-We do go EVA, sticking to the hull of the ship. Do find some troopers out there, but take them out without raising an alarm. (I may be making that bit up). The view is lovely. Make it to the front airlock and get back into the ship. Almost manage to get the plans sent, but the baddies are coming. 
+We do go EVA, sticking to the hull of the ship. Do find some troopers out there, but take them out without raising an alarm. (I may be making that bit up). The view is lovely. Make it to the front airlock and get back into the ship. Almost manage to get the plans sent, but the baddies are coming.
 
 Attempt to talk them down for a bit, but alas.
 
-The organics still have their spacesuits on, so we blow the airlock, some grenades get tossed around, a thrilling fight ensues, Snowy goes down though, followed shortly by the rest of us. 
+The organics still have their spacesuits on, so we blow the airlock, some grenades get tossed around, a thrilling fight ensues, Snowy goes down though, followed shortly by the rest of us.
 
-Fade to black. 
+Fade to black.
 
 ## Session 5
 
@@ -123,9 +127,9 @@ Fade to black.
 
 The team awakens imprisoned in a garrison, but mostly healed up
 
-Noopa is a Rodian, fellow prisoner, and has a plan to escape. His buddy "Mouth" is a human in there too. Mouth doesn't say much. 
+Noopa is a Rodian, fellow prisoner, and has a plan to escape. His buddy "Mouth" is a human in there too. Mouth doesn't say much.
 
-We get a plan in place to escape. There is word of an Impy bigwig inbound. We can use their arrival as a distraction, and potentially nab them as a hostage on the way out. 
+We get a plan in place to escape. There is word of an Impy bigwig inbound. We can use their arrival as a distraction, and potentially nab them as a hostage on the way out.
 
 Get gear, plant bomb near fuel place, get to control centre, ???, profit
 
@@ -137,7 +141,7 @@ Ed has a copy of the plans that were meant to be transmitted to the rebels on Co
 
 ![1167190472981217381remix-1699561627582.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/A0C9A798-1487-460B-8BB1-ECB3D36BC640_2/ECyZkOP86aJEPoTTMr9P2w89ZKs3VVdDjH2kGlINJ2Uz/1167190472981217381remix-1699561627582.png)
 
-We make it out of the prison without firing a shot. Reacquire our gear on the way. Bluff our way out of the gate in one of their own transports. Head across town to the spaceport, Noopa's ship is parked there. 
+We make it out of the prison without firing a shot. Reacquire our gear on the way. Bluff our way out of the gate in one of their own transports. Head across town to the spaceport, Noopa's ship is parked there.
 
 Noopa is double crossing us! Turns out he'd heard about the bounty on us after Brentaal, and decided to collect. Ed convinces his backup to turn on him through, and annihilation ensues. We have staked our claim on his ship. Mouth has decided to tag along for now
 
@@ -151,7 +155,7 @@ On [the ship](https://starwars.fandom.com/wiki/KST-100_Kestrel_light_executive_t
 
 Found 9 crates, 1 meter by 1.5, with timers on. Ship said something about destabilising in a couple weeks.
 
-Found a donked up shell of an astromech, will attempt to repair. 
+Found a donked up shell of an astromech, will attempt to repair.
 
 Got into the ship computer. Doesn't say what the cargo is. Does say it was destined for [The Wheel](https://starwars.fandom.com/wiki/The_Wheel/Legends), and has to arrive in advance of the deadline/timer. 5k credits on the line for successful delivery.
 
@@ -161,11 +165,11 @@ Triumphant jump to hyperspace headed towards blah blah then thingy
 
 Vlodimir Garin is the fence for the cargo on the timer
 
-Ed and Nira know *of* him
+Ed and Nira know _of_ him
 
 Ed recalls Alexi Garin as former head of Black Sun. Vlodimir is his first born son.
 
-Nira kinda knows the same but has heard his son's not part of Black Sun, but *is* head of the "Garin Raiders", offshoot group. They have a strong dislike for the Empire
+Nira kinda knows the same but has heard his son's not part of Black Sun, but _is_ head of the "Garin Raiders", offshoot group. They have a strong dislike for the Empire
 
 Snowy has heard of Anasasia Garin but that could be a coincidink, we're not certain.
 
@@ -183,15 +187,15 @@ Zandar is the docking man
 
 We spin a web of lies regarding Noopa and his fate, pass ourselves off as his replacement/subcontractors or something
 
-Kid's party starts with petting zoo, then food, then entertainment. This'll involve a performance of some kind by us. Great. 
+Kid's party starts with petting zoo, then food, then entertainment. This'll involve a performance of some kind by us. Great.
 
 Cargo is to be taken to suite 316. Have a map, level 3 is all under Garin's control.
 
-Blasters have to stay on the ship. Yay security. 
+Blasters have to stay on the ship. Yay security.
 
 Take a hoversled loaded with cargo up to the party.
 
-Calico shows up, makes it clear we ain't seen him and he ain't seen us. 
+Calico shows up, makes it clear we ain't seen him and he ain't seen us.
 
 In the boxes is party food, jelly, ice cream, party bags, buffet food, a cake that needs assembling
 
@@ -213,7 +217,7 @@ To the petting zoo!
 
 There are banthas to be ridden (by the kids), porgs for the obstacle course, young [nexu](https://starwars.fandom.com/wiki/Nexu/Legends) for danger/petting
 
-![IMG_1865.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/6A8AA49D-CDC6-4E93-BA78-E6118B0CFE71_2/i4yxIuMkhKNJ2XJMATkxWo7eqwOs80hLqnqFyOxwvo4z/IMG_1865.png)
+![IMG\_1865.png](https://resv2.craft.do/user/full/a5e056c3-c2f3-390c-fd15-bc927715145c/doc/8A65A642-C51C-44D3-8AFD-9A36EEFC0752/6A8AA49D-CDC6-4E93-BA78-E6118B0CFE71_2/i4yxIuMkhKNJ2XJMATkxWo7eqwOs80hLqnqFyOxwvo4z/IMG_1865.png)
 
 ## Session 9
 
@@ -229,9 +233,9 @@ Bantha (for rides)
 
 Nexu lad (still cute)
 
-Animal thing was accomplished without any major upsets. No one gets eaten.  
+Animal thing was accomplished without any major upsets. No one gets eaten.
 
-Trapeze n shit was an actual triumph though. Came away with 6k cr *and* we're allowed to leave with our lives. 
+Trapeze n shit was an actual triumph though. Came away with 6k cr _and_ we're allowed to leave with our lives.
 
 ## Session 10
 
@@ -241,11 +245,11 @@ While in hyperspace, managed to donk Debo up trying to fix it, covered in tape f
 
 We spend some time tinkering with the astromech that was on board. Get it up and running, designation Cr03 (Crow). The story is it got shot by an Ion blaster and captured by Noopa some time ago.
 
-Crow fixed Deebo up though, it's better at these things than any of us. 
+Crow fixed Deebo up though, it's better at these things than any of us.
 
 Importantly, droids are now in equal numbers to 'ganics on the ship. Crow, Deebo, and Ed vs Mouth, Nira, and Snowlakka.
 
-All the droids had an oil bath, everyone is feeling refreshed. 
+All the droids had an oil bath, everyone is feeling refreshed.
 
 We land on [Columex](https://starwars.fandom.com/wiki/Columex) in one piece, don't appear to have raised any suspicion on our way in.
 
@@ -255,11 +259,11 @@ Landed in Sector 1. Word on the street is that Sector 4 is off limits for some r
 
 Columex is on a major trade route. We managed the clearing of the customs, but may get more scrupulous attention on our way out, once we've presumably got some cargo.
 
-Mouth is coming with on this one, but playing it incognito. He seems a bit paranoid about his voice being recognised. 
+Mouth is coming with on this one, but playing it incognito. He seems a bit paranoid about his voice being recognised.
 
 Deebo's got a map of where it thinks we need to go.
 
-In the spaceport proper, pick up more news about cordon around Sector 4. Surprising no one at all, Deebo's red dot is in Sector 4. Supplies are still going in, but heavily restricted. News didn't say *why* it was cordoned off though.
+In the spaceport proper, pick up more news about cordon around Sector 4. Surprising no one at all, Deebo's red dot is in Sector 4. Supplies are still going in, but heavily restricted. News didn't say _why_ it was cordoned off though.
 
 The meatbags ruined Ed charming the barman. Did spot another Miralan though, getting a bit of traffic/selling/buying in the bar. An individual in demand. They're being eyeballed by some stormies though.
 
@@ -283,7 +287,7 @@ Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling
 
 Once we're out, we'll have to dodge patrols and/or bluff our way past the droids to get access to the tradesmen's entrance.
 
-At the *inner* cordon now
+At the _inner_ cordon now
 
 Snowy convinced the droids guarding the cordon that we're here to perform a QA on the medical containment. They provided us with a better map.
 
@@ -324,107 +328,107 @@ The droids were also able to provide you with a map to the main hospital.
 
 # SWRPG Session 12
 
-Soo, 
+Soo,
 
 Nira had some xp to spend, bought a rank in ranged light, and the Resolve Talent (taking one less strain when taking em involuntarily)
 
 Snowy got a rank in melee
 
-We have yet to see that Voss guy. Snowy might have history with their sister (a doctor). Ed n Nira probably don't know that tho. 
+We have yet to see that Voss guy. Snowy might have history with their sister (a doctor). Ed n Nira probably don't know that tho.
 
-Sector we're in is kinda industrial, majority of the people trapped by the quarantine work there rather live there. Food may be in limited supply. 
+Sector we're in is kinda industrial, majority of the people trapped by the quarantine work there rather live there. Food may be in limited supply.
 
-Wandering the empty streets. Fortunately we have a map. 
+Wandering the empty streets. Fortunately we have a map.
 
-We don't spot anything particularly out of the ordinary In the streets. "Bango Skank was here" graffiti. Some sort of path has been cleared, something been dragged through. 
+We don't spot anything particularly out of the ordinary In the streets. "Bango Skank was here" graffiti. Some sort of path has been cleared, something been dragged through.
 
 Mosey mosey. Spot something hopping over/between the rooftops, using the cables. Bit zipliney
 
-Someone drops down and begins to approach us. 
+Someone drops down and begins to approach us.
 
-They have their weapons out. 4 of em. Probs locals. 
+They have their weapons out. 4 of em. Probs locals.
 
-Ask us what we're doing. 
+Ask us what we're doing.
 
-One em's got the drop on Nira a bit. 
+One em's got the drop on Nira a bit.
 
 Snowy tells em we're after samples
 
 Reminder Mouth is with us as extra muscle
 
-Locals say the virus is affecting people at night. Sounds like a double tap situation.  
+Locals say the virus is affecting people at night. Sounds like a double tap situation.
 
-Watch out for Nero near the hotel, his gang are thievy. 
+Watch out for Nero near the hotel, his gang are thievy.
 
-Guys are on cables/ziplines and mechanical pulleys for getting around town while staying off the streets. 
+Guys are on cables/ziplines and mechanical pulleys for getting around town while staying off the streets.
 
-Nero's not between us and the hospital (?) we're headed to. Scouts may be out n about tho. 
+Nero's not between us and the hospital (?) we're headed to. Scouts may be out n about tho.
 
-Nero sounds a bit like Neegan, keeping his guys strong while preying on everyone else. 
+Nero sounds a bit like Neegan, keeping his guys strong while preying on everyone else.
 
 Heading on to the hospital with our escort, locals taking point.
 
-Hospital in sight. There is power, some lights on, but not a lot of em. 
+Hospital in sight. There is power, some lights on, but not a lot of em.
 
-Vehicles and stuff arranged out front, acting as barricades. Feels a bit ominous. Whether for "zombies" or something else we don't know. 
+Vehicles and stuff arranged out front, acting as barricades. Feels a bit ominous. Whether for "zombies" or something else we don't know.
 
-Hospital entrance has been fortified too. Slot on the wall for one of them eye stalk camera bois. 
+Hospital entrance has been fortified too. Slot on the wall for one of them eye stalk camera bois.
 
-Spot some traps around. Nothing super complicated, spiked barrels, bloody trails, no bodies, trip wires. Mines/explosives closer in to the hospital. Make it to the door without setting anything off. 
+Spot some traps around. Nothing super complicated, spiked barrels, bloody trails, no bodies, trip wires. Mines/explosives closer in to the hospital. Make it to the door without setting anything off.
 
-Eyebot pops out. 
+Eyebot pops out.
 
-Convince em we're dropping off the supplies. The want us to dump the stuff and go. 
+Convince em we're dropping off the supplies. The want us to dump the stuff and go.
 
-A bit of negotiation/name dropping to get us inside. Get the locals let in too. 
+A bit of negotiation/name dropping to get us inside. Get the locals let in too.
 
-Bit of an airlock situation, 2 way mirror above, some speakers n stuff hooked up. 
+Bit of an airlock situation, 2 way mirror above, some speakers n stuff hooked up.
 
-Medical table/scanner/supplies to one side. Card/guide for clearing the quarantine to one side too. Gotta clear the test, and depending on the results, varying levels of access. 
+Medical table/scanner/supplies to one side. Card/guide for clearing the quarantine to one side too. Gotta clear the test, and depending on the results, varying levels of access.
 
 Couple of the locals test positive and go through a different door to the rest of us. Apparently not a trash compactor. They're off to be "treated"
 
-They have an incinerator to deal with anyone that does come back. 
+They have an incinerator to deal with anyone that does come back.
 
-Ed has no blood, so no test to take. 
+Ed has no blood, so no test to take.
 
-Go through, see a Doctory looking Twi-Lek female who welcomes us in, in her 40's/50's. Her name is Probably. 
+Go through, see a Doctory looking Twi-Lek female who welcomes us in, in her 40's/50's. Her name is Probably.
 
-Hospital's partitioned up with glass, so can see further than we can go, into the treatment areas. 
+Hospital's partitioned up with glass, so can see further than we can go, into the treatment areas.
 
-Doc explains they don't have a cure, but can keep it at bay. They know where it came from though. 
+Doc explains they don't have a cure, but can keep it at bay. They know where it came from though.
 
-Snowy's leaning in to the sample collection. Prevention rather than treatment. 
+Snowy's leaning in to the sample collection. Prevention rather than treatment.
 
-Virus mutates almost as soon as it gets into a host. Pre-infection samples are needed to (hopefully) develop an actual cure. 
+Virus mutates almost as soon as it gets into a host. Pre-infection samples are needed to (hopefully) develop an actual cure.
 
-Which is why Jax wanted samples. 
+Which is why Jax wanted samples.
 
-Doc believes the virus got out of a local lab, and that's where it started. 
+Doc believes the virus got out of a local lab, and that's where it started.
 
 Ed's gonna pipe in with "Coincidence has been cancelled. I know a side quest when I hear one, where's this lab, lady?"
 
-Get the map out, she marks it out on the datapad. Not sure of exact location, but based on infection figures/cases, has a ballpark. 
+Get the map out, she marks it out on the datapad. Not sure of exact location, but based on infection figures/cases, has a ballpark.
 
-Head there, see who's in the lab, if they have any info, or scour their systems etc for data/samples. 
+Head there, see who's in the lab, if they have any info, or scour their systems etc for data/samples.
 
-Oh yea, bang Deebo out, let her have a look. Nira is anxious of nosy people. But we *were* told to bring it here. 
+Oh yea, bang Deebo out, let her have a look. Nira is anxious of nosy people. But we _were_ told to bring it here.
 
-Some back n forth, most suspicious. 
+Some back n forth, most suspicious.
 
-Doc Probably describes Deebo to a T, hands the droid over. Still a bit sticky/scuffed up, but in working order. 
+Doc Probably describes Deebo to a T, hands the droid over. Still a bit sticky/scuffed up, but in working order.
 
-Deebo comes back to life, he seems to recognise the Doc. There are hugs. 
+Deebo comes back to life, he seems to recognise the Doc. There are hugs.
 
 There is, apparently, something we have to see. Leads us to a room/bacta tank. Surprise, it's Routh!
 
-She's on the mend after the ship debacle, but still unconscious. 
+She's on the mend after the ship debacle, but still unconscious.
 
-Deebo's message contained info about fuel for the deathstar's weapon. Had a renewable energy source that was mothballed by the empire. These are the plans/method of producing that. The alliance plans to use it to help, provide power across the galaxy for deprived places/break the monopoly/make the empire look bad etc. 
+Deebo's message contained info about fuel for the deathstar's weapon. Had a renewable energy source that was mothballed by the empire. These are the plans/method of producing that. The alliance plans to use it to help, provide power across the galaxy for deprived places/break the monopoly/make the empire look bad etc.
 
-Reminder that Ed *also* has these plans encoded in his brain box. 
+Reminder that Ed _also_ has these plans encoded in his brain box.
 
-Overnighting in the hospital for safety. 
+Overnighting in the hospital for safety.
 
 ## Splat's Write Up:
 
@@ -444,68 +448,68 @@ Back in the saddle!
 
 Recap from [[RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20251119]]
 
-Virus, blah blah, *always* fatal. But appears to be engineered. 
+Virus, blah blah, _always_ fatal. But appears to be engineered.
 
-"Nero" and his crew poaching the (limited) supplies n stuff that do come through. 
+"Nero" and his crew poaching the (limited) supplies n stuff that do come through.
 
-Concerns that the Empire will use the outbreak as an excuse to torch the sector. 
+Concerns that the Empire will use the outbreak as an excuse to torch the sector.
 
-Reminder that the virus is reanimating the dead. They mostly come out at night, mostly. 
+Reminder that the virus is reanimating the dead. They mostly come out at night, mostly.
 
 ![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325/IMG-Crisis on Columex 20260325.jpg]]
 
-Moxley's here! The guy we busted for cheating at cards. 
+Moxley's here! The guy we busted for cheating at cards.
 
-The doc's name was Jackie Goodman. 
+The doc's name was Jackie Goodman.
 
-'Ganics get some sleep, Ed potters around, skip to the morning, everyone's well rested. 
+'Ganics get some sleep, Ed potters around, skip to the morning, everyone's well rested.
 
-Doc directs us to the canteen for refreshments. Top up on caff, prep for the expedition, check the map. Got a KM or two to cover. Plan is to roll stealthy and observant. 
+Doc directs us to the canteen for refreshments. Top up on caff, prep for the expedition, check the map. Got a KM or two to cover. Plan is to roll stealthy and observant.
 
-["Sneaking, we're sneaking"](https://www.youtube.com/watch?v=36PrcE6Xn5Q) Ed says, earning a dirty look from Nira as they blend into the shadows. 
+["Sneaking, we're sneaking"](https://www.youtube.com/watch?v=36PrcE6Xn5Q) Ed says, earning a dirty look from Nira as they blend into the shadows.
 
-"Did you hear that" we hear as Snowy and Ed blunder out into a street. 
+"Did you hear that" we hear as Snowy and Ed blunder out into a street.
 
-Three guys, one in a forklift (or sporklift), two assisting. Not in imperial uniforms, but are all rocking the same blasters (of imperial origin). 
+Three guys, one in a forklift (or sporklift), two assisting. Not in imperial uniforms, but are all rocking the same blasters (of imperial origin).
 
-~~"Just taking my dog for a walk" says Ed.~~ 
+\~~"Just taking my dog for a walk" says Ed.~~
 
-Tell em we're out after medical supplies, they offer to show us their wares. Disclose that anything that comes in/out goes through them. 
+Tell em we're out after medical supplies, they offer to show us their wares. Disclose that anything that comes in/out goes through them.
 
-We decide to pass on through. They ain't having it though, have to pay the toll. Snowy tries telling them about our actual mission. They ask if we're from the hospital. So nooow we're off to see their boss instead. Turns out there was a bunch more of them in the warehouse behind, so might be good that we didn't start blasting. There's almost a fight over who gets to say "I have a bad feeling about this". 
+We decide to pass on through. They ain't having it though, have to pay the toll. Snowy tries telling them about our actual mission. They ask if we're from the hospital. So nooow we're off to see their boss instead. Turns out there was a bunch more of them in the warehouse behind, so might be good that we didn't start blasting. There's almost a fight over who gets to say "I have a bad feeling about this".
 
-To the hotel! It would have once been lavish, but time has taken its toll. Too many fluids spilled and grime accumulated.  
+To the hotel! It would have once been lavish, but time has taken its toll. Too many fluids spilled and grime accumulated.
 
-There's a bar. 
+There's a bar.
 
-Tools/weapons/supplies etc laying around. Snowy trips over a crate, Nira stubs a toe, gets pointed and laughed at. 
+Tools/weapons/supplies etc laying around. Snowy trips over a crate, Nira stubs a toe, gets pointed and laughed at.
 
-Ed clocks some *clearly* Imperial/military crates. 
+Ed clocks some _clearly_ Imperial/military crates.
 
-We're waiting. 
+We're waiting.
 
-A Rodian comes out. Fat Greedo. This is Neero. 
+A Rodian comes out. Fat Greedo. This is Neero.
 
-Speaking in Huttese, says he has a "particular set of friends" that have an interest in the hospital, and the "terrorists" that are holding the patients "hostage". We need to talk our way out of here, stat. 
+Speaking in Huttese, says he has a "particular set of friends" that have an interest in the hospital, and the "terrorists" that are holding the patients "hostage". We need to talk our way out of here, stat.
 
-Wants us to Trojan Horse em into the hospital. We agree because otherwise we'll be killed, but point out we can't show up empty handed. Calls on some lackeys who give us a few vials of something, a datapad, and a portable drive that'll nerf the hospital defenses once we're in. And a comm link. 
+Wants us to Trojan Horse em into the hospital. We agree because otherwise we'll be killed, but point out we can't show up empty handed. Calls on some lackeys who give us a few vials of something, a datapad, and a portable drive that'll nerf the hospital defenses once we're in. And a comm link.
 
-Off we head. Walkin casual. Duck into a nearby building to check we're not carrying a bomb or something. The stuff is mostly harmless. Malware looks like it'll do what it says. Code rings a bell with Nira, reminds her of the guy that was involved in her dad's death. So there's a tie there. Not the ship. 
+Off we head. Walkin casual. Duck into a nearby building to check we're not carrying a bomb or something. The stuff is mostly harmless. Malware looks like it'll do what it says. Code rings a bell with Nira, reminds her of the guy that was involved in her dad's death. So there's a tie there. Not the ship.
 
 ![[Attachments/RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325/IMG-Crisis on Columex 20260325-1.jpg]]
 
-Carry on our merry way towards the lab. 
+Carry on our merry way towards the lab.
 
-Looks like we found ground zero! Is a warehouse. No people about, and nothing particularly outstanding, ~20 meters high. Kinda like an ikea from the outside, without the colour. Beige, with some windows higher up, otherwise kinda boring. Like those "definitely not an FBI van" jokes. 
+Looks like we found ground zero! Is a warehouse. No people about, and nothing particularly outstanding, ~20 meters high. Kinda like an ikea from the outside, without the colour. Beige, with some windows higher up, otherwise kinda boring. Like those "definitely not an FBI van" jokes.
 
-Clock the office/visitors entrance, and the loading bays. Nira spots an entrance to the cellar tucked in a blind spot behind the building. Looks more high tech than the surroundings. 
+Clock the office/visitors entrance, and the loading bays. Nira spots an entrance to the cellar tucked in a blind spot behind the building. Looks more high tech than the surroundings.
 
-So we head for that. Obvs a trap. 
+So we head for that. Obvs a trap.
 
-Try inserting our ISB code cylinder. Great success! Some beeps and the door pops open. 
+Try inserting our ISB code cylinder. Great success! Some beeps and the door pops open.
 
-Head into a corridor that leads to a bit of a lobby. Some signs on the wall, nothing clear, "black wing" "operations" and "lab". 
+Head into a corridor that leads to a bit of a lobby. Some signs on the wall, nothing clear, "black wing" "operations" and "lab".
 
-"Doors and corners, people" Ed says as they head towards the lab. The lab vs ops decision was made by a roll of Ed's lucky chance cube. 
+"Doors and corners, people" Ed says as they head towards the lab. The lab vs ops decision was made by a roll of Ed's lucky chance cube.
 
 Ominous music and a fade to black as the crew head towards the lab, 15XP richer

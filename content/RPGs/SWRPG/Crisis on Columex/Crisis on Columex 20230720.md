@@ -1,8 +1,8 @@
 ---
-created: 2026-02-23 07:08:24
-modified: 2026-06-26 00:46:39
 publish: true
 title: SWRPG Session 2
+created: 2026-02-23 07:08:24
+modified: 2026-06-26 00:46:39
 ---
 
 # SWRPG Session 2
@@ -15,4 +15,4 @@ Nera got a lightsaber
 
 Ed got ten blaster rifles (to sell) and an ISB code cylinder
 
-Pink Droid owe us for saving them. We got their contact deets and a copy of their latest album. 
+Pink Droid owe us for saving them. We got their contact deets and a copy of their latest album.

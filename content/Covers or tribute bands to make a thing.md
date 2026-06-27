@@ -1,8 +1,8 @@
 ---
-created: 2026-04-24 13:27:16
-modified: 2026-04-24 13:28:56
 publish: true
 title: Covers Or Tribute Bands to Make a Thing
+created: 2026-04-24 13:27:16
+modified: 2026-04-24 13:28:56
 ---
 
 # Covers Or Tribute Bands to Make a Thing

@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Koffin Kats at Lady Luck
 created: 2026-03-10 21:38:24
 modified: 2026-06-26 00:58:52
-publish: true
-published: true
-title: Koffin Kats at Lady Luck
+tags:
+  - gigs
+  - photos
 ---
 
 # Koffin Kats at Lady Luck

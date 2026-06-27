@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Stillbust 10th Anniversary Show
 created: 2026-03-10 21:47:17
 modified: 2026-06-26 13:04:07
-publish: true
-published: true
-title: Stillbust 10th Anniversary Show
+tags:
+  - gigs
+  - photos
 ---
 
 # Stillbust 10th Anniversary Show

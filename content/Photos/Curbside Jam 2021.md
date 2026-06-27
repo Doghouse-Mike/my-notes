@@ -1,10 +1,11 @@
 ---
-tags: [BMX, photos]
+publish: true
+title: Curbside Jam 2021
 created: 2026-03-10 21:34:26
 modified: 2026-06-26 13:06:32
-publish: true
-published: true
-title: Curbside Jam 2021
+tags:
+  - BMX
+  - photos
 ---
 
 # Curbside Jam 2021
@@ -109,4 +110,5 @@ title: Curbside Jam 2021
 
 - [[Photos/Curbside Jam March 2023]]
 - [[Photos/Curbside Jam September 2024]]
+
 <!-- rhizome:end -->

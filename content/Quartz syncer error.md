@@ -1,8 +1,8 @@
 ---
-created: 2026-01-15 13:28:48
-modified: 2026-06-26 14:54:47
 publish: true
 title: Quartz Syncer Error
+created: 2026-01-15 13:28:48
+modified: 2026-06-26 14:54:47
 ---
 
 # Quartz Syncer Error
@@ -11,15 +11,15 @@ title: Quartz Syncer Error
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T135428027Z.jpeg)
 
-"Fixed" by using [BRAT](https://github.com/TfTHacker/obsidian42-brat) to roll back to version 1.8.10 of the syncer plugin. 
+"Fixed" by using [BRAT](https://github.com/TfTHacker/obsidian42-brat) to roll back to version 1.8.10 of the syncer plugin.
 
 Apparently it's something to do with the volume of images I've got, and newer versions of the plugin "I suspect is might be a potential bottleneck, as the diffing is now done in-memory in Obsidian, instead of via GitHub API."
 
-Soo, I'll probably look at getting the images hosted elsewhere (so Obsidian/Quartz will just see them as links and spend less resources on them). But happy with sticking to the old version until there's a compelling update. 
+Soo, I'll probably look at getting the images hosted elsewhere (so Obsidian/Quartz will just see them as links and spend less resources on them). But happy with sticking to the old version until there's a compelling update.
 
 ## Query Below for Future Ref:
 
-Not entirely sure how, but on my iPad (M1, 16GB ram), when hitting the "open publication centre" button, it'll think about it for a couple of minutes, "retrieving publish status", then Obsidian will crash. Same on iPhone, but less fussed about that. 
+Not entirely sure how, but on my iPad (M1, 16GB ram), when hitting the "open publication centre" button, it'll think about it for a couple of minutes, "retrieving publish status", then Obsidian will crash. Same on iPhone, but less fussed about that.
 
 On desktop, Obsidian doesn't actually crash, but also doesn't get past "retrieving", eventually coming up with an error:
 
@@ -47,6 +47,6 @@ Thus far, in no particular order, I have:
 - deleted the "content" folder entirely, then reuploaded it
 - cleared cache (from plugin settings), turned caching off entirely, poked some other buttons.
 
-Everything appears to be up to date, Version 1.11.5 of obsidian on desktop and mobile, all plugins updated etc. iPad is on 26.3 beta, but issue appears on current 26.2 Tahoe and whatever the last Sequoia release is. 
+Everything appears to be up to date, Version 1.11.5 of obsidian on desktop and mobile, all plugins updated etc. iPad is on 26.3 beta, but issue appears on current 26.2 Tahoe and whatever the last Sequoia release is.
 
 Not a game breaker as I can still update the "old fashioned way", like an animal, but any ideas would be grand!

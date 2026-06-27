@@ -5,12 +5,11 @@ created: 2025-08-14 09:58:51
 modified: 2026-03-19 22:58:11
 ---
 
-
 # Kuxiu M30 Ipad Charger
 
 Stumbled upon [this](https://kuxiu.co/products/kuxiu-m30-charger-for-ipad)
 
-![](https://kuxiu.co/cdn/shop/files/KUXIUM30_1.png?v=1754296838&width=1200)
+![](https://kuxiu.co/cdn/shop/files/KUXIUM30_1.png?v=1754296838\&width=1200)
 
 It's basically just a little magnetic doohickey that'll attach to the iPad's Smart Connector "dots" and provide power. IA "bring your own cable" version would be even better.
 
@@ -20,4 +19,4 @@ My monitor, for example, doesn't provide enough juice to keep the iPad charged w
 
 Dear Santa………..
 
- - I have no affilitiation with the company (but send me free stuff if you want)
+- I have no affilitiation with the company (but send me free stuff if you want)

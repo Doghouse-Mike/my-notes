@@ -1,9 +1,10 @@
 ---
-tags: [design]
-created: 2025-04-01 17:12:14
-modified: 2026-06-26 00:39:41
 publish: true
 title: Misc
+created: 2025-04-01 17:12:14
+modified: 2026-06-26 00:39:41
+tags:
+  - design
 ---
 
 # Misc

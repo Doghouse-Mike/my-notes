@@ -1,29 +1,29 @@
 ---
-created: 2026-02-27 16:14:56
-modified: 2026-06-26 00:54:54
 publish: true
 title: Cold Climate Shopping
+created: 2026-02-27 16:14:56
+modified: 2026-06-26 00:54:54
 ---
 
 # Cold Climate Shopping
 
-So, we're heading off to colder climes 
+So, we're heading off to colder climes
 
 [[RPGs/SWRPG/Starting out green/Starting Out Green 20260220#The Mission Briefing]]
 
-Trivar II isn't quite Hoth-levels of cold, but still pretty inhospitable. [[RPGs/SWRPG/Starting out green/KD-40N]] will be fine, but the squishier members of the party will need some help to not turn into meatsicles. 
+Trivar II isn't quite Hoth-levels of cold, but still pretty inhospitable. [[RPGs/SWRPG/Starting out green/KD-40N]] will be fine, but the squishier members of the party will need some help to not turn into meatsicles.
 
-Alliance command is gonna grant us some supplies, just need to work out what we'll be asking for. 
+Alliance command is gonna grant us some supplies, just need to work out what we'll be asking for.
 
 ## Heating System
 
 Joey/Willie called out the [Heating System](https://star-wars-rpg-ffg.fandom.com/wiki/Heating_System) to be modded to armour. ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235431742Z.png)
 
-Only works on armour that can be sealed though. We could craft some more custom armour for everyone else, and apply this mod. 
+Only works on armour that can be sealed though. We could craft some more custom armour for everyone else, and apply this mod.
 
 ## Speeders
 
-We've already got enough, but would probably need to throw some mechanics rolls at them to modify them for the colder climate. 
+We've already got enough, but would probably need to throw some mechanics rolls at them to modify them for the colder climate.
 
 - reinforce the repulsor housings
 - Install engine pre-warmers
@@ -32,7 +32,7 @@ I think they're bikes, so getting a sealed cockpit installed is out of scope? Ex
 
 ## Thermal Cloak
 
-[These](https://star-wars-rpg-ffg.fandom.com/wiki/Thermal_Cloak) would do the job for anyone not in sealed armour. 
+[These](https://star-wars-rpg-ffg.fandom.com/wiki/Thermal_Cloak) would do the job for anyone not in sealed armour.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235433447Z.png)
 
@@ -40,11 +40,11 @@ And could be thrown on over the top of whatever is already being worn (encumbran
 
 ## Adverse Environment Gear
 
-More of a [replacement](https://star-wars-rpg-ffg.fandom.com/wiki/Adverse_Environment_Gear) for current clothing. 
+More of a [replacement](https://star-wars-rpg-ffg.fandom.com/wiki/Adverse_Environment_Gear) for current clothing.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235434775Z.png)
 
-Not as handy in a fight, would potentially involve getting changed/carrying "fighty" clothes around until needed. 
+Not as handy in a fight, would potentially involve getting changed/carrying "fighty" clothes around until needed.
 
 ## Hazardous Industry Suit
 
@@ -52,11 +52,11 @@ Not as handy in a fight, would potentially involve getting changed/carrying "fig
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235436325Z.png)
 
-Could be a better option to basically "live" in for the duration. 
+Could be a better option to basically "live" in for the duration.
 
 ## Goggles
 
-Something/anything to protect their squishy eyes from the wind. 
+Something/anything to protect their squishy eyes from the wind.
 
 ## A Tent
 
@@ -64,13 +64,13 @@ Something/anything to protect their squishy eyes from the wind.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235437946Z.png)
 
-Would let everyone rest up if we're caught out in the field or need to do some recon away from civilisation. 
+Would let everyone rest up if we're caught out in the field or need to do some recon away from civilisation.
 
-Although the [fancy tent](https://star-wars-rpg-ffg.fandom.com/wiki/Gandorthral_Portable_Survival_Shelter) seems better for less money, somehow. 
+Although the [fancy tent](https://star-wars-rpg-ffg.fandom.com/wiki/Gandorthral_Portable_Survival_Shelter) seems better for less money, somehow.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T235439233Z.png)
 
-Without a tent, we're making resilience checks regularly. 
+Without a tent, we're making resilience checks regularly.
 
 ### More Drones
 
@@ -78,14 +78,14 @@ Without a tent, we're making resilience checks regularly.
 
 ### Stealth
 
- Cloaking Coat
+Cloaking Coat
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking_Coat
+https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking\_Coat
 
-KD could be painted in Reflec Shadowskin https://star-wars-rpg-ffg.fandom.com/wiki/Reflec_Shadowskin
+KD could be painted in Reflec Shadowskin https://star-wars-rpg-ffg.fandom.com/wiki/Reflec\_Shadowskin
 
 Stealth field generators
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Stealth_Field_Generator
+https://star-wars-rpg-ffg.fandom.com/wiki/Stealth\_Field\_Generator
 
-Kinda got put on hold due to the game taking a (hopefully) brief hiatus. 
+Kinda got put on hold due to the game taking a (hopefully) brief hiatus.

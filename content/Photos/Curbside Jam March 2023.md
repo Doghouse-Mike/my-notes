@@ -1,10 +1,11 @@
 ---
-tags: [BMX, photos]
-created: 2026-03-10 21:34:44
-modified: 2026-06-26 12:19:19
 publish: true
-published: true
 title: Curbside Jam March 2023
+created: 2026-03-10 21:34:44
+modified: 2026-06-26 20:03:09
+tags:
+  - BMX
+  - photos
 ---
 
 # Curbside Jam March 2023
@@ -99,10 +100,7 @@ title: Curbside Jam March 2023
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T083728670Z.jpg)
 
-<!-- rhizome:start -->
-
 ## Related Notes
 
 - [[Photos/Curbside Jam 2021]]
 - [[Photos/Curbside Jam September 2024]]
-<!-- rhizome:end -->

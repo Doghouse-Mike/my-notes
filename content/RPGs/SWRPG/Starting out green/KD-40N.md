@@ -1,17 +1,17 @@
 ---
-created: 2025-06-02 20:48:24
-modified: 2026-06-26 00:54:02
 publish: true
 title: KD-40N
+created: 2025-06-02 20:48:24
+modified: 2026-06-26 00:54:02
 ---
 
 # KD-40N
 
-[[RPGs/SWRPG/Starting out green/KD-40N\|Character Sheet]] (Valid as of 2025-06-02) 
+[[RPGs/SWRPG/Starting out green/KD-40N|Character Sheet]] (Valid as of 2025-06-02)
 
-- [x] pick/get decision on toolkit vs toolhand ✅ 2026-03-11
-- [x] Write background ✅ 2026-03-11
-	- [x] Add background to actual character sheet in Oggdude's ✅ 2026-03-11
+- pick/get decision on toolkit vs toolhand ✅ 2026-03-11
+- Write background ✅ 2026-03-11
+  - Add background to actual character sheet in Oggdude's ✅ 2026-03-11
 
 ## Sketch
 
@@ -21,7 +21,7 @@ Can't recall previous assignments due to frequent memory wipes. Last assignment 
 
 Queue some sort accident involving getting blasted by the ion engines of a shuttle down during resupply. (K and a maintenance unit? Kinda scrambled both their programming?) KD wakes up in the maintenance shop, awaiting repairs. It's night time, no one is around. Is still nominally functional, but whatever took him out has done a number on his personality. Rather than the loyal Imperial drone of old, he's motivated entirely by the need to repair. Like the mythical elves and the shoemaker, he spends a few hours fixing whatever else has been left in the workshop. Once that's done, he heads out to find other things to fix. Door squeaks on his way out, so he pauses to oil that.
 
-Straightens some pictures in the hall on his way out. Remembers there had been some static on the line with one of the local comm/relay stations, so heads out that way to see if there's anything he can do about it. 
+Straightens some pictures in the hall on his way out. Remembers there had been some static on the line with one of the local comm/relay stations, so heads out that way to see if there's anything he can do about it.
 
 Brainbox is still on the fritz though, ends up getting lost, stumbles into some tunnels, walks and walks, gets lost some more. Powers down to try and run some self-diagnostics, aaaaaand ACTION.
 

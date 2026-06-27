@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: Empire Of Dust at The Crown
 created: 2026-03-10 21:36:54
 modified: 2026-06-26 01:29:08
-publish: true
-published: true
-title: Empire Of Dust at The Crown
+tags:
+  - gigs
+  - photos
 ---
 
 # Empire Of Dust at The Crown

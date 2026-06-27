@@ -1,14 +1,16 @@
 ---
-tags: [design, angus]
-created: 2025-07-03 23:23:04
-modified: 2026-06-25 22:34:58
 publish: true
 title: Angus
+created: 2025-07-03 23:23:04
+modified: 2026-06-25 22:34:58
+tags:
+  - design
+  - angus
 ---
 
 # Angus
 
-Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard. 
+Some stuff I helped [Angus](https://www.upfest.co.uk/artist/angus) out with, because computers are hard.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T213433747Z.jpg)
 

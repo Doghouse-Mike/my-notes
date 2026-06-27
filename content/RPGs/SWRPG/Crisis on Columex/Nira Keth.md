@@ -1,8 +1,8 @@
 ---
-created: 2025-07-06 18:58:29
-modified: 2026-06-26 00:47:37
 publish: true
 title: Nira Keth
+created: 2025-07-06 18:58:29
+modified: 2026-06-26 00:47:37
 ---
 
 # Nira Keth
@@ -15,7 +15,7 @@ Appearance: Nira has yellow skin, typical of the Mirialan species, with black ta
 
 Background: Nira Keth was born on the planet Mirial and raised by her father (mum already dead). From a young age, she showed an aptitude for tinkering with machines and computers. Her parent encouraged her passion and taught her the basics of engineering.
 
-When she turned 18 and inherited her father's debt, Nira left her home planet and joined a group of slicers who specialized in breaking into secure systems for profit. She quickly rose through the ranks thanks to her intelligence and adaptability. 
+When she turned 18 and inherited her father's debt, Nira left her home planet and joined a group of slicers who specialized in breaking into secure systems for profit. She quickly rose through the ranks thanks to her intelligence and adaptability.
 
 However, her luck ran out when the group attempted to hack into a military system on Coruscant. They were caught, and Nira was the only one who managed to escape. Fleeing from the authorities, Nira went into hiding and used her contacts to forge a new identity, fleeing to Brentaal IV.
 
@@ -45,7 +45,7 @@ Frag grenades - 50cr each x6
 
 Pioneer armour-200cr 1 soak 1 hp increases encumb threshold by 3
 
-Fusion Cutter - 175 cr 
+Fusion Cutter - 175 cr
 
 This can be used as a weapon with the following profile;
 
@@ -70,37 +70,37 @@ Sat Soomah. Old school friend. Her dad took Nira in after the death of her dad, 
 ## Questions to Answer:
 
 - What type of clothing does your character typically wear?
-	- Things with pockets. Cargo pants/shorts. Vest with pockets. Utility Belt. Loves a fucking pocket. 
+  - Things with pockets. Cargo pants/shorts. Vest with pockets. Utility Belt. Loves a fucking pocket.
 - Does your character have any distinguishing marks? If so, what are they?
-	- Face tattoos. 
+  - Face tattoos.
 - What is your favorite/least favorite food?
-	- Cactus stew is the best
-	- Meat is the worst
+  - Cactus stew is the best
+  - Meat is the worst
 - Are you married, dating, etc? How serious is it?
-	- No
+  - No
 - Who is your best friend?
-	- Sat Sumah
+  - Sat Sumah
 - Do you have any enemies? Who are they?
-	- That Dolan fella. 
+  - That Dolan fella.
 - Have you ever encountered storm troopers?
-	- Only to run away from
+  - Only to run away from
 - Has any member of your family ever been taken prisoner?
-	- Nope
+  - Nope
 - Where were you, and what were you doing when the Emperor came to power? (~19 years ago)
-	- Kid in school, growing up on Telos
+  - Kid in school, growing up on Telos
 - If a super villain threatened your family, would you kill him/her?
-	- Yea, kinda working on it
+  - Yea, kinda working on it
 - If you could only save one, a bus full of people being dangled off a bridge or your girlfriend being dangled off the same bridge, who would you save, and why? (aka the Spider-Man question)
-	- Bus full of people
+  - Bus full of people
 - How far would you go to protect your wealth?
-	- Ain't got none. But if did have, not very far, there are more important things in life. 
+  - Ain't got none. But if did have, not very far, there are more important things in life.
 - Personality traits
-	- Short tempered
-	- Irrational
+  - Short tempered
+  - Irrational
 - Ideals
-	- Don't be a dick
+  - Don't be a dick
 - Bond
 - Flaw
-	- Quick to react without thinking it through
+  - Quick to react without thinking it through
 - What to do they want?
-	- Travel, see the galaxy, be free
+  - Travel, see the galaxy, be free

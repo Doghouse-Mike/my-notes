@@ -1,8 +1,8 @@
 ---
-created: 2026-03-16 23:21:49
-modified: 2026-06-26 00:45:43
 publish: true
 title: SWRPG Starter Ship Decision
+created: 2026-03-16 23:21:49
+modified: 2026-06-26 00:45:43
 ---
 
 # SWRPG Starter Ship Decision
@@ -15,9 +15,9 @@ Kestrel. A bit munchkiny, but basically a slightly better/different version of t
 
 ## Lancer
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Lancer-class_Pursuit_Craft
+https://star-wars-rpg-ffg.fandom.com/wiki/Lancer-class\_Pursuit\_Craft
 
-https://starwars.fandom.com/wiki/Lancer-class_pursuit_craft?so=search
+https://starwars.fandom.com/wiki/Lancer-class\_pursuit\_craft?so=search
 
 ![](https://i.pinimg.com/originals/01/4d/bb/014dbb475f96b15c2e947c7ae213ee41.jpg)
 
@@ -35,13 +35,13 @@ https://starwars.fandom.com/wiki/Lancer-class_pursuit_craft?so=search
 
 **Passenger Capacity:** 4
 
-Well armed, and fast in a straight line. Hardly any storage space. Basically the equivalent of what 6-7 "people" could carry. 
+Well armed, and fast in a straight line. Hardly any storage space. Basically the equivalent of what 6-7 "people" could carry.
 
 ## Wayfarer
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Wayfarer-class_Medium_Freighter
+https://star-wars-rpg-ffg.fandom.com/wiki/Wayfarer-class\_Medium\_Freighter
 
-https://starwars.fandom.com/wiki/Wayfarer-class_medium_transport?so=search
+https://starwars.fandom.com/wiki/Wayfarer-class\_medium\_transport?so=search
 
 ![](http://adampdevil.pbworks.com/f/1234476887/wayfarer_1.jpg)
 
@@ -53,7 +53,7 @@ https://starwars.fandom.com/wiki/Wayfarer-class_medium_transport?so=search
 
 **Navicomputer:** Yes.
 
-**Sensor Range: Short**. 
+**Sensor Range: Short**.
 
 **Ship's Complement:** 1 Pilot, 1 Co-Pilot, 1 Engineer, 1 Cargo Master, 6 Crew.
 
@@ -61,13 +61,13 @@ https://starwars.fandom.com/wiki/Wayfarer-class_medium_transport?so=search
 
 **Passenger Capacity:** 6
 
-More room. Tougher, slower, ALL the space tho (which could contain loot?). 
+More room. Tougher, slower, ALL the space tho (which could contain loot?).
 
 ## HWK-290
 
-https://star-wars-rpg-ffg.fandom.com/wiki/HWK-290_Light_Freighter
+https://star-wars-rpg-ffg.fandom.com/wiki/HWK-290\_Light\_Freighter
 
-https://starwars.fandom.com/wiki/HWK-290_light_freighter?so=search
+https://starwars.fandom.com/wiki/HWK-290\_light\_freighter?so=search
 
 ![](https://static.wikia.nocookie.net/starwars/images/4/49/KananJarrus-SWZ85.png/revision/latest?cb=20210304030007)
 
@@ -91,9 +91,9 @@ Smallest ship on the list, faster, more manoeuvrable, much harder to detect, and
 
 ## Starlight
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Starlight-class_Light_Freighter
+https://star-wars-rpg-ffg.fandom.com/wiki/Starlight-class\_Light\_Freighter
 
-https://starwars.fandom.com/wiki/Starlight-class_light_freighter
+https://starwars.fandom.com/wiki/Starlight-class\_light\_freighter
 
 ![](https://i.pinimg.com/originals/96/14/d5/9614d59af0b7596385f1d7d26bdcd0a3.jpg)
 
@@ -111,13 +111,13 @@ https://starwars.fandom.com/wiki/Starlight-class_light_freighter
 
 **Passenger Capacity:** 6
 
- Bigger, less zippy, slightly tougher version of the HWK with a smidge more room for storage/passengers. Also pretty. 
+Bigger, less zippy, slightly tougher version of the HWK with a smidge more room for storage/passengers. Also pretty.
 
 ## Kazellis
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Kazellis-Class_Light_Freighter
+https://star-wars-rpg-ffg.fandom.com/wiki/Kazellis-Class\_Light\_Freighter
 
-https://starwars.fandom.com/wiki/Kazellis-class_light_freighter
+https://starwars.fandom.com/wiki/Kazellis-class\_light\_freighter
 
 ![](https://vignette.wikia.nocookie.net/swse/images/3/3e/Kazellis-Class_Light_Freighter.jpg/revision/latest?cb=20200223205952)
 
@@ -141,9 +141,9 @@ pretty, bit more storage, better sensors
 
 ## Short Hauler
 
-https://star-wars-rpg-ffg.fandom.com/wiki/GX1_Short_Hauler
+https://star-wars-rpg-ffg.fandom.com/wiki/GX1\_Short\_Hauler
 
-https://starwars.fandom.com/wiki/GX1_short_hauler
+https://starwars.fandom.com/wiki/GX1\_short\_hauler
 
 ![](https://i.pinimg.com/originals/d4/99/0b/d4990bcd49829d67081863182b13af18.png)
 
@@ -163,4 +163,4 @@ https://starwars.fandom.com/wiki/GX1_short_hauler
 
 **Consumables:** 1 Month.
 
-Trading speed and handling for basically double the haulage space and the ability to get shot a bit more before stuff starts breaking. 
+Trading speed and handling for basically double the haulage space and the ability to get shot a bit more before stuff starts breaking.

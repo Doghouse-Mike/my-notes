@@ -5,7 +5,6 @@ created: 2025-06-27 20:45:45
 modified: 2026-03-19 22:50:28
 ---
 
-
 Following on from [[RPGs/SWRPG/Starting out green/Starting out Green 20250613]]
 
 # Starting out Green 20250627
@@ -44,7 +43,7 @@ McGuffin in hand, the new team fled the temple through the way they entered and,
 
 After reporting in to alliance command, warning was received of an impending riposte from the Imperials that established Whisper base.
 
-There was just enough time to grab some *brief* rest, requisition some urgent supplies, get the Sith artifact off base, and prepare to defend the alliance's latest prize.
+There was just enough time to grab some _brief_ rest, requisition some urgent supplies, get the Sith artifact off base, and prepare to defend the alliance's latest prize.
 
 Will the supplies arrive in time?
 

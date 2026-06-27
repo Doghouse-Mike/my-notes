@@ -1,8 +1,8 @@
 ---
-created: 2026-02-10 21:13:58
-modified: 2026-06-26 00:42:37
 publish: true
 title: SWRPG Session 7
+created: 2026-02-10 21:13:58
+modified: 2026-06-26 00:42:37
 ---
 
 # SWRPG Session 7
@@ -15,7 +15,7 @@ Spent some XP n that, worked out where we're at
 
 On the ship!
 
-Found 9 crates, 1 meter by 1.5, with timers on. Ship said something about destabilising in a couple weeks. 
+Found 9 crates, 1 meter by 1.5, with timers on. Ship said something about destabilising in a couple weeks.
 
 Found a donked up, shell of an astromech
 

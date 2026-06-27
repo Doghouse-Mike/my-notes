@@ -1,10 +1,11 @@
 ---
-tags: [gigs, photos]
+publish: true
+title: JD McPherson at The Bullingdon
 created: 2026-03-16 23:21:49
 modified: 2026-06-26 19:36:45
-publish: true
-published: true
-title: JD McPherson at The Bullingdon
+tags:
+  - gigs
+  - photos
 ---
 
 # JD McPherson at The Bullingdon

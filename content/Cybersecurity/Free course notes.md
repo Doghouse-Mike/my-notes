@@ -1,22 +1,22 @@
 ---
-created: 2025-12-09 21:54:16
-modified: 2026-06-26 19:34:47
 publish: true
 title: Free Course Notes
+created: 2025-12-09 21:54:16
+modified: 2026-06-26 19:34:47
 ---
 
 # Free Course Notes
 
-[Via](https://www.oxfordhomestudy.com/lms/subject.php?id=288&study-material=1) 
+[Via](https://www.oxfordhomestudy.com/lms/subject.php?id=288\&study-material=1)
 
 ## Understanding Cyber Security
 
 ### What is Cyber Security?
 
 > The term 'cyber security' refers to all safeguards and measures implemented to reduce the likelihood of
-a digital security breach
+> a digital security breach
 
-Focus on privacy, confidentially, data integrity and identity protection. 
+Focus on privacy, confidentially, data integrity and identity protection.
 
 #### Costs
 
@@ -26,16 +26,16 @@ Focus on privacy, confidentially, data integrity and identity protection.
 
 ### The Importance of Security
 
-Much business n stuff on the internet, and continues to grow. 
+Much business n stuff on the internet, and continues to grow.
 
-Protecting the *business* is not enough. We have a legal obligations to protect our *customers* too. 
+Protecting the _business_ is not enough. We have a legal obligations to protect our _customers_ too.
 
 #### Insiders And Outsiders
 
 > As far as general data security is concerned, there are two classifications of people – insiders and
-outsiders (aka employees and non-employees). Figure Intro shows the three classes of computer
-security and crime caused by each of the two types, plus a special class of threats that are not directly
-caused by humans, namely *accidents*.
+> outsiders (aka employees and non-employees). Figure Intro shows the three classes of computer
+> security and crime caused by each of the two types, plus a special class of threats that are not directly
+> caused by humans, namely _accidents_.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T183441224Z.png)
 
